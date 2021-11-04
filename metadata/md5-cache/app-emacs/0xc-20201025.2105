@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-23.1:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DEPEND=app-emacs/s
+DESCRIPTION=Base conversion made easy
+EAPI=8
+HOMEPAGE=http://github.com/AdamNiederer/0xc
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/s >=app-editors/emacs-23.1:*
+SLOT=0
+SRC_URI=https://melpa.org/packages/0xc-20201025.2105.tar
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
+_md5_=ed836b34d18e56b2fd3c5203f5d35c5b

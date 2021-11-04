@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-23.1:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DEPEND=app-emacs/clj-refactor app-emacs/discover
+DESCRIPTION=Adds discover context menu for clj-refactor
+EAPI=8
+HOMEPAGE=https://melpa.org/packages/
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/clj-refactor app-emacs/discover >=app-editors/emacs-23.1:*
+SLOT=0
+SRC_URI=https://melpa.org/packages/discover-clj-refactor-20150328.1459.el
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
+_md5_=60a27a60002bf4246c538b0f037bde9c

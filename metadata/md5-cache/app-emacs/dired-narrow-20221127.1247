@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-23.1:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DEPEND=app-emacs/dash app-emacs/dired-hacks-utils
+DESCRIPTION=Live-narrowing of search results for dired
+EAPI=8
+HOMEPAGE=https://melpa.org/packages/
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/dash app-emacs/dired-hacks-utils >=app-editors/emacs-23.1:*
+SLOT=0
+SRC_URI=https://melpa.org/packages/dired-narrow-20221127.1247.el
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
+_md5_=3bc79c7a7449ab768c56900c2410d0dc

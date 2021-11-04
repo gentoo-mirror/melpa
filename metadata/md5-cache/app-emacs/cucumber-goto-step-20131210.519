@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-23.1:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DEPEND=app-emacs/pcre2el
+DESCRIPTION=Jump to cucumber step definition
+EAPI=8
+HOMEPAGE=http://orthogonal.me
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/pcre2el >=app-editors/emacs-23.1:*
+SLOT=0
+SRC_URI=https://melpa.org/packages/cucumber-goto-step-20131210.519.el
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
+_md5_=852e3ab0cb7942b7ef75675dd11d9909

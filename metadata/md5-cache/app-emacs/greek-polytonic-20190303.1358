@@ -1,0 +1,12 @@
+BDEPEND=>=app-editors/emacs-23.1:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DESCRIPTION=Quail package for inputting polytonic Greek
+EAPI=8
+HOMEPAGE=https://github.com/jhanschoo/greek-polytonic
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=>=app-editors/emacs-23.1:*
+SLOT=0
+SRC_URI=https://melpa.org/packages/greek-polytonic-20190303.1358.el
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
+_md5_=6dbce8607cc9d880096b65bcdfdb94a1

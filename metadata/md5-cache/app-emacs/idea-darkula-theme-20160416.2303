@@ -1,0 +1,12 @@
+BDEPEND=>=app-editors/emacs-23.1:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DESCRIPTION=Color theme based on IntelliJ IDEA Darkula color theme
+EAPI=8
+HOMEPAGE=http://github.com/fourier/idea-darkula-theme
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=>=app-editors/emacs-23.1:*
+SLOT=0
+SRC_URI=https://melpa.org/packages/idea-darkula-theme-20160416.2303.el
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
+_md5_=e27afdebb4b90a7c99ab5234b2a134be

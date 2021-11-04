@@ -1,0 +1,12 @@
+BDEPEND=>=app-editors/emacs-23.1:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DESCRIPTION=multi-buffer occur (grep) mode
+EAPI=8
+HOMEPAGE=http://www.bookshelf.jp/elc/color-moccur.el
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=>=app-editors/emacs-23.1:*
+SLOT=0
+SRC_URI=https://melpa.org/packages/color-moccur-20141223.35.el
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
+_md5_=20de8f0c3df8817750fc84fc2201a882

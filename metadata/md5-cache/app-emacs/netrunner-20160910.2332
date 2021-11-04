@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-23.1:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DEPEND=app-emacs/popup app-emacs/company app-emacs/helm
+DESCRIPTION=Create Android Netrunner decklists using Company, Helm and org-mode
+EAPI=8
+HOMEPAGE=http://github.com/Kungsgeten/netrunner
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/popup app-emacs/company app-emacs/helm >=app-editors/emacs-23.1:*
+SLOT=0
+SRC_URI=https://melpa.org/packages/netrunner-20160910.2332.el
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
+_md5_=9b30cb7963346e65b99d0d49073d5bcc

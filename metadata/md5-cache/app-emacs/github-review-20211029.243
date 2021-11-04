@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-23.1:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DEPEND=app-emacs/s app-emacs/ghub app-emacs/dash app-emacs/deferred app-emacs/a
+DESCRIPTION=GitHub based code review
+EAPI=8
+HOMEPAGE=https://github.com/charignon/github-review
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/s app-emacs/ghub app-emacs/dash app-emacs/deferred app-emacs/a >=app-editors/emacs-23.1:*
+SLOT=0
+SRC_URI=https://melpa.org/packages/github-review-20211029.243.el
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
+_md5_=3be7c87eb70dd12978d9ceb3f33b2f82

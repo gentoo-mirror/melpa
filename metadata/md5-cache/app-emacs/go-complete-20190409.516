@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-23.1:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DEPEND=app-emacs/go-mode
+DESCRIPTION=Native code completion for Go
+EAPI=8
+HOMEPAGE=https://github.com/vibhavp/go-complete
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/go-mode >=app-editors/emacs-23.1:*
+SLOT=0
+SRC_URI=https://melpa.org/packages/go-complete-20190409.516.el
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
+_md5_=6a7f0a7d18e465d2e1d388a9591b1609
