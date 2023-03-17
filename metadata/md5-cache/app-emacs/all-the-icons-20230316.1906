@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/citar app-emacs/denote app-emacs/dash
-DESCRIPTION=Minor mode to integrate Citar and Denote
+DESCRIPTION=A library for inserting Developer icons
 EAPI=8
-HOMEPAGE=https://github.com/pprevos/citar-denote
+HOMEPAGE=https://github.com/domtronn/all-the-icons.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/citar app-emacs/denote app-emacs/dash >=app-editors/emacs-23.1:*
+RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/citar-denote-20230313.1000.el
+SRC_URI=https://melpa.org/packages/all-the-icons-20230316.1906.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
-_md5_=a830bb151af2c9f668ee946973358600
+_md5_=194b92348de281415672b3e026d59838

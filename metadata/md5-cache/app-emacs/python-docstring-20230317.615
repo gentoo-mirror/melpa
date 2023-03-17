@@ -1,12 +1,12 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=Green-on-black dark theme inspired by The Matrix movie
+DESCRIPTION=Smart Python docstring formatting
 EAPI=8
-HOMEPAGE=https://github.com/monkeyjunglejuice/matrix-emacs-theme
+HOMEPAGE=https://melpa.org/packages/
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/the-matrix-theme-20221025.916.el
+SRC_URI=https://melpa.org/packages/python-docstring-20230317.615.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
-_md5_=1901a247ded0dcd9fbdb530756881d12
+_md5_=0394960c1124651cfc9b30a6f91b6bc7
