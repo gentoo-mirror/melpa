@@ -1,12 +1,12 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=Extensible framework for multiple major modes
+DESCRIPTION=Automatically use tree-sitter enhanced major modes
 EAPI=8
-HOMEPAGE=https://github.com/polymode/polymode
+HOMEPAGE=https://github.com/renzmann/treesit-auto.git
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/polymode-20220820.1630.tar
+SRC_URI=https://melpa.org/packages/treesit-auto-20230317.1253.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
-_md5_=50cea655c1691a67c98625ad55cfec52
+_md5_=a8546608960ddeea093aaf075fbc1f4c

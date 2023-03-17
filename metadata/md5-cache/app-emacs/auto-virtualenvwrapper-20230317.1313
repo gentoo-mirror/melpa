@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/goto-chg
-DESCRIPTION=Extensible Vi layer for Emacs.
+DEPEND=app-emacs/s app-emacs/virtualenvwrapper
+DESCRIPTION=Lightweight auto activate python virtualenvs
 EAPI=8
-HOMEPAGE=https://github.com/emacs-evil/evil
+HOMEPAGE=https://melpa.org/packages/
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/goto-chg >=app-editors/emacs-23.1:*
+RDEPEND=app-emacs/s app-emacs/virtualenvwrapper >=app-editors/emacs-23.1:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/evil-20230304.949.tar
+SRC_URI=https://melpa.org/packages/auto-virtualenvwrapper-20230317.1313.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
-_md5_=bde779cd0a09997aafcf04be8d6c7404
+_md5_=d13c264acb5fce1b049133ac474dbd4f
