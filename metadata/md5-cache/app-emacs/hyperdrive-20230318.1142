@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-23.1:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DEPEND=app-emacs/map app-emacs/compat app-emacs/plz app-emacs/persist
+DESCRIPTION=Emacs gateway to the Hypercore network
+EAPI=8
+HOMEPAGE=https://git.sr.ht/~ushin/hyperdrive.el
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/map app-emacs/compat app-emacs/plz app-emacs/persist >=app-editors/emacs-23.1:*
+SLOT=0
+SRC_URI=https://melpa.org/packages/hyperdrive-20230318.1142.tar
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
+_md5_=f1c0506aab54d5ddb77622baf1828a7a
