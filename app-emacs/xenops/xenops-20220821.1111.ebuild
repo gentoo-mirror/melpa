@@ -18,13 +18,13 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/aio
+DEPEND="app-emacs/emacs-aio
 	app-emacs/auctex
 	app-emacs/avy
 	app-emacs/dash
 	app-emacs/f
 	app-emacs/s"
-RDEPEND="app-emacs/aio
+RDEPEND="app-emacs/emacs-aio
 	app-emacs/auctex
 	app-emacs/avy
 	app-emacs/dash

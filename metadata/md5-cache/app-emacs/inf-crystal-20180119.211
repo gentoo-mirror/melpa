@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/crystal-mode
+DEPEND=app-emacs/emacs-crystal-mode
 DESCRIPTION=Run a Inferior-Crystal process in a buffer
 EAPI=8
 HOMEPAGE=https://github.com/brantou/inf-crystal.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/crystal-mode >=app-editors/emacs-23.1:*
+RDEPEND=app-emacs/emacs-crystal-mode >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/inf-crystal-20180119.211.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
-_md5_=be9161ade1d521b31173aaf0d15814ce
+_md5_=39b63db1f2cf3512edb92b979b2ba731

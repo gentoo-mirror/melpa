@@ -27,7 +27,7 @@ DEPEND="app-emacs/org-mode
 	app-emacs/avy
 	app-emacs/parsebib
 	app-emacs/bibtex-completion
-	app-emacs/citeproc
+	app-emacs/citeproc-el
 	app-emacs/ox-pandoc"
 RDEPEND="app-emacs/org-mode
 	app-emacs/dash
@@ -38,5 +38,5 @@ RDEPEND="app-emacs/org-mode
 	app-emacs/avy
 	app-emacs/parsebib
 	app-emacs/bibtex-completion
-	app-emacs/citeproc
+	app-emacs/citeproc-el
 	app-emacs/ox-pandoc"
