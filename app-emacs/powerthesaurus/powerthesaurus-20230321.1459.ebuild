@@ -5,22 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="single"
-REALNAME="magit-circleci"
+REALNAME="powerthesaurus"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="CircleCI integration for Magit"
+DESCRIPTION="Powerthesaurus integration"
 
-HOMEPAGE="https://github.com/abrochard/magit-circleci"
+HOMEPAGE="http://github.com/SavchenkoValeriy/emacs-powerthesaurus"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/dash
-	app-emacs/transient
-	app-emacs/magit"
-RDEPEND="app-emacs/dash
-	app-emacs/transient
-	app-emacs/magit"
+DEPEND="app-emacs/jeison"
+RDEPEND="app-emacs/jeison"

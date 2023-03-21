@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/compat
-DESCRIPTION=Conveniently act on minibuffer completions
+DEPEND=app-emacs/s app-emacs/dash
+DESCRIPTION=NumPy style docstring insertion
 EAPI=8
-HOMEPAGE=https://github.com/oantolin/embark
+HOMEPAGE=https://github.com/douglasdavis/numpydoc.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/compat >=app-editors/emacs-23.1:*
+RDEPEND=app-emacs/s app-emacs/dash >=app-editors/emacs-23.1:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/embark-20230313.1943.tar
+SRC_URI=https://melpa.org/packages/numpydoc-20230320.1439.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=2d411def0d2b02f1ee96ba4d692bc91b
+_md5_=3af37d81fe2400c0b0849b5b86f70462
