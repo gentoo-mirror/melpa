@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/autothemer
-DESCRIPTION=A set of eye pleasing themes
+DESCRIPTION=major mode for fbthrift and Apache Thrift files
 EAPI=8
-HOMEPAGE=https://github.com/ogdenwebb/emacs-kaolin-themes
+HOMEPAGE=https://melpa.org/packages/
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/autothemer >=app-editors/emacs-23.1:*
+RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/kaolin-themes-20230313.1916.tar
+SRC_URI=https://melpa.org/packages/thrift-20230319.2008.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=8355f815fca6a33aeeb399895ac5f5a3
+_md5_=e2d41cf3cef4325e740c9208179b90d0
