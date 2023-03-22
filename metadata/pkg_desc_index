@@ -528,7 +528,7 @@ app-emacs/circleci-api 20210227.1607: Bindings for the CircleCI API
 app-emacs/citar 20230321.1501: Citation-related commands for org, latex, markdown
 app-emacs/citar-denote 20230322.844: Minor mode to integrate Citar and Denote
 app-emacs/citar-embark 20230321.1501: CitarEmbark integration
-app-emacs/citar-org-roam 20230322.1106: Citarorg-roam integration
+app-emacs/citar-org-roam 20230322.1941: Citarorg-roam integration
 app-emacs/citeproc-el 20230228.1414: A CSL 1.0.2 Citation Processor
 app-emacs/citeproc-org 20200915.2009: Render org-mode references in CSL styles
 app-emacs/citre 20230217.1202: Ctags IDE on the True Editor
@@ -846,7 +846,7 @@ app-emacs/dakrone-light-theme 20170808.2140: dakrones custom light theme
 app-emacs/dakrone-theme 20170801.1933: dakrones custom dark theme
 app-emacs/danneskjold-theme 20221121.634: Beautiful high-contrast Emacs theme.
 app-emacs/dante 20221116.840: Development mode for Haskell
-app-emacs/dap-mode 20230226.1910: Debug Adapter Protocol mode
+app-emacs/dap-mode 20230322.1728: Debug Adapter Protocol mode
 app-emacs/darcsum 20190316.2215: a pcl-cvs like interface for managing darcs patches
 app-emacs/darcula-theme 20171227.1845: Inspired by IntelliJs Darcula theme
 app-emacs/dark-krystal-theme 20170808.1300: an Emacs 24 theme based on Dark Krystal (tmTheme)
@@ -1413,7 +1413,7 @@ app-emacs/evalator 20160213.128: Package for interactive transformation of data 
 app-emacs/evalator-clojure 20160208.2148: Clojure evaluation context for evalator via CIDER.
 app-emacs/eve-mode 20170822.2231: Major mode for editing Eve documents.
 app-emacs/everlasting-scratch 20230105.507: The scratch that lasts forever
-app-emacs/evil 20230317.1043: Extensible Vi layer for Emacs.
+app-emacs/evil 20230322.1818: Extensible Vi layer for Emacs.
 app-emacs/evil-anzu 20220911.1939: anu for evil-mode
 app-emacs/evil-args 20220125.1626: Motions and text objects for delimited arguments in Evil.
 app-emacs/evil-avy 20150908.748: set-based completion
@@ -2119,7 +2119,7 @@ app-emacs/hal-mode 20160704.1746: Major mode for editing HAL files
 app-emacs/ham-mode 20150811.1306: Html As Markdown. Transparently edit an html file using markdown
 app-emacs/hamburg-theme 20160123.740: Color Theme with a dark blue background.
 app-emacs/hamburger-menu 20220509.1341: Mode line hamburger menu
-app-emacs/haml-mode 20190219.2102: Major mode for editing Haml files
+app-emacs/haml-mode 20230322.1744: Major mode for editing Haml files
 app-emacs/hamlet-mode 20131208.724: Hamlet editing mode
 app-emacs/hammy 20221106.2041: Programmable, interactive interval timers
 app-emacs/handle 20191029.856: A handle for major-mode generic functions.
@@ -2434,7 +2434,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20230322.151: Emacs gateway to the Hypercore network
+app-emacs/hyperdrive 20230322.2051: Emacs gateway to the Hypercore network
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20210603.1825: Get there from here
@@ -2731,7 +2731,7 @@ app-emacs/kana 20210531.1427: Learn Japanese hiragana and katakana
 app-emacs/kanban 20230206.2131: Parse org-todo headlines to use org-tables as Kanban tables
 app-emacs/kanji-mode 20160826.1139: View stroke order for kanji characters at cursor
 app-emacs/kaocha-runner 20190904.1950: A package for running Kaocha tests via CIDER.
-app-emacs/kaolin-themes 20230313.1916: A set of eye pleasing themes
+app-emacs/kaolin-themes 20230322.2011: A set of eye pleasing themes
 app-emacs/kaomoji 20220721.441: Input kaomoji superb easily
 app-emacs/kapacitor 20190414.1908: Main file for kapacitor-mode
 app-emacs/karma 20160220.1245: Karma Test Runner Emacs Integration
@@ -3309,7 +3309,7 @@ app-emacs/naysayer-theme 20200405.123: The naysayer color theme
 app-emacs/ncl-mode 20180129.703: Major Mode for editing NCL scripts and other goodies
 app-emacs/nclip 20130617.2015: Network (HTTP) Clipboard
 app-emacs/neato-graph-bar 20181130.1649: Neat-o graph bars CPUmemory etc.
-app-emacs/neil 20230309.954: companion for Babashka Neil
+app-emacs/neil 20230322.2035: companion for Babashka Neil
 app-emacs/nemerle 20161029.2023: major mode for editing nemerle programs
 app-emacs/neon-mode 20180406.1156: Simple major mode for editing neon files
 app-emacs/neotree 20200324.1946: A tree plugin like NerdTree for Vim
@@ -3882,7 +3882,7 @@ app-emacs/pcsv 20230207.757: Parser of csv
 app-emacs/pd-remote 20230314.428: Pd remote control helper
 app-emacs/pdb-capf 20200419.1237: Completion-at-point function for python debugger
 app-emacs/pdb-mode 20150128.1751: Major mode for editing Protein Data Bank files
-app-emacs/pdf-tools 20230117.632: Support library for PDF documents
+app-emacs/pdf-tools 20230322.1541: Support library for PDF documents
 app-emacs/pdf-view-restore 20190904.1708: Support for opening last known pdf position in pdfview mode
 app-emacs/pdfgrep 20210203.1730: run pdfgrep and display the results.
 app-emacs/peacock-theme 20170808.1320: an Emacs 24 theme based on Peacock (tmTheme)
@@ -4790,7 +4790,7 @@ app-emacs/symbol-navigation-hydra 20211010.2353: A symbol-aware, range-aware hyd
 app-emacs/symbol-overlay 20230117.1227: Highlight symbols with keymap-enabled overlays
 app-emacs/symbolist 20211107.1615: List and interactively unbind Emacs Lisp symbols
 app-emacs/symbolword-mode 20180401.1427: modify word split
-app-emacs/symex 20230322.332: An evil way to edit Lisp symbolic expressions as trees
+app-emacs/symex 20230322.2003: An evil way to edit Lisp symbolic expressions as trees
 app-emacs/symon 20170224.833: tiny graphical system monitor
 app-emacs/symon-lingr 20150719.1342: A notification-based Lingr client powered by symon.el
 app-emacs/sync-recentf 20160326.2001: Synchronie the recent files list between Emacs instances
@@ -4891,7 +4891,7 @@ app-emacs/thingopt 20160520.2318: Thing at Point optional utilities
 app-emacs/thinks 20170802.1128: Insert text in a think bubble.
 app-emacs/thread-dump 20170816.1850: Java thread dump viewer
 app-emacs/threes 20160820.1242: A clone of Threes (a tiny pule game)
-app-emacs/thrift 20230222.2028: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 20230319.2008: major mode for fbthrift and Apache Thrift files
 app-emacs/thumb-through 20120119.534: Plain text reader of HTML documents
 app-emacs/tickscript-mode 20171219.203: A major mode for Tickscript files
 app-emacs/tidal 20230312.1245: Interact with TidalCycles for live coding patterns
