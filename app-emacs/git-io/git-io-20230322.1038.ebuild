@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="git.io integration"
+DESCRIPTION="Integration for git.io URL shortening in buffer"
 
 HOMEPAGE="https://github.com/tejasbubane/emacs-git-io"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

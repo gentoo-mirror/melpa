@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/fringe-helper
-DESCRIPTION=Brf-mode provides features from the legendary editor Brief
+DESCRIPTION=A dark theme thats pretty sad -- lexical-binding t -
 EAPI=8
-HOMEPAGE=https://bitbucket.org/MikeWoolley/brf-mode
+HOMEPAGE=https://gitlab.com/baaash/melancholy-theme
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/fringe-helper >=app-editors/emacs-23.1:*
+RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/brf-20230217.1851.tar
+SRC_URI=https://melpa.org/packages/melancholy-theme-20230322.320.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=9ffde676c7828748436d9a29ba4dfc4a
+_md5_=abd8738d18bcf9e25a9e7b1881bb0e0f
