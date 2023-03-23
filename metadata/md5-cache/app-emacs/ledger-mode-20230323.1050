@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/dash app-emacs/s app-emacs/f app-emacs/elisp-refs
-DESCRIPTION=A better help buffer
+DESCRIPTION=Helper code for use with the ledger command-line tool
 EAPI=8
-HOMEPAGE=https://github.com/Wilfred/helpful
+HOMEPAGE=https://melpa.org/packages/
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/dash app-emacs/s app-emacs/f app-emacs/elisp-refs >=app-editors/emacs-23.1:*
+RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/helpful-20221209.1743.el
+SRC_URI=https://melpa.org/packages/ledger-mode-20230323.1050.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=3ca68a5b9d1d1275e8802eebd1bf47b2
+_md5_=7fbc6449f16af78fe7faa4ec5d6dae57

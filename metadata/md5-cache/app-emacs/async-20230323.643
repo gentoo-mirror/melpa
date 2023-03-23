@@ -1,12 +1,12 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=A basic TMSU interface
+DESCRIPTION=Asynchronous processing in Emacs
 EAPI=8
-HOMEPAGE=https://github.com/vifon/tmsu.el
+HOMEPAGE=https://github.com/jwiegley/emacs-async
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/tmsu-20230308.1935.tar
+SRC_URI=https://melpa.org/packages/async-20230323.643.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=9c26ff207344466b7b55fcbf9279de0c
+_md5_=ca153bae70b78e70a05e9fae57e3cbdd
