@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=Major-mode and interactive frontend for gnuplot
+DEPEND=app-emacs/alert app-emacs/async app-emacs/dash
+DESCRIPTION=Customiable org-agenda notifications
 EAPI=8
-HOMEPAGE=https://github.com/emacs-gnuplot/gnuplot
+HOMEPAGE=https://github.com/akhramov/org-wild-notifier.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-23.1:*
+RDEPEND=app-emacs/alert app-emacs/async app-emacs/dash >=app-editors/emacs-23.1:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/gnuplot-20230224.926.tar
+SRC_URI=https://melpa.org/packages/org-wild-notifier-20230323.920.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=d041f67ea0606eafd5f679e92a2627f1
+_md5_=00d515bcf44a43c8a7f62c5534532b34
