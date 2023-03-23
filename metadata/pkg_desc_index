@@ -471,7 +471,7 @@ app-emacs/centered-cursor-mode 20200507.1529: cursor stays vertically centered
 app-emacs/centered-window 20220125.804: Center the text when theres only one window
 app-emacs/centimacro 20201225.1132: Assign multiple macros as global key bindings
 app-emacs/cerbere 20181113.1641: Unit testing in Emacs for several programming languages
-app-emacs/cern-ldap 20230321.1439: Library to interact with CERNs LDAP servers
+app-emacs/cern-ldap 20230323.1244: Library to interact with CERNs LDAP servers
 app-emacs/cern-root-mode 20220905.2016: Major-mode for running C++ code with ROOT
 app-emacs/ceylon-mode 20180606.1324: Major mode for editing Ceylon source code
 app-emacs/cfengine-code-style 20171111.1027: C code style for CFEngine project.
@@ -525,10 +525,10 @@ app-emacs/circadian 20221223.1734: Theme-switching based on daytime
 app-emacs/circe 20221126.1508: Client for IRC in Emacs
 app-emacs/circe-notifications 20180102.2318: Add desktop notifications to Circe.
 app-emacs/circleci-api 20210227.1607: Bindings for the CircleCI API
-app-emacs/citar 20230322.2324: Citation-related commands for org, latex, markdown
+app-emacs/citar 20230323.1357: Citation-related commands for org, latex, markdown
 app-emacs/citar-denote 20230322.844: Minor mode to integrate Citar and Denote
 app-emacs/citar-embark 20230321.1501: CitarEmbark integration
-app-emacs/citar-org-roam 20230322.1941: Citarorg-roam integration
+app-emacs/citar-org-roam 20230323.1406: Citarorg-roam integration
 app-emacs/citeproc-el 20230228.1414: A CSL 1.0.2 Citation Processor
 app-emacs/citeproc-org 20200915.2009: Render org-mode references in CSL styles
 app-emacs/citre 20230217.1202: Ctags IDE on the True Editor
@@ -578,7 +578,7 @@ app-emacs/clues-theme 20161213.1127: an Emacs 24 theme which may well be fully a
 app-emacs/cm-mode 20170203.2107: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 20230304.2223: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 20210610.1525: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 20230314.1404: major-mode for editing CMake sources
+app-emacs/cmake-mode 20230323.1312: major-mode for editing CMake sources
 app-emacs/cmake-project 20171121.1115: Integrates CMake build process with Emacs
 app-emacs/cmd-to-echo 20161203.2133: Show the output of long-running commands in the echo area
 app-emacs/cmm-mode 20150225.746: Major mode for C-- source code
@@ -1239,7 +1239,7 @@ app-emacs/elpa-audit 20141023.1331: Handy functions for inspecting and comparing
 app-emacs/elpa-clone 20221201.1227: Clone ELPA archive
 app-emacs/elpa-deploy 20191022.718: ELPA deployment library
 app-emacs/elpa-mirror 20230208.1148: Create local package repository from installed packages
-app-emacs/elpher 20220809.253: A friendly gopher and gemini client
+app-emacs/elpher 20230323.1254: A friendly gopher and gemini client
 app-emacs/elpl 20220328.316: Emacs Lisp REPL
 app-emacs/elpy 20220922.2253: Emacs Python Development Environment
 app-emacs/elpygen 20171225.1736: Generate a Python functionmethod using a symbol under point
@@ -1990,7 +1990,7 @@ app-emacs/gnomenm 20150316.1918: Emacs interface to Gnome nmcli command
 app-emacs/gntp 20141025.250: Growl Notification Protocol for Emacs
 app-emacs/gnu-apl-mode 20220404.341: Integrate GNU APL with Emacs
 app-emacs/gnu-indent 20221127.2112: Indent your code with GNU Indent
-app-emacs/gnuplot 20230224.926: Major-mode and interactive frontend for gnuplot
+app-emacs/gnuplot 20230323.1400: Major-mode and interactive frontend for gnuplot
 app-emacs/gnuplot-mode 20171013.1616: Major mode for editing gnuplot scripts
 app-emacs/gnus-alias 20150316.42: an alternative to gnus-posting-styles
 app-emacs/gnus-desktop-notify 20180623.1538: Gnus Desktop Notification global minor mode
@@ -3076,7 +3076,7 @@ app-emacs/marquee-header 20221230.1008: Code interface for displaying marquee in
 app-emacs/marshal 20201223.1853: eieio extension for automatic (un)marshalling
 app-emacs/maruo-macro-mode 20160616.1349: Major mode for editing HidemaruMaruo macro script
 app-emacs/masm-mode 20200308.1450: MASM x86 and x64 assembly major mode
-app-emacs/mastodon 20230323.837: Client for Mastodon, a federated social network
+app-emacs/mastodon 20230323.1411: Client for Mastodon, a federated social network
 app-emacs/material-theme 20210904.1226: A Theme based on the colors of the Google Material Design
 app-emacs/math-preview 20220830.1740: Preview TeX math equations inline
 app-emacs/math-symbol-lists 20220828.2047: Lists of Unicode math symbols and latex commands
@@ -3349,7 +3349,7 @@ app-emacs/nndiscourse 20220210.1529: Gnus backend for Discourse
 app-emacs/nnhackernews 20230222.1441: Gnus backend for Hacker News
 app-emacs/nnir-est 20180710.2103: Gnus nnir interface for HyperEstraier
 app-emacs/nnreddit 20220423.2302: Gnus Backend For Reddit
-app-emacs/nntwitter 20220213.1654: Gnus Backend For Twitter
+app-emacs/nntwitter 20230323.1458: Gnus Backend For Twitter
 app-emacs/no-clown-fiesta-theme 20230220.1019: Not-so-colorful-theme
 app-emacs/no-emoji 20180515.1837: Show emoji-name instead of emoji characters
 app-emacs/no-littering 20230220.1519: Help keeping .emacs.d clean
@@ -3703,7 +3703,7 @@ app-emacs/org-view-mode 20221208.327: Read-only viewer with less markup clutter 
 app-emacs/org-visibility 20220929.1415: Persistent org tree visibility
 app-emacs/org-wc 20200731.2244: Count words in org mode trees.
 app-emacs/org-web-tools 20201212.1058: Display and capture web content with Org-mode
-app-emacs/org-wild-notifier 20230211.2354: Customiable org-agenda notifications
+app-emacs/org-wild-notifier 20230323.920: Customiable org-agenda notifications
 app-emacs/org-working-set 20220414.1402: Manage and visit a small set of org-nodes.
 app-emacs/org-wunderlist 20191017.1917: Org sync with Wunderlist
 app-emacs/org-zettelkasten 20230108.1326: A ettelkasten mode leveraging Org
