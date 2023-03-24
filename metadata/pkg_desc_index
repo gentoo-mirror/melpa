@@ -145,7 +145,7 @@ app-emacs/aozora-view 20140310.1317: Aoora Bunko text Emacs viewer.
 app-emacs/apache-mode 20210519.1931: Major mode for editing Apache httpd configuration files
 app-emacs/apdl-mode 20211023.1831: Major mode for the APDL programming language.
 app-emacs/apel 20220720.1308: A Portable Emacs Library provides support for portable Emacs Lisp programs
-app-emacs/apheleia 20230312.1050: Reformat buffer stably
+app-emacs/apheleia 20230323.2100: Reformat buffer stably
 app-emacs/apib-mode 20200101.1017: Major mode for API Blueprint files
 app-emacs/apiwrap 20180602.2231: api-wrapping macros
 app-emacs/apparmor-mode 20230209.2325: Major mode for editing AppArmor policy files
@@ -525,10 +525,10 @@ app-emacs/circadian 20221223.1734: Theme-switching based on daytime
 app-emacs/circe 20221126.1508: Client for IRC in Emacs
 app-emacs/circe-notifications 20180102.2318: Add desktop notifications to Circe.
 app-emacs/circleci-api 20210227.1607: Bindings for the CircleCI API
-app-emacs/citar 20230323.1357: Citation-related commands for org, latex, markdown
+app-emacs/citar 20230323.1926: Citation-related commands for org, latex, markdown
 app-emacs/citar-denote 20230322.844: Minor mode to integrate Citar and Denote
-app-emacs/citar-embark 20230321.1501: CitarEmbark integration
-app-emacs/citar-org-roam 20230323.1406: Citarorg-roam integration
+app-emacs/citar-embark 20230323.1926: CitarEmbark integration
+app-emacs/citar-org-roam 20230323.1929: Citarorg-roam integration
 app-emacs/citeproc-el 20230228.1414: A CSL 1.0.2 Citation Processor
 app-emacs/citeproc-org 20200915.2009: Render org-mode references in CSL styles
 app-emacs/citre 20230217.1202: Ctags IDE on the True Editor
@@ -1275,7 +1275,7 @@ app-emacs/emacsshot 20191206.944: Snapshot a frame or window from within
 app-emacs/emamux 20200315.1220: Interact with tmux
 app-emacs/emamux-ruby-test 20130812.1639: Ruby test with emamux
 app-emacs/emaps 20200508.1759: Utilities for working with keymaps
-app-emacs/embark 20230321.1407: Conveniently act on minibuffer completions
+app-emacs/embark 20230323.2344: Conveniently act on minibuffer completions
 app-emacs/embark-consult 20230320.1442: Consult integration for Embark
 app-emacs/embark-vc 20230212.1920: Embark actions for various version control integrations
 app-emacs/ember-mode 20200208.1423: Ember navigation mode for emacs
@@ -2059,7 +2059,7 @@ app-emacs/govet 20170808.1724: linterproblem finder for the Go source code
 app-emacs/gpastel 20181229.1404: Integrates GPaste with the kill-ring
 app-emacs/gpt 20230204.433: Run instruction-following language models
 app-emacs/gptai 20230318.1547: Integrate with the OpenAI API
-app-emacs/gptel 20230323.243: A simple ChatGPT client
+app-emacs/gptel 20230323.2134: A simple ChatGPT client
 app-emacs/grab-mac-link 20210511.1303: Grab link from Mac Apps and insert it into Emacs
 app-emacs/grab-x-link 20191113.848: Grab links from X11 apps and insert into Emacs
 app-emacs/gradle-mode 20150313.1905: Gradle integration with Emacs compile
@@ -2434,7 +2434,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20230322.2215: Emacs gateway to the Hypercore network
+app-emacs/hyperdrive 20230323.2254: Emacs gateway to the Hypercore network
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20210603.1825: Get there from here
@@ -2916,7 +2916,7 @@ app-emacs/literate-elisp 20220626.932: Load Emacs Lisp code blocks from Org file
 app-emacs/litex-mode 20221107.147: Minor mode for converting lisp to LaTeX
 app-emacs/live-code-talks 20180907.1647: Support for slides with live code in them
 app-emacs/live-preview 20201010.1948: Live preview by any shell command while editing
-app-emacs/live-py-mode 20230320.2347: Live Coding in Python
+app-emacs/live-py-mode 20230323.1956: Live Coding in Python
 app-emacs/lively 20171005.754: interactively updating text
 app-emacs/livereload 20170629.650: Livereload server
 app-emacs/livescript-mode 20221015.1316: Major mode for editing LiveScript files
@@ -3007,7 +3007,7 @@ app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20180219.1552: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-mode 20230103.1503: mode for editing Magik + some utils.
-app-emacs/magit 20230319.2325: A Git porcelain inside Emacs.
+app-emacs/magit 20230323.1801: A Git porcelain inside Emacs.
 app-emacs/magit-annex 20230319.2103: Control git-annex from Magit
 app-emacs/magit-commit-mark 20230214.1821: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3076,7 +3076,7 @@ app-emacs/marquee-header 20221230.1008: Code interface for displaying marquee in
 app-emacs/marshal 20201223.1853: eieio extension for automatic (un)marshalling
 app-emacs/maruo-macro-mode 20160616.1349: Major mode for editing HidemaruMaruo macro script
 app-emacs/masm-mode 20200308.1450: MASM x86 and x64 assembly major mode
-app-emacs/mastodon 20230323.1411: Client for Mastodon, a federated social network
+app-emacs/mastodon 20230323.2225: Client for Mastodon, a federated social network
 app-emacs/material-theme 20210904.1226: A Theme based on the colors of the Google Material Design
 app-emacs/math-preview 20220830.1740: Preview TeX math equations inline
 app-emacs/math-symbol-lists 20220828.2047: Lists of Unicode math symbols and latex commands
@@ -3594,7 +3594,7 @@ app-emacs/org-inline-anim 20211101.413: Inline playback of animated GIFPNG for O
 app-emacs/org-inline-pdf 20221029.751: Inline PDF previewing for Org
 app-emacs/org-iv 20171001.1022: a tool used to view html (in browser) generated by org-file once the org-file changes
 app-emacs/org-ivy-search 20230222.514: Full text search for org files powered by ivy
-app-emacs/org-jira 20230228.1619: Syncing between Jira and Org-mode.
+app-emacs/org-jira 20230323.2352: Syncing between Jira and Org-mode.
 app-emacs/org-journal 20230309.1240: a simple org-mode based journaling mode
 app-emacs/org-journal-list 20190221.2052: Org mode Journal List
 app-emacs/org-journal-tags 20230105.1937: Tagging and querying system for org-journal
@@ -4317,7 +4317,7 @@ app-emacs/revert-buffer-all 20230109.536: Revert all open buffers
 app-emacs/review-mode 20220817.1010: major mode for ReVIEW
 app-emacs/reykjavik-theme 20201219.947: Theme with a dark background.
 app-emacs/rfc-mode 20230307.937: RFC document browser and viewer
-app-emacs/rg 20230318.1152: A search tool based on ripgrep
+app-emacs/rg 20230323.1807: A search tool based on ripgrep
 app-emacs/rgb 20220717.1940: RGB control via OpenRGB
 app-emacs/rhq 20220916.1632: Client for rhq
 app-emacs/rhtml-mode 20130422.1311: major mode for editing RHTML files
@@ -4701,7 +4701,7 @@ app-emacs/squirrel-mode 20221227.232: A major mode for the Squirrel programming 
 app-emacs/sr-speedbar 20161025.831: Same frame speedbar
 app-emacs/srcery-theme 20210601.1247: Dark color theme
 app-emacs/srefactor 20180703.1810: A refactoring tool based on Semantic parser framework
-app-emacs/srfi 20230228.2212: Scheme Requests for Implementation browser
+app-emacs/srfi 20230324.2: Scheme Requests for Implementation browser
 app-emacs/srv 20180715.1959: perform SRV DNS requests
 app-emacs/ssass-mode 20200211.132: Edit Sass without a Turing Machine
 app-emacs/ssh 20120904.2042: Support for remote logins using ssh.
