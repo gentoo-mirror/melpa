@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/map app-emacs/compat app-emacs/plz app-emacs/persist
-DESCRIPTION=P2P filesystem in Emacs
+DEPEND=app-emacs/tempel
+DESCRIPTION=Collection of templates for Tempel
 EAPI=8
-HOMEPAGE=https://git.sr.ht/~ushin/hyperdrive.el
+HOMEPAGE=https://github.com/Crandel/tempel-collection
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/map app-emacs/compat app-emacs/plz app-emacs/persist >=app-editors/emacs-23.1:*
+RDEPEND=app-emacs/tempel >=app-editors/emacs-23.1:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/hyperdrive-20230324.352.tar
+SRC_URI=https://melpa.org/packages/tempel-collection-20230324.941.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=b1978562e130b5696050a66ad24ca162
+_md5_=b7b9d1737bf2ad41a8efaecd308f98ee
