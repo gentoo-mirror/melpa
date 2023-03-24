@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs gateway to the Hypercore network"
+DESCRIPTION="P2P filesystem in Emacs"
 
 HOMEPAGE="https://git.sr.ht/~ushin/hyperdrive.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
