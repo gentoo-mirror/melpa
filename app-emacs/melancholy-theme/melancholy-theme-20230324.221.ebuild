@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A dark theme thats pretty sad -- lexical-binding t -"
+DESCRIPTION="A dark theme thats pretty sad  -- lexical-binding t -"
 
 HOMEPAGE="https://gitlab.com/baaash/melancholy-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
