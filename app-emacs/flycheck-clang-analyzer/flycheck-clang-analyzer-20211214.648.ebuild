@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Integrate Clang Analyer with flycheck"
+DESCRIPTION="Integrate Clang Analyzer with flycheck"
 
 HOMEPAGE="https://github.com/alexmurray/flycheck-clang-analyzer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

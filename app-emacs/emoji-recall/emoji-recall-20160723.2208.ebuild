@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="How many emoji can you recall from memory"
+DESCRIPTION="How many emoji can you recall from memory?"
 
 HOMEPAGE="https://github.com/lujun9972/emoji-recall.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

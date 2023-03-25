@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Org-Babel F"
+DESCRIPTION="Org-Babel F#"
 
 HOMEPAGE="https://github.com/juergenhoetzel/ob-fsharp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

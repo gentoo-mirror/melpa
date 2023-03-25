@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Keystroke visualier"
+DESCRIPTION="Keystroke visualizer"
 
 HOMEPAGE="https://github.com/chuntaro/emacs-keypression"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

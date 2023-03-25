@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Rahuls Org-Mode Screenshot"
+DESCRIPTION="Rahul's Org-Mode Screenshot"
 
 HOMEPAGE="https://github.com/LionyxML/ros"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

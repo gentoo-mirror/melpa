@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="analye source code based on font-lock text-properties"
+DESCRIPTION="analyze source code based on font-lock text-properties"
 
 HOMEPAGE="http://www.emacswiki.org/emacs/download/simple-call-tree.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

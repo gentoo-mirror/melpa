@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Use cinspect to look at the CPython source of builtins and other C objects"
+DESCRIPTION="Use cinspect to look at the CPython source of builtins and other C objects!"
 
 HOMEPAGE="https://github.com/inlinestyle/cinspect-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

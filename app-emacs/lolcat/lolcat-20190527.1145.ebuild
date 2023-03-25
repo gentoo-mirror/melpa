@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Rainbows and unicorns"
+DESCRIPTION="Rainbows and unicorns!"
 
 HOMEPAGE="https://github.com/xuchunyang/lolcat.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

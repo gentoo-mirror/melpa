@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Add Clolye to to flycheck"
+DESCRIPTION="Add Clolyze to to flycheck"
 
 HOMEPAGE="https://github.com/DLaps/flycheck-clolyze"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

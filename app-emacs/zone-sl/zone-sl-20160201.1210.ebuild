@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="one out with steam locomotives."
+DESCRIPTION="Zone out with steam locomotives."
 
 HOMEPAGE="https://github.com/kawabata/zone-sl"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

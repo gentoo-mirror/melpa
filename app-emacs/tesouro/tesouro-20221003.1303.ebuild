@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Brailian Portuguese synonym search in dicio.com.br"
+DESCRIPTION="Brazilian Portuguese synonym search in dicio.com.br"
 
 HOMEPAGE="https://github.com/rberaldo/tesouro.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

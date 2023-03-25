@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A theme that looks like an inverse of Acmes color scheme."
+DESCRIPTION="A theme that looks like an inverse of Acme's color scheme."
 
 HOMEPAGE="http://github.com/dcjohnson/inverse-acme-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

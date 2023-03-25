@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/projectile app-emacs/s app-emacs/ghub app-emacs/bitbucket
-DESCRIPTION=Get issues list when typing Fixes
+DESCRIPTION=Get issues list when typing "Fixes #"
 EAPI=8
 HOMEPAGE=https://gitlab.com/emacs-stuff/git-commit-insert-issue/
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/projectile app-emacs/s app-emacs/ghub app-emacs/bitbucket >=ap
 SLOT=0
 SRC_URI=https://melpa.org/packages/git-commit-insert-issue-20230314.1504.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=596d6c568620fa1e21e852ee15e0a026
+_md5_=69ae0bdbb7f1e0343a5a6a631b4257a0

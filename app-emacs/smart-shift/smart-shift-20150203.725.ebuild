@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Smart shift text leftright."
+DESCRIPTION="Smart shift text left/right."
 
 HOMEPAGE="https://github.com/hbin/smart-shift"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

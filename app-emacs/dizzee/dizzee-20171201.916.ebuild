@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A more pleasant way to manage your projects subprocesses in Emacs."
+DESCRIPTION="A more pleasant way to manage your project's subprocesses in Emacs."
 
 HOMEPAGE="https://github.com/davidmiller/dizzee"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

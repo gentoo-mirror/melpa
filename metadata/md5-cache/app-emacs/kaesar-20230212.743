@@ -1,6 +1,6 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=AES algorithm encryptdecrypt
+DESCRIPTION=AES algorithm encrypt/decrypt
 EAPI=8
 HOMEPAGE=https://github.com/mhayashi1120/Emacs-kaesar
 INHERIT=g-sorcery gs-elpa
@@ -9,4 +9,4 @@ RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/kaesar-20230212.743.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=109f40fc518ea3d85c729f67bb5c0efb
+_md5_=f7d2dab7f975601715a7cdb562bd318a

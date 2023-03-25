@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Freee Time for testing"
+DESCRIPTION="Freeze Time for testing"
 
 HOMEPAGE="https://github.com/zonuexe/emacs-datetime"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

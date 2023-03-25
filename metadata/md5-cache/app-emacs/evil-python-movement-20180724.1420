@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/dash app-emacs/evil app-emacs/s
-DESCRIPTION=Port Neovims python movement to Evil
+DESCRIPTION=Port Neovim's python movement to Evil
 EAPI=8
 HOMEPAGE=https://bitbucket.org/FelipeLema/evil-python-movement.el/
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/dash app-emacs/evil app-emacs/s >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/evil-python-movement-20180724.1420.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=9e5a4d490ab0a61536f5927dbeed1dcd
+_md5_=ceca4fd94538cee5487218c7905e6011

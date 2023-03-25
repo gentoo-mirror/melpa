@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="pow (httppow.cx) manager for emacs"
+DESCRIPTION="pow (http://pow.cx/) manager for emacs"
 
 HOMEPAGE="http://github.com/yukihr/emacs-pow"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

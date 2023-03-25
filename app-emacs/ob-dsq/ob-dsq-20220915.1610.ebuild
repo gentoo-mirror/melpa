@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Babel functions for the dsq CLI tool by Multiprocess Labs"
+DESCRIPTION="Babel functions for the \`dsq\` CLI tool by Multiprocess Labs"
 
 HOMEPAGE="https://github.com/fritzgrabo/ob-dsq"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

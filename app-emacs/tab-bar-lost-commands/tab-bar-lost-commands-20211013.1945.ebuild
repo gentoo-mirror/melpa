@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="The lost commands of the tab bar"
+DESCRIPTION="The \"lost commands\" of the tab bar"
 
 HOMEPAGE="https://github.com/fritzgrabo/tab-bar-lost-commands"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

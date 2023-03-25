@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A DD (Dark and Dusty) Theme"
+DESCRIPTION="A D&D (Dark and Dusty) Theme"
 
 HOMEPAGE="http://github.com/vxid/emacs-theme-sorcery"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Realgud front-end to Javas jdb debugger"
+DESCRIPTION="Realgud front-end to Java's jdb debugger\""
 
 HOMEPAGE="https://github.com/realgud/realgud-jdb"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

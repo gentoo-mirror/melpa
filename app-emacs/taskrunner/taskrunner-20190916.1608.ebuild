@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Retrieve build systemtaskrunner tasks"
+DESCRIPTION="Retrieve build system/taskrunner tasks"
 
 HOMEPAGE="https://github.com/emacs-taskrunner/emacs-taskrunner"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

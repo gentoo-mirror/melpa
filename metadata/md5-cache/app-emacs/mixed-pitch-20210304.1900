@@ -1,6 +1,6 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=Use a variable pitch, keeping fixed pitch where its sensible
+DESCRIPTION=Use a variable pitch, keeping fixed pitch where it's sensible
 EAPI=8
 HOMEPAGE=https://gitlab.com/jabranham/mixed-pitch
 INHERIT=g-sorcery gs-elpa
@@ -9,4 +9,4 @@ RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/mixed-pitch-20210304.1900.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=50da6aaceadf8526ed7f84b96f7d2ebe
+_md5_=808daf7f123ef4e3d8ba894045d1f6e3

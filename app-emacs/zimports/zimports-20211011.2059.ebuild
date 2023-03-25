@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Reformat python imports with imports"
+DESCRIPTION="Reformat python imports with zimports"
 
 HOMEPAGE="https://github.com/schmir/zimports.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

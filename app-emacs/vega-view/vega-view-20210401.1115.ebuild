@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Vega visualiation viewer"
+DESCRIPTION="Vega visualization viewer"
 
 HOMEPAGE="https://www.github.com/applied-science/emacs-vega-view"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

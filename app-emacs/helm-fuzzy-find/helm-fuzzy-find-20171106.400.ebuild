@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Find file using Fuy Search"
+DESCRIPTION="Find file using Fuzzy Search"
 
 HOMEPAGE="https://github.com/xuchunyang/helm-fuzzy-find"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

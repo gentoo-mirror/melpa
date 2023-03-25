@@ -1,6 +1,6 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=An interactive, iterative git blame mode for Emacs
+DESCRIPTION=An interactive, iterative 'git blame' mode for Emacs
 EAPI=8
 HOMEPAGE=https://melpa.org/packages/
 INHERIT=g-sorcery gs-elpa
@@ -9,4 +9,4 @@ RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/mo-git-blame-20160129.1759.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=12431e7d03dc2fb169be0f5b345ceed3
+_md5_=827b33b2b1e5a01619b79530a9718d31

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="major mode for editing GIFT format quies"
+DESCRIPTION="major mode for editing GIFT format quizzes"
 
 HOMEPAGE="https://github.com/csrhodes/gift-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

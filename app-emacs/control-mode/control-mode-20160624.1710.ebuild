@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A control mode, similar to vims normal mode"
+DESCRIPTION="A \"control\" mode, similar to vim's \"normal\" mode"
 
 HOMEPAGE="https://github.com/stephendavidmarsh/control-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

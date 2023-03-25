@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="An editor tactic to produce -types from Agda records"
+DESCRIPTION="An editor tactic to produce Σ-types from Agda records"
 
 HOMEPAGE="https://github.com/alhassy/next-700-module-systems"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

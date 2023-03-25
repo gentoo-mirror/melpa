@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A transient UI for Cargo, Rusts package manager"
+DESCRIPTION="A transient UI for Cargo, Rust's package manager"
 
 HOMEPAGE="https://github.com/peterstuart/cargo-transient"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

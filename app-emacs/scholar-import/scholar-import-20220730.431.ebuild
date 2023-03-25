@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Import Bibtex  PDF from Google Scholar"
+DESCRIPTION="Import Bibtex & PDF from Google Scholar"
 
 HOMEPAGE="https://github.com/teeann/scholar-import"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

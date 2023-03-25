@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Generate a patch according to emacs-mirrorCONTRIBUTE"
+DESCRIPTION="Generate a patch according to emacs-mirror/CONTRIBUTE"
 
 HOMEPAGE="https://github.com/dickmao/magit-patch-changelog"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

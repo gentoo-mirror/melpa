@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Rudimentary httppinboard.in integration"
+DESCRIPTION="Rudimentary http://pinboard.in integration"
 
 HOMEPAGE="https://github.com/danieroux/pinboard-api-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="DOCT Declarative Org capture templates"
+DESCRIPTION="DOCT: Declarative Org capture templates"
 
 HOMEPAGE="https://github.com/progfolio/doct"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

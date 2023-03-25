@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/org-mode app-emacs/request app-emacs/s
-DESCRIPTION=Import Bibtex PDF from Google Scholar
+DESCRIPTION=Import Bibtex & PDF from Google Scholar
 EAPI=8
 HOMEPAGE=https://github.com/teeann/scholar-import
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/org-mode app-emacs/request app-emacs/s >=app-editors/emacs-23.
 SLOT=0
 SRC_URI=https://melpa.org/packages/scholar-import-20220730.431.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=ce5e81a679f25df58cccae2fca5266cd
+_md5_=cc4653df4f497ae765066225d7647a3a

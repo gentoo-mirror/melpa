@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Step through (Btrfs, FS, ...) snapshots of files"
+DESCRIPTION="Step through (Btrfs, ZFS, ...) snapshots of files"
 
 HOMEPAGE="https://github.com/mrBliss/snapshot-timemachine"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

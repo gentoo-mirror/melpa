@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Blueyellow theme based on old DOS BorlandTurbo C IDE"
+DESCRIPTION="Blue/yellow theme based on old DOS Borland/Turbo C IDE"
 
 HOMEPAGE="http://github.com/fourier/borland-blue-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Highlight the cursor on bufferwindow-switch"
+DESCRIPTION="Highlight the cursor on buffer/window-switch"
 
 HOMEPAGE="https://github.com/Boruch-Baum/emacs-cursor-flash"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

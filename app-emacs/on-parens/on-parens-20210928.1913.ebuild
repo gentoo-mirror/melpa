@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="smartparens wrapper to fit with evil-modevim normal-state"
+DESCRIPTION="smartparens wrapper to fit with evil-mode/vim normal-state"
 
 HOMEPAGE="https://melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

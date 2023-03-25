@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fuy auto-completion for Ledger  friends"
+DESCRIPTION="Fuzzy auto-completion for Ledger & friends"
 
 HOMEPAGE="https://github.com/debanjum/company-ledger"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Run your Python tests any way youd like"
+DESCRIPTION="Run your Python tests any way you'd like"
 
 HOMEPAGE="https://www.github.com/quodlibetor/py-gnitset"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

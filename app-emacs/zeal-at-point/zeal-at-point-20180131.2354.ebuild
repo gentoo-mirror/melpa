@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Search the word at point with eal"
+DESCRIPTION="Search the word at point with Zeal"
 
 HOMEPAGE="https://github.com/jinzhu/zeal-at-point"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

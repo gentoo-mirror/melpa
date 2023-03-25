@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A XBM version of Conways Game of Life"
+DESCRIPTION="A XBM version of Conway's Game of Life"
 
 HOMEPAGE="https://depp.brause.cc/xbm-life"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Do you have what it takes to hack Emacs Lisp in Forth"
+DESCRIPTION="Do you have what it takes to hack Emacs Lisp in Forth?"
 
 HOMEPAGE="https://github.com/lassik/elforth"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

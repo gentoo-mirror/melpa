@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Albertos Emacs interface for Mercurial (Hg)"
+DESCRIPTION="Alberto's Emacs interface for Mercurial (Hg)"
 
 HOMEPAGE="https://bitbucket.org/agriggio/ahg"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="AES encryptdecrypt buffer"
+DESCRIPTION="AES encrypt/decrypt buffer"
 
 HOMEPAGE="https://github.com/mhayashi1120/Emacs-kaesar"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

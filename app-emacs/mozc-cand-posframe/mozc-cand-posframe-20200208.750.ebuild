@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Posframe frontend for moc.el"
+DESCRIPTION="Posframe frontend for mozc.el"
 
 HOMEPAGE="https://github.com/akirak/mozc-posframe"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

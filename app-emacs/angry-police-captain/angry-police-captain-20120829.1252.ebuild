@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Show quote from httptheangrypolicecaptain.com in the minibuffer"
+DESCRIPTION="Show quote from http://theangrypolicecaptain.com in the minibuffer"
 
 HOMEPAGE="https://melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

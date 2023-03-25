@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Run Splunk search commands, export results to CSVHTMLJSON"
+DESCRIPTION="Run Splunk search commands, export results to CSV/HTML/JSON"
 
 HOMEPAGE="https://github.com/sebasmonia/pepita.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Update fetch blocks in .nix expressions"
+DESCRIPTION="Update \"fetch\" blocks in .nix expressions"
 
 HOMEPAGE="https://github.com/jwiegley/nix-update-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Realgud front-end to newer node inspect"
+DESCRIPTION="Realgud front-end to newer \"node inspect\""
 
 HOMEPAGE="http://github.com/realgud/realgud-node-inspect"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

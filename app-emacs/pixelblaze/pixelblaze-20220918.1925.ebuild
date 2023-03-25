@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Interact with a Pixelblae via Websocket"
+DESCRIPTION="Interact with a Pixelblaze via Websocket"
 
 HOMEPAGE="https://github.com/mgsb/emacs-pixelblaze"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

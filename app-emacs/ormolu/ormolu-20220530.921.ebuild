@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Format Haskell source code using the ormolu program"
+DESCRIPTION="Format Haskell source code using the \"ormolu\" program"
 
 HOMEPAGE="https://github.com/vyorkin/ormolu.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

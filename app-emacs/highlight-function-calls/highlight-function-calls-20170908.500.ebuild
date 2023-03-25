@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Highlight functionmacro calls"
+DESCRIPTION="Highlight function/macro calls"
 
 HOMEPAGE="http://github.com/alphapapa/highlight-function-calls"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

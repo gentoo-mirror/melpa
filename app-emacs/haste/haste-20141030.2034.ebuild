@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs client for hastebin (httphastebin.comabout.md)"
+DESCRIPTION="Emacs client for hastebin (http://hastebin.com/about.md)"
 
 HOMEPAGE="http://github.com/rlister/emacs-haste-client"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

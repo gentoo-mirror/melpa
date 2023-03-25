@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/dash-functional app-emacs/s app-emacs/deferred
-DESCRIPTION=a minor mode to draw stats from celery and more
+DESCRIPTION=a minor mode to draw stats from celery and more?
 EAPI=8
 HOMEPAGE=https://github.com/ardumont/emacs-celery
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/dash-functional app-emacs/s app-emacs/deferred >=app-editors/e
 SLOT=0
 SRC_URI=https://melpa.org/packages/celery-20170225.924.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=fca1d26d170597053e6dfd5525aa24fb
+_md5_=58f08380c5e1fe3a25f946e0aa62cb7c

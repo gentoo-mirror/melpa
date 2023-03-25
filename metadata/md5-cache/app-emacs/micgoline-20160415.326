@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/powerline
-DESCRIPTION=powerline mode, color schemes from microsoft and googles logo.
+DESCRIPTION=powerline mode, color schemes from microsoft and google's logo.
 EAPI=8
 HOMEPAGE=https://github.com/yzprofile/micgoline
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/powerline >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/micgoline-20160415.326.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=6ccaeb317db7631d88f989ae6c435b90
+_md5_=8d64be508bcaf27ca99ba980b54ff844

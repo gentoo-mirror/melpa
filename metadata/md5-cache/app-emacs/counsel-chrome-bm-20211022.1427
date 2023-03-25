@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/counsel
-DESCRIPTION=Browse Chrom(eium) bookmarks with Ivy
+DESCRIPTION=Browse Chrom(e/ium) bookmarks with Ivy
 EAPI=8
 HOMEPAGE=https://github.com/BlueBoxWare/counsel-chrome-bm
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/counsel >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/counsel-chrome-bm-20211022.1427.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=0df70295376a58e9ee37d73c2736d003
+_md5_=ac414063b3e0834a8bee8a441dd32822

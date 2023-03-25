@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/request
-DESCRIPTION=Brailian Portuguese synonym search in dicio.com.br
+DESCRIPTION=Brazilian Portuguese synonym search in dicio.com.br
 EAPI=8
 HOMEPAGE=https://github.com/rberaldo/tesouro.el
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/request >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/tesouro-20221003.1303.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=097cd0c22f4473e8218b56099c42b6f8
+_md5_=242b3fab2d92ef8060aa84be3272aa96

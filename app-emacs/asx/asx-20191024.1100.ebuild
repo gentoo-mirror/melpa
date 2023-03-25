@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Ask StackExchangeStackOverflow"
+DESCRIPTION="Ask StackExchange/StackOverflow"
 
 HOMEPAGE="https://github.com/ragone/asx"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

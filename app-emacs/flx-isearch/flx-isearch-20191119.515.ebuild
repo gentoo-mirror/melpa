@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fuy incremental searching for emacs"
+DESCRIPTION="Fuzzy incremental searching for emacs"
 
 HOMEPAGE="https://github.com/pythonnut/flx-isearch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Navigate Twitch.tv via helm"
+DESCRIPTION="Navigate Twitch.tv via \`helm'"
 
 HOMEPAGE="https://github.com/BenediktBroich/helm-twitch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

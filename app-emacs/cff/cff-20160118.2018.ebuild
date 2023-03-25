@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Search of the CC++ file header by the source and vice versa"
+DESCRIPTION="Search of the C/C++ file header by the source and vice versa"
 
 HOMEPAGE="https://github.com/fourier/cff"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

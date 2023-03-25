@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Automatically sets the dark-mode theme based on macOSLinuxWindows status"
+DESCRIPTION="Automatically sets the dark-mode theme based on macOS/Linux/Windows status"
 
 HOMEPAGE="https://github.com/LionyxML/auto-dark-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

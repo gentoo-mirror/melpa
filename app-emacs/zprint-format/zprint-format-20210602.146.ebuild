@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Reformat Clojure code using print"
+DESCRIPTION="Reformat Clojure code using zprint"
 
 HOMEPAGE="http://www.github.com/dpassen/zprint-format"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

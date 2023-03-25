@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Better fuy matching for Helm"
+DESCRIPTION="Better fuzzy matching for Helm"
 
 HOMEPAGE="http://github.com/EphramPerdition/helm-fuzzier"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

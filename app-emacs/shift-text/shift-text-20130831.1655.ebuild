@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Move the region in 4 directions, in a way similar to Eclipses"
+DESCRIPTION="Move the region in 4 directions, in a way similar to Eclipse's"
 
 HOMEPAGE="https://github.com/sabof/shift-text"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

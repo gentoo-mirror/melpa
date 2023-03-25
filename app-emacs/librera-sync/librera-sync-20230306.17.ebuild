@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Sync documents position with Librera Reader for Android"
+DESCRIPTION="Sync document's position with Librera Reader for Android"
 
 HOMEPAGE="https://github.com/jumper047/librera-sync"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

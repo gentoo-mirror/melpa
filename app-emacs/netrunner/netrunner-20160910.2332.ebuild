@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Create Android Netrunner decklists using Company, Helm and org-mode"
+DESCRIPTION="Create Android: Netrunner decklists using Company, Helm and org-mode"
 
 HOMEPAGE="http://github.com/Kungsgeten/netrunner"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

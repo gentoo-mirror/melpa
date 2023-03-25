@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/emmet-mode app-emacs/auto-complete
-DESCRIPTION=auto-complete sources for emmet-modes snippets
+DESCRIPTION=auto-complete sources for emmet-mode's snippets
 EAPI=8
 HOMEPAGE=https://github.com/yasuyk/ac-emmet
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/emmet-mode app-emacs/auto-complete >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/ac-emmet-20131015.1558.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=5f5c277be61d047efde3fc1314c1ad8f
+_md5_=c6ca18137d1c5802ff557729b3757421

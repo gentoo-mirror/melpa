@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Helm bindings for JIRABitbucketstash"
+DESCRIPTION="Helm bindings for JIRA/Bitbucket/stash"
 
 HOMEPAGE="https://github.com/DeX3/helm-jira"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Visual hints for evil-ex"
+DESCRIPTION="Visual hints for \`evil-ex'"
 
 HOMEPAGE="https://github.com/mamapanda/evil-traces"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="CSSSCSSLESS Selectors with helm interface"
+DESCRIPTION="CSS/SCSS/LESS Selectors with helm interface"
 
 HOMEPAGE="https://github.com/ShingoFukuyama/helm-css-scss"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

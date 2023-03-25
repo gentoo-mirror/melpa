@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Erlangdistel completion backend for auto-complete-mode"
+DESCRIPTION="Erlang/distel completion backend for auto-complete-mode"
 
 HOMEPAGE="github.com/sebastiw/distel-completion"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

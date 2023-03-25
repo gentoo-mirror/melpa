@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Library for organiing code declaratively"
+DESCRIPTION="Library for organizing code declaratively"
 
 HOMEPAGE="https://github.com/preetpalS/decl.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

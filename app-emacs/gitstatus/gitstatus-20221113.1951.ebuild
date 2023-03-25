@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Common front-end for gitstatusd"
+DESCRIPTION="Common front-end for \`gitstatusd'"
 
 HOMEPAGE="https://github.com/igorepst/gitstatus-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

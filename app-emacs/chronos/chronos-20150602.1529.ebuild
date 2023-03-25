@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="multiple simultaneous countdown  countup timers"
+DESCRIPTION="multiple simultaneous countdown / countup timers"
 
 HOMEPAGE="http://github.com/dxknight/chronos"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

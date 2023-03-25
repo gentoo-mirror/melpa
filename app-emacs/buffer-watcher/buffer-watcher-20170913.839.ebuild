@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Easily run shell scripts per filetypedirectory when a buffer is saved"
+DESCRIPTION="Easily run shell scripts per filetype/directory when a buffer is saved"
 
 HOMEPAGE="https://melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

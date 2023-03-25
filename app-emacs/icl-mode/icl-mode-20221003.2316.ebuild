@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Support for IEEE 1687 ICLPDL"
+DESCRIPTION="Support for IEEE 1687 ICL/PDL"
 
 HOMEPAGE="https://github.com/CeleritasCelery/icl-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

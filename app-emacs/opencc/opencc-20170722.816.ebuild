@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION=" -  (Convert Chinese with OpenCC)"
+DESCRIPTION="中文简繁转换 <-> 中文簡繁轉換 (Convert Chinese with OpenCC)"
 
 HOMEPAGE="https://github.com/xuchunyang/emacs-opencc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

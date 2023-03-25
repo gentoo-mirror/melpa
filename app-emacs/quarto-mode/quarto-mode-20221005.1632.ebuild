@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A (poly)mode for httpsquarto.org"
+DESCRIPTION="A (poly)mode for https://quarto.org"
 
 HOMEPAGE="https://github.com/quarto-dev/quarto-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

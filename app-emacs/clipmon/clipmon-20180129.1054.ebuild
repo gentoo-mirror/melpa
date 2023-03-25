@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Clipboard monitor - watch system clipboard, add changes to kill ringautoinsert"
+DESCRIPTION="Clipboard monitor - watch system clipboard, add changes to kill ring/autoinsert"
 
 HOMEPAGE="https://github.com/bburns/clipmon"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

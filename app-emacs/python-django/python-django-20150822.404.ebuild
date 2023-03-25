@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A Jay package for managing Django projects"
+DESCRIPTION="A Jazzy package for managing Django projects"
 
 HOMEPAGE="https://github.com/fgallina/python-django.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

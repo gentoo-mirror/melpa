@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A stackoverflow and its sisters sites reader"
+DESCRIPTION="A stackoverflow and its sisters' sites reader"
 
 HOMEPAGE="https://github.com/thanhvg/howdoyou/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

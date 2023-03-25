@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A color theme for Emacs based on Plan"
+DESCRIPTION="A color theme for Emacs based on Plan9"
 
 HOMEPAGE="https://github.com/john2x/plan9-theme.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Colorie patch-like emails in mu4e"
+DESCRIPTION="Colorize patch-like emails in mu4e"
 
 HOMEPAGE="https://github.com/seanfarley/message-view-patch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Gotocopycut any wordsymbolline in view, similar to ace-jumpeasymotion"
+DESCRIPTION="Goto/copy/cut any word/symbol/line in view, similar to ace-jump/easymotion"
 
 HOMEPAGE="http://github.com/enoson/eno.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

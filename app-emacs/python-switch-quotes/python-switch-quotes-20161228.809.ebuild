@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="cycle between  and  quotes in python strings"
+DESCRIPTION="cycle between ' and \" quotes in python strings"
 
 HOMEPAGE="https://github.com/werehuman/python-switch-quotes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

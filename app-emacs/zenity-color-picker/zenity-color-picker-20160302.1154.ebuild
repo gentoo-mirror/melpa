@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Insert and adjust colors using enity"
+DESCRIPTION="Insert and adjust colors using Zenity"
 
 HOMEPAGE="https://bitbucket.org/Soft/zenity-color-picker.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

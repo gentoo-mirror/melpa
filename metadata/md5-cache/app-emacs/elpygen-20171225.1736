@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/yasnippet
-DESCRIPTION=Generate a Python functionmethod using a symbol under point
+DESCRIPTION=Generate a Python function/method using a symbol under point
 EAPI=8
 HOMEPAGE=https://github.com/vkazanov/elpygen
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/yasnippet >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/elpygen-20171225.1736.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=ba1ad68e28429dafedb93b6acb2f0833
+_md5_=754b8edd982b385d4828db08e433cc65

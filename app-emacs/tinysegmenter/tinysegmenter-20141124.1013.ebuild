@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Super compact Japanese tokenier in Javascript ported to emacs lisp"
+DESCRIPTION="Super compact Japanese tokenizer in Javascript ported to emacs lisp"
 
 HOMEPAGE="https://github.com/myuhe/tinysegmenter.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

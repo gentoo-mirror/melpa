@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs integration for the command-line productivity booster fasd"
+DESCRIPTION="Emacs integration for the command-line productivity booster \`fasd'"
 
 HOMEPAGE="https://framagit.org/steckerhalter/emacs-fasd"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

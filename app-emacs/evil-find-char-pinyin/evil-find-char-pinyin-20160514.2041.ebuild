@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Evils fFtTevil-snipe commands with Pinyin support"
+DESCRIPTION="Evil's f/F/t/T/evil-snipe commands with Pinyin support"
 
 HOMEPAGE="https://melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

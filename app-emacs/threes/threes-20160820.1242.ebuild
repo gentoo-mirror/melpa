@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A clone of Threes (a tiny pule game)"
+DESCRIPTION="A clone of Threes (a tiny puzzle game)"
 
 HOMEPAGE="https://github.com/xuchunyang/threes.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

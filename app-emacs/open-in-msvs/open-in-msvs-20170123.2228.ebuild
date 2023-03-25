@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Open current filelinecolumn in Microsoft Visual Studio"
+DESCRIPTION="Open current file:line:column in Microsoft Visual Studio"
 
 HOMEPAGE="https://github.com/evgeny-panasyuk/open-in-msvs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

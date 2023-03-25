@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="ConfigGeneral config file mode"
+DESCRIPTION="Config::General config file mode"
 
 HOMEPAGE="https://github.com/tlinden/config-general-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Prettify GuixNix store paths"
+DESCRIPTION="Prettify Guix/Nix store paths"
 
 HOMEPAGE="https://gitorious.org/alezost-emacs/pretty-sha-path"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

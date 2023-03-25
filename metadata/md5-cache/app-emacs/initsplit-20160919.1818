@@ -1,6 +1,6 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=code to split customiations into different files
+DESCRIPTION=code to split customizations into different files
 EAPI=8
 HOMEPAGE=http://www.gci-net.com/users/j/johnw/emacs.html
 INHERIT=g-sorcery gs-elpa
@@ -9,4 +9,4 @@ RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/initsplit-20160919.1818.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=e1cb0cdf08596ffcb6d5fda1cc33d00f
+_md5_=b7b4e30b711982373da5b109b974ab9e

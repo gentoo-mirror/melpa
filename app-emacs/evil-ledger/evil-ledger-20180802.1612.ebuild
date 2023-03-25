@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Make ledger-mode more evil."
+DESCRIPTION="Make \`ledger-mode' more \`evil'."
 
 HOMEPAGE="https://github.com/atheriel/evil-ledger"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

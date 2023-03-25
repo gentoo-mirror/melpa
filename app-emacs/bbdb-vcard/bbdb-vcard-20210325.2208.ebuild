@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="vCard importexport for BBDB"
+DESCRIPTION="vCard import/export for BBDB"
 
 HOMEPAGE="https://github.com/tohojo/bbdb-vcard"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Neat-o graph bars CPUmemory etc."
+DESCRIPTION="Neat-o graph bars CPU/memory etc."
 
 HOMEPAGE="https://gitlab.com/RobertCochran/neato-graph-bar"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

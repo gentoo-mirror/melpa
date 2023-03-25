@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Basic functions for AppleOSX"
+DESCRIPTION="Basic functions for Apple/OSX"
 
 HOMEPAGE="https://github.com/raghavgautam/osx-lib"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

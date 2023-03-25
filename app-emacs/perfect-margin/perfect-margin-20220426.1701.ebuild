@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="auto center windows, work with minimap andor linum-mode"
+DESCRIPTION="auto center windows, work with minimap and/or linum-mode"
 
 HOMEPAGE="https://github.com/mpwang/perfect-margin"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Support for Luhmann-style IDs in k"
+DESCRIPTION="Support for Luhmann-style IDs in zk"
 
 HOMEPAGE="https://github.com/localauthor/zk-luhmann"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

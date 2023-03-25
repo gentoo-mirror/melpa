@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Type a little Bit, and Bang You Are Completed."
+DESCRIPTION="Type a little Bit, and Bang! You Are Completed."
 
 HOMEPAGE="https://github.com/baohaojun/bbyac"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

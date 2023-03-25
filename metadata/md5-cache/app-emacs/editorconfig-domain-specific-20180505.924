@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/editorconfig
-DESCRIPTION=Apply brace style and other domain-specific EditorConfig properties
+DESCRIPTION=Apply brace style and other "domain-specific" EditorConfig properties
 EAPI=8
 HOMEPAGE=https://github.com/lassik/editorconfig-emacs-domain-specific
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/editorconfig >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/editorconfig-domain-specific-20180505.924.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=b1332bd58100188cfad7f58f3d98f989
+_md5_=83106f11b3a249aa100b85beddbf53cb

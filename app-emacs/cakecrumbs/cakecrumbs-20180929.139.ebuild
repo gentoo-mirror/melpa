@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Show parents on header for HTMLJadeSassStylus"
+DESCRIPTION="Show parents on header for HTML/Jade/Sass/Stylus"
 
 HOMEPAGE="https://github.com/kuanyui/cakecrumbs.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

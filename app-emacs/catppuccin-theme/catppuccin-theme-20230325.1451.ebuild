@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Catppuccin for Emacs -  Soothing pastel theme for Emacs"
+DESCRIPTION="Catppuccin for Emacs - 🍄 Soothing pastel theme for Emacs"
 
 HOMEPAGE="https://github.com/catppuccin/emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

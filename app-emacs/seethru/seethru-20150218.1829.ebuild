@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Easily change Emacs transparency"
+DESCRIPTION="Easily change Emacs' transparency"
 
 HOMEPAGE="http://github.com/benaiah/seethru"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

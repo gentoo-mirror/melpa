@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Track video games in org-mode with giantbomb.coms API"
+DESCRIPTION="Track video games in org-mode with giantbomb.com's API"
 
 HOMEPAGE="https://github.com/repelliuss/org-gamedb"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="powerline mode, color schemes from microsoft and googles logo."
+DESCRIPTION="powerline mode, color schemes from microsoft and google's logo."
 
 HOMEPAGE="https://github.com/yzprofile/micgoline"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

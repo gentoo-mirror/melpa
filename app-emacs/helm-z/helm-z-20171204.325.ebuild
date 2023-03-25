@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Show  directory list with helm.el support."
+DESCRIPTION="Show z directory list with helm.el support."
 
 HOMEPAGE="https://github.com/yynozk/helm-z"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

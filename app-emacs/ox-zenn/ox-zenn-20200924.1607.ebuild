@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="enn flavored markdown backend for org export engine"
+DESCRIPTION="Zenn flavored markdown backend for org export engine"
 
 HOMEPAGE="https://github.com/conao3/ox-zenn.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

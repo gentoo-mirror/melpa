@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Manipulation with graphvi graphs"
+DESCRIPTION="Manipulation with graphviz graphs"
 
 HOMEPAGE="https://github.com/zellerin/dynamic-graphs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

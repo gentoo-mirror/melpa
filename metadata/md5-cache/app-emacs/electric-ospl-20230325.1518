@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/compat
-DESCRIPTION=Consulting completing-read
+DESCRIPTION=Electric OSPL Mode
 EAPI=8
-HOMEPAGE=https://github.com/minad/consult
+HOMEPAGE=https://git.sr.ht/~swflint/electric-ospl-mode
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/compat >=app-editors/emacs-23.1:*
+RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/consult-20230322.1225.tar
+SRC_URI=https://melpa.org/packages/electric-ospl-20230325.1518.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=f051911b4dba2d40fdd77761e40a55e2
+_md5_=f39e2043929b85633e67bf53c461b2bd

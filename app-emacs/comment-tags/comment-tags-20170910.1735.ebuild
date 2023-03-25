@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Highlight  navigate comment tags like TODO."
+DESCRIPTION="Highlight & navigate comment tags like 'TODO'."
 
 HOMEPAGE="https://github.com/vincekd/comment-tags"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

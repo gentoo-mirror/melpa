@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A version of Chris Kempsons tomorrow themes"
+DESCRIPTION="A version of Chris Kempson's \"tomorrow\" themes"
 
 HOMEPAGE="https://github.com/purcell/color-theme-sanityinc-tomorrow"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="dynamically resie context around matches in occur-mode"
+DESCRIPTION="dynamically resize context around matches in occur-mode"
 
 HOMEPAGE="https://github.com/dgtized/occur-context-resize.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

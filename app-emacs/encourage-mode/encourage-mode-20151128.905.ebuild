@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Encourages you in your work. D"
+DESCRIPTION="Encourages you in your work. :D"
 
 HOMEPAGE="https://github.com/halbtuerke/encourage-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

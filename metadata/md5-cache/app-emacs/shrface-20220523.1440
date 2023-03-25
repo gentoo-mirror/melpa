@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/org-mode app-emacs/language-detection
-DESCRIPTION=Extend shreww with org features and analysis capability
+DESCRIPTION=Extend shr/eww with org features and analysis capability
 EAPI=8
 HOMEPAGE=https://github.com/chenyanming/shrface
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/org-mode app-emacs/language-detection >=app-editors/emacs-23.1
 SLOT=0
 SRC_URI=https://melpa.org/packages/shrface-20220523.1440.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=01315c0cc3b436006bed0543ee0f4498
+_md5_=c2e1fb25fd9d5cc99b609b435a4051a4

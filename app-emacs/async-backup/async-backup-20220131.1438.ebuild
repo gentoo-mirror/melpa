@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Backup on each save without freeing Emacs"
+DESCRIPTION="Backup on each save without freezing Emacs"
 
 HOMEPAGE="https://tildegit.org/contrapunctus/async-backup"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

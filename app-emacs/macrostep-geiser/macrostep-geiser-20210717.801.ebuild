@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Macrostep for geiser"
+DESCRIPTION="Macrostep for \`geiser'"
 
 HOMEPAGE="https://github.com/nbfalcon/macrostep-geiser"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
