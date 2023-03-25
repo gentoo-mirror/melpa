@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Browse Chrom(eium) bookmarks with Ivy"
+DESCRIPTION="Browse Chrom(e/ium) bookmarks with Ivy"
 
 HOMEPAGE="https://github.com/BlueBoxWare/counsel-chrome-bm"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

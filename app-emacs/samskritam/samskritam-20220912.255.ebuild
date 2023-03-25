@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Library to get samskrit word definition, translate to  from"
+DESCRIPTION="Library to get samskrit word definition, translate to & from"
 
 HOMEPAGE="https://github.com/thapakrish/samskritam"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

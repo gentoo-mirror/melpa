@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/slime
-DESCRIPTION=Turn on ANSI colors in REPL output
+DESCRIPTION=Turn on ANSI colors in REPL output;
 EAPI=8
 HOMEPAGE=https://gitlab.com/augfab/slime-repl-ansi-color
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/slime >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/slime-repl-ansi-color-20230214.1453.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=5a572fd8a4fc5e02353e349090afc8d5
+_md5_=12b8a010be1e2811f0751697c1f6436d

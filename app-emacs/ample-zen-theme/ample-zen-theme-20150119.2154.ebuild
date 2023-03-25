@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Ampleen Theme for Emacs 24"
+DESCRIPTION="AmpleZen Theme for Emacs 24"
 
 HOMEPAGE="https://github.com/mjwall/ample-zen"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

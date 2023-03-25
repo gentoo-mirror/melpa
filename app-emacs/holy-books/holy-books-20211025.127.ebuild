@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Org-mode linkstooltipslookups for Quran  Bible"
+DESCRIPTION="Org-mode links/tooltips/lookups for Quran & Bible"
 
 HOMEPAGE="https://alhassy.github.io/holy-books/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

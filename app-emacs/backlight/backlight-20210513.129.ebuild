@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="backlight brightness adjustment on GNULinux"
+DESCRIPTION="backlight brightness adjustment on GNU/Linux"
 
 HOMEPAGE="https://github.com/mschuldt/backlight.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

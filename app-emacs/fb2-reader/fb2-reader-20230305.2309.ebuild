@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Read FB2 and FB2.IP documents"
+DESCRIPTION="Read FB2 and FB2.ZIP documents"
 
 HOMEPAGE="https://github.com/jumper047/fb2-reader"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

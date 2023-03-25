@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A bashsh Flymake backend powered by ShellCheck"
+DESCRIPTION="A bash/sh Flymake backend powered by ShellCheck"
 
 HOMEPAGE="https://github.com/federicotdn/flymake-shellcheck"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

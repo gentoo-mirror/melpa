@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/helm-core
-DESCRIPTION=Navigation feature for JSONXMLHTML based on path (imenu like)
+DESCRIPTION=Navigation feature for JSON/XML/HTML based on path (imenu like)
 EAPI=8
 HOMEPAGE=https://melpa.org/packages/
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/helm-core >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/x-path-walker-20220714.1056.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=1356cc00a29475c39b4641a7a88a58d5
+_md5_=3d749923bc48f72b1130056fa2792492

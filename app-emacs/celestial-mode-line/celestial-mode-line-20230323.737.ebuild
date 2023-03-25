@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Show lunar phase and sunrise-set time in modeline"
+DESCRIPTION="Show lunar phase and sunrise/-set time in modeline"
 
 HOMEPAGE="https://github.com/ecraven/celestial-mode-line"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

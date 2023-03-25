@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Colorie org tags automatically"
+DESCRIPTION="Colorize org tags automatically"
 
 HOMEPAGE="https://github.com/KaratasFurkan/org-rainbow-tags"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

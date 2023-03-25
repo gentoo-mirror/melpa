@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A multimedia playermanager, YouTube interface"
+DESCRIPTION="A multimedia player/manager, YouTube interface"
 
 HOMEPAGE="https://github.com/isamert/empv.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

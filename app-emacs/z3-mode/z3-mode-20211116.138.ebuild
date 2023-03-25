@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A 3SMTLIBv2 interactive development environment"
+DESCRIPTION="A z3/SMTLIBv2 interactive development environment"
 
 HOMEPAGE="https://github.com/zv/z3-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

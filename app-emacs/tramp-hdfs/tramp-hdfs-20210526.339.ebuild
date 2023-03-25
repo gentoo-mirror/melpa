@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Tramp extension to access hadoophdfs file system in Emacs"
+DESCRIPTION="Tramp extension to access hadoop/hdfs file system in Emacs"
 
 HOMEPAGE="https://melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

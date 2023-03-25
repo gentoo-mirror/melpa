@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="control Rhythmboxs play queue via Helm"
+DESCRIPTION="control Rhythmbox's play queue via Helm"
 
 HOMEPAGE="https://github.com/mrBliss/helm-rhythmbox"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

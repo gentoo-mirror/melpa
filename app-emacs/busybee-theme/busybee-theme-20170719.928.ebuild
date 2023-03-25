@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="port of vims mustang theme"
+DESCRIPTION="port of vim's mustang theme"
 
 HOMEPAGE="http://github.com/mswift42/busybee-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="JS  development that just work"
+DESCRIPTION="JS  development that just work™️"
 
 HOMEPAGE="https://github.com/thefrontside/frontmacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

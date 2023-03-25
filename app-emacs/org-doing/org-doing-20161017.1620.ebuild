@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Keep track of what youre doing"
+DESCRIPTION="Keep track of what you're doing"
 
 HOMEPAGE="https://github.com/omouse/org-doing"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

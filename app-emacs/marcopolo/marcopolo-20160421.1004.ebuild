@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs client to the Docker HUBRegistry API"
+DESCRIPTION="Emacs client to the Docker HUB/Registry API"
 
 HOMEPAGE="https://github.com/nlamirault/marcopolo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

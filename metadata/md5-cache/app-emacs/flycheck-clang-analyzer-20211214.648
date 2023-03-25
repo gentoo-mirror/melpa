@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/flycheck
-DESCRIPTION=Integrate Clang Analyer with flycheck
+DESCRIPTION=Integrate Clang Analyzer with flycheck
 EAPI=8
 HOMEPAGE=https://github.com/alexmurray/flycheck-clang-analyzer
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/flycheck >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/flycheck-clang-analyzer-20211214.648.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=c83aa513430853b9640da9bfebefd75b
+_md5_=dc37c0d829c327c7fa8f781e2c913012

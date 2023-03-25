@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="This is collection of recipes to run-command"
+DESCRIPTION="This is collection of recipes to \`run-command'"
 
 HOMEPAGE="https://github.com/semenInRussia/emacs-run-command-recipes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

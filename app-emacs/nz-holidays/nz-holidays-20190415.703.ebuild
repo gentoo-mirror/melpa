@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="New ealand public holidays for calendar."
+DESCRIPTION="New Zealand public holidays for calendar."
 
 HOMEPAGE="https://github.com/techquila/nz-holidays"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

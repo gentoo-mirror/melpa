@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Chinese localiation, lunarhoroscopeodiac info and more..."
+DESCRIPTION="Chinese localization, lunar/horoscope/zodiac info and more..."
 
 HOMEPAGE="https://github.com/xwl/cal-china-x"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

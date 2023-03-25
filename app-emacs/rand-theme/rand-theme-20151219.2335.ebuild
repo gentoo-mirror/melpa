@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Random Emacs theme at start-up"
+DESCRIPTION="Random Emacs theme at start-up!"
 
 HOMEPAGE="https://github.com/gopar/rand-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

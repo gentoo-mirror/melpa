@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for SF files"
+DESCRIPTION="Major mode for SFZ files"
 
 HOMEPAGE="https://github.com/sfztools/emacs-sfz-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

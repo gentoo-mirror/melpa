@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A color theme based off uetchys Ancient One Dark Theme"
+DESCRIPTION="A color theme based off uetchy's Ancient One Dark Theme"
 
 HOMEPAGE="https://github.com/DaniruKun/ancient-one-dark-emacs-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

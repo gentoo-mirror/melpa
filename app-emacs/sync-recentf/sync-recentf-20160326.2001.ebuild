@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Synchronie the recent files list between Emacs instances"
+DESCRIPTION="Synchronize the recent files list between Emacs instances"
 
 HOMEPAGE="https://github.com/ffevotte/sync-recentf"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

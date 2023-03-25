@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Navigation feature for JSONXMLHTML based on path (imenu like)"
+DESCRIPTION="Navigation feature for JSON/XML/HTML based on path (imenu like)"
 
 HOMEPAGE="https://melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

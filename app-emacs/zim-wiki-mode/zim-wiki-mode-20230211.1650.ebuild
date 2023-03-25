@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="im Desktop Wiki edit mode"
+DESCRIPTION="Zim Desktop Wiki edit mode"
 
 HOMEPAGE="https://github.com/WillForan/zim-wiki-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

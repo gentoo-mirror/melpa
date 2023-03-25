@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Support AIK input"
+DESCRIPTION="Support AZIK input"
 
 HOMEPAGE="https://github.com/myuhe/drill-instructor-AZIK-force.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

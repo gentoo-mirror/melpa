@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Unofficial httpsexercism.org integration"
+DESCRIPTION="Unofficial https://exercism.org integration"
 
 HOMEPAGE="https://github.com/anonimitoraf/exercism.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

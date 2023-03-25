@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Generate a linkode snippet with regionbuffer content"
+DESCRIPTION="Generate a linkode snippet with region/buffer content"
 
 HOMEPAGE="https://github.com/erickgnavar/linkode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

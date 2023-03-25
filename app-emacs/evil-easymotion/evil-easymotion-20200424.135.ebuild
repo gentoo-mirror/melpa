@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A port of vims easymotion to emacs"
+DESCRIPTION="A port of vim's easymotion to emacs"
 
 HOMEPAGE="https://github.com/pythonnut/evil-easymotion"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Highlighting and paging for shell command svn"
+DESCRIPTION="Highlighting and paging for shell command \`svn'"
 
 HOMEPAGE="https://github.com/Lindydancer/svnwrapper"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

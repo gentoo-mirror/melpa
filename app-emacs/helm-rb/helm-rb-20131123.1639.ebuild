@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Search Rubys method by ag and display helm"
+DESCRIPTION="Search Ruby's method by ag and display helm"
 
 HOMEPAGE="https://github.com/yuutayamada/helm-rb"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

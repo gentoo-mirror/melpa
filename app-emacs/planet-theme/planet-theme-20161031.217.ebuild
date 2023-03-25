@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A dark theme inspired by Gmails Planets theme of yore"
+DESCRIPTION="A dark theme inspired by Gmail's 'Planets' theme of yore"
 
 HOMEPAGE="https://github.com/cmack/emacs-planet-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

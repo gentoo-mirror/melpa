@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Visually summarie progress in org files"
+DESCRIPTION="Visually summarize progress in org files"
 
 HOMEPAGE="http://github.com/bard/org-dashboard"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

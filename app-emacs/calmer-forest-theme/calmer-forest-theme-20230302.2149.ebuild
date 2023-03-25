@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Darkish theme with greenorange tint"
+DESCRIPTION="Darkish theme with green/orange tint"
 
 HOMEPAGE="https://github.com/caldwell/calmer-forest-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

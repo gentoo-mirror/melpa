@@ -1,6 +1,6 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=Emacs Interface to D indentingformatting tool dfmt.
+DESCRIPTION=Emacs Interface to D indenting/formatting tool dfmt.
 EAPI=8
 HOMEPAGE=https://github.com/qsimpleq/elisp-dfmt
 INHERIT=g-sorcery gs-elpa
@@ -9,4 +9,4 @@ RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/dfmt-20170728.1023.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=3d1faf85ee1374bb387ad9fbd92befed
+_md5_=c71b2829201e15e8cb0c8f5d3b1de0e3

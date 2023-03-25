@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A minor mode to edit Tik pictures"
+DESCRIPTION="A minor mode to edit TikZ pictures"
 
 HOMEPAGE="https://github.com/emiliotorres/tikz"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

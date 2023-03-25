@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Link navigation in xwidget-webkit sessions using ivy"
+DESCRIPTION="Link navigation in \`xwidget-webkit' sessions using \`ivy'"
 
 HOMEPAGE="https://github.com/canatella/xwwp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

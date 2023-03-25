@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Use pactl to manage PulseAudio volumes."
+DESCRIPTION="Use \`pactl' to manage PulseAudio volumes."
 
 HOMEPAGE="https://git.sr.ht/~flexibeast/pulseaudio-control"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

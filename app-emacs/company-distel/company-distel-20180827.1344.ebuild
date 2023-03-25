@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Erlangdistel completion backend for company-mode"
+DESCRIPTION="Erlang/distel completion backend for company-mode"
 
 HOMEPAGE="github.com/sebastiw/distel-completion"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

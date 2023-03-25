@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Dispatch major mode for .dist files"
+DESCRIPTION="Dispatch major mode for *.dist files"
 
 HOMEPAGE="https://github.com/emacs-php/dist-file-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Organie and launch Steam games"
+DESCRIPTION="Organize and launch Steam games"
 
 HOMEPAGE="http://github.com/Kungsgeten/steam.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

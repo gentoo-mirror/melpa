@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="File tree viewmanipulatation package"
+DESCRIPTION="File tree view/manipulatation package"
 
 HOMEPAGE="https://github.com/knpatel401/filetree"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

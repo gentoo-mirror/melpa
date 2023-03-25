@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Sanma(triple) hengma dict for pyim"
+DESCRIPTION="Sanma(triple) Zhengma dict for pyim"
 
 HOMEPAGE="https://github.com/p1uxtar/pyim-smzmdict"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

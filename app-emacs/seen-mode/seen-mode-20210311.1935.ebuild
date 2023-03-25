@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A syntax highlighting package for textkepago"
+DESCRIPTION="A syntax highlighting package for text/kepago"
 
 HOMEPAGE="https://git.sr.ht/~shiorid/seen.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

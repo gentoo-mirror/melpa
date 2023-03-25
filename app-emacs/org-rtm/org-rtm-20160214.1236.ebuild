@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Simple importexport from rememberthemilk to org-mode"
+DESCRIPTION="Simple import/export from rememberthemilk to org-mode"
 
 HOMEPAGE="https://github.com/pmiddend/org-rtm"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

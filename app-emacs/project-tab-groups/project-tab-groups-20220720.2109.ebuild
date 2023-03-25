@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Support a one tab group per project workflow"
+DESCRIPTION="Support a \"one tab group per project\" workflow"
 
 HOMEPAGE="https://github.com/fritzgrabo/project-tab-groups"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

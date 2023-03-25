@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Generate an elisp dependency map in graphvi"
+DESCRIPTION="Generate an elisp dependency map in graphviz"
 
 HOMEPAGE="https://gitlab.com/mtekman/elisp-depmap.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

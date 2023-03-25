@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Better syntax highlighting for i3wms config file"
+DESCRIPTION="Better syntax highlighting for i3wm's config file"
 
 HOMEPAGE="https://github.com/Alexander-Miller/i3wm-Config-Mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Apply brace style and other domain-specific EditorConfig properties"
+DESCRIPTION="Apply brace style and other \"domain-specific\" EditorConfig properties"
 
 HOMEPAGE="https://github.com/lassik/editorconfig-emacs-domain-specific"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

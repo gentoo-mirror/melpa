@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Extensions for scratch"
+DESCRIPTION="Extensions for *scratch*"
 
 HOMEPAGE="https://github.com/kyanagi/scratch-ext-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

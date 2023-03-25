@@ -1,6 +1,6 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=mode to execute -code files version 3, 5, 8
+DESCRIPTION=mode to execute Z-code files version 3, 5, 8
 EAPI=8
 HOMEPAGE=https://github.com/speedenator/malyon
 INHERIT=g-sorcery gs-elpa
@@ -9,4 +9,4 @@ RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/malyon-20161208.2125.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=6f8f5c2908fc9d9cb401d575ad224bf2
+_md5_=91873ebd5e2209260b207d35e15605b5

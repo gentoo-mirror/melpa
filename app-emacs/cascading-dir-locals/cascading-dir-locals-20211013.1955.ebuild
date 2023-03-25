@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Apply all () .dir-locals.el from root to current directory"
+DESCRIPTION="Apply all (!) .dir-locals.el from root to current directory"
 
 HOMEPAGE="https://github.com/fritzgrabo/cascading-dir-locals"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

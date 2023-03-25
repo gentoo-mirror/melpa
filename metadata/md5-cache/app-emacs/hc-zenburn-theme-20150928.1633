@@ -1,6 +1,6 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=An higher contrast version of the enburn theme.
+DESCRIPTION=An higher contrast version of the Zenburn theme.
 EAPI=8
 HOMEPAGE=https:github.com/edran/hc-zenburn-emacs
 INHERIT=g-sorcery gs-elpa
@@ -9,4 +9,4 @@ RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/hc-zenburn-theme-20150928.1633.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=db2d7338ea3e24d1940fed604c4b784f
+_md5_=523e6e0746a1919e9d82814a026eda1a

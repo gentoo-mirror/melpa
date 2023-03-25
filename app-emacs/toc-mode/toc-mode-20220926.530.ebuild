@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Manage outlinestable of contents of pdf and djvu documents"
+DESCRIPTION="Manage outlines/table of contents of pdf and djvu documents"
 
 HOMEPAGE="https://github.com/dalanicolai/toc-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

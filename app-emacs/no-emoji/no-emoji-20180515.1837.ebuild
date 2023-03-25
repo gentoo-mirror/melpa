@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Show emoji-name instead of emoji characters"
+DESCRIPTION="Show :emoji-name: instead of emoji characters"
 
 HOMEPAGE="https://github.com/ecraven/no-emoji"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="imakados usefull macros and functions"
+DESCRIPTION="imakado's usefull macros and functions"
 
 HOMEPAGE="https://github.com/imakado/emacs-imakado"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

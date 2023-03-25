@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Evil structural editing for any language"
+DESCRIPTION="Evil structural editing for any language!"
 
 HOMEPAGE="https://github.com/ethan-leba/tree-edit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

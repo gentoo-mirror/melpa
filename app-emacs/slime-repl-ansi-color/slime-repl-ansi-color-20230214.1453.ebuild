@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Turn on ANSI colors in REPL output"
+DESCRIPTION="Turn on ANSI colors in REPL output;"
 
 HOMEPAGE="https://gitlab.com/augfab/slime-repl-ansi-color"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

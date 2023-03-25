@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Query  Preview YouTube via Invidious"
+DESCRIPTION="Query / Preview YouTube via Invidious"
 
 HOMEPAGE="https://github.com/spiderbit/ytdious"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

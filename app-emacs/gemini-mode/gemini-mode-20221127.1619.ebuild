@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A simple highlighting package for textgemini"
+DESCRIPTION="A simple highlighting package for text/gemini"
 
 HOMEPAGE="https://git.carcosa.net/jmcbray/gemini.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

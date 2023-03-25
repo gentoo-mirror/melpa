@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Generate, popup ( optionally backup) scratch buffer(s)."
+DESCRIPTION="Generate, popup (& optionally backup) scratch buffer(s)."
 
 HOMEPAGE="http://hins11.yu-yake.com/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="M-x all with helm-swoopanythingmultiple-cursorsline-number"
+DESCRIPTION="M-x all with helm-swoop/anything/multiple-cursors/line-number"
 
 HOMEPAGE="https://github.com/rubikitch/all-ext"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

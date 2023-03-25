@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/auto-complete app-emacs/distel-completion-lib
-DESCRIPTION=Erlangdistel completion backend for auto-complete-mode
+DESCRIPTION=Erlang/distel completion backend for auto-complete-mode
 EAPI=8
 HOMEPAGE=github.com/sebastiw/distel-completion
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/auto-complete app-emacs/distel-completion-lib >=app-editors/em
 SLOT=0
 SRC_URI=https://melpa.org/packages/auto-complete-distel-20180827.1344.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=358bb151adb8e0ec67d4342a3691644c
+_md5_=bb9a36fa65ac8fcc6378e3173c32e46e

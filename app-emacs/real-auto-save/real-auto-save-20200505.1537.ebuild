@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Automatically save your buffersfiles at regular intervals"
+DESCRIPTION="Automatically save your buffers/files at regular intervals"
 
 HOMEPAGE="https://github.com/ChillarAnand/real-auto-save"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

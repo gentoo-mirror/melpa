@@ -1,6 +1,6 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=A simple interface to saxonbs xquery.
+DESCRIPTION=A simple interface to saxonb's xquery.
 EAPI=8
 HOMEPAGE=https://github.com/paddymcall/xquery-tool.el
 INHERIT=g-sorcery gs-elpa
@@ -9,4 +9,4 @@ RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/xquery-tool-20200907.811.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=2625f8ed9a3337bc7d68ec132b04f032
+_md5_=bc30e0283a2ff3f892a719512dcff10b

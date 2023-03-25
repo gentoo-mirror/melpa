@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Guess a files mimetype by extension"
+DESCRIPTION="Guess a file's mimetype by extension"
 
 HOMEPAGE="https://github.com/cniles/emacs-mimetypes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

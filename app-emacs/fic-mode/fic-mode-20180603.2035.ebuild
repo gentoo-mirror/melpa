@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Show FIXMETODOBUG(...) in special face only in comments and strings"
+DESCRIPTION="Show FIXME/TODO/BUG(...) in special face only in comments and strings"
 
 HOMEPAGE="https://github.com/lewang/fic-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

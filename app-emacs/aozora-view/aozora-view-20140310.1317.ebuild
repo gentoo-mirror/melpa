@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Aoora Bunko text Emacs viewer."
+DESCRIPTION="Aozora Bunko text Emacs viewer."
 
 HOMEPAGE="https://github.com/kawabata/aozora-view"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Generate a Python functionmethod using a symbol under point"
+DESCRIPTION="Generate a Python function/method using a symbol under point"
 
 HOMEPAGE="https://github.com/vkazanov/elpygen"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

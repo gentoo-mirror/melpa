@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/popup app-emacs/mozc
-DESCRIPTION=Moc with popup
+DESCRIPTION=Mozc with popup
 EAPI=8
 HOMEPAGE=https://melpa.org/packages/
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/popup app-emacs/mozc >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/mozc-popup-20150224.34.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=adc501311e09d1e952b3bd0b5091ad9c
+_md5_=bcf62f9fe2a95bb4ac2bb05393a00a3b

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Display a buffers project in its mode line"
+DESCRIPTION="Display a buffer's project in its mode line"
 
 HOMEPAGE="https://github.com/fritzgrabo/project-mode-line-tag"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Generate call graph for cc++ functions"
+DESCRIPTION="Generate call graph for c/c++ functions"
 
 HOMEPAGE="https://github.com/beacoder/call-graph"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

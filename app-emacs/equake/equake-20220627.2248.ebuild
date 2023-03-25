@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Drop-down console for (e)shell  terminal emulation"
+DESCRIPTION="Drop-down console for (e)shell & terminal emulation"
 
 HOMEPAGE="https://gitlab.com/emacsomancer/equake"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

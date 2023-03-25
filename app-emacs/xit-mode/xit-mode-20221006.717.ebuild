@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A [x]it major mode"
+DESCRIPTION="A [x]it! major mode"
 
 HOMEPAGE="https://github.com/ryanolsonx/xit-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

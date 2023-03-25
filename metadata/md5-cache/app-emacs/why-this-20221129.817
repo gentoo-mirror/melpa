@@ -1,6 +1,6 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=Why is this line here Ask version control
+DESCRIPTION=Why is this line here? Ask version control
 EAPI=8
 HOMEPAGE=https://codeberg.org/akib/emacs-why-this
 INHERIT=g-sorcery gs-elpa
@@ -9,4 +9,4 @@ RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/why-this-20221129.817.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=a4ece56786043d2c9dd99c5a15a9de4e
+_md5_=780c706fc20857ec5ccf1a1d9d07bd3c

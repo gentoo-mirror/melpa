@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Green-on-black dark theme inspired by The Matrix movie"
+DESCRIPTION="Green-on-black dark theme inspired by \"The Matrix\" movie"
 
 HOMEPAGE="https://github.com/monkeyjunglejuice/matrix-emacs-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

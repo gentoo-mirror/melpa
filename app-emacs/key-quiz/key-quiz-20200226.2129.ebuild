@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs Keys Qui"
+DESCRIPTION="Emacs Keys Quiz"
 
 HOMEPAGE="https://github.com/federicotdn/key-quiz"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

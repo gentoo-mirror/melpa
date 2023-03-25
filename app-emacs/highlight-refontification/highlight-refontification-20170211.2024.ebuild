@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Visualie font-lock refontification."
+DESCRIPTION="Visualize font-lock refontification."
 
 HOMEPAGE="https://github.com/Lindydancer/highlight-refontification"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

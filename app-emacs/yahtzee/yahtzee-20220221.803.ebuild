@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="The yahtee game"
+DESCRIPTION="The yahtzee game"
 
 HOMEPAGE="https://github.com/drdv/yahtzee"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

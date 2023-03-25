@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Screensaver running Conways Game of Life"
+DESCRIPTION="Screensaver running Conway's Game of Life"
 
 HOMEPAGE="https://github.com/Lindydancer/gameoflife"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

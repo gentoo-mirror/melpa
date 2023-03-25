@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="ASCII boxes unlimited"
+DESCRIPTION="ASCII boxes unlimited!"
 
 HOMEPAGE="https://boxes.thomasjensen.com"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

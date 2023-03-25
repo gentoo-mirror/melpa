@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Bael support for Emacs"
+DESCRIPTION="Bazel support for Emacs"
 
 HOMEPAGE="https://github.com/bazelbuild/emacs-bazel-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

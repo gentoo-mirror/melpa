@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Colorie untested ruby code"
+DESCRIPTION="Colorize untested ruby code"
 
 HOMEPAGE="https://github.org/zenspider/elisp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

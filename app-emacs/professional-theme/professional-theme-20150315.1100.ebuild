@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs port of Vims professional theme"
+DESCRIPTION="Emacs port of Vim's professional theme"
 
 HOMEPAGE="https://github.com/juanjux/emacs-professional-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

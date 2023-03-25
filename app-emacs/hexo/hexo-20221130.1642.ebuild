@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode  tools for Hexo"
+DESCRIPTION="Major mode & tools for Hexo"
 
 HOMEPAGE="https://github.com/kuanyui/hexo.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

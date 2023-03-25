@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Port Neovims python movement to Evil"
+DESCRIPTION="Port Neovim's python movement to Evil"
 
 HOMEPAGE="https://bitbucket.org/FelipeLema/evil-python-movement.el/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

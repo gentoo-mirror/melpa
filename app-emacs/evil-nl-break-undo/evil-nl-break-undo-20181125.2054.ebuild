@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Break evils undo sequence on CR"
+DESCRIPTION="Break evil's undo sequence on CR"
 
 HOMEPAGE="https://github.com/VanLaser/evil-nl-break-undo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

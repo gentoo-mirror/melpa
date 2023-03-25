@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="OSA (JavaScript  AppleScript) bridge"
+DESCRIPTION="OSA (JavaScript / AppleScript) bridge"
 
 HOMEPAGE="https://github.com/atomontage/osa"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

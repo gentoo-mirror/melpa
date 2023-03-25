@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Highlight dired by sie, date, git status"
+DESCRIPTION="Highlight dired by size, date, git status"
 
 HOMEPAGE="https://github.com/emacsorphanage/dired-k"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Cycle resie the current window horiontally or vertically"
+DESCRIPTION="Cycle resize the current window horizontally or vertically"
 
 HOMEPAGE="https://github.com/pierre-lecocq/cycle-resize"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A collection of programming modes for Boogie, Dafny, and 3 (SMTLIB v2)."
+DESCRIPTION="A collection of programming modes for Boogie, Dafny, and Z3 (SMTLIB v2)."
 
 HOMEPAGE="https://github.com/boogie-org/boogie-friends/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

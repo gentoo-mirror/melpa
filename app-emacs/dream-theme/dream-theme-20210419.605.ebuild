@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Maximalist Nordicenburn-inspired color theme"
+DESCRIPTION="Maximalist Nordic/Zenburn-inspired color theme"
 
 HOMEPAGE="https://github.com/djcb/dream-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

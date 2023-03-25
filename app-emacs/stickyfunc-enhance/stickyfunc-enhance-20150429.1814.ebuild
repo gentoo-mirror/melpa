@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="An enhancement to stock semantic-stickyfunc-mode"
+DESCRIPTION="An enhancement to stock \`semantic-stickyfunc-mode'"
 
 HOMEPAGE="https://github.com/tuhdo/semantic-stickyfunc-enhance"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

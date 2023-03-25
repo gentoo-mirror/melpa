@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Syntax highlighting for TextXslates Kolon syntax"
+DESCRIPTION="Syntax highlighting for Text::Xslate's Kolon syntax"
 
 HOMEPAGE="https://github.com/samvtran/kolon-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for Miniinc code"
+DESCRIPTION="Major mode for MiniZinc code"
 
 HOMEPAGE="http://github.com/m00nlight/minizinc-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

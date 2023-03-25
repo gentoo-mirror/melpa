@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Syntax highlighting for unison file synchroniation program"
+DESCRIPTION="Syntax highlighting for unison file synchronization program"
 
 HOMEPAGE="https://github.com/impaktor/unison-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

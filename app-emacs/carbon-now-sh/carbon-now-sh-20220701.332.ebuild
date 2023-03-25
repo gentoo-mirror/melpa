@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="httpscarbon.now.sh integration."
+DESCRIPTION="https://carbon.now.sh integration."
 
 HOMEPAGE="https://github.com/veelenga/carbon-now-sh.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

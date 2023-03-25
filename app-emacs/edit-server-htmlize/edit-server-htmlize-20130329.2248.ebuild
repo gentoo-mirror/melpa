@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="(de)HTMLiation hooks for edit-server.el"
+DESCRIPTION="(de)HTMLization hooks for edit-server.el"
 
 HOMEPAGE="https://github.com/frobtech/edit-server-htmlize"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

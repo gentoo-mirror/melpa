@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Replace the cloud with my butt"
+DESCRIPTION="Replace 'the cloud' with 'my butt'"
 
 HOMEPAGE="http://www.github.com/leathekd/cloud-to-butt-erc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

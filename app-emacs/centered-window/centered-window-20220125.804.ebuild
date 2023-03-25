@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Center the text when theres only one window"
+DESCRIPTION="Center the text when there's only one window"
 
 HOMEPAGE="https://github.com/anler/centered-window-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

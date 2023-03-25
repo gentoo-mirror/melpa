@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Duplicate current line  selection"
+DESCRIPTION="Duplicate current line & selection"
 
 HOMEPAGE="https://github.com/ongaeshi/duplicate-thing"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

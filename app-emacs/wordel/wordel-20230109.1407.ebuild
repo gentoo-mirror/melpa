@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="An Elisp implementation of Wordle (aka Lingo)"
+DESCRIPTION="An Elisp implementation of \"Wordle\" (aka \"Lingo\")"
 
 HOMEPAGE="https://github.com/progfolio/wordel"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

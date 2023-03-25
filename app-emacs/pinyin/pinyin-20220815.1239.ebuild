@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Convert Hani to Pinyin ()"
+DESCRIPTION="Convert Hanzi to Pinyin (汉字转拼音)"
 
 HOMEPAGE="https://github.com/xuchunyang/pinyin.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

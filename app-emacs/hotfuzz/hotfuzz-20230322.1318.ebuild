@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fuy completion style"
+DESCRIPTION="Fuzzy completion style"
 
 HOMEPAGE="https://github.com/axelf4/hotfuzz"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

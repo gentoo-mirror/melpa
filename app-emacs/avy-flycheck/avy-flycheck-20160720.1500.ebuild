@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Jump to and fix syntax errors using flycheck with avy interface"
+DESCRIPTION="Jump to and fix syntax errors using \`flycheck' with \`avy' interface"
 
 HOMEPAGE="https://github.com/magicdirac/avy-flycheck"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

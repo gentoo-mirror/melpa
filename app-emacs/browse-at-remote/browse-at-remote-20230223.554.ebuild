@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Open githubgitlabbitbucketstashgistphabsourcehut page from Emacs"
+DESCRIPTION="Open github/gitlab/bitbucket/stash/gist/phab/sourcehut page from Emacs"
 
 HOMEPAGE="https://github.com/rmuslimov/browse-at-remote"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

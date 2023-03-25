@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Visualie a list"
+DESCRIPTION="Visualize a list"
 
 HOMEPAGE="https://github.com/zainab-ali/pair-tree"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

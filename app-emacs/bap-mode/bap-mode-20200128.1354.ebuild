@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major-mode for BAPs IR"
+DESCRIPTION="Major-mode for BAP's IR"
 
 HOMEPAGE="https://github.com/fkie-cad/bap-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

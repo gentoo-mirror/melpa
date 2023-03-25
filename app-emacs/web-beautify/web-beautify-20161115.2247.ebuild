@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Format HTML, CSS and JavaScriptJSON"
+DESCRIPTION="Format HTML, CSS and JavaScript/JSON"
 
 HOMEPAGE="https://github.com/yasuyk/web-beautify"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

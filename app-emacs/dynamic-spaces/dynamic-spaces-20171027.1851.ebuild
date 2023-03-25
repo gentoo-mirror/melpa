@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="When editing, dont move text separated by spaces"
+DESCRIPTION="When editing, don't move text separated by spaces"
 
 HOMEPAGE="https://github.com/Lindydancer/dynamic-spaces"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

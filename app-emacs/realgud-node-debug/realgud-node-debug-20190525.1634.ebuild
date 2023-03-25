@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Realgud front-end to older node debug"
+DESCRIPTION="Realgud front-end to older \"node debug\""
 
 HOMEPAGE="http://github.com/realgud/realgud-node-debug"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

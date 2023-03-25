@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Add date to thing-at-point function"
+DESCRIPTION="Add \`date' to \`thing-at-point' function"
 
 HOMEPAGE="https://github.com/alezost/date-at-point.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

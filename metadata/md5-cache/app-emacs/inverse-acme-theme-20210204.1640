@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/autothemer
-DESCRIPTION=A theme that looks like an inverse of Acmes color scheme.
+DESCRIPTION=A theme that looks like an inverse of Acme's color scheme.
 EAPI=8
 HOMEPAGE=http://github.com/dcjohnson/inverse-acme-theme
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/autothemer >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/inverse-acme-theme-20210204.1640.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=88973b8e397e197f26361f825b3842a5
+_md5_=4094bf7d0c2d0b2ef1ef6458a93cfe54

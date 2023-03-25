@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A coffee-mode configuration for ff-find-other-file."
+DESCRIPTION="A coffee-mode configuration for \`ff-find-other-file'."
 
 HOMEPAGE="http://github.com/yasuyk/coffee-fof"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

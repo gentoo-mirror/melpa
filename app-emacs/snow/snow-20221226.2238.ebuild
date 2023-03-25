@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Let it snow in Emacs"
+DESCRIPTION="Let it snow in Emacs!"
 
 HOMEPAGE="https://github.com/alphapapa/snow.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

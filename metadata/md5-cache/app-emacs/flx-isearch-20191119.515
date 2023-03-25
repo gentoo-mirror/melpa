@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/flx
-DESCRIPTION=Fuy incremental searching for emacs
+DESCRIPTION=Fuzzy incremental searching for emacs
 EAPI=8
 HOMEPAGE=https://github.com/pythonnut/flx-isearch
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/flx >=app-editors/emacs-23.1:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/flx-isearch-20191119.515.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=a6eb6a0663bc88e788ec83eefb80ccf8
+_md5_=c850afb430ebd110fb6f8c9aad0cd626

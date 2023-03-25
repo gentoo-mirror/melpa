@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="rubys rspec like syntax test frame work"
+DESCRIPTION="ruby's rspec like syntax test frame work"
 
 HOMEPAGE="https://github.com/uk-ar/el-spec"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
