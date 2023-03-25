@@ -1,12 +1,12 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=Catppuccin for Emacs - Soothing pastel theme for Emacs
+DESCRIPTION=Major mode for editing Constraint Grammar files
 EAPI=8
-HOMEPAGE=https://github.com/catppuccin/emacs
+HOMEPAGE=https://visl.sdu.dk/constraint_grammar.html
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/catppuccin-theme-20230223.808.tar
+SRC_URI=https://melpa.org/packages/cg-20230325.1457.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	4d1c0e88698cac71b148578be8359db3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=b25f99c3273870892c4ab0274ff091fc
+_md5_=e50a3c5c4c0c0b3384b2c41135bea721
