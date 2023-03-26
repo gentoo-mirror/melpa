@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minimal, calm and light theme for Emacs"
+DESCRIPTION="Minimal light monochromatic theme for Emacs in the spirit of Zmacs"
 
 HOMEPAGE="https://github.com/topikettunen/tok-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
