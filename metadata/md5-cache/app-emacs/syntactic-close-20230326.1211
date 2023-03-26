@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/ivy
-DESCRIPTION=Isearch with an overview. Oh, man!
+DESCRIPTION=Insert closing delimiter
 EAPI=8
-HOMEPAGE=https://github.com/abo-abo/swiper
+HOMEPAGE=https://github.com/emacs-berlin/syntactic-close
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/ivy >=app-editors/emacs-23.1:*
+RDEPEND=>=app-editors/emacs-23.1:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/swiper-20220430.2247.el
+SRC_URI=https://melpa.org/packages/syntactic-close-20230326.1211.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	4f91d24ccf86f94b3f28c6470aab24d3	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=3f7eb507fd479c4583de9f37ebc68360
+_md5_=6aba4fe39f75cc9f82ef53e33519a36e

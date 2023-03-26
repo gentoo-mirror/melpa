@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-23.1:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/compat
-DESCRIPTION=Consulting completing-read
+DEPEND=app-emacs/dash app-emacs/s app-emacs/org-mode
+DESCRIPTION=An OMDb API client with some convenience functions
 EAPI=8
-HOMEPAGE=https://github.com/minad/consult
+HOMEPAGE=https://github.com/isamert/orgmdb
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/compat >=app-editors/emacs-23.1:*
+RDEPEND=app-emacs/dash app-emacs/s app-emacs/org-mode >=app-editors/emacs-23.1:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/consult-20230325.1639.tar
+SRC_URI=https://melpa.org/packages/orgmdb-20230312.2231.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	4f91d24ccf86f94b3f28c6470aab24d3	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=f051911b4dba2d40fdd77761e40a55e2
+_md5_=7bd9ab5716d17b9be98efa52468d8e12
