@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="single"
-REALNAME="time-block"
+REALNAME="swiper"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Block running commands using time"
+DESCRIPTION="Isearch with an overview.  Oh, man!"
 
-HOMEPAGE="https://git.sr.ht/~swflint/time-block"
+HOMEPAGE="https://github.com/abo-abo/swiper"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/ts"
-RDEPEND="app-emacs/ts"
+DEPEND="app-emacs/ivy"
+RDEPEND="app-emacs/ivy"

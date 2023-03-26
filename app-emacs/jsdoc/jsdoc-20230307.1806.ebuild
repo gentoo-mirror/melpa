@@ -5,18 +5,20 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="single"
-REALNAME="swiper"
+REALNAME="jsdoc"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Isearch with an overview. Oh, man!"
+DESCRIPTION="Insert JSDoc comments"
 
-HOMEPAGE="https://github.com/abo-abo/swiper"
+HOMEPAGE="https://github.com/isamert/jsdoc.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/ivy"
-RDEPEND="app-emacs/ivy"
+DEPEND="app-emacs/dash
+	app-emacs/s"
+RDEPEND="app-emacs/dash
+	app-emacs/s"
