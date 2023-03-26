@@ -437,7 +437,7 @@ app-emacs/calmer-forest-theme 20230302.2149: Darkish theme with green/orange tin
 app-emacs/camcorder 20190317.2138: Record screencasts in gif or other formats.
 app-emacs/caml 20230129.1145: Caml mode for GNU Emacs
 app-emacs/cangjie 20230219.1150: Retrieve cangjie code for han characters
-app-emacs/cape 20230323.826: Completion At Point Extensions
+app-emacs/cape 20230326.1643: Completion At Point Extensions
 app-emacs/capnp-mode 20210707.2310: Major mode for editing Capn' Proto Files
 app-emacs/capture 20130828.1644: screencasting with "avconv" or "ffmpeg"
 app-emacs/carbon-now-sh 20220701.332: https://carbon.now.sh integration.
@@ -610,6 +610,7 @@ app-emacs/color-theme-sanityinc-tomorrow 20220917.1349: A version of Chris Kemps
 app-emacs/color-theme-x 20201204.2245: convert color themes to X11 resource settings
 app-emacs/colorless-themes 20210102.1035: A macro to generate mostly colorless themes
 app-emacs/colormaps 20171008.2224: Hex colormaps
+app-emacs/colors 20230319.2026: Color manipulation library
 app-emacs/column-enforce-mode 20200605.1933: Highlight text that extends beyond a column
 app-emacs/com-css-sort 20220704.647: Common way of sorting the CSS attributes
 app-emacs/comb 20201010.1147: Interactive code auditing and grep tool
@@ -709,7 +710,7 @@ app-emacs/conkeror-minor-mode 20150114.1604: Mode for editing conkeror javascrip
 app-emacs/conllu-mode 20200501.2328: editing mode for CoNLL-U files
 app-emacs/connection 20191111.446: TCP-based client connection
 app-emacs/constant-theme 20180921.1012: A calm, dark, almost monochrome color theme.
-app-emacs/consult 20230325.1639: Consulting completing-read
+app-emacs/consult 20230326.1637: Consulting completing-read
 app-emacs/consult-ag 20230227.406: The silver searcher integration using Consult
 app-emacs/consult-codesearch 20230315.1424: Consult interface for codesearch
 app-emacs/consult-company 20220830.1834: Consult frontend for company
@@ -1262,7 +1263,7 @@ app-emacs/emacs-crystal-mode 20230223.2257: Major mode for editing Crystal files
 app-emacs/emacs-el-fetch 20230210.1311: Show system information in Neofetch-like style (eg CPU, RAM)
 app-emacs/emacs-everywhere 20220831.1636: System-wide popup windows for quick edits
 app-emacs/emacs-websearch 20230210.1321: Query search engines
-app-emacs/emacsc 20221105.1715: helper for emacsc(1)
+app-emacs/emacsc 20230326.1852: helper for emacsc(1)
 app-emacs/emacsist-view 20160426.1223: Mode for viewing emacsist.com
 app-emacs/emacsql 20230228.1040: High-level SQL database front-end
 app-emacs/emacsql-mysql 20230225.2205: EmacSQL back-end for MySQL
@@ -1594,7 +1595,7 @@ app-emacs/fireplace 20200402.2206: A cozy fireplace for emacs
 app-emacs/firestarter 20210508.1626: Execute (shell) commands on save
 app-emacs/firrtl-mode 20200329.2002: mode for working with FIRRTL files
 app-emacs/fish-completion 20191103.1210: Fish completion for pcomplete (shell and Eshell)
-app-emacs/fish-mode 20220505.1111: Major mode for fish shell scripts
+app-emacs/fish-mode 20230326.1604: Major mode for fish shell scripts
 app-emacs/fit-text-scale 20211230.2002: Fit text by scaling
 app-emacs/fix-input 20210320.1244: Make input methods play nicely with alternative keyboard layout on OS level
 app-emacs/fix-muscle-memory 20210702.1755: Simple hacks to fix muscle memory problems
@@ -2687,6 +2688,7 @@ app-emacs/js2-refactor 20210306.2003: A JavaScript refactoring library for emacs
 app-emacs/js2hl 20201119.816: Highlight/rename things using js2-mode parser
 app-emacs/js3-mode 20160515.1550: An improved JavaScript editing mode
 app-emacs/jscs 20151015.1749: Consistent JavaScript editing using JSCS
+app-emacs/jsdoc 20230307.1806: Insert JSDoc comments
 app-emacs/jsfmt 20180920.1008: Interface to jsfmt command for javascript files
 app-emacs/json-mode 20211011.630: Major mode for editing JSON files.
 app-emacs/json-navigator 20191213.755: View and navigate JSON structures
@@ -2829,6 +2831,7 @@ app-emacs/latex-preview-pane 20181008.1822: Makes LaTeX editing less painful by 
 app-emacs/latex-table-wizard 20230103.2241: Magic editing of LaTeX tables
 app-emacs/latex-unicode-math-mode 20170123.1816: Input method for Unicode math symbols
 app-emacs/latexdiff 20190827.1651: Latexdiff integration in Emacs
+app-emacs/latvian-holidays 20230319.2130: Latvian holidays for the calendar
 app-emacs/launch 20130619.2204: launch files with OS-standard associated applications.
 app-emacs/launch-mode 20170106.512: Major mode for launch-formatted text
 app-emacs/launchctl 20210611.2243: Interface to launchctl on Mac OS X.
@@ -3420,6 +3423,7 @@ app-emacs/ob-dao 20170816.1558: Org Babel Functions for Dao
 app-emacs/ob-dart 20221201.633: Evaluate Dart source blocks in org-mode
 app-emacs/ob-deno 20201019.101: Babel Functions for Javascript/TypeScript with Deno
 app-emacs/ob-diagrams 20160407.1237: org-babel functions for diagrams evaluation
+app-emacs/ob-drawtiming 20230312.1740: Functions for drawtiming evaluation in org-babel
 app-emacs/ob-dsq 20220915.1610: Babel functions for the `dsq` CLI tool by Multiprocess Labs
 app-emacs/ob-elixir 20170725.1419: org-babel functions for elixir evaluation
 app-emacs/ob-elm 20200528.1857: Org-babel functions for elm evaluation
@@ -3619,7 +3623,7 @@ app-emacs/org-msg 20230127.520: Org mode to send and reply to email in HTML.
 app-emacs/org-multi-wiki 20210324.1820: Multiple wikis based on Org mode
 app-emacs/org-multiple-keymap 20191017.1920: Set keymap to elements, such as timestamp and priority.
 app-emacs/org-notebook 20170322.452: Ease the use of org-mode as a notebook
-app-emacs/org-noter 20230315.111: A synchronized, Org-mode, document annotator
+app-emacs/org-noter 20230326.1812: A synchronized, Org-mode, document annotator
 app-emacs/org-noter-pdftools 20220320.300: Integration between org-pdftools and org-noter
 app-emacs/org-notifications 20210918.1827: Creates notifications for org-mode entries
 app-emacs/org-octopress 20170821.415: Compose octopress articles using org-mode.
@@ -3720,6 +3724,7 @@ app-emacs/orgit 20230212.2013: Support for Org links to Magit buffers
 app-emacs/orgit-forge 20230212.2013: Org links to Forge issue buffers
 app-emacs/orglink 20230212.2213: Use Org Mode links in other modes
 app-emacs/orglue 20200411.311: more functionality to org-mode.
+app-emacs/orgmdb 20230312.2231: An OMDb API client with some convenience functions
 app-emacs/orgnav 20170608.1713: Org tree navigation using helm
 app-emacs/orgstrap 20230202.235: Bootstrap an Org file using file local variables
 app-emacs/orgtbl-aggregate 20230205.836: Create an aggregated Org table from another one
@@ -4162,7 +4167,7 @@ app-emacs/python-black 20230313.1037: Reformat Python using python-black
 app-emacs/python-cell 20230224.1925: Support for MATLAB-like cells in python mode
 app-emacs/python-coverage 20211224.1420: Show Python coverage via overlays or Flycheck
 app-emacs/python-django 20150822.404: A Jazzy package for managing Django projects
-app-emacs/python-docstring 20230317.1742: Smart Python docstring formatting
+app-emacs/python-docstring 20230326.1929: Smart Python docstring formatting
 app-emacs/python-environment 20150310.853: virtualenv API for Emacs Lisp
 app-emacs/python-info 20151228.1852: Python info manual for Emacs
 app-emacs/python-insert-docstring 20211127.1232: Python Google docstring inserter
@@ -4772,12 +4777,13 @@ app-emacs/swagger-to-org 20160611.56: Convert a swagger.json file into an org-mo
 app-emacs/swap-buffers 20150506.2139: The quickest way to swap buffers between windows. Based on switch-window package.
 app-emacs/swap-regions 20180915.1346: Swap text in two regions
 app-emacs/sway 20221211.1439: Communication with the Sway window manager
+app-emacs/sway-lang-mode 20230320.507: Major mode for sway
 app-emacs/sweet-theme 20200708.1202: Sweet-looking theme
 app-emacs/sweetgreen 20180605.335: Order Salads from sweetgreen.com
 app-emacs/swift-helpful 20220707.846: Show documentation for Swift programs.
 app-emacs/swift-mode 20230117.1113: Major-mode for Apple's Swift programming language
 app-emacs/swift3-mode 20160918.1250: Major-mode for Apple's Swift programming language.
-app-emacs/swiper 20220430.2247: Isearch with an overview. Oh, man!
+app-emacs/swiper 20230326.1911: Isearch with an overview. Oh, man!
 app-emacs/swiper-helm 20180131.1744: Helm version of Swiper.
 app-emacs/swiss-holidays 20200526.822: Swiss holidays for the calendar
 app-emacs/switch-buffer-functions 20200127.409: Hook run when current buffer changed
@@ -4797,7 +4803,7 @@ app-emacs/sync-recentf 20160326.2001: Synchronize the recent files list between 
 app-emacs/synonymous 20180325.1817: A thesaurus at your fingertips
 app-emacs/synosaurus 20191125.552: An extensible thesaurus supporting lookup and substitution.
 app-emacs/synquid 20160930.1550: Major mode for editing Synquid files
-app-emacs/syntactic-close 20230316.1400: Insert closing delimiter
+app-emacs/syntactic-close 20230326.1211: Insert closing delimiter
 app-emacs/syntactic-sugar 20140508.2041: Effect-free forms such as if/then/else
 app-emacs/syntax-subword 20160205.2154: make operations on words more fine-grained
 app-emacs/syntree 20221114.1804: Draw plain text constituency trees
@@ -4898,7 +4904,7 @@ app-emacs/tidal 20230312.1245: Interact with TidalCycles for live coding pattern
 app-emacs/tide 20230129.1346: Typescript Interactive Development Environment
 app-emacs/tikz 20220526.521: A minor mode to edit TikZ pictures
 app-emacs/tile 20161225.357: Tile windows with layouts
-app-emacs/time-block 20230326.405: Block running commands using time
+app-emacs/time-block 20230326.1904: Block running commands using time
 app-emacs/time-ext 20170126.1215: more function for time/date
 app-emacs/time-uuid-mode 20230312.2256: Minor mode for previewing time uuids as an overlay
 app-emacs/timecop 20160520.1052: Freeze Time for testing
