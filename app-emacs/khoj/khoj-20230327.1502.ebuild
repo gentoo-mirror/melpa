@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Natural, Incremental Search for your Second Brain"
+DESCRIPTION="A search assistant for your second brain"
 
 HOMEPAGE="https://github.com/debanjum/khoj/tree/master/src/interface/emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
