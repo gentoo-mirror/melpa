@@ -4,15 +4,15 @@
 EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
-SOURCE_TYPE="tar"
-REALNAME="autocrypt"
+SOURCE_TYPE="single"
+REALNAME="fleetish-theme"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Autocrypt implementation"
+DESCRIPTION="A take on the JetBrains Fleet theme"
 
-HOMEPAGE="https://git.sr.ht/~pkal/autocrypt"
+HOMEPAGE="https://github.com/nylar/fleetish-emacs-theme.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
