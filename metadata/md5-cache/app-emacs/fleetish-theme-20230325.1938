@@ -1,12 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=Emacs org-mode integration for the OpenAI API
+DESCRIPTION=A take on the JetBrains Fleet theme
 EAPI=8
-HOMEPAGE=https://github.com/rksm/org-ai
+HOMEPAGE=https://github.com/nylar/fleetish-emacs-theme.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/org-ai-20230317.2217.tar
+SRC_URI=https://melpa.org/packages/fleetish-theme-20230325.1938.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	4f91d24ccf86f94b3f28c6470aab24d3	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=3968ee8d3ba81759ec687b437806d6fb
+_md5_=70a9a5d514a8e67f7d04adcf860addf9
