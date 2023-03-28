@@ -504,6 +504,7 @@ app-emacs/chinese-word-at-point 20170811.941: Add `chinese-word' thing to `thing
 app-emacs/chinese-yasdcv 20171015.144: Yet another StarDict frontend
 app-emacs/chocolate-theme 20210128.1647: A dark chocolaty theme
 app-emacs/choice-program 20201217.1751: Parameter based program
+app-emacs/chroma 20230327.1634: Color manipulation library
 app-emacs/chronometer 20190304.1528: a [not so] simple chronometer
 app-emacs/chronometrist 20230302.700: Friendly and powerful personal time tracker and analyzer
 app-emacs/chronometrist-goal 20210510.1831: Adds support for time goals to Chronometrist
@@ -609,7 +610,6 @@ app-emacs/color-theme-sanityinc-tomorrow 20220917.1349: A version of Chris Kemps
 app-emacs/color-theme-x 20201204.2245: convert color themes to X11 resource settings
 app-emacs/colorless-themes 20210102.1035: A macro to generate mostly colorless themes
 app-emacs/colormaps 20171008.2224: Hex colormaps
-app-emacs/colors 20230319.2026: Color manipulation library
 app-emacs/column-enforce-mode 20200605.1933: Highlight text that extends beyond a column
 app-emacs/com-css-sort 20220704.647: Common way of sorting the CSS attributes
 app-emacs/comb 20201010.1147: Interactive code auditing and grep tool
@@ -863,7 +863,7 @@ app-emacs/dash-alfred 20191024.450: Search Dash documentation via Dash-Alfred-Wo
 app-emacs/dash-at-point 20211023.104: Search the word at point with Dash
 app-emacs/dash-docs 20210830.926: Offline documentation browser using Dash docsets.
 app-emacs/dash-functional 20210826.1149: Collection of useful combinators for Emacs Lisp
-app-emacs/dashboard 20230317.413: A startup screen extracted from Spacemacs
+app-emacs/dashboard 20230328.610: A startup screen extracted from Spacemacs
 app-emacs/dashboard-hackernews 20220516.1809: Display Hacker News on dashboard
 app-emacs/dashboard-ls 20221231.1629: Display files/directories in current directory on Dashboard
 app-emacs/dashboard-project-status 20190202.1354: Display a git project status in a dashboard widget.
@@ -878,7 +878,7 @@ app-emacs/db 20140421.2111: A database for EmacsLisp
 app-emacs/db-pg 20130131.1902: A PostgreSQL adapter for emacs-db
 app-emacs/dbc 20201001.1452: Control how to open buffers
 app-emacs/ddate 20221031.1611: Manage Discordian dates with ddate
-app-emacs/ddskk 20230319.758: Simple Kana to Kanji conversion program.
+app-emacs/ddskk 20230328.955: Simple Kana to Kanji conversion program.
 app-emacs/ddskk-posframe 20200812.917: Show Henkan tooltip for ddskk via posframe
 app-emacs/deadgrep 20230310.1634: fast, friendly searching with ripgrep
 app-emacs/debian-el 20211006.1939: Emacs helpers specific to Debian users
@@ -1276,7 +1276,7 @@ app-emacs/emamux 20200315.1220: Interact with tmux
 app-emacs/emamux-ruby-test 20130812.1639: Ruby test with emamux
 app-emacs/emaps 20200508.1759: Utilities for working with keymaps
 app-emacs/embark 20230327.1434: Conveniently act on minibuffer completions
-app-emacs/embark-consult 20230320.1442: Consult integration for Embark
+app-emacs/embark-consult 20230327.1843: Consult integration for Embark
 app-emacs/embark-vc 20230212.1920: Embark actions for various version control integrations
 app-emacs/ember-mode 20200208.1423: Ember navigation mode for emacs
 app-emacs/ember-yasnippets 20160526.1658: Snippets for Ember.js development
@@ -2660,7 +2660,7 @@ app-emacs/jetbrains 20180301.502: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default JetBrains Darcula theme
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file.
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
-app-emacs/jinx 20230327.1749: Enchanted Just-in-time Spell Checker
+app-emacs/jinx 20230327.1943: Enchanted Just-in-time Spell Checker
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jist 20161229.1721: Gist integration
@@ -2767,7 +2767,7 @@ app-emacs/keyword-search 20180424.1102: browser keyword search from Emacs
 app-emacs/kfg 20140909.538: an emacs configuration system
 app-emacs/khalel 20230122.1139: Import, edit and create calendar events through khal
 app-emacs/khardel 20220223.934: Integrate with khard
-app-emacs/khoj 20230327.1502: A search assistant for your second brain
+app-emacs/khoj 20230327.2035: A search assistant for your second brain
 app-emacs/kibit-helper 20150508.1533: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-file-path 20230306.1041: Copy file name into kill ring
 app-emacs/kill-or-bury-alive 20210320.1231: Precise control over buffer killing in Emacs
@@ -2919,7 +2919,7 @@ app-emacs/literate-elisp 20220626.932: Load Emacs Lisp code blocks from Org file
 app-emacs/litex-mode 20221107.147: Minor mode for converting lisp to LaTeX
 app-emacs/live-code-talks 20180907.1647: Support for slides with live code in them
 app-emacs/live-preview 20201010.1948: Live preview by any shell command while editing
-app-emacs/live-py-mode 20230327.116: Live Coding in Python
+app-emacs/live-py-mode 20230328.236: Live Coding in Python
 app-emacs/lively 20171005.754: interactively updating text
 app-emacs/livereload 20170629.650: Livereload server
 app-emacs/livescript-mode 20221015.1316: Major mode for editing LiveScript files
@@ -3010,7 +3010,7 @@ app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20180219.1552: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-mode 20230103.1503: mode for editing Magik + some utils.
-app-emacs/magit 20230323.1801: A Git porcelain inside Emacs.
+app-emacs/magit 20230327.1937: A Git porcelain inside Emacs.
 app-emacs/magit-annex 20230319.2103: Control git-annex from Magit
 app-emacs/magit-commit-mark 20230214.1821: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3184,7 +3184,7 @@ app-emacs/modern-fringes 20220401.202: Replaces default fringe bitmaps with bett
 app-emacs/modern-sh 20211101.1001: Minor mode for editing shell script
 app-emacs/modtime-skip-mode 20140128.2201: Minor mode for disabling modtime and supersession checks on files.
 app-emacs/modular-config 20210726.1614: Organize your config into small and loadable modules
-app-emacs/modus-themes 20230327.1253: Elegant, highly legible and customizable themes
+app-emacs/modus-themes 20230328.407: Elegant, highly legible and customizable themes
 app-emacs/moe-theme 20230110.422: A colorful eye-candy theme. Moe, moe, kyun!
 app-emacs/molar-mass 20220922.1752: Calculates molar mass of a molecule
 app-emacs/molecule 20180527.743: Simple wrapper for molecule
@@ -4730,7 +4730,7 @@ app-emacs/stgit 20230224.2315: major mode for StGit interaction
 app-emacs/sticky 20170926.36: Sticky key for capital letters
 app-emacs/sticky-shell 20230207.1454: Minor mode to keep track of previous prompt in your shell
 app-emacs/stickyfunc-enhance 20150429.1814: An enhancement to stock `semantic-stickyfunc-mode'
-app-emacs/stimmung-themes 20230227.852: Themes tuned to inner harmonies
+app-emacs/stimmung-themes 20230328.849: Themes tuned to inner harmonies
 app-emacs/stock-ticker 20150204.1052: Show stock prices in mode line
 app-emacs/stock-tracker 20230105.503: Track stock price
 app-emacs/strace-mode 20171116.2039: strace output syntax highlighting
@@ -4935,7 +4935,7 @@ app-emacs/togetherly 20170426.616: allow multiple clients to edit a single buffe
 app-emacs/toggle-quotes 20140710.926: Toggle between single and double quoted string
 app-emacs/toggle-test 20140723.537: Toggle between source and test files in various programming languages
 app-emacs/toggle-window 20141207.1548: toggle current window size between half and full
-app-emacs/tok-theme 20230326.5: Minimal light monochromatic theme for Emacs in the spirit of Zmacs
+app-emacs/tok-theme 20230328.1049: Minimal light monochromatic theme for Emacs in the spirit of Zmacs
 app-emacs/tokei 20220823.2058: Display codebase statistics
 app-emacs/tomatinho 20180621.1748: Simple and beautiful pomodoro timer
 app-emacs/toml 20130903.1255: TOML (Tom's Obvious, Minimal Language) parser
