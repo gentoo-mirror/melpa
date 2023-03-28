@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="single"
-REALNAME="colors"
+REALNAME="chroma"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
 DESCRIPTION="Color manipulation library"
 
-HOMEPAGE="https://github.com/galdor/colors"
+HOMEPAGE="https://github.com/galdor/chroma"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
