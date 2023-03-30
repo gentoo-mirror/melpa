@@ -5,20 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="single"
-REALNAME="phpstan"
+REALNAME="nickel-mode"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Interface to PHPStan"
+DESCRIPTION="A major mode for editing Nickel source code"
 
-HOMEPAGE="https://github.com/emacs-php/phpstan.el"
+HOMEPAGE="https://github.com/nickel-lang/nickel-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/php-mode
-	app-emacs/php-runtime"
-RDEPEND="app-emacs/php-mode
-	app-emacs/php-runtime"
+DEPEND=""
+RDEPEND=""

@@ -5,22 +5,22 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="single"
-REALNAME="abs-mode"
+REALNAME="phpstan"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for the modeling language Abs"
+DESCRIPTION="Interface to PHPStan"
 
-HOMEPAGE="https://github.com/abstools/abs-mode"
+HOMEPAGE="https://github.com/emacs-php/phpstan.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/erlang
-	app-emacs/maude-mode
-	app-emacs/flymake"
-RDEPEND="app-emacs/erlang
-	app-emacs/maude-mode
-	app-emacs/flymake"
+DEPEND="app-emacs/compat
+	app-emacs/php-mode
+	app-emacs/php-runtime"
+RDEPEND="app-emacs/compat
+	app-emacs/php-mode
+	app-emacs/php-runtime"
