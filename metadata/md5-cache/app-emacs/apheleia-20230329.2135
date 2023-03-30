@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/request app-emacs/persist app-emacs/ts
-DESCRIPTION=Client for Mastodon, a federated social network
+DESCRIPTION=Reformat buffer stably
 EAPI=8
-HOMEPAGE=https://codeberg.org/martianh/mastodon.el
+HOMEPAGE=https://github.com/raxod502/apheleia
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/request app-emacs/persist app-emacs/ts >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/mastodon-20230329.1138.tar
+SRC_URI=https://melpa.org/packages/apheleia-20230329.2135.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	1d6e8d43be4713f04a441f721d890d48	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=7eb5be52d0244de41a7fd4e294976de7
+_md5_=fe3ea72bcb549b080a674505a4a37b80
