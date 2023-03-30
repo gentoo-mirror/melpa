@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=A dark theme that's pretty sad -*- lexical-binding: t; -
+DEPEND=app-emacs/dash app-emacs/edit-indirect
+DESCRIPTION=Edit comment/string/docstring/code block in separate buffer
 EAPI=8
-HOMEPAGE=https://gitlab.com/baaash/melancholy-theme
+HOMEPAGE=https://github.com/twlz0ne/separedit.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/dash app-emacs/edit-indirect >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/melancholy-theme-20230324.221.el
+SRC_URI=https://melpa.org/packages/separedit-20230330.416.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	1d6e8d43be4713f04a441f721d890d48	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=660d8b1100dd9cae74c8d9ce163ed574
+_md5_=931a0a2f75e30dfdd495507b71164460
