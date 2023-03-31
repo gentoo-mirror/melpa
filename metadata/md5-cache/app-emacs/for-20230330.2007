@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/hydra app-emacs/browse-at-remote
-DESCRIPTION=Show pretty information about current file
+DESCRIPTION=Iteration and sequence
 EAPI=8
-HOMEPAGE=https://github.com/artawower/file-info.el
+HOMEPAGE=https://github.com/usaoc/elisp-for
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/hydra app-emacs/browse-at-remote >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/file-info-20230214.1955.el
+SRC_URI=https://melpa.org/packages/for-20230330.2007.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	1d6e8d43be4713f04a441f721d890d48	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=bd52cdbfbd7a6c7856a01bde4e18b9c1
+_md5_=e419fe564d0c8a8590386a16d6435026
