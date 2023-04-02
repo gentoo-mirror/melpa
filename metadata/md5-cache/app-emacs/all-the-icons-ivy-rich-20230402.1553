@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/map app-emacs/compat app-emacs/plz app-emacs/persist
-DESCRIPTION=P2P filesystem in Emacs
+DEPEND=app-emacs/ivy-rich app-emacs/all-the-icons
+DESCRIPTION=Better experience with icons for ivy
 EAPI=8
-HOMEPAGE=https://git.sr.ht/~ushin/hyperdrive.el
+HOMEPAGE=https://github.com/seagle0128/all-the-icons-ivy-rich
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/map app-emacs/compat app-emacs/plz app-emacs/persist >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/ivy-rich app-emacs/all-the-icons >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/hyperdrive-20230330.606.tar
+SRC_URI=https://melpa.org/packages/all-the-icons-ivy-rich-20230402.1553.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	1d6e8d43be4713f04a441f721d890d48	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=b1978562e130b5696050a66ad24ca162
+_md5_=19341456100929a29ca4318ef3c9ca28
