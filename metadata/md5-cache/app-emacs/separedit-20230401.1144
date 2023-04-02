@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/dash app-emacs/seq app-emacs/s
-DESCRIPTION=access SWORD content via diatheke
+DEPEND=app-emacs/dash app-emacs/edit-indirect
+DESCRIPTION=Edit comment/string/docstring/code block in separate buffer
 EAPI=8
-HOMEPAGE=https://github.com/dtk01/dtk.el
+HOMEPAGE=https://github.com/twlz0ne/separedit.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/dash app-emacs/seq app-emacs/s >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/dash app-emacs/edit-indirect >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/dtk-20230304.2348.el
+SRC_URI=https://melpa.org/packages/separedit-20230401.1144.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	1d6e8d43be4713f04a441f721d890d48	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=c2e81158de1249477d1067fee9250868
+_md5_=931a0a2f75e30dfdd495507b71164460
