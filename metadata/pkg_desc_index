@@ -12,7 +12,7 @@ app-emacs/abc-mode 20220713.1359: Major mode for editing abc music files
 app-emacs/abgaben 20171119.646: review and correct assignments received by mail
 app-emacs/abl-mode 20210923.950: Python TDD minor mode
 app-emacs/abridge-diff 20230307.2159: Abridge long line-based diff hunks, including in magit
-app-emacs/abs-mode 20230330.1616: Major mode for the modeling language Abs
+app-emacs/abs-mode 20230402.1422: Major mode for the modeling language Abs
 app-emacs/abyss-theme 20170808.1345: A dark theme with contrasting colours.
 app-emacs/ac-alchemist 20150908.656: auto-complete source for alchemist
 app-emacs/ac-c-headers 20200816.1007: auto-complete source for C headers
@@ -99,9 +99,9 @@ app-emacs/all-the-icons 20230316.1906: A library for inserting Developer icons
 app-emacs/all-the-icons-completion 20230224.1610: Add icons to completion candidates
 app-emacs/all-the-icons-dired 20220929.1135: Shows icons for each file in dired mode
 app-emacs/all-the-icons-gnus 20180511.654: Shows icons for in Gnus
-app-emacs/all-the-icons-ibuffer 20220424.1027: Display icons for all buffers in ibuffer
+app-emacs/all-the-icons-ibuffer 20230402.1554: Display icons for all buffers in ibuffer
 app-emacs/all-the-icons-ivy 20190508.1803: Shows icons while using ivy and counsel
-app-emacs/all-the-icons-ivy-rich 20230314.1559: Better experience with icons for ivy
+app-emacs/all-the-icons-ivy-rich 20230402.1553: Better experience with icons for ivy
 app-emacs/almost-mono-themes 20220422.1714: Almost monochromatic color themes
 app-emacs/alsamixer 20191002.1133: Functions to call out to amixer.
 app-emacs/alt-codes 20220704.644: Insert alt codes using meta key
@@ -436,7 +436,7 @@ app-emacs/calmer-forest-theme 20230302.2149: Darkish theme with green/orange tin
 app-emacs/camcorder 20190317.2138: Record screencasts in gif or other formats.
 app-emacs/caml 20230129.1145: Caml mode for GNU Emacs
 app-emacs/cangjie 20230219.1150: Retrieve cangjie code for han characters
-app-emacs/cape 20230326.1643: Completion At Point Extensions
+app-emacs/cape 20230402.1532: Completion At Point Extensions
 app-emacs/capnp-mode 20210707.2310: Major mode for editing Capn' Proto Files
 app-emacs/capture 20130828.1644: screencasting with "avconv" or "ffmpeg"
 app-emacs/carbon-now-sh 20220701.332: https://carbon.now.sh integration.
@@ -1222,7 +1222,7 @@ app-emacs/elisp-refs 20230309.1638: find callers of elisp functions or macros
 app-emacs/elisp-sandbox 20131116.1842: Evaluate EmacsLisp expressions in a sandbox
 app-emacs/elisp-slime-nav 20210510.528: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 20221017.2044: Major mode for editing Elixir files
-app-emacs/elixir-ts-mode 20230321.1458: Major mode for Elixir with tree-sitter support
+app-emacs/elixir-ts-mode 20230402.916: Major mode for Elixir with tree-sitter support
 app-emacs/elixir-yasnippets 20150417.1239: Yasnippets for Elixir
 app-emacs/ellocate 20200112.1931: The locate command reimplemented in Emacs Lisp
 app-emacs/elm-mode 20230315.1122: Major mode for Elm
@@ -1300,7 +1300,7 @@ app-emacs/emoji-recall 20160723.2208: How many emoji can you recall from memory?
 app-emacs/emojify 20210108.1111: Display emojis in Emacs
 app-emacs/emojify-logos 20180814.917: Add logos to emojify
 app-emacs/empos 20151011.1916: Locate bibtex citations from within emacs
-app-emacs/empv 20230330.1856: A multimedia player/manager, YouTube interface
+app-emacs/empv 20230402.1203: A multimedia player/manager, YouTube interface
 app-emacs/emr 20220108.548: Emacs refactoring system.
 app-emacs/enclose 20121008.1614: Enclose cursor within punctuation pairs.
 app-emacs/encourage-mode 20151128.905: Encourages you in your work. :D
@@ -2434,7 +2434,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20230330.606: P2P filesystem in Emacs
+app-emacs/hyperdrive 20230402.1636: P2P filesystem in Emacs
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20210603.1825: Get there from here
@@ -3010,7 +3010,7 @@ app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20180219.1552: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-mode 20230103.1503: mode for editing Magik + some utils.
-app-emacs/magit 20230401.1245: A Git porcelain inside Emacs.
+app-emacs/magit 20230402.1342: A Git porcelain inside Emacs.
 app-emacs/magit-annex 20230319.2103: Control git-annex from Magit
 app-emacs/magit-commit-mark 20230214.1821: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3936,7 +3936,7 @@ app-emacs/php-eldoc 20140202.1941: eldoc backend for php
 app-emacs/php-mode 20230318.2134: Major mode for editing PHP code
 app-emacs/php-quickhelp 20210819.2025: Quickhelp at point for php
 app-emacs/php-refactor-mode 20171124.635: Minor mode to quickly and safely perform common refactorings
-app-emacs/php-runtime 20221009.1955: Language binding bridge to PHP
+app-emacs/php-runtime 20230402.1648: Language binding bridge to PHP
 app-emacs/php-scratch 20210706.459: A scratch buffer to interactively evaluate php code
 app-emacs/phpactor 20221023.608: Interface to Phpactor
 app-emacs/phpstan 20230331.1230: Interface to PHPStan
@@ -4042,7 +4042,7 @@ app-emacs/power-mode 20220817.429: Imbue Emacs with power!
 app-emacs/powerline 20221110.1956: Rewrite of Powerline
 app-emacs/powerline-evil 20190603.340: Utilities for better Evil support for Powerline
 app-emacs/powershell 20220805.1712: Mode for editing PowerShell scripts
-app-emacs/powerthesaurus 20230401.1906: Powerthesaurus integration
+app-emacs/powerthesaurus 20230402.1656: Powerthesaurus integration
 app-emacs/ppcompile 20220619.1535: Ping-pong compile projects on remote machines
 app-emacs/ppd-sr-speedbar 20151108.1224: Sr Speedbar adaptor for project-persist-drawer.
 app-emacs/ppp 20220211.1529: Extended pretty printer for Emacs Lisp
@@ -4887,7 +4887,7 @@ app-emacs/textsize 20220427.1445: Configure frame text size automatically
 app-emacs/textx-mode 20230324.2020: Major mode for editing TextX files
 app-emacs/tf2-conf-mode 20161209.1620: TF2 Configuration files syntax highlighting
 app-emacs/tfsmacs 20180911.2114: MS TFS source control interaction.
-app-emacs/the-matrix-theme 20230317.338: Green-on-black dark theme inspired by "The Matrix" movie
+app-emacs/the-matrix-theme 20230402.1218: Green-on-black dark theme inspired by "The Matrix" movie
 app-emacs/theme-anchor 20220204.321: Apply theme in current buffer only
 app-emacs/theme-changer 20201226.2256: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 20210827.424: A package for switching themes in Emacs interactively
