@@ -101,7 +101,7 @@ app-emacs/all-the-icons-dired 20220929.1135: Shows icons for each file in dired 
 app-emacs/all-the-icons-gnus 20180511.654: Shows icons for in Gnus
 app-emacs/all-the-icons-ibuffer 20230402.1554: Display icons for all buffers in ibuffer
 app-emacs/all-the-icons-ivy 20190508.1803: Shows icons while using ivy and counsel
-app-emacs/all-the-icons-ivy-rich 20230402.1553: Better experience with icons for ivy
+app-emacs/all-the-icons-ivy-rich 20230404.1331: Better experience with icons for ivy
 app-emacs/almost-mono-themes 20220422.1714: Almost monochromatic color themes
 app-emacs/alsamixer 20191002.1133: Functions to call out to amixer.
 app-emacs/alt-codes 20220704.644: Insert alt codes using meta key
@@ -528,7 +528,7 @@ app-emacs/circleci-api 20210227.1607: Bindings for the CircleCI API
 app-emacs/citar 20230325.136: Citation-related commands for org, latex, markdown
 app-emacs/citar-denote 20230403.1038: Minor mode to integrate Citar and Denote
 app-emacs/citar-embark 20230323.1926: Citar/Embark integration
-app-emacs/citar-org-roam 20230330.1401: Citar/org-roam integration
+app-emacs/citar-org-roam 20230404.1225: Citar/org-roam integration
 app-emacs/citeproc-el 20230228.1414: A CSL 1.0.2 Citation Processor
 app-emacs/citeproc-org 20200915.2009: Render org-mode references in CSL styles
 app-emacs/citre 20230217.1202: Ctags IDE on the True Editor
@@ -579,7 +579,7 @@ app-emacs/clues-theme 20161213.1127: an Emacs 24 theme which may well be fully a
 app-emacs/cm-mode 20170203.2107: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 20230304.2223: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 20210610.1525: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 20230329.1819: major-mode for editing CMake sources
+app-emacs/cmake-mode 20230404.1329: major-mode for editing CMake sources
 app-emacs/cmake-project 20171121.1115: Integrates CMake build process with Emacs
 app-emacs/cmd-to-echo 20161203.2133: Show the output of long-running commands in the echo area
 app-emacs/cmm-mode 20150225.746: Major mode for C-- source code
@@ -1041,7 +1041,7 @@ app-emacs/dokuwiki 20180102.59: Edit Remote DokuWiki Pages Using XML-RPC
 app-emacs/dokuwiki-mode 20170223.1301: Major mode for DokuWiki document
 app-emacs/dollaro 20151123.1302: simple text templates
 app-emacs/doom 20180301.2308: DOM implementation and manipulation library
-app-emacs/doom-modeline 20230306.250: A minimal and modern mode-line
+app-emacs/doom-modeline 20230404.1334: A minimal and modern mode-line
 app-emacs/doom-modeline-now-playing 20210831.1442: Segment for Doom Modeline to show playerctl information
 app-emacs/doom-themes 20230221.610: an opinionated pack of modern color-themes
 app-emacs/dot-mode 20180312.2300: minor mode to repeat typing or commands
@@ -2435,7 +2435,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20230402.1725: P2P filesystem in Emacs
+app-emacs/hyperdrive 20230404.1814: P2P filesystem in Emacs
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20210603.1825: Get there from here
@@ -2541,7 +2541,7 @@ app-emacs/init-loader 20210703.902: Loader for configuration files
 app-emacs/init-open-recentf 20220220.2004: Invoke a command immediately after startup
 app-emacs/initsplit 20160919.1818: code to split customizations into different files
 app-emacs/ink-mode 20201105.2242: Major mode for writing interactive fiction in Ink
-app-emacs/inkpot-theme 20230306.3: A port of vim's inkpot theme
+app-emacs/inkpot-theme 20230404.1301: A port of vim's inkpot theme
 app-emacs/inline-crypt 20170824.900: Simple inline encryption via openssl
 app-emacs/inline-docs 20220210.1402: Show inline contextual docs.
 app-emacs/inlineR 20191017.1920: insert Tag for inline image of R graphics
@@ -3530,7 +3530,7 @@ app-emacs/orderless 20230219.1648: Completion style for matching regexps in any 
 app-emacs/ordinal 20210519.1442: Convert number to ordinal number notation
 app-emacs/org-ac 20170401.1307: Some auto-complete sources for org-mode
 app-emacs/org-agenda-property 20140626.2116: Display org properties in the agenda buffer.
-app-emacs/org-ai 20230403.2233: Your AI assistant with ChatGPT, DALL-E, Whisper
+app-emacs/org-ai 20230404.1819: Your AI assistant with ChatGPT, DALL-E, Whisper
 app-emacs/org-alert 20220721.1721: Notify org deadlines via notify-send
 app-emacs/org-analyzer 20191001.1717: org-analyzer is a tool that extracts time tracking data from org files.
 app-emacs/org-anki 20230117.727: Synchronize org-mode entries to Anki
@@ -3937,10 +3937,10 @@ app-emacs/php-eldoc 20140202.1941: eldoc backend for php
 app-emacs/php-mode 20230318.2134: Major mode for editing PHP code
 app-emacs/php-quickhelp 20210819.2025: Quickhelp at point for php
 app-emacs/php-refactor-mode 20171124.635: Minor mode to quickly and safely perform common refactorings
-app-emacs/php-runtime 20230402.1814: Language binding bridge to PHP
+app-emacs/php-runtime 20230404.1713: Language binding bridge to PHP
 app-emacs/php-scratch 20210706.459: A scratch buffer to interactively evaluate php code
 app-emacs/phpactor 20221023.608: Interface to Phpactor
-app-emacs/phpstan 20230404.1111: Interface to PHPStan
+app-emacs/phpstan 20230404.1351: Interface to PHPStan
 app-emacs/phpt-mode 20190512.1809: Major mode for editing PHPT test code
 app-emacs/phpunit 20230124.743: Launch PHP unit tests using phpunit
 app-emacs/pianobar 20201002.1756: thin wrapper for Pianobar, a Pandora Radio client
@@ -4890,7 +4890,7 @@ app-emacs/tf2-conf-mode 20161209.1620: TF2 Configuration files syntax highlighti
 app-emacs/tfsmacs 20180911.2114: MS TFS source control interaction.
 app-emacs/the-matrix-theme 20230402.1218: Green-on-black dark theme inspired by "The Matrix" movie
 app-emacs/theme-anchor 20220204.321: Apply theme in current buffer only
-app-emacs/theme-changer 20201226.2256: Sunrise/Sunset Theme Changer for Emacs
+app-emacs/theme-changer 20230404.1830: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 20210827.424: A package for switching themes in Emacs interactively
 app-emacs/theme-magic 20190711.2034: Apply your Emacs theme to the rest of Linux
 app-emacs/therapy 20151113.1953: Hooks for managing multiple Python major versions
