@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/helm
-DESCRIPTION=list git files.
+DESCRIPTION=Display documentation in childframe
 EAPI=8
-HOMEPAGE=https://melpa.org/packages/
+HOMEPAGE=https://github.com/casouri/eldoc-box
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/helm >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/helm-ls-git-20221118.503.el
+SRC_URI=https://melpa.org/packages/eldoc-box-20230404.2324.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	1d6e8d43be4713f04a441f721d890d48	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=d78bf355582f9b16e2e4e9f3dad4a34c
+_md5_=11a824a86ebb170ec7d73e29c8856dc2
