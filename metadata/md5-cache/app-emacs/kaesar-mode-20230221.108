@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/mark-thing-at
-DESCRIPTION=Functions to move, mark, kill by clause
+DEPEND=app-emacs/kaesar
+DESCRIPTION=AES encrypt/decrypt buffer
 EAPI=8
-HOMEPAGE=https://codeberg.org/martianh/clause.el
+HOMEPAGE=https://github.com/mhayashi1120/Emacs-kaesar
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/mark-thing-at >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/kaesar >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/clause-20230403.830.el
+SRC_URI=https://melpa.org/packages/kaesar-mode-20230221.108.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	1d6e8d43be4713f04a441f721d890d48	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=114e3b16e3663d780723d6a91087e108
+_md5_=df3a54ab19dc944fcabab73cf2a85592

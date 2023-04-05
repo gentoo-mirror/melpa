@@ -25,7 +25,8 @@ DEPEND="app-emacs/scala-mode
 	app-emacs/dash
 	app-emacs/f
 	app-emacs/ht
-	app-emacs/treemacs"
+	app-emacs/treemacs
+	app-emacs/posframe"
 RDEPEND="app-emacs/scala-mode
 	app-emacs/lsp-mode
 	app-emacs/lsp-treemacs
@@ -33,4 +34,5 @@ RDEPEND="app-emacs/scala-mode
 	app-emacs/dash
 	app-emacs/f
 	app-emacs/ht
-	app-emacs/treemacs"
+	app-emacs/treemacs
+	app-emacs/posframe"

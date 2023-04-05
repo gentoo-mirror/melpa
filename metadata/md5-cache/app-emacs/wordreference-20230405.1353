@@ -1,12 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=AES algorithm encrypt/decrypt
+DESCRIPTION=Interface for wordreference.com
 EAPI=8
-HOMEPAGE=https://github.com/mhayashi1120/Emacs-kaesar
+HOMEPAGE=https://codeberg.org/martianh/wordreference.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/kaesar-20230212.743.el
+SRC_URI=https://melpa.org/packages/wordreference-20230405.1353.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	1d6e8d43be4713f04a441f721d890d48	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=f7d2dab7f975601715a7cdb562bd318a
+_md5_=7aa226bb226a5583b569e255ef3b4e52
