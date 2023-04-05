@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/dash
-DESCRIPTION=Color identifiers based on their names
+DESCRIPTION=Persistent undo, available between sessions
 EAPI=8
-HOMEPAGE=https://github.com/ankurdave/color-identifiers-mode
+HOMEPAGE=https://codeberg.com/ideasman42/emacs-undo-fu-session
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/dash >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/color-identifiers-mode-20230302.226.el
+SRC_URI=https://melpa.org/packages/undo-fu-session-20230405.221.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	1d6e8d43be4713f04a441f721d890d48	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=07c8fa22f9f245bfde238d61f8494a46
+_md5_=91e048c4563bb227ea70401eb3500225

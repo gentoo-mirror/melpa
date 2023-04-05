@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Client for Mastodon, a federated social network"
+DESCRIPTION="Client for Mastodon and compatible fediverse services"
 
 HOMEPAGE="https://codeberg.org/martianh/mastodon.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
