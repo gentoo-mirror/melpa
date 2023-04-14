@@ -1,12 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=Shell commands with DWIM behaviour
+DESCRIPTION=Awesome Emacs color theme on white background
 EAPI=8
-HOMEPAGE=https://github.com/xenodium/dwim-shell-command
+HOMEPAGE=https://github.com/fniessen/emacs-leuven-theme
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/dwim-shell-command-20230411.721.tar
+SRC_URI=https://melpa.org/packages/leuven-theme-20230413.2003.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	1d6e8d43be4713f04a441f721d890d48	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=8e61569ae6c9d3ff8ebcef1c538f73e3
+_md5_=7d45911587412d5bd7ce4c1f17a68ff6
