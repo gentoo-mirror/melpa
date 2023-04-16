@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=Visual Studio IDE light theme
+DEPEND=app-emacs/dash
+DESCRIPTION=Customizable, depth-based syntax coloring
 EAPI=8
-HOMEPAGE=https://github.com/emacs-vs/vs-light-theme
+HOMEPAGE=https://github.com/alphapapa/prism.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/dash >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/vs-light-theme-20230310.913.el
+SRC_URI=https://melpa.org/packages/prism-20230416.626.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	1d6e8d43be4713f04a441f721d890d48	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=8772f4692bbc6f452ae84d5be055ab02
+_md5_=45ee05f2e542fd19c376890868757c8c
