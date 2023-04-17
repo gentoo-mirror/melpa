@@ -101,7 +101,7 @@ app-emacs/all-the-icons-dired 20220929.1135: Shows icons for each file in dired 
 app-emacs/all-the-icons-gnus 20180511.654: Shows icons for in Gnus
 app-emacs/all-the-icons-ibuffer 20230412.1516: Display icons for all buffers in ibuffer
 app-emacs/all-the-icons-ivy 20190508.1803: Shows icons while using ivy and counsel
-app-emacs/all-the-icons-ivy-rich 20230417.950: Better experience with icons for ivy
+app-emacs/all-the-icons-ivy-rich 20230417.1704: Better experience with icons for ivy
 app-emacs/almost-mono-themes 20220422.1714: Almost monochromatic color themes
 app-emacs/alsamixer 20191002.1133: Functions to call out to amixer.
 app-emacs/alt-codes 20220704.644: Insert alt codes using meta key
@@ -436,7 +436,7 @@ app-emacs/calmer-forest-theme 20230302.2149: Darkish theme with green/orange tin
 app-emacs/camcorder 20190317.2138: Record screencasts in gif or other formats.
 app-emacs/caml 20230129.1145: Caml mode for GNU Emacs
 app-emacs/cangjie 20230219.1150: Retrieve cangjie code for han characters
-app-emacs/cape 20230413.1445: Completion At Point Extensions
+app-emacs/cape 20230417.1825: Completion At Point Extensions
 app-emacs/capnp-mode 20210707.2310: Major mode for editing Capn' Proto Files
 app-emacs/capture 20130828.1644: screencasting with "avconv" or "ffmpeg"
 app-emacs/carbon-now-sh 20220701.332: https://carbon.now.sh integration.
@@ -505,7 +505,7 @@ app-emacs/chinese-word-at-point 20170811.941: Add `chinese-word' thing to `thing
 app-emacs/chinese-yasdcv 20171015.144: Yet another StarDict frontend
 app-emacs/chocolate-theme 20210128.1647: A dark chocolaty theme
 app-emacs/choice-program 20201217.1751: Parameter based program
-app-emacs/chroma 20230327.1634: Color manipulation library
+app-emacs/chroma 20230417.1705: Color manipulation library
 app-emacs/chronometer 20190304.1528: a [not so] simple chronometer
 app-emacs/chronometrist 20230302.700: Friendly and powerful personal time tracker and analyzer
 app-emacs/chronometrist-goal 20210510.1831: Adds support for time goals to Chronometrist
@@ -1261,14 +1261,14 @@ app-emacs/elwm 20150817.1007: Minimalistic window manager for emacs
 app-emacs/elx 20230212.2019: Extract information from Emacs Lisp libraries
 app-emacs/emacs-aio 20200610.1904: async/await for Emacs Lisp
 app-emacs/emacs-ansilove 20230210.1338: Display buffers as PNG images using ansilove
-app-emacs/emacs-bazel-mode 20221105.2049: Bazel support for Emacs
+app-emacs/emacs-bazel-mode 20230417.1342: Bazel support for Emacs
 app-emacs/emacs-crystal-mode 20230223.2257: Major mode for editing Crystal files
 app-emacs/emacs-el-fetch 20230210.1311: Show system information in Neofetch-like style (eg CPU, RAM)
 app-emacs/emacs-everywhere 20220831.1636: System-wide popup windows for quick edits
 app-emacs/emacs-websearch 20230210.1321: Query search engines
 app-emacs/emacsc 20230326.1852: helper for emacsc(1)
 app-emacs/emacsist-view 20160426.1223: Mode for viewing emacsist.com
-app-emacs/emacsql 20230409.1847: High-level SQL database front-end
+app-emacs/emacsql 20230417.1448: High-level SQL database front-end
 app-emacs/emacsql-mysql 20230225.2205: EmacSQL back-end for MySQL
 app-emacs/emacsql-pg 20230224.1201: EmacSQL back-end for PostgreSQL via pg
 app-emacs/emacsql-psql 20230225.2205: EmacSQL back-end for PostgreSQL via psql
@@ -1564,7 +1564,7 @@ app-emacs/feature-mode 20220418.848: Major mode for editing Gherkin (i.e. Cucumb
 app-emacs/feebleline 20190822.1401: Replace modeline with a slimmer proxy
 app-emacs/feed-discovery 20200714.1118: Discover feed url by RSS/Atom autodiscovery
 app-emacs/feline 20230315.1821: A modeline with very little
-app-emacs/fennel-mode 20230408.1312: A major-mode for editing Fennel code
+app-emacs/fennel-mode 20230417.1408: A major-mode for editing Fennel code
 app-emacs/fetch 20131201.730: Fetch and unpack resources
 app-emacs/ffmpeg-player 20220704.641: Play video using ffmpeg
 app-emacs/ffmpeg-utils 20230305.709: FFmpeg command utilities wrappers
@@ -1708,7 +1708,7 @@ app-emacs/flycheck-package 20210509.2325: A Flycheck checker for elisp package a
 app-emacs/flycheck-pact 20180920.2052: Flycheck support for pact-mode
 app-emacs/flycheck-pest 20200710.2327: Flycheck integration for Pest -
 app-emacs/flycheck-php-noverify 20211005.401: Flycheck checker for PHP Noverify linter
-app-emacs/flycheck-phpstan 20230404.1351: Flycheck integration for PHPStan
+app-emacs/flycheck-phpstan 20230417.1142: Flycheck integration for PHPStan
 app-emacs/flycheck-pkg-config 20230119.1721: configure flycheck using pkg-config
 app-emacs/flycheck-plantuml 20171018.111: Integrate plantuml with flycheck
 app-emacs/flycheck-pony 20210118.1327: Pony support in Flycheck
@@ -1777,7 +1777,7 @@ app-emacs/flymake-perlcritic 20120328.814: Flymake handler for Perl to invoke Pe
 app-emacs/flymake-pest 20200710.2327: A flymake handler for Pest files
 app-emacs/flymake-php 20170723.146: A flymake handler for php-mode files
 app-emacs/flymake-phpcs 20210213.732: making flymake work with PHP CodeSniffer
-app-emacs/flymake-phpstan 20230404.1351: Flymake backend for PHP using PHPStan
+app-emacs/flymake-phpstan 20230417.1142: Flymake backend for PHP using PHPStan
 app-emacs/flymake-puppet 20170801.554: Flymake handler using puppet-lint
 app-emacs/flymake-python-pyflakes 20170723.146: A flymake handler for python-mode files using pyflakes (or flake8)
 app-emacs/flymake-quickdef 20200308.2342: Quickly define a new Flymake backend
@@ -2434,7 +2434,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20230411.2226: P2P filesystem in Emacs
+app-emacs/hyperdrive 20230415.1911: P2P filesystem in Emacs
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20210603.1825: Get there from here
@@ -2660,7 +2660,7 @@ app-emacs/jetbrains 20180301.502: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default JetBrains Darcula theme
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file.
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
-app-emacs/jinx 20230414.2111: Enchanted Spell Checker
+app-emacs/jinx 20230417.1830: Enchanted Spell Checker
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jist 20161229.1721: Gist integration
@@ -2767,7 +2767,7 @@ app-emacs/keyword-search 20180424.1102: browser keyword search from Emacs
 app-emacs/kfg 20140909.538: an emacs configuration system
 app-emacs/khalel 20230122.1139: Import, edit and create calendar events through khal
 app-emacs/khardel 20220223.934: Integrate with khard
-app-emacs/khoj 20230331.1113: A search assistant for your second brain
+app-emacs/khoj 20230417.1631: A search assistant for your second brain
 app-emacs/kibit-helper 20150508.1533: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-file-path 20230306.1041: Copy file name into kill ring
 app-emacs/kill-or-bury-alive 20210320.1231: Precise control over buffer killing in Emacs
@@ -2971,7 +2971,7 @@ app-emacs/lsp-julia 20230414.2107: Julia support for lsp-mode
 app-emacs/lsp-latex 20230316.1906: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20230416.1826: LSP Clients for LTEX
 app-emacs/lsp-metals 20230406.755: Scala Client settings
-app-emacs/lsp-mode 20230416.2018: LSP mode
+app-emacs/lsp-mode 20230417.1858: LSP mode
 app-emacs/lsp-mssql 20230316.1612: MSSQL LSP bindings
 app-emacs/lsp-origami 20211016.1045: origami.el support for lsp-mode
 app-emacs/lsp-p4 20190127.1049: P4 support for lsp-mode
@@ -3060,7 +3060,7 @@ app-emacs/mandoku-tls 20171118.240: A tool to access the TLS database
 app-emacs/map-progress 20190128.16: mapping macros that report progress
 app-emacs/map-regexp 20190128.18: map over matches of a regular expression
 app-emacs/marcopolo 20160421.1004: Emacs client to the Docker HUB/Registry API
-app-emacs/marginalia 20230411.444: Enrich existing commands with completion annotations
+app-emacs/marginalia 20230417.1829: Enrich existing commands with completion annotations
 app-emacs/mark-multiple 20121118.1554: Sorta lets you mark several regions at once.
 app-emacs/mark-thing-at 20201219.232: Mark a pattern at the current point
 app-emacs/mark-tools 20130614.1025: Some simple tools to access the mark-ring in Emacs
@@ -3079,7 +3079,7 @@ app-emacs/marquee-header 20221230.1008: Code interface for displaying marquee in
 app-emacs/marshal 20201223.1853: eieio extension for automatic (un)marshalling
 app-emacs/maruo-macro-mode 20160616.1349: Major mode for editing Hidemaru/Maruo macro script
 app-emacs/masm-mode 20200308.1450: MASM x86 and x64 assembly major mode
-app-emacs/mastodon 20230412.805: Client for Mastodon and compatible fediverse services
+app-emacs/mastodon 20230417.1649: Client for Mastodon and compatible fediverse services
 app-emacs/material-theme 20210904.1226: A Theme based on the colors of the Google Material Design
 app-emacs/math-preview 20220830.1740: Preview TeX math equations inline
 app-emacs/math-symbol-lists 20220828.2047: Lists of Unicode math symbols and latex commands
@@ -3370,6 +3370,7 @@ app-emacs/nodemcu-mode 20180501.2225: Minor mode for NodeMCU
 app-emacs/noflet 20141102.1454: locally override functions
 app-emacs/nofrils-acme-theme 20180620.1248: Port of "No Frils Acme" Vim theme.
 app-emacs/nord-theme 20230311.1131: An arctic, north-bluish clean and elegant theme
+app-emacs/nordic-night-theme 20230417.1414: A darker, more colorful version of the lovely Nord theme
 app-emacs/nordless-theme 20201222.1627: A mostly colorless version of nord-theme
 app-emacs/norns 20220821.1614: Interactive development environment for monome norns
 app-emacs/northcode-theme 20180423.1649: A dark theme focused on blue and orange colors.
@@ -3741,7 +3742,7 @@ app-emacs/ormolu 20220530.921: Format Haskell source code using the "ormolu" pro
 app-emacs/orthodox-christian-new-calendar-holidays 20210830.1657: Feasts (NS)
 app-emacs/osa 20200522.2103: OSA (JavaScript / AppleScript) bridge
 app-emacs/osa-chrome 20201122.1639: Google Chrome remote tab control
-app-emacs/osm 20230411.439: OpenStreetMap viewer
+app-emacs/osm 20230417.1827: OpenStreetMap viewer
 app-emacs/osx-browse 20140508.2041: Web browsing helpers for OS X
 app-emacs/osx-clipboard 20141012.717: Use the OS X clipboard from terminal Emacs
 app-emacs/osx-dictionary 20220801.1542: Interface for OSX Dictionary.app
@@ -3786,7 +3787,7 @@ app-emacs/ox-jira 20220423.1403: JIRA Backend for Org Export Engine
 app-emacs/ox-json 20210928.347: JSON export backend for Org mode
 app-emacs/ox-latex-subfigure 20200326.919: Subfigure for latex export
 app-emacs/ox-leanpub 20230415.2139: Export Org documents to Leanpub book format
-app-emacs/ox-linuxmag-fr 20230411.1802: Org-mode exporter for the French GNU/Linux Magazine
+app-emacs/ox-linuxmag-fr 20230417.1134: Org-mode exporter for the French GNU/Linux Magazine
 app-emacs/ox-mdx-deck 20181115.1847: org-mode to mdx-deck exporter
 app-emacs/ox-mediawiki 20180105.2154: Mediawiki Back-End for Org Export Engine
 app-emacs/ox-minutes 20180202.1734: Plain text backend for Org for Meeting Minutes
@@ -3942,7 +3943,7 @@ app-emacs/php-refactor-mode 20171124.635: Minor mode to quickly and safely perfo
 app-emacs/php-runtime 20230404.1713: Language binding bridge to PHP
 app-emacs/php-scratch 20210706.459: A scratch buffer to interactively evaluate php code
 app-emacs/phpactor 20221023.608: Interface to Phpactor
-app-emacs/phpstan 20230404.1351: Interface to PHPStan
+app-emacs/phpstan 20230417.1142: Interface to PHPStan
 app-emacs/phpt-mode 20190512.1809: Major mode for editing PHPT test code
 app-emacs/phpunit 20230124.743: Launch PHP unit tests using phpunit
 app-emacs/pianobar 20201002.1756: thin wrapper for Pianobar, a Pandora Radio client
@@ -4892,7 +4893,7 @@ app-emacs/tf2-conf-mode 20161209.1620: TF2 Configuration files syntax highlighti
 app-emacs/tfsmacs 20180911.2114: MS TFS source control interaction.
 app-emacs/the-matrix-theme 20230402.1218: Green-on-black dark theme inspired by "The Matrix" movie
 app-emacs/theme-anchor 20220204.321: Apply theme in current buffer only
-app-emacs/theme-changer 20230414.2308: Sunrise/Sunset Theme Changer for Emacs
+app-emacs/theme-changer 20230417.1502: Sunrise/Sunset Theme Changer for Emacs
 app-emacs/theme-looper 20210827.424: A package for switching themes in Emacs interactively
 app-emacs/theme-magic 20190711.2034: Apply your Emacs theme to the rest of Linux
 app-emacs/therapy 20151113.1953: Hooks for managing multiple Python major versions
@@ -5087,7 +5088,7 @@ app-emacs/use-package-hydra 20181228.745: Adds :hydra keyword to use-package mac
 app-emacs/use-proxy 20201209.853: Enable/Disable proxies respecting your HTTP/HTTPS env
 app-emacs/use-ttf 20221201.751: Keep font consistency across different OSs
 app-emacs/utimeclock 20230319.752: Simple utility for manual time tracking
-app-emacs/utop 20230105.1430: Universal toplevel for OCaml
+app-emacs/utop 20230417.1137: Universal toplevel for OCaml
 app-emacs/uuid 20120910.851: UUID's for EmacsLisp
 app-emacs/uuidgen 20220405.1345: Provides various UUID generating functions
 app-emacs/uwu-theme 20230110.153: An awesome dark color scheme
