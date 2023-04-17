@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DESCRIPTION=Smart umlaut conversion for TeX.
+DEPEND=app-emacs/lsp-mode
+DESCRIPTION=LSP Clients for LTEX
 EAPI=8
-HOMEPAGE=http://hub.darcs.net/lyro/tex-smart-umlauts
+HOMEPAGE=https://github.com/emacs-languagetool/lsp-ltex
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/lsp-mode >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/tex-smart-umlauts-20190316.2215.el
+SRC_URI=https://melpa.org/packages/lsp-ltex-20230416.1826.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	1d6e8d43be4713f04a441f721d890d48	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=906033b2a86fc50027f0ea1edfb99d59
+_md5_=7906f3e12d56a86bf71ee36c69b0d60e

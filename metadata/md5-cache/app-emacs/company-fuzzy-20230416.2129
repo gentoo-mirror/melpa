@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/company app-emacs/s app-emacs/ht app-emacs/list-utils
+DEPEND=app-emacs/company app-emacs/s app-emacs/ht
 DESCRIPTION=Fuzzy matching for `company-mode'
 EAPI=8
 HOMEPAGE=https://github.com/jcs-elpa/company-fuzzy
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/company app-emacs/s app-emacs/ht app-emacs/list-utils >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/company app-emacs/s app-emacs/ht >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/company-fuzzy-20221231.1708.el
+SRC_URI=https://melpa.org/packages/company-fuzzy-20230416.2129.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	1d6e8d43be4713f04a441f721d890d48	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=37db734f25bbbfa95466007aa41f732c
+_md5_=4ea5b3ba6deb668da4c6d5cc0dc2e5a4
