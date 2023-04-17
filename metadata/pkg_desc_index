@@ -145,7 +145,7 @@ app-emacs/aozora-view 20140310.1317: Aozora Bunko text Emacs viewer.
 app-emacs/apache-mode 20210519.1931: Major mode for editing Apache httpd configuration files
 app-emacs/apdl-mode 20211023.1831: Major mode for the APDL programming language.
 app-emacs/apel 20220720.1308: A Portable Emacs Library provides support for portable Emacs Lisp programs
-app-emacs/apheleia 20230329.2135: Reformat buffer stably
+app-emacs/apheleia 20230416.1650: Reformat buffer stably
 app-emacs/apib-mode 20200101.1017: Major mode for API Blueprint files
 app-emacs/apiwrap 20180602.2231: api-wrapping macros
 app-emacs/apparmor-mode 20230209.2325: Major mode for editing AppArmor policy files
@@ -362,7 +362,7 @@ app-emacs/boxquote 20220919.714: Quote text with a semi-box.
 app-emacs/bpe 20141228.2205: Blog from Org mode to Blogger
 app-emacs/bpftrace-mode 20190608.2201: Major mode for editing bpftrace script files
 app-emacs/bpr 20180220.1844: Background Process Runner
-app-emacs/bqn-mode 20230415.1105: Emacs mode for BQN
+app-emacs/bqn-mode 20230417.124: Emacs mode for BQN
 app-emacs/bracketed-paste 20160407.2348: bracketed paste mode support within emacs -nw
 app-emacs/brainfuck-mode 20150113.842: Brainfuck mode for Emacs
 app-emacs/brazilian-holidays 20220828.2348: Brazilian holidays
@@ -590,6 +590,7 @@ app-emacs/cobra-mode 20140116.2116: Major mode for .NET-based Cobra language
 app-emacs/codcut 20190915.1009: Share pieces of code to Codcut
 app-emacs/code-archive 20190612.308: git supported code archive and reference for org-mode
 app-emacs/code-cells 20220917.1431: Lightweight notebooks with support for ipynb files
+app-emacs/code-compass 20230411.1032: Navigate software aided by metrics and visualization
 app-emacs/code-library 20160426.1218: use org-mode to collect code snippets
 app-emacs/code-review 20221206.113: Perform code review from Github, Gitlab, and Bitbucket Cloud
 app-emacs/code-stats 20201209.2135: Code::Stats plugin
@@ -627,7 +628,7 @@ app-emacs/commentary-theme 20210714.1757: A minimal theme with contrasting comme
 app-emacs/commenter 20160219.1627: multiline-comment support package
 app-emacs/commify 20220531.1301: Toggle grouping commas in numbers
 app-emacs/common-lisp-snippets 20180226.1523: Yasnippets for Common Lisp
-app-emacs/company 20230415.100: Modular text completion framework
+app-emacs/company 20230416.2034: Modular text completion framework
 app-emacs/company-anaconda 20200404.1859: Anaconda backend for company-mode
 app-emacs/company-ansible 20200306.1441: A company back-end for ansible
 app-emacs/company-arduino 20160306.1739: company-mode for Arduino
@@ -648,7 +649,7 @@ app-emacs/company-emojify 20221231.1708: Company completion for Emojify
 app-emacs/company-erlang 20170123.538: company backend based on ivy-erlang-complete
 app-emacs/company-flow 20180225.2159: Flow backend for company-mode
 app-emacs/company-flx 20180103.518: flx based fuzzy matching for company
-app-emacs/company-fuzzy 20221231.1708: Fuzzy matching for `company-mode'
+app-emacs/company-fuzzy 20230416.2129: Fuzzy matching for `company-mode'
 app-emacs/company-ghci 20190707.311: company backend which uses the current ghci process.
 app-emacs/company-glsl 20210109.1403: Support glsl in company-mode
 app-emacs/company-go 20170825.1643: company-mode backend for Go (using gocode)
@@ -2968,9 +2969,9 @@ app-emacs/lsp-javacomp 20190124.1755: Provide Java IDE features powered by JavaC
 app-emacs/lsp-jedi 20220430.18: Lsp client plugin for Python Jedi Language Server
 app-emacs/lsp-julia 20230414.2107: Julia support for lsp-mode
 app-emacs/lsp-latex 20230316.1906: LSP-mode client for LaTeX, on texlab
-app-emacs/lsp-ltex 20221231.1658: LSP Clients for LTEX
+app-emacs/lsp-ltex 20230416.1826: LSP Clients for LTEX
 app-emacs/lsp-metals 20230406.755: Scala Client settings
-app-emacs/lsp-mode 20230407.1752: LSP mode
+app-emacs/lsp-mode 20230416.2018: LSP mode
 app-emacs/lsp-mssql 20230316.1612: MSSQL LSP bindings
 app-emacs/lsp-origami 20211016.1045: origami.el support for lsp-mode
 app-emacs/lsp-p4 20190127.1049: P4 support for lsp-mode
@@ -3009,7 +3010,7 @@ app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20180219.1552: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-mode 20230103.1503: mode for editing Magik + some utils.
-app-emacs/magit 20230410.857: A Git porcelain inside Emacs.
+app-emacs/magit 20230416.1739: A Git porcelain inside Emacs.
 app-emacs/magit-annex 20230407.1200: Control git-annex from Magit
 app-emacs/magit-commit-mark 20230214.1821: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3315,7 +3316,8 @@ app-emacs/neil 20230322.2035: companion for Babashka Neil
 app-emacs/nemerle 20161029.2023: major mode for editing nemerle programs
 app-emacs/neon-mode 20180406.1156: Simple major mode for editing neon files
 app-emacs/neotree 20200324.1946: A tree plugin like NerdTree for Vim
-app-emacs/nerd-icons 20230411.706: Emacs Nerd Font Icons Library
+app-emacs/nerd-icons 20230416.1842: Emacs Nerd Font Icons Library
+app-emacs/nerd-icons-ibuffer 20230413.1926: Display nerd icons in ibuffer
 app-emacs/nerdtab 20180811.339: Keyboard-oriented tabs
 app-emacs/netease-cloud-music 20220305.1224: Netease Cloud Music client
 app-emacs/netease-music 20210411.603: listen netease music
@@ -3529,7 +3531,7 @@ app-emacs/orderless 20230219.1648: Completion style for matching regexps in any 
 app-emacs/ordinal 20210519.1442: Convert number to ordinal number notation
 app-emacs/org-ac 20170401.1307: Some auto-complete sources for org-mode
 app-emacs/org-agenda-property 20140626.2116: Display org properties in the agenda buffer.
-app-emacs/org-ai 20230407.950: Your AI assistant with ChatGPT, DALL-E, Whisper
+app-emacs/org-ai 20230417.237: Your AI assistant with ChatGPT, DALL-E, Whisper
 app-emacs/org-alert 20220721.1721: Notify org deadlines via notify-send
 app-emacs/org-analyzer 20191001.1717: org-analyzer is a tool that extracts time tracking data from org files.
 app-emacs/org-anki 20230117.727: Synchronize org-mode entries to Anki
@@ -4448,7 +4450,6 @@ app-emacs/searchq 20150829.1211: Framework of queued search tasks using GREP, AC
 app-emacs/secretaria 20191128.250: A personal assistant based on org-mode
 app-emacs/see-mode 20180511.41: Edit string in a separate buffer
 app-emacs/seeing-is-believing 20170214.1320: minor mode for running the seeing-is-believing ruby gem
-app-emacs/seen-mode 20210311.1935: A syntax highlighting package for text/kepago
 app-emacs/seethru 20150218.1829: Easily change Emacs' transparency
 app-emacs/sekka 20170803.1247: A client for Sekka IME server
 app-emacs/select-themes 20160221.106: Color theme selection with completing-read
@@ -4464,6 +4465,7 @@ app-emacs/sendto 20160425.1250: send the region content to a function
 app-emacs/sensei 20220530.1226: A client for sensei
 app-emacs/sensitive 20170818.1251: A dead simple way to load sensitive information
 app-emacs/sentence-navigation 20220522.1137: Commands to navigate one-spaced sentences.
+app-emacs/sentex 20230411.1650: Regex-based sentence navigation rules
 app-emacs/seoul256-theme 20180505.757: Low-contrast color scheme based on Seoul Colors.
 app-emacs/separedit 20230403.1242: Edit comment/string/docstring/code block in separate buffer
 app-emacs/sequed 20220115.743: Major mode for FASTA format DNA alignments
@@ -4671,7 +4673,7 @@ app-emacs/spark 20230406.2307: sparkline generation
 app-emacs/sparkline 20150101.1319: Make sparkline images from a list of numbers
 app-emacs/sparql-mode 20230104.1113: Edit and interactively evaluate SPARQL queries.
 app-emacs/spatial-navigate 20230115.633: Directional navigation between white-space blocks
-app-emacs/spdx 20230416.112: Insert SPDX license and copyright headers
+app-emacs/spdx 20230417.109: Insert SPDX license and copyright headers
 app-emacs/speech-tagger 20170728.1829: tag parts of speech using coreNLP
 app-emacs/speechd-el 20220608.1422: Client to speech synthesizers and Braille displays.
 app-emacs/speed-type 20230206.1330: Practice touch and speed typing
@@ -4878,7 +4880,7 @@ app-emacs/test-c 20180423.1720: quickly test c code
 app-emacs/test-case-mode 20130525.1434: unit test front-end
 app-emacs/test-kitchen 20171129.2035: Run test-kitchen inside of emacs
 app-emacs/test-simple 20200722.1121: Simple Unit Test Framework for Emacs Lisp
-app-emacs/tex-smart-umlauts 20190316.2215: Smart umlaut conversion for TeX.
+app-emacs/tex-smart-umlauts 20230416.2051: Smart umlaut conversion for TeX.
 app-emacs/texfrag 20230117.1746: preview LaTeX fragments in alien major modes
 app-emacs/text-categories 20220411.2150: Assign text categories to a buffer for mass deletion
 app-emacs/textile-mode 20230112.1030: Textile markup editing major mode
