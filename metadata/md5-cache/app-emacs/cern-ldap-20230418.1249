@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
-DEPEND=app-emacs/compat app-emacs/shrink-path
-DESCRIPTION=A minimal and modern mode-line
+DESCRIPTION=Library to interact with CERN's LDAP servers
 EAPI=8
-HOMEPAGE=https://github.com/seagle0128/doom-modeline
+HOMEPAGE=https://git.sr.ht/~nbarrientos/cern-ldap.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/compat app-emacs/shrink-path >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/doom-modeline-20230415.1710.tar
+SRC_URI=https://melpa.org/packages/cern-ldap-20230418.1249.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	1d6e8d43be4713f04a441f721d890d48	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=cfde3098ec2000b5fc9c91113b5218cb
+_md5_=692735bc8b8aa7958dd5439bd758c0d0
