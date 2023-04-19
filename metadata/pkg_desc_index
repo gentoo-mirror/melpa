@@ -726,7 +726,7 @@ app-emacs/consult-git-log-grep 20230204.1753: Consult integration for git log gr
 app-emacs/consult-hatena-bookmark 20221125.109: Consult commands for the Hatena Bookmark
 app-emacs/consult-ls-git 20230120.1500: Consult integration for git
 app-emacs/consult-lsp 20230209.714: LSP-mode Consult integration
-app-emacs/consult-notes 20230401.1922: Manage notes with consult
+app-emacs/consult-notes 20230419.357: Manage notes with consult
 app-emacs/consult-notmuch 20221216.1701: Notmuch search using consult
 app-emacs/consult-org-roam 20230301.1555: Consult integration for org-roam
 app-emacs/consult-project-extra 20221013.1014: Consult integration for project.el
@@ -1206,7 +1206,7 @@ app-emacs/elfeed-dashboard 20210727.603: An extensible frontend for elfeed using
 app-emacs/elfeed-goodies 20221003.1406: Elfeed goodies
 app-emacs/elfeed-org 20221118.852: Configure elfeed with one or more org-mode files
 app-emacs/elfeed-protocol 20230413.443: Provide fever/newsblur/owncloud/ttrss protocols for elfeed
-app-emacs/elfeed-score 20220702.1548: Gnus-style scoring for Elfeed
+app-emacs/elfeed-score 20230418.2330: Gnus-style scoring for Elfeed
 app-emacs/elfeed-summary 20221210.1349: Feed summary interface for elfeed
 app-emacs/elfeed-tube 20230316.313: YouTube integration for Elfeed
 app-emacs/elfeed-tube-mpv 20230316.11: Control mpv from Elfeed
@@ -1222,7 +1222,7 @@ app-emacs/elisp-depmap 20220223.1131: Generate an elisp dependency map in graphv
 app-emacs/elisp-docstring-mode 20170304.1615: Major mode for editing elisp docstrings.
 app-emacs/elisp-format 20160508.952: Format elisp code
 app-emacs/elisp-lint 20220419.252: Basic linting for Emacs Lisp
-app-emacs/elisp-refs 20230309.1638: find callers of elisp functions or macros
+app-emacs/elisp-refs 20230419.405: find callers of elisp functions or macros
 app-emacs/elisp-sandbox 20131116.1842: Evaluate EmacsLisp expressions in a sandbox
 app-emacs/elisp-slime-nav 20210510.528: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 20221017.2044: Major mode for editing Elixir files
@@ -2153,7 +2153,7 @@ app-emacs/hcl-mode 20230302.1029: Major mode for Hashicorp
 app-emacs/headlong 20150417.1526: reckless completion
 app-emacs/heaven-and-hell 20190713.1830: easy toggle light/dark themes
 app-emacs/heex-ts-mode 20230316.553: Major mode for Heex with tree-sitter support
-app-emacs/helm 20230416.635: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20230419.650: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: helm-sources and some utilities for GNU R.
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: helm source for Active Directory
@@ -2335,7 +2335,7 @@ app-emacs/helm-z 20171204.325: Show z directory list with helm.el support.
 app-emacs/helm-zhihu-daily 20160625.1145: Helm interface for 知乎日报 (http://daily.zhihu.com)
 app-emacs/help-find 20220929.822: Additional help functions for working with keymaps
 app-emacs/help-find-org-mode 20181204.234: Advise help to find org source over tangled code
-app-emacs/helpful 20230323.414: A better *help* buffer
+app-emacs/helpful 20230419.406: A better *help* buffer
 app-emacs/hemera-theme 20180916.924: Light theme
 app-emacs/hemisu-theme 20130508.1844: Hemisu for Emacs.
 app-emacs/hercules 20200420.747: An auto-magical, which-key-based hydra banisher.
@@ -2660,7 +2660,7 @@ app-emacs/jetbrains 20180301.502: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default JetBrains Darcula theme
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file.
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
-app-emacs/jinx 20230418.1820: Enchanted Spell Checker
+app-emacs/jinx 20230419.1401: Enchanted Spell Checker
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jist 20161229.1721: Gist integration
@@ -2910,7 +2910,7 @@ app-emacs/list-utils 20210111.1522: List-manipulation utility functions
 app-emacs/lister 20230204.1357: Yet another list printer
 app-emacs/lit-mode 20141205.441: Major mode for lit
 app-emacs/litable 20221028.1640: dynamic evaluation replacement with emacs
-app-emacs/litanize 20200211.621: Generate "Latour Litanies"
+app-emacs/litanize 20230419.917: Generate "Latour Litanies"
 app-emacs/litecoin-ticker 20160612.11: litecoin price in modeline
 app-emacs/literal-string 20191023.733: edit string literals in a dedicated buffer
 app-emacs/literate-calc-mode 20230127.153: Inline results from calc
@@ -4037,7 +4037,7 @@ app-emacs/popwin 20210215.1849: Popup Window Manager
 app-emacs/portage-navi 20141208.1355: portage viewer
 app-emacs/porthole 20200404.1454: RPC Servers in Emacs
 app-emacs/pos-tip 20220715.1020: Show tooltip at point
-app-emacs/posframe 20230321.211: Pop a posframe (just a frame) at point
+app-emacs/posframe 20230419.211: Pop a posframe (just a frame) at point
 app-emacs/posix-manual 20200301.1103: POSIX manual page lookup
 app-emacs/postcss-sorting 20180211.956: postcss-sorting interface
 app-emacs/pov-mode 20161115.743: Major mode for editing POV-Ray scene files.
@@ -4674,7 +4674,7 @@ app-emacs/spark 20230406.2307: sparkline generation
 app-emacs/sparkline 20150101.1319: Make sparkline images from a list of numbers
 app-emacs/sparql-mode 20230104.1113: Edit and interactively evaluate SPARQL queries.
 app-emacs/spatial-navigate 20230115.633: Directional navigation between white-space blocks
-app-emacs/spdx 20230417.109: Insert SPDX license and copyright headers
+app-emacs/spdx 20230419.110: Insert SPDX license and copyright headers
 app-emacs/speech-tagger 20170728.1829: tag parts of speech using coreNLP
 app-emacs/speechd-el 20220608.1422: Client to speech synthesizers and Braille displays.
 app-emacs/speed-type 20230206.1330: Practice touch and speed typing
@@ -4854,7 +4854,7 @@ app-emacs/telephone-line 20230322.442: Rewrite of Powerline
 app-emacs/teletext 20211203.1111: Teletext broadcast viewer
 app-emacs/teletext-yle 20210927.825: Teletext provider for Finnish national network YLE
 app-emacs/tempel 20230410.1742: Tempo templates/snippets with in-buffer field editing
-app-emacs/tempel-collection 20230418.830: Collection of templates for Tempel
+app-emacs/tempel-collection 20230419.1208: Collection of templates for Tempel
 app-emacs/template-overlays 20180706.1132: Display template regions using overlays
 app-emacs/templatel 20210902.228: Templating language;
 app-emacs/temporary-persistent 20230115.1425: Keep temp notes buffers persistent
@@ -4987,7 +4987,7 @@ app-emacs/tree-sitter-indent 20220411.1439: Provide indentation with a Tree-sitt
 app-emacs/tree-sitter-ispell 20230205.533: Run ispell on tree-sitter text nodes
 app-emacs/tree-sitter-langs 20230311.1456: Grammar bundle for tree-sitter
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
-app-emacs/treemacs 20230408.1109: A tree style file explorer package
+app-emacs/treemacs 20230412.1624: A tree style file explorer package
 app-emacs/treemacs-all-the-icons 20230408.1109: all-the-icons integration for treemacs
 app-emacs/treemacs-evil 20230408.1109: Evil mode integration for treemacs
 app-emacs/treemacs-icons-dired 20230408.1109: Treemacs icons for dired
@@ -5088,7 +5088,7 @@ app-emacs/use-package-hydra 20181228.745: Adds :hydra keyword to use-package mac
 app-emacs/use-proxy 20201209.853: Enable/Disable proxies respecting your HTTP/HTTPS env
 app-emacs/use-ttf 20221201.751: Keep font consistency across different OSs
 app-emacs/utimeclock 20230319.752: Simple utility for manual time tracking
-app-emacs/utop 20230417.1137: Universal toplevel for OCaml
+app-emacs/utop 20230419.1414: Universal toplevel for OCaml
 app-emacs/uuid 20120910.851: UUID's for EmacsLisp
 app-emacs/uuidgen 20220405.1345: Provides various UUID generating functions
 app-emacs/uwu-theme 20230110.153: An awesome dark color scheme
