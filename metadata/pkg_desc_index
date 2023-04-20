@@ -101,7 +101,7 @@ app-emacs/all-the-icons-dired 20220929.1135: Shows icons for each file in dired 
 app-emacs/all-the-icons-gnus 20180511.654: Shows icons for in Gnus
 app-emacs/all-the-icons-ibuffer 20230412.1516: Display icons for all buffers in ibuffer
 app-emacs/all-the-icons-ivy 20190508.1803: Shows icons while using ivy and counsel
-app-emacs/all-the-icons-ivy-rich 20230417.1704: Better experience with icons for ivy
+app-emacs/all-the-icons-ivy-rich 20230420.1234: Better experience with icons for ivy
 app-emacs/almost-mono-themes 20220422.1714: Almost monochromatic color themes
 app-emacs/alsamixer 20191002.1133: Functions to call out to amixer.
 app-emacs/alt-codes 20220704.644: Insert alt codes using meta key
@@ -145,7 +145,7 @@ app-emacs/aozora-view 20140310.1317: Aozora Bunko text Emacs viewer.
 app-emacs/apache-mode 20210519.1931: Major mode for editing Apache httpd configuration files
 app-emacs/apdl-mode 20211023.1831: Major mode for the APDL programming language.
 app-emacs/apel 20220720.1308: A Portable Emacs Library provides support for portable Emacs Lisp programs
-app-emacs/apheleia 20230416.1650: Reformat buffer stably
+app-emacs/apheleia 20230420.1333: Reformat buffer stably
 app-emacs/apib-mode 20200101.1017: Major mode for API Blueprint files
 app-emacs/apiwrap 20180602.2231: api-wrapping macros
 app-emacs/apparmor-mode 20230209.2325: Major mode for editing AppArmor policy files
@@ -1279,7 +1279,7 @@ app-emacs/emacsshot 20191206.944: Snapshot a frame or window from within
 app-emacs/emamux 20200315.1220: Interact with tmux
 app-emacs/emamux-ruby-test 20130812.1639: Ruby test with emamux
 app-emacs/emaps 20200508.1759: Utilities for working with keymaps
-app-emacs/embark 20230328.1813: Conveniently act on minibuffer completions
+app-emacs/embark 20230420.1442: Conveniently act on minibuffer completions
 app-emacs/embark-consult 20230327.1843: Consult integration for Embark
 app-emacs/embark-vc 20230212.1920: Embark actions for various version control integrations
 app-emacs/ember-mode 20200208.1423: Ember navigation mode for emacs
@@ -1426,7 +1426,7 @@ app-emacs/evil-better-visual-line 20200123.2045: gj and gk visual line mode fix
 app-emacs/evil-cleverparens 20230216.2148: Evil friendly minor-mode for editing lisp.
 app-emacs/evil-colemak-basics 20221230.1443: Basic Colemak key bindings for evil-mode
 app-emacs/evil-colemak-minimal 20171006.1317: Minimal Colemak key bindings for evil-mode
-app-emacs/evil-collection 20230312.2309: A set of keybindings for Evil mode
+app-emacs/evil-collection 20230420.1435: A set of keybindings for Evil mode
 app-emacs/evil-commentary 20210210.1702: Comment stuff out. A port of vim-commentary.
 app-emacs/evil-dvorak 20160416.1841: evil keybindings for that work with dvorak mode
 app-emacs/evil-easymotion 20200424.135: A port of vim's easymotion to emacs
@@ -2660,7 +2660,7 @@ app-emacs/jetbrains 20180301.502: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default JetBrains Darcula theme
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file.
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
-app-emacs/jinx 20230420.804: Enchanted Spell Checker
+app-emacs/jinx 20230420.1109: Enchanted Spell Checker
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jist 20161229.1721: Gist integration
@@ -2971,7 +2971,7 @@ app-emacs/lsp-julia 20230414.2107: Julia support for lsp-mode
 app-emacs/lsp-latex 20230316.1906: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20230416.1826: LSP Clients for LTEX
 app-emacs/lsp-metals 20230406.755: Scala Client settings
-app-emacs/lsp-mode 20230418.1027: LSP mode
+app-emacs/lsp-mode 20230420.1720: LSP mode
 app-emacs/lsp-mssql 20230316.1612: MSSQL LSP bindings
 app-emacs/lsp-origami 20211016.1045: origami.el support for lsp-mode
 app-emacs/lsp-p4 20190127.1049: P4 support for lsp-mode
@@ -3480,9 +3480,9 @@ app-emacs/obfusurl 20170809.1524: Obfuscate URLs so they aren't spoilers
 app-emacs/objc-font-lock 20141021.1822: Highlight Objective-C method calls.
 app-emacs/objed 20200911.1435: Navigate and edit text objects.
 app-emacs/oblivion-theme 20230415.551: A port of GEdit oblivion theme
-app-emacs/obsidian 20221228.1142: Obsidian Notes interface
+app-emacs/obsidian 20230420.1111: Obsidian Notes interface
 app-emacs/obsidian-theme 20170719.948: port of the eclipse obsidian theme
-app-emacs/ocamlformat 20230306.1907: Utility functions to format ocaml code
+app-emacs/ocamlformat 20230420.1458: Utility functions to format ocaml code
 app-emacs/occidental-theme 20130312.1958: Custom theme for faces based on Adwaita
 app-emacs/occur-context-resize 20210121.50: dynamically resize context around matches in occur-mode
 app-emacs/occur-x 20130610.1343: Extra functionality for occur
@@ -3590,7 +3590,7 @@ app-emacs/org-gcal 20221212.1817: Org sync with Google Calendar
 app-emacs/org-generate 20200815.736: Generate template files/folders from org document
 app-emacs/org-gnome 20150614.1457: Orgmode integration with the GNOME desktop
 app-emacs/org-grep 20151202.1229: Kind of M-x rgrep adapted for Org mode.
-app-emacs/org-gtd 20230308.1416: An implementation of GTD.
+app-emacs/org-gtd 20230420.1244: An implementation of GTD.
 app-emacs/org-habit-stats 20230412.515: Display info about habits
 app-emacs/org-hyperscheduler 20220704.2140: UI (web) representation of org-agenda
 app-emacs/org-id-cleanup 20230310.1639: Interactively find, present and maybe clean up unused IDs of org-id
@@ -5395,7 +5395,7 @@ app-emacs/zetz-mode 20200823.536: A major mode for the ZetZ programming language
 app-emacs/zig-mode 20230307.1215: A major mode for the Zig programming language
 app-emacs/zim-wiki-mode 20230211.1650: Zim Desktop Wiki edit mode
 app-emacs/zimports 20211011.2059: Reformat python imports with zimports
-app-emacs/zk 20221121.1252: Functions for working with Zettelkasten-style linked notes
+app-emacs/zk 20230420.1255: Functions for working with Zettelkasten-style linked notes
 app-emacs/zk-desktop 20221107.1204: Desktop environment for zk
 app-emacs/zk-index 20221209.1331: Index for zk
 app-emacs/zk-luhmann 20221210.1227: Support for Luhmann-style IDs in zk
