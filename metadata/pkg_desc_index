@@ -362,7 +362,7 @@ app-emacs/boxquote 20220919.714: Quote text with a semi-box.
 app-emacs/bpe 20141228.2205: Blog from Org mode to Blogger
 app-emacs/bpftrace-mode 20190608.2201: Major mode for editing bpftrace script files
 app-emacs/bpr 20180220.1844: Background Process Runner
-app-emacs/bqn-mode 20230419.2139: Emacs mode for BQN
+app-emacs/bqn-mode 20230421.119: Emacs mode for BQN
 app-emacs/bracketed-paste 20160407.2348: bracketed paste mode support within emacs -nw
 app-emacs/brainfuck-mode 20150113.842: Brainfuck mode for Emacs
 app-emacs/brazilian-holidays 20220828.2348: Brazilian holidays
@@ -1279,7 +1279,7 @@ app-emacs/emacsshot 20191206.944: Snapshot a frame or window from within
 app-emacs/emamux 20200315.1220: Interact with tmux
 app-emacs/emamux-ruby-test 20130812.1639: Ruby test with emamux
 app-emacs/emaps 20200508.1759: Utilities for working with keymaps
-app-emacs/embark 20230420.1442: Conveniently act on minibuffer completions
+app-emacs/embark 20230420.1929: Conveniently act on minibuffer completions
 app-emacs/embark-consult 20230327.1843: Consult integration for Embark
 app-emacs/embark-vc 20230212.1920: Embark actions for various version control integrations
 app-emacs/ember-mode 20200208.1423: Ember navigation mode for emacs
@@ -1883,7 +1883,7 @@ app-emacs/gap-mode 20220815.2355: Major mode for editing files in the GAP progra
 app-emacs/gather 20141230.1338: Gather string in buffer.
 app-emacs/gcmh 20201116.2251: the Garbage Collector Magic Hack
 app-emacs/gcode-mode 20221205.116: Simple G-Code major mode
-app-emacs/gdscript-mode 20220721.547: Major mode for Godot's GDScript language
+app-emacs/gdscript-mode 20230421.620: Major mode for Godot's GDScript language
 app-emacs/geben 20220827.105: DBGp protocol frontend, a script debugger
 app-emacs/geben-helm-projectile 20170524.334: Integrate helm-projectile with geben
 app-emacs/geeknote 20220213.612: Use Evernote in Emacs through geeknote
@@ -2434,7 +2434,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20230418.2128: P2P filesystem in Emacs
+app-emacs/hyperdrive 20230420.2324: P2P filesystem in Emacs
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20210603.1825: Get there from here
@@ -2660,7 +2660,7 @@ app-emacs/jetbrains 20180301.502: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default JetBrains Darcula theme
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file.
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
-app-emacs/jinx 20230420.1109: Enchanted Spell Checker
+app-emacs/jinx 20230421.813: Enchanted Spell Checker
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jist 20161229.1721: Gist integration
@@ -3060,7 +3060,7 @@ app-emacs/mandoku-tls 20171118.240: A tool to access the TLS database
 app-emacs/map-progress 20190128.16: mapping macros that report progress
 app-emacs/map-regexp 20190128.18: map over matches of a regular expression
 app-emacs/marcopolo 20160421.1004: Emacs client to the Docker HUB/Registry API
-app-emacs/marginalia 20230417.1829: Enrich existing commands with completion annotations
+app-emacs/marginalia 20230421.841: Enrich existing commands with completion annotations
 app-emacs/mark-multiple 20121118.1554: Sorta lets you mark several regions at once.
 app-emacs/mark-thing-at 20201219.232: Mark a pattern at the current point
 app-emacs/mark-tools 20130614.1025: Some simple tools to access the mark-ring in Emacs
@@ -3358,7 +3358,7 @@ app-emacs/nnreddit 20220423.2302: Gnus Backend For Reddit
 app-emacs/nntwitter 20230323.1458: Gnus Backend For Twitter
 app-emacs/no-clown-fiesta-theme 20230220.1019: Not-so-colorful-theme
 app-emacs/no-emoji 20180515.1837: Show :emoji-name: instead of emoji characters
-app-emacs/no-littering 20230410.852: Help keeping ~/.config/emacs clean
+app-emacs/no-littering 20230420.2222: Help keeping ~/.config/emacs clean
 app-emacs/no-spam 20190724.1854: Add repeat delays to commands
 app-emacs/noaa 20230228.2331: Get NOAA weather data
 app-emacs/noccur 20191015.719: Run multi-occur on project/dired files
@@ -3470,7 +3470,7 @@ app-emacs/ob-spice 20221030.217: org-babel functions for spice evaluation
 app-emacs/ob-sql-mode 20190421.1539: SQL code blocks evaluated by sql-mode
 app-emacs/ob-svgbob 20190911.300: Babel Functions for svgbob
 app-emacs/ob-swift 20170921.1325: org-babel functions for swift evaluation
-app-emacs/ob-swiftui 20221231.1941: Org babel functions for SwiftUI evaluation
+app-emacs/ob-swiftui 20230420.1737: Org babel functions for SwiftUI evaluation
 app-emacs/ob-tmux 20221005.2025: Babel Support for Interactive Terminal
 app-emacs/ob-translate 20170720.1919: Translation of text blocks in org-mode.
 app-emacs/ob-typescript 20190910.946: org-babel functions for typescript evaluation
@@ -4929,7 +4929,7 @@ app-emacs/titlecase 20220728.2253: Title-case phrases
 app-emacs/tj3-mode 20180519.1228: major mode for editing TaskJuggler 3 files
 app-emacs/tldr 20230301.136: tldr client for Emacs
 app-emacs/tmmofl 20121025.1101: Calls functions dependant on font lock highlighting at point
-app-emacs/tmsu 20230412.100: A basic TMSU interface
+app-emacs/tmsu 20230419.103: A basic TMSU interface
 app-emacs/tmux-pane 20200730.520: Provide integration between emacs window and tmux pane
 app-emacs/toc-mode 20220926.530: Manage outlines/table of contents of pdf and djvu documents
 app-emacs/toc-org 20220110.1452: add table of contents to org-mode files (formerly, org-toc)
