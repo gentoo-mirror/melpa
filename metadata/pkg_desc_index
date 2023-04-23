@@ -718,7 +718,7 @@ app-emacs/consult-codesearch 20230315.1424: Consult interface for codesearch
 app-emacs/consult-company 20230403.1911: Consult frontend for company
 app-emacs/consult-dash 20220621.226: Consult front-end for dash-docs
 app-emacs/consult-dir 20221001.1748: Insert paths into the minibuffer prompt
-app-emacs/consult-eglot 20230213.1359: A consulting-read interface for eglot
+app-emacs/consult-eglot 20230423.1505: A consulting-read interface for eglot
 app-emacs/consult-flycheck 20230411.445: Provides the command `consult-flycheck'
 app-emacs/consult-flyspell 20230322.204: Consult integration for flyspell
 app-emacs/consult-ghq 20210606.2047: Ghq interface using consult
@@ -2236,7 +2236,7 @@ app-emacs/helm-hayoo 20151014.651: Source and configured helm for searching hayo
 app-emacs/helm-helm-commands 20130902.1748: List all helm commands with helm
 app-emacs/helm-hoogle 20161027.534: Use helm to navigate query results from Hoogle
 app-emacs/helm-hunks 20171217.1933: A helm interface for git hunks - browsing, staging, unstaging and killing
-app-emacs/helm-icons 20230412.1425: Helm icons
+app-emacs/helm-icons 20230423.1237: Helm icons
 app-emacs/helm-idris 20141202.1757: A Helm datasource for Idris documentation, queried from the compiler
 app-emacs/helm-img 20151224.2321: Utilities for making image sources for helm.
 app-emacs/helm-img-tiqav 20151224.2322: An helm-source for joking.
@@ -2660,7 +2660,7 @@ app-emacs/jetbrains 20180301.502: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default JetBrains Darcula theme
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file.
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
-app-emacs/jinx 20230422.1022: Enchanted Spell Checker
+app-emacs/jinx 20230423.1640: Enchanted Spell Checker
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jist 20161229.1721: Gist integration
@@ -3010,7 +3010,7 @@ app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20180219.1552: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-mode 20230103.1503: mode for editing Magik + some utils.
-app-emacs/magit 20230422.1923: A Git porcelain inside Emacs.
+app-emacs/magit 20230423.1225: A Git porcelain inside Emacs.
 app-emacs/magit-annex 20230407.1200: Control git-annex from Magit
 app-emacs/magit-commit-mark 20230420.304: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3184,7 +3184,7 @@ app-emacs/modern-fringes 20220401.202: Replaces default fringe bitmaps with bett
 app-emacs/modern-sh 20211101.1001: Minor mode for editing shell script
 app-emacs/modtime-skip-mode 20140128.2201: Minor mode for disabling modtime and supersession checks on files.
 app-emacs/modular-config 20210726.1614: Organize your config into small and loadable modules
-app-emacs/modus-themes 20230423.1042: Elegant, highly legible and customizable themes
+app-emacs/modus-themes 20230423.1229: Elegant, highly legible and customizable themes
 app-emacs/moe-theme 20230110.422: A colorful eye-candy theme. Moe, moe, kyun!
 app-emacs/molar-mass 20220922.1752: Calculates molar mass of a molecule
 app-emacs/molecule 20180527.743: Simple wrapper for molecule
@@ -3316,7 +3316,7 @@ app-emacs/neil 20230322.2035: companion for Babashka Neil
 app-emacs/nemerle 20161029.2023: major mode for editing nemerle programs
 app-emacs/neon-mode 20180406.1156: Simple major mode for editing neon files
 app-emacs/neotree 20200324.1946: A tree plugin like NerdTree for Vim
-app-emacs/nerd-icons 20230416.1842: Emacs Nerd Font Icons Library
+app-emacs/nerd-icons 20230423.1522: Emacs Nerd Font Icons Library
 app-emacs/nerd-icons-ibuffer 20230413.1926: Display nerd icons in ibuffer
 app-emacs/nerdtab 20180811.339: Keyboard-oriented tabs
 app-emacs/netease-cloud-music 20220305.1224: Netease Cloud Music client
@@ -3338,7 +3338,7 @@ app-emacs/night-owl-theme 20200622.1943: A color theme for the night owls out th
 app-emacs/nikki 20210228.428: A simple diary mode
 app-emacs/nikola 20170703.2021: Simple wrapper for nikola
 app-emacs/nim-mode 20211102.917: A major mode for the Nim programming language
-app-emacs/nimbus-theme 20230421.1419: Nimbus dark theme
+app-emacs/nimbus-theme 20230423.1555: Nimbus dark theme
 app-emacs/ninja-mode 20230421.1748: Major mode for editing .ninja files
 app-emacs/nix-buffer 20180212.1518: Set up buffer environments with nix
 app-emacs/nix-env-install 20200812.1305: Install packages using nix-env
@@ -3608,7 +3608,7 @@ app-emacs/org-journal-tags 20230105.1937: Tagging and querying system for org-jo
 app-emacs/org-kanban 20220723.1216: kanban dynamic block for org-mode.
 app-emacs/org-kindle 20220210.1408: Send org link file to ebook reader.
 app-emacs/org-latex-impatient 20221111.623: Preview org-latex Fragments Instantly via MathJax
-app-emacs/org-link-beautify 20230415.158: Beautify Org Links
+app-emacs/org-link-beautify 20230423.1236: Beautify Org Links
 app-emacs/org-link-travis 20140405.2327: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 20200112.2235: Org-mode link selector
 app-emacs/org-listcruncher 20210706.1741: Planning tool - Parse Org mode lists into table
@@ -3714,7 +3714,7 @@ app-emacs/org-web-tools 20201212.1058: Display and capture web content with Org-
 app-emacs/org-wild-notifier 20230323.920: Customizable org-agenda notifications
 app-emacs/org-working-set 20220414.1402: Manage and visit a small set of org-nodes.
 app-emacs/org-wunderlist 20191017.1917: Org sync with Wunderlist
-app-emacs/org-zettelkasten 20230108.1326: A Zettelkasten mode leveraging Org
+app-emacs/org-zettelkasten 20230423.1804: A Zettelkasten mode leveraging Org
 app-emacs/org2blog 20230113.309: Blog from Org mode to WordPress
 app-emacs/org2ctex 20200331.550: Export org to ctex (a latex macro for Chinese)
 app-emacs/org2elcomment 20170324.945: Convert Org file to Elisp comments
@@ -3937,7 +3937,7 @@ app-emacs/php-boris 20130527.821: Run boris php REPL
 app-emacs/php-boris-minor-mode 20140209.1835: a minor mode to evaluate PHP code in the Boris repl
 app-emacs/php-cs-fixer 20220516.1008: php-cs-fixer wrapper.
 app-emacs/php-eldoc 20140202.1941: eldoc backend for php
-app-emacs/php-mode 20230410.1821: Major mode for editing PHP code
+app-emacs/php-mode 20230423.1446: Major mode for editing PHP code
 app-emacs/php-quickhelp 20210819.2025: Quickhelp at point for php
 app-emacs/php-refactor-mode 20171124.635: Minor mode to quickly and safely perform common refactorings
 app-emacs/php-runtime 20230404.1713: Language binding bridge to PHP
