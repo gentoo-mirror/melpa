@@ -18,5 +18,5 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/all-the-icons"
-RDEPEND="app-emacs/all-the-icons"
+DEPEND="app-emacs/nerd-icons"
+RDEPEND="app-emacs/nerd-icons"
