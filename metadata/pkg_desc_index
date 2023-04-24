@@ -237,7 +237,7 @@ app-emacs/autothemer 20230414.1419: Conveniently define themes
 app-emacs/autumn-light-theme 20150515.1447: A light color theme with muted, autumnal colors.
 app-emacs/avandu 20221106.834: Gateway to Tiny Tiny RSS
 app-emacs/avk-emacs-themes 20220908.1022: Collection of avk themes
-app-emacs/avy 20230316.2259: Jump to arbitrary positions in visible text and select text quickly.
+app-emacs/avy 20230420.404: Jump to arbitrary positions in visible text and select text quickly.
 app-emacs/avy-embark-collect 20230130.1454: Use avy to jump to Embark Collect entries
 app-emacs/avy-flycheck 20160720.1500: Jump to and fix syntax errors using `flycheck' with `avy' interface
 app-emacs/avy-menu 20210321.1732: Library providing avy-powered popup menu
@@ -487,6 +487,7 @@ app-emacs/chaos-mode 20221227.223: A major mode for the Chaos programming langua
 app-emacs/chapel-mode 20210513.457: A major mode for the Chapel programming language
 app-emacs/char-menu 20210321.1657: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 20200616.1418: Unicode table for Emacs
+app-emacs/chatgpt-shell 20230423.1118: Interaction mode for ChatGPT
 app-emacs/chatwork 20170511.442: ChatWork client for Emacs
 app-emacs/cheat-sh 20210607.1307: Interact with cheat.sh
 app-emacs/cheatsheet 20170126.2150: create your own cheatsheet
@@ -514,7 +515,7 @@ app-emacs/chronometrist-spark 20220321.349: Show sparklines in Chronometrist buf
 app-emacs/chronos 20150602.1529: multiple simultaneous countdown / countup timers
 app-emacs/chruby 20180114.1652: Emacs integration for chruby
 app-emacs/chyla-theme 20221213.1012: chyla.org - green color theme.
-app-emacs/cider 20230413.743: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 20230424.1243: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-decompile 20151122.537: decompilation extension for cider
 app-emacs/cider-eval-sexp-fu 20190311.2152: Briefly highlights an evaluated sexp.
 app-emacs/cider-hydra 20190816.1121: Hydras for CIDER.
@@ -887,7 +888,7 @@ app-emacs/deadgrep 20230412.1859: fast, friendly searching with ripgrep
 app-emacs/debian-el 20211006.1939: Emacs helpers specific to Debian users
 app-emacs/debpaste 20161214.2023: Interface for getting/posting/deleting pastes from paste.debian.net
 app-emacs/debug-print 20140126.19: A nice printf debugging environment by the way Gauche do
-app-emacs/decide 20220718.1357: rolling dice and other random things
+app-emacs/decide 20230424.1647: rolling dice and other random things
 app-emacs/decl 20221027.1823: Library for organizing code declaratively
 app-emacs/declutter 20220310.2101: Read html content and (some) paywall sites without clutter
 app-emacs/dedicated 20151202.110: A very simple minor mode for dedicated buffers
@@ -2628,6 +2629,7 @@ app-emacs/jabber 20220713.1538: A Jabber client for Emacs.
 app-emacs/jack 20221122.632: HTML generator library
 app-emacs/jack-connect 20220201.1417: Manage jack connections within Emacs
 app-emacs/jade-mode 20210908.2121: Major mode for editing .jade files
+app-emacs/jami-bot 20230416.1931: An extendable chat bot for the private messenger GNU Jami
 app-emacs/jammer 20210508.1633: Punish yourself for using Emacs inefficiently
 app-emacs/janet-mode 20210924.44: Defines a major mode for Janet
 app-emacs/japanese-holidays 20201229.755: Calendar functions for the Japanese calendar
@@ -2660,7 +2662,7 @@ app-emacs/jetbrains 20180301.502: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default JetBrains Darcula theme
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file.
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
-app-emacs/jinx 20230424.1005: Enchanted Spell Checker
+app-emacs/jinx 20230424.1149: Enchanted Spell Checker
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jist 20161229.1721: Gist integration
@@ -3085,7 +3087,7 @@ app-emacs/math-preview 20220830.1740: Preview TeX math equations inline
 app-emacs/math-symbol-lists 20220828.2047: Lists of Unicode math symbols and latex commands
 app-emacs/math-symbols 20201005.2313: Math Symbol Input methods and conversion tools
 app-emacs/math-tex-convert 20221210.1937: Convert LaTeX macros to unicode and back
-app-emacs/matlab-mode 20230408.1210: Major mode for MATLAB(R) dot-m files
+app-emacs/matlab-mode 20230424.1248: Major mode for MATLAB(R) dot-m files
 app-emacs/maude-mode 20220419.1454: Emacs mode for the programming language Maude
 app-emacs/maven-test-mode 20141220.557: Utilities for navigating test files and running maven test tasks.
 app-emacs/maxframe 20170120.1705: maximize the emacs frame based on display size
@@ -3317,7 +3319,9 @@ app-emacs/nemerle 20161029.2023: major mode for editing nemerle programs
 app-emacs/neon-mode 20180406.1156: Simple major mode for editing neon files
 app-emacs/neotree 20200324.1946: A tree plugin like NerdTree for Vim
 app-emacs/nerd-icons 20230423.1522: Emacs Nerd Font Icons Library
+app-emacs/nerd-icons-dired 20230417.1541: Shows icons for each file in dired mode
 app-emacs/nerd-icons-ibuffer 20230413.1926: Display nerd icons in ibuffer
+app-emacs/nerd-icons-ivy-rich 20230420.1901: Excellent experience with nerd icons for ivy/counsel
 app-emacs/nerdtab 20180811.339: Keyboard-oriented tabs
 app-emacs/netease-cloud-music 20220305.1224: Netease Cloud Music client
 app-emacs/netease-music 20210411.603: listen netease music
@@ -3524,6 +3528,7 @@ app-emacs/opener 20161207.1810: opening urls as buffers
 app-emacs/openfoam 20210516.1015: OpenFOAM files and directories
 app-emacs/opensource 20160926.1616: Client for Opensource API
 app-emacs/openstack-cgit-browse-file 20130819.927: Browse the current file in OpenStack cgit
+app-emacs/opensub 20230417.1635: Search and download from open-subtitles
 app-emacs/openwith 20120531.2136: Open files with external programs
 app-emacs/operate-on-number 20150707.623: Operate on number at point with arithmetic functions
 app-emacs/orangey-bits-theme 20220822.324: A Theme with smashing orangey bits
@@ -4168,7 +4173,7 @@ app-emacs/pyramid 20230114.1049: Minor mode for working with pyramid projects
 app-emacs/pytest 20200330.41: Easy Python test running in Emacs
 app-emacs/pytest-pdb-break 20200804.848: A pytest PDB launcher
 app-emacs/python-black 20230313.1037: Reformat Python using python-black
-app-emacs/python-cell 20230224.1925: Support for MATLAB-like cells in python mode
+app-emacs/python-cell 20230424.1320: Support for MATLAB-like cells in python mode
 app-emacs/python-coverage 20211224.1420: Show Python coverage via overlays or Flycheck
 app-emacs/python-django 20150822.404: A Jazzy package for managing Django projects
 app-emacs/python-docstring 20230326.1929: Smart Python docstring formatting
@@ -4496,6 +4501,7 @@ app-emacs/sharper 20230129.1827: A dotnet CLI wrapper, using Transient
 app-emacs/shell-current-directory 20140101.2354: create new shell based on buffer directory
 app-emacs/shell-here 20220102.1703: Open a shell relative to the working directory
 app-emacs/shell-history 20100505.839: integration with shell history
+app-emacs/shell-maker 20230419.1616: Interaction mode for making comint shells
 app-emacs/shell-pop 20200315.1139: helps you to use shell easily on Emacs. Only one key action to work.
 app-emacs/shell-split-string 20151224.1008: Split strings using shell-like syntax
 app-emacs/shell-switcher 20210509.1045: Provide fast switching between shell buffers.
@@ -5191,7 +5197,7 @@ app-emacs/wand 20220519.1214: Magic wand for Emacs - Select and execute
 app-emacs/wandbox 20170603.1231: Wandbox client
 app-emacs/wanderlust 20230329.931: Yet Another Message Interface on Emacsen
 app-emacs/warm-night-theme 20161101.1428: Emacs 24 theme with a dark background.
-app-emacs/wasp-mode 20230226.2035: A major mode for the Wasp programming language
+app-emacs/wasp-mode 20230424.1307: A major mode for the Wasp programming language
 app-emacs/watch-buffer 20120331.2044: run a shell command when saving a buffer
 app-emacs/wavefront-obj-mode 20170808.1716: Major mode for Wavefront obj files
 app-emacs/wc-goal-mode 20140829.1359: Running word count with goals (minor mode)
