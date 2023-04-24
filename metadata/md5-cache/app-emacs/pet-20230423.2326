@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Highlight uncommitted changes using VC
+DEPEND=app-emacs/f
+DESCRIPTION=Executable and virtualenv tracker for python-mode
 EAPI=8
-HOMEPAGE=https://github.com/dgutov/diff-hl
+HOMEPAGE=https://github.com/wyuenho/emacs-pet/
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/f >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/diff-hl-20230416.140.tar
+SRC_URI=https://melpa.org/packages/pet-20230423.2326.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=3d464d43d8971f8126134a61260b1120
+_md5_=72f5804d7d874cd40b3b81bc27a7b765
