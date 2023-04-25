@@ -329,7 +329,7 @@ app-emacs/blackboard-bold-mode 20160813.206: Easily insert Unicode mathematical 
 app-emacs/blackboard-theme 20161216.656: TextMate Blackboard Theme
 app-emacs/blacken 20230224.1336: Reformat python buffers using the "black" formatter
 app-emacs/blackout 20220509.2350: Better mode lighter overriding
-app-emacs/blamer 20230304.2300: Show git blame info about current line
+app-emacs/blamer 20230424.2112: Show git blame info about current line
 app-emacs/blgrep 20150401.1416: Block grep
 app-emacs/blimp 20180903.2240: Bustling Image Manipulation Package
 app-emacs/bliss-theme 20170808.1307: an Emacs 24 theme based on Bliss (tmTheme)
@@ -1280,7 +1280,7 @@ app-emacs/emacsshot 20191206.944: Snapshot a frame or window from within
 app-emacs/emamux 20200315.1220: Interact with tmux
 app-emacs/emamux-ruby-test 20130812.1639: Ruby test with emamux
 app-emacs/emaps 20200508.1759: Utilities for working with keymaps
-app-emacs/embark 20230423.2124: Conveniently act on minibuffer completions
+app-emacs/embark 20230424.1934: Conveniently act on minibuffer completions
 app-emacs/embark-consult 20230327.1843: Consult integration for Embark
 app-emacs/embark-vc 20230212.1920: Embark actions for various version control integrations
 app-emacs/ember-mode 20200208.1423: Ember navigation mode for emacs
@@ -1378,7 +1378,7 @@ app-emacs/eshell-git-prompt 20220830.2000: Some Eshell prompt for Git users
 app-emacs/eshell-info-banner 20220728.1006: System information as your Eshell banner
 app-emacs/eshell-outline 20201121.620: Enhanced outline-mode for Eshell
 app-emacs/eshell-prompt-extras 20210925.110: Display extra information for your eshell prompt.
-app-emacs/eshell-syntax-highlighting 20230424.440: Highlight eshell commands
+app-emacs/eshell-syntax-highlighting 20230424.1817: Highlight eshell commands
 app-emacs/eshell-toggle 20220718.729: Show/hide eshell under active window.
 app-emacs/eshell-up 20170425.1737: Quickly go to a specific parent directory in eshell
 app-emacs/eshell-vterm 20221229.1328: Vterm for visual commands in eshell
@@ -2373,6 +2373,7 @@ app-emacs/highlight-symbol 20160102.2009: automatic and manual symbol highlighti
 app-emacs/highlight-thing 20230217.728: Minimalistic minor mode to highlight current thing under point.
 app-emacs/highlight-unique-symbol 20130612.542: highlight symbols which not appear in the repository
 app-emacs/highlight2clipboard 20151020.1840: Copy text to clipboard with highlighting.
+app-emacs/hima-theme 20230421.314: A minimal theme with pretty colors
 app-emacs/himalaya 20230209.1545: Interface for the himalaya email client
 app-emacs/hindent 20230221.619: Indent haskell code using the "hindent" program
 app-emacs/hippie-exp-ext 20160502.2326: Extension of hippie-expand
@@ -2782,7 +2783,7 @@ app-emacs/kiwix 20220316.847: Searching offline Wikipedia through Kiwix.
 app-emacs/kixtart-mode 20150611.1604: major mode for Kixtart scripting files
 app-emacs/kkp 20230403.2156: Enable support for the Kitty Keyboard Protocol
 app-emacs/klere-theme 20230214.213: A dark theme with lambent color highlights and incremental grays
-app-emacs/kmacro-x 20230421.2039: Keyboard macro helpers and extensions
+app-emacs/kmacro-x 20230424.1531: Keyboard macro helpers and extensions
 app-emacs/know-your-http-well 20160208.2305: Look up the meaning of HTTP headers, methods, relations, status codes
 app-emacs/kodi-remote 20190622.1325: Remote Control for Kodi
 app-emacs/kolon-mode 20140122.1134: Syntax highlighting for Text::Xslate's Kolon syntax
@@ -2830,7 +2831,7 @@ app-emacs/latex-extra 20220817.5: Adds several useful functionalities to LaTeX-m
 app-emacs/latex-math-preview 20211228.641: preview LaTeX mathematical expressions.
 app-emacs/latex-pretty-symbols 20151112.1044: Display many latex symbols as their unicode counterparts
 app-emacs/latex-preview-pane 20181008.1822: Makes LaTeX editing less painful by providing a updatable preview pane
-app-emacs/latex-table-wizard 20230413.1611: Magic editing of LaTeX tables
+app-emacs/latex-table-wizard 20230424.2045: Magic editing of LaTeX tables
 app-emacs/latex-unicode-math-mode 20170123.1816: Input method for Unicode math symbols
 app-emacs/latexdiff 20190827.1651: Latexdiff integration in Emacs
 app-emacs/latvian-holidays 20230326.2030: Latvian holidays for the calendar
@@ -2921,7 +2922,7 @@ app-emacs/literate-elisp 20220626.932: Load Emacs Lisp code blocks from Org file
 app-emacs/litex-mode 20221107.147: Minor mode for converting lisp to LaTeX
 app-emacs/live-code-talks 20180907.1647: Support for slides with live code in them
 app-emacs/live-preview 20201010.1948: Live preview by any shell command while editing
-app-emacs/live-py-mode 20230408.1602: Live Coding in Python
+app-emacs/live-py-mode 20230425.237: Live Coding in Python
 app-emacs/lively 20171005.754: interactively updating text
 app-emacs/livereload 20170629.650: Livereload server
 app-emacs/livescript-mode 20221015.1316: Major mode for editing LiveScript files
@@ -3012,7 +3013,7 @@ app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20180219.1552: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-mode 20230103.1503: mode for editing Magik + some utils.
-app-emacs/magit 20230423.1225: A Git porcelain inside Emacs.
+app-emacs/magit 20230425.110: A Git porcelain inside Emacs.
 app-emacs/magit-annex 20230407.1200: Control git-annex from Magit
 app-emacs/magit-commit-mark 20230420.304: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3081,7 +3082,7 @@ app-emacs/marquee-header 20221230.1008: Code interface for displaying marquee in
 app-emacs/marshal 20201223.1853: eieio extension for automatic (un)marshalling
 app-emacs/maruo-macro-mode 20160616.1349: Major mode for editing Hidemaru/Maruo macro script
 app-emacs/masm-mode 20200308.1450: MASM x86 and x64 assembly major mode
-app-emacs/mastodon 20230422.1124: Client for Mastodon and compatible fediverse services
+app-emacs/mastodon 20230425.742: Client for fediverse services that implement the Mastodon API
 app-emacs/material-theme 20210904.1226: A Theme based on the colors of the Google Material Design
 app-emacs/math-preview 20220830.1740: Preview TeX math equations inline
 app-emacs/math-symbol-lists 20220828.2047: Lists of Unicode math symbols and latex commands
@@ -3186,7 +3187,7 @@ app-emacs/modern-fringes 20220401.202: Replaces default fringe bitmaps with bett
 app-emacs/modern-sh 20211101.1001: Minor mode for editing shell script
 app-emacs/modtime-skip-mode 20140128.2201: Minor mode for disabling modtime and supersession checks on files.
 app-emacs/modular-config 20210726.1614: Organize your config into small and loadable modules
-app-emacs/modus-themes 20230423.1229: Elegant, highly legible and customizable themes
+app-emacs/modus-themes 20230425.443: Elegant, highly legible and customizable themes
 app-emacs/moe-theme 20230110.422: A colorful eye-candy theme. Moe, moe, kyun!
 app-emacs/molar-mass 20220922.1752: Calculates molar mass of a molecule
 app-emacs/molecule 20180527.743: Simple wrapper for molecule
@@ -3342,7 +3343,7 @@ app-emacs/night-owl-theme 20200622.1943: A color theme for the night owls out th
 app-emacs/nikki 20210228.428: A simple diary mode
 app-emacs/nikola 20170703.2021: Simple wrapper for nikola
 app-emacs/nim-mode 20211102.917: A major mode for the Nim programming language
-app-emacs/nimbus-theme 20230423.1555: Nimbus dark theme
+app-emacs/nimbus-theme 20230424.1954: Nimbus dark theme
 app-emacs/ninja-mode 20230421.1748: Major mode for editing .ninja files
 app-emacs/nix-buffer 20180212.1518: Set up buffer environments with nix
 app-emacs/nix-env-install 20200812.1305: Install packages using nix-env
@@ -3374,7 +3375,7 @@ app-emacs/nodemcu-mode 20180501.2225: Minor mode for NodeMCU
 app-emacs/noflet 20141102.1454: locally override functions
 app-emacs/nofrils-acme-theme 20180620.1248: Port of "No Frils Acme" Vim theme.
 app-emacs/nord-theme 20230311.1131: An arctic, north-bluish clean and elegant theme
-app-emacs/nordic-night-theme 20230421.2216: A darker, more colorful version of the lovely Nord theme
+app-emacs/nordic-night-theme 20230424.2014: A darker, more colorful version of the lovely Nord theme
 app-emacs/nordless-theme 20201222.1627: A mostly colorless version of nord-theme
 app-emacs/norns 20220821.1614: Interactive development environment for monome norns
 app-emacs/northcode-theme 20180423.1649: A dark theme focused on blue and orange colors.
@@ -3561,7 +3562,7 @@ app-emacs/org-capture-pop-frame 20160518.1008: Run org-capture in a new pop fram
 app-emacs/org-category-capture 20220114.730: Contextualy capture of org-mode TODOs.
 app-emacs/org-chef 20220422.300: Cookbook and recipe management with org-mode.
 app-emacs/org-cliplink 20201126.1020: insert org-mode links from the clipboard
-app-emacs/org-clock-convenience 20221124.2304: Convenience functions for org time tracking
+app-emacs/org-clock-convenience 20230424.2101: Convenience functions for org time tracking
 app-emacs/org-clock-csv 20201222.1506: Export `org-mode' clock entries to CSV format.
 app-emacs/org-clock-reminder 20230222.1956: Notifications that remind you about clocked-in tasks
 app-emacs/org-clock-split 20200331.526: Split clock entries
@@ -3613,7 +3614,7 @@ app-emacs/org-journal-tags 20230105.1937: Tagging and querying system for org-jo
 app-emacs/org-kanban 20220723.1216: kanban dynamic block for org-mode.
 app-emacs/org-kindle 20220210.1408: Send org link file to ebook reader.
 app-emacs/org-latex-impatient 20221111.623: Preview org-latex Fragments Instantly via MathJax
-app-emacs/org-link-beautify 20230423.1236: Beautify Org Links
+app-emacs/org-link-beautify 20230424.1604: Beautify Org Links
 app-emacs/org-link-travis 20140405.2327: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 20200112.2235: Org-mode link selector
 app-emacs/org-listcruncher 20210706.1741: Planning tool - Parse Org mode lists into table
@@ -3674,7 +3675,7 @@ app-emacs/org-roam-timestamps 20221104.1544: Keep track of modification times fo
 app-emacs/org-roam-ui 20221105.1040: User Interface for Org-roam
 app-emacs/org-ros 20220320.1705: Rahul's Org-Mode Screenshot
 app-emacs/org-rtm 20160214.1236: Simple import/export from rememberthemilk to org-mode
-app-emacs/org-runbook 20230411.1806: Org mode for runbooks
+app-emacs/org-runbook 20230424.2002: Org mode for runbooks
 app-emacs/org-scrum 20200131.1129: org mode extensions for scrum planning and reporting
 app-emacs/org-seek 20161217.502: Searching Org-mode files with search tools.
 app-emacs/org-shoplist 20210629.2157: Eat the world
@@ -3794,7 +3795,7 @@ app-emacs/ox-latex-subfigure 20200326.919: Subfigure for latex export
 app-emacs/ox-leanpub 20230415.2139: Export Org documents to Leanpub book format
 app-emacs/ox-linuxmag-fr 20230417.1134: Org-mode exporter for the French GNU/Linux Magazine
 app-emacs/ox-mdx-deck 20181115.1847: org-mode to mdx-deck exporter
-app-emacs/ox-mediawiki 20180105.2154: Mediawiki Back-End for Org Export Engine
+app-emacs/ox-mediawiki 20230425.115: Mediawiki Back-End for Org Export Engine
 app-emacs/ox-minutes 20180202.1734: Plain text backend for Org for Meeting Minutes
 app-emacs/ox-nikola 20151114.1116: Export Nikola articles using org-mode.
 app-emacs/ox-pandoc 20230128.1219: An Org-mode exporter using pandoc
@@ -4329,6 +4330,7 @@ app-emacs/reverse-im 20230125.1846: Reverse mapping for non-default system layou
 app-emacs/reverse-theme 20141205.145: Reverse theme for Emacs
 app-emacs/revert-buffer-all 20230109.536: Revert all open buffers
 app-emacs/review-mode 20220817.1010: major mode for ReVIEW
+app-emacs/rewriting-pcase 20230419.23: Support for rewriting sexps in source code
 app-emacs/reykjavik-theme 20201219.947: Theme with a dark background.
 app-emacs/rfc-mode 20230307.937: RFC document browser and viewer
 app-emacs/rg 20230401.1434: A search tool based on ripgrep
@@ -4501,7 +4503,7 @@ app-emacs/sharper 20230129.1827: A dotnet CLI wrapper, using Transient
 app-emacs/shell-current-directory 20140101.2354: create new shell based on buffer directory
 app-emacs/shell-here 20220102.1703: Open a shell relative to the working directory
 app-emacs/shell-history 20100505.839: integration with shell history
-app-emacs/shell-maker 20230419.1616: Interaction mode for making comint shells
+app-emacs/shell-maker 20230425.913: Interaction mode for making comint shells
 app-emacs/shell-pop 20200315.1139: helps you to use shell easily on Emacs. Only one key action to work.
 app-emacs/shell-split-string 20151224.1008: Split strings using shell-like syntax
 app-emacs/shell-switcher 20210509.1045: Provide fast switching between shell buffers.
@@ -4831,7 +4833,7 @@ app-emacs/tab-group 20140306.1450: Grouped tabs and their tabbar
 app-emacs/tab-jump-out 20151006.130: Use tab to jump out of delimiter pairs.
 app-emacs/tabbar 20180726.1735: Display a tab bar in the header line
 app-emacs/tabbar-ruler 20160802.307: Pretty tabbar, autohide, use both tabbar/ruler
-app-emacs/tabgo 20230411.1708: Jump to tabs, avy style
+app-emacs/tabgo 20230425.907: Jump to tabs, avy style
 app-emacs/tablist 20230321.705: Extended tabulated-list-mode
 app-emacs/tabspaces 20230307.2235: Leverage tab-bar and project for buffer-isolated workspaces
 app-emacs/tabula-rasa 20141216.547: Distraction free writing mode
@@ -4993,7 +4995,7 @@ app-emacs/tree-sitter-indent 20220411.1439: Provide indentation with a Tree-sitt
 app-emacs/tree-sitter-ispell 20230205.533: Run ispell on tree-sitter text nodes
 app-emacs/tree-sitter-langs 20230311.1456: Grammar bundle for tree-sitter
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
-app-emacs/treemacs 20230412.1624: A tree style file explorer package
+app-emacs/treemacs 20230424.2017: A tree style file explorer package
 app-emacs/treemacs-all-the-icons 20230408.1109: all-the-icons integration for treemacs
 app-emacs/treemacs-evil 20230408.1109: Evil mode integration for treemacs
 app-emacs/treemacs-icons-dired 20230408.1109: Treemacs icons for dired
