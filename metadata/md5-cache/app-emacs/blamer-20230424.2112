@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Keyboard macro helpers and extensions
+DEPEND=app-emacs/posframe
+DESCRIPTION=Show git blame info about current line
 EAPI=8
-HOMEPAGE=https://github.com/vifon/kmacro-x.el
+HOMEPAGE=https://github.com/artawower/blamer.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/posframe >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/kmacro-x-20230421.2039.tar
+SRC_URI=https://melpa.org/packages/blamer-20230424.2112.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=0a6ab167c3cc8ca7f342207c51a3f8f6
+_md5_=0237eb172081865c39b72974b3d9a9a2
