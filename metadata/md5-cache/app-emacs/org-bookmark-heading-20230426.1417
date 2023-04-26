@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/nerd-icons
-DESCRIPTION=Shows icons for each file in dired mode
+DESCRIPTION=Emacs bookmark support for Org mode
 EAPI=8
-HOMEPAGE=https://github.com/rainstormstudio/nerd-icons-dired
+HOMEPAGE=http://github.com/alphapapa/org-bookmark-heading
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/nerd-icons >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/nerd-icons-dired-20230417.1541.el
+SRC_URI=https://melpa.org/packages/org-bookmark-heading-20230426.1417.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=2d9306c4a1cd520c0ffa50623fb028fe
+_md5_=acf8f2bc2d04299504f5b33601457c56

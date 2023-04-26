@@ -19,6 +19,6 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/org-pretty-tags
-	app-emacs/all-the-icons"
+	app-emacs/nerd-icons"
 RDEPEND="app-emacs/org-pretty-tags
-	app-emacs/all-the-icons"
+	app-emacs/nerd-icons"
