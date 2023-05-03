@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Themes tuned to inner harmonies
+DEPEND=app-emacs/request app-emacs/ivy
+DESCRIPTION=Query YouTube and play videos in your browser
 EAPI=8
-HOMEPAGE=https://github.com/motform/stimmung-themes
+HOMEPAGE=https://github.com/squiter/ivy-youtube
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/request app-emacs/ivy >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/stimmung-themes-20230420.832.tar
+SRC_URI=https://melpa.org/packages/ivy-youtube-20230503.1509.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=fa2c0f42906fe46095d55d9e6f904e3a
+_md5_=c684dd18dedbed6b13448569a4e150bd
