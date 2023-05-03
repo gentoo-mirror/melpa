@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/seq
-DESCRIPTION=Highlight symbols with keymap-enabled overlays
+DEPEND=app-emacs/all-the-icons
+DESCRIPTION=Display icons for all buffers in ibuffer
 EAPI=8
-HOMEPAGE=https://github.com/wolray/symbol-overlay/
+HOMEPAGE=https://github.com/seagle0128/all-the-icons-ibuffer
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/seq >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/all-the-icons >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/symbol-overlay-20230117.1227.el
+SRC_URI=https://melpa.org/packages/all-the-icons-ibuffer-20230503.1625.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=14e38df00a47a56f502b60958efdd445
+_md5_=22f7ebee5e177d52b1c43cecbc44ff33
