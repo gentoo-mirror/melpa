@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/autothemer
-DESCRIPTION=A retro-groove colour theme for Emacs
+DEPEND=app-emacs/helm
+DESCRIPTION=list git files.
 EAPI=8
-HOMEPAGE=http://github.com/greduan/emacs-theme-gruvbox
+HOMEPAGE=https://melpa.org/packages/
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/autothemer >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/helm >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/gruvbox-theme-20230503.744.tar
+SRC_URI=https://melpa.org/packages/helm-ls-git-20230505.1437.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=3f473125bb617fed3e73e9f12739a4bd
+_md5_=d78bf355582f9b16e2e4e9f3dad4a34c
