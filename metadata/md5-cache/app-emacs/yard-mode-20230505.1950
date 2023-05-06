@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/elfeed
-DESCRIPTION=Gnus-style scoring for Elfeed
+DESCRIPTION=Minor mode for Ruby YARD comments
 EAPI=8
-HOMEPAGE=https://github.com/sp1ff/elfeed-score
+HOMEPAGE=https://github.com/pd/yard-mode.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/elfeed >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/elfeed-score-20230419.1416.tar
+SRC_URI=https://melpa.org/packages/yard-mode-20230505.1950.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=5cf121696e4d0577d1e47c1fe50e4717
+_md5_=5f5e85d933724cb2646cb2095a569714
