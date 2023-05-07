@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=The game of Blackjack
+DEPEND=app-emacs/shell-maker
+DESCRIPTION=Interaction mode for ChatGPT
 EAPI=8
-HOMEPAGE=https://github.com/gdonald/blackjack-el
+HOMEPAGE=https://github.com/xenodium/chatgpt-shell
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/shell-maker >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/blackjack-20230506.1330.el
+SRC_URI=https://melpa.org/packages/chatgpt-shell-20230506.2203.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=f3545458afd2abe5ec5e9cc692cf0560
+_md5_=8c93cfa865c65de0890c0549fb8aee5d
