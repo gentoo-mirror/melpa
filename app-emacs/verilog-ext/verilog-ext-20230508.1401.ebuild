@@ -28,7 +28,6 @@ DEPEND="app-emacs/verilog-mode
 	app-emacs/yasnippet
 	app-emacs/company
 	app-emacs/flycheck
-	app-emacs/imenu-list
 	app-emacs/outshine
 	app-emacs/async"
 RDEPEND="app-emacs/verilog-mode
@@ -41,6 +40,5 @@ RDEPEND="app-emacs/verilog-mode
 	app-emacs/yasnippet
 	app-emacs/company
 	app-emacs/flycheck
-	app-emacs/imenu-list
 	app-emacs/outshine
 	app-emacs/async"
