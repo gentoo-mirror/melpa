@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/nerd-icons
-DESCRIPTION=Beautify Org Links
+DEPEND=app-emacs/compat
+DESCRIPTION=Help keeping ~/.config/emacs clean
 EAPI=8
-HOMEPAGE=https://repo.or.cz/org-link-beautify.git
+HOMEPAGE=https://github.com/emacscollective/no-littering
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/nerd-icons >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/compat >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/org-link-beautify-20230506.1354.tar
+SRC_URI=https://melpa.org/packages/no-littering-20230508.2123.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=6d105b61cd07f30b61b6e60b258340ec
+_md5_=1e7f260d0ca25f25c9d5d5f5658a49d7
