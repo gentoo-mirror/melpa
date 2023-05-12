@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/caml
-DESCRIPTION=OCaml mode
+DEPEND=app-emacs/dash
+DESCRIPTION=Implementation of useful ranger features for dired
 EAPI=8
-HOMEPAGE=https://github.com/ocaml/tuareg
+HOMEPAGE=https://melpa.org/packages/
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/caml >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/dash >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/tuareg-20220929.1327.tar
+SRC_URI=https://melpa.org/packages/dired-ranger-20230512.1107.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=2ff9076d17207c07267b213839904ec8
+_md5_=ae5b2e6d92551b1d7c7cf35955d8de07
