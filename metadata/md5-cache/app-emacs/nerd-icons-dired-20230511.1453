@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-25.3:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
+DEPEND=app-emacs/nerd-icons
+DESCRIPTION=Shows icons for each file in dired mode
+EAPI=8
+HOMEPAGE=https://github.com/rainstormstudio/nerd-icons-dired
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/nerd-icons >=app-editors/emacs-25.3:*
+SLOT=0
+SRC_URI=https://melpa.org/packages/nerd-icons-dired-20230511.1453.el
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
+_md5_=2d9306c4a1cd520c0ffa50623fb028fe
