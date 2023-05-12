@@ -958,7 +958,7 @@ app-emacs/dir-treeview-themes 20230112.134: Themes for dir-treeview
 app-emacs/dircmp 20141204.1756: Compare and sync directories.
 app-emacs/director 20230213.1201: Simulate user sessions
 app-emacs/dired-atool 20210719.404: Pack/unpack files with atool on dired.
-app-emacs/dired-avfs 20221127.1247: AVFS support for dired
+app-emacs/dired-avfs 20230512.1107: AVFS support for dired
 app-emacs/dired-collapse 20221127.1247: Collapse unique nested paths in dired listing
 app-emacs/dired-duplicates 20221007.703: Find duplicate files locally and remotely
 app-emacs/dired-dups 20130527.2125: Find duplicate files and display them in a dired buffer
@@ -969,20 +969,20 @@ app-emacs/dired-filetype-face 20180907.1339: Set different faces for different f
 app-emacs/dired-filter 20221127.1247: Ibuffer-like filtering for dired
 app-emacs/dired-git 20220828.6: Git integration for dired
 app-emacs/dired-gitignore 20230425.1223: A minor mode to hide gitignored files in a dired buffer
-app-emacs/dired-hacks-utils 20221127.1247: Utilities and helpers for dired-hacks collection
+app-emacs/dired-hacks-utils 20230512.1107: Utilities and helpers for dired-hacks collection
 app-emacs/dired-hide-dotfiles 20210222.1919: Hide dotfiles in dired
 app-emacs/dired-icon 20170223.526: A minor mode to display a list of associated icons in dired buffers.
 app-emacs/dired-imenu 20140109.1610: imenu binding for dired mode
 app-emacs/dired-k 20211002.2358: Highlight dired by size, date, git status
 app-emacs/dired-launch 20220916.1836: Use dired as a launcher
-app-emacs/dired-list 20230316.901: Create dired listings from sources
+app-emacs/dired-list 20230512.1107: Create dired listings from sources
 app-emacs/dired-lsi 20200812.929: Add memo to directory and show it in dired
-app-emacs/dired-narrow 20230318.2146: Live-narrowing of search results for dired
-app-emacs/dired-open 20221127.1247: Open files from dired using using custom actions
+app-emacs/dired-narrow 20230512.1107: Live-narrowing of search results for dired
+app-emacs/dired-open 20230512.1107: Open files from dired using using custom actions
 app-emacs/dired-posframe 20200817.420: Peep dired items using posframe
 app-emacs/dired-quick-sort 20201221.403: Persistent quick sorting of dired buffers in various ways.
 app-emacs/dired-rainbow 20221127.1247: Extended file highlighting according to its type
-app-emacs/dired-ranger 20230118.1948: Implementation of useful ranger features for dired
+app-emacs/dired-ranger 20230512.1107: Implementation of useful ranger features for dired
 app-emacs/dired-recent 20211004.1924: Dired visited paths history
 app-emacs/dired-rifle 20210316.1452: Call rifle(1) from dired
 app-emacs/dired-rmjunk 20191007.1232: A home directory cleanup utility for Dired.
@@ -990,7 +990,7 @@ app-emacs/dired-rsync 20230126.1144: Allow rsync from dired buffers
 app-emacs/dired-rsync-transient 20221214.1215: Transient command for dired-rsync
 app-emacs/dired-sidebar 20230216.432: Tree browser leveraging dired
 app-emacs/dired-single 20230306.626: Reuse the current dired buffer
-app-emacs/dired-subtree 20230118.1953: Insert subdirectories in a tree-like fashion
+app-emacs/dired-subtree 20230512.1107: Insert subdirectories in a tree-like fashion
 app-emacs/dired-toggle 20190616.303: Show dired as sidebar and will not create new buffers when changing dir
 app-emacs/dired-toggle-sudo 20211216.102: Browse directory with sudo privileges.
 app-emacs/dired-view-data 20220129.339: View data from dired via ESS and R
@@ -1943,7 +1943,7 @@ app-emacs/git-backup-ivy 20221015.431: An ivy interface to git-backup
 app-emacs/git-blamed 20161028.1926: Minor mode for incremental blame for Git
 app-emacs/git-command 20191028.333: A Git Command-Line interface
 app-emacs/git-commit 20230313.1724: Edit Git commit messages.
-app-emacs/git-commit-insert-issue 20230314.1504: Get issues list when typing "Fixes #"
+app-emacs/git-commit-insert-issue 20230512.1416: Get issues list when typing "Fixes #"
 app-emacs/git-dwim 20170126.1214: Context-aware git commands such as branch handling
 app-emacs/git-grep 20200920.1751: Search tools using git grep
 app-emacs/git-gutter 20220922.256: Port of Sublime Text plugin GitGutter
@@ -2838,7 +2838,7 @@ app-emacs/latex-extra 20220817.5: Adds several useful functionalities to LaTeX-m
 app-emacs/latex-math-preview 20211228.641: preview LaTeX mathematical expressions.
 app-emacs/latex-pretty-symbols 20151112.1044: Display many latex symbols as their unicode counterparts
 app-emacs/latex-preview-pane 20181008.1822: Makes LaTeX editing less painful by providing a updatable preview pane
-app-emacs/latex-table-wizard 20230511.2102: Magic editing of LaTeX tables
+app-emacs/latex-table-wizard 20230512.1233: Magic editing of LaTeX tables
 app-emacs/latex-unicode-math-mode 20170123.1816: Input method for Unicode math symbols
 app-emacs/latexdiff 20190827.1651: Latexdiff integration in Emacs
 app-emacs/latvian-holidays 20230326.2030: Latvian holidays for the calendar
@@ -3327,7 +3327,7 @@ app-emacs/neil 20230322.2035: companion for Babashka Neil
 app-emacs/nemerle 20161029.2023: major mode for editing nemerle programs
 app-emacs/neon-mode 20180406.1156: Simple major mode for editing neon files
 app-emacs/neotree 20200324.1946: A tree plugin like NerdTree for Vim
-app-emacs/nerd-icons 20230511.1839: Emacs Nerd Font Icons Library
+app-emacs/nerd-icons 20230512.945: Emacs Nerd Font Icons Library
 app-emacs/nerd-icons-completion 20230430.1611: Add icons to completion candidates
 app-emacs/nerd-icons-dired 20230511.1453: Shows icons for each file in dired mode
 app-emacs/nerd-icons-ibuffer 20230417.1549: Display nerd icons in ibuffer
@@ -5035,7 +5035,7 @@ app-emacs/tsc 20220212.1632: Core Tree-sitter APIs
 app-emacs/tss 20150913.1408: provide a interface for auto-complete.el/flymake.el on typescript-mode.
 app-emacs/tt-mode 20130804.1110: Emacs major mode for editing Template Toolkit files.
 app-emacs/ttl-mode 20170920.1329: mode for Turtle (and Notation 3)
-app-emacs/tuareg 20220929.1327: OCaml mode
+app-emacs/tuareg 20230512.1317: OCaml mode
 app-emacs/tubestatus 20220620.2028: Get the London Tube service status
 app-emacs/tumble 20160112.729: an Tumblr mode for Emacs
 app-emacs/tumblesocks 20191014.356: An Emacs tumblr client.
@@ -5151,7 +5151,7 @@ app-emacs/vegetative-theme 20220822.353: A Theme based on green CRT terminals
 app-emacs/verb 20230301.2117: Organize and send HTTP requests
 app-emacs/veri-kompass 20200213.934: verilog codebase navigation facility
 app-emacs/verify-url 20160426.1228: find out invalid urls in the buffer or region
-app-emacs/verilog-ext 20230511.1849: SystemVerilog Extensions
+app-emacs/verilog-ext 20230512.1252: SystemVerilog Extensions
 app-emacs/verona-mode 20200823.536: A major mode for the Verona programming language
 app-emacs/versuri 20211104.1301: The lyrics package
 app-emacs/vertica 20131217.1511: Vertica SQL mode extension
