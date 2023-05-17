@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/zetteldesk app-emacs/org-remark
-DESCRIPTION=Org-Remark integration for zetteldesk.el
+DESCRIPTION=Shell commands with DWIM behaviour
 EAPI=8
-HOMEPAGE=https://github.com/Vidianos-Giannitsis/zetteldesk-remark.el
+HOMEPAGE=https://github.com/xenodium/dwim-shell-command
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/zetteldesk app-emacs/org-remark >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/zetteldesk-remark-20220702.1527.el
+SRC_URI=https://melpa.org/packages/dwim-shell-command-20230517.1815.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=c40295cb6edc110c07d09cc5519b07e8
+_md5_=8e61569ae6c9d3ff8ebcef1c538f73e3

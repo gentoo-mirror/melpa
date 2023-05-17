@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Emacs Nerd Font Icons Library
+DEPEND=app-emacs/zetteldesk app-emacs/org-remark
+DESCRIPTION=Org-Remark integration for zetteldesk.el
 EAPI=8
-HOMEPAGE=https://github.com/rainstormstudio/nerd-icons.el
+HOMEPAGE=https://github.com/Vidianos-Giannitsis/zetteldesk-remark.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/zetteldesk app-emacs/org-remark >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/nerd-icons-20230513.2224.tar
+SRC_URI=https://melpa.org/packages/zetteldesk-remark-20230517.2020.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=2a0ce5de41bfb2888711d5540ac999a5
+_md5_=c40295cb6edc110c07d09cc5519b07e8
