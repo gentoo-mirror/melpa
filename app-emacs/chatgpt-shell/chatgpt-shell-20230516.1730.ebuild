@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Interaction mode for ChatGPT"
+DESCRIPTION="ChatGPT shell + buffer insert commands"
 
 HOMEPAGE="https://github.com/xenodium/chatgpt-shell"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
