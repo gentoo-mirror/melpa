@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=A warm color theme for Emacs 24+.
+DEPEND=app-emacs/flycheck
+DESCRIPTION=Flycheck checker for golangci-lint
 EAPI=8
-HOMEPAGE=https://github.com/donderom/jazz-theme
+HOMEPAGE=https://github.com/weijiangan/flycheck-golangci-lint
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/flycheck >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/jazz-theme-20230523.1146.el
+SRC_URI=https://melpa.org/packages/flycheck-golangci-lint-20230523.1855.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=83672e5517889ce5b303b6125a5ed838
+_md5_=c704b931f5e5fc639b7ff3aec882b72b
