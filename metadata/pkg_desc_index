@@ -812,7 +812,7 @@ app-emacs/cryptol-mode 20190531.2051: Cryptol major mode for Emacs
 app-emacs/crystal-playground 20180830.501: Local crystal playground for short code snippets.
 app-emacs/csgo-conf-mode 20161209.1619: CS:GO Configuration files syntax highlighting
 app-emacs/csharp-mode 20221126.2005: C# mode derived mode
-app-emacs/csound-mode 20230217.853: A major mode for interacting and coding Csound
+app-emacs/csound-mode 20230525.1753: A major mode for interacting and coding Csound
 app-emacs/csproj-mode 20200801.1732: Work with .NET project files (csproj, vbproj)
 app-emacs/css-autoprefixer 20180311.1600: Adds autoprefix to CSS
 app-emacs/css-comb 20160416.559: Sort CSS properties in a particular order using CSS Comb
@@ -1196,7 +1196,7 @@ app-emacs/elbank 20180316.1343: Personal finances reporting application
 app-emacs/elcontext 20210109.1238: Create context specific actions
 app-emacs/elcord 20230519.9: Allows you to integrate Rich Presence from Discord
 app-emacs/elcouch 20201108.955: View and manipulate CouchDB databases
-app-emacs/eldev 20230516.1703: Elisp development tool
+app-emacs/eldev 20230525.1831: Elisp development tool
 app-emacs/eldoc-box 20230517.2121: Display documentation in childframe
 app-emacs/eldoc-cmake 20190419.2244: Eldoc support for CMake
 app-emacs/eldoc-eval 20220106.1951: Enable eldoc support when minibuffer is in use.
@@ -1301,7 +1301,7 @@ app-emacs/ember-yasnippets 20160526.1658: Snippets for Ember.js development
 app-emacs/embrace 20171031.1833: Add/Change/Delete pairs based on `expand-region'
 app-emacs/emidje 20190209.1726: Test runner and report viewer for Midje
 app-emacs/emmet-mode 20221111.329: Unofficial Emmet's support for emacs
-app-emacs/emms 20230512.1735: The Emacs Multimedia System
+app-emacs/emms 20230525.2038: The Emacs Multimedia System
 app-emacs/emms-info-mediainfo 20131223.1300: Info-method for EMMS using medianfo
 app-emacs/emms-mark-ext 20130529.327: Extra functions for emms-mark-mode and emms-tag-edit-mode
 app-emacs/emms-mode-line-cycle 20160221.1120: Display the emms mode line as a ticker
@@ -2672,12 +2672,12 @@ app-emacs/jenkins-watch 20121004.2326: Watch continuous integration build status
 app-emacs/jenkinsfile-mode 20230525.752: Major mode for editing Jenkins declarative pipeline syntax
 app-emacs/jest 20220807.2243: helpers to run jest
 app-emacs/jest-test-mode 20220722.1947: Minor mode for running Node.js tests using jest
-app-emacs/jet 20230502.1216: Emacs integration for jet Clojure tool
+app-emacs/jet 20230525.1334: Emacs integration for jet Clojure tool
 app-emacs/jetbrains 20180301.502: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default JetBrains Darcula theme
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file.
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
-app-emacs/jinx 20230525.1113: Enchanted Spell Checker
+app-emacs/jinx 20230525.1650: Enchanted Spell Checker
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jist 20161229.1721: Gist integration
@@ -3360,7 +3360,7 @@ app-emacs/night-owl-theme 20200622.1943: A color theme for the night owls out th
 app-emacs/nikki 20210228.428: A simple diary mode
 app-emacs/nikola 20170703.2021: Simple wrapper for nikola
 app-emacs/nim-mode 20211102.917: A major mode for the Nim programming language
-app-emacs/nimbus-theme 20230424.1954: Nimbus dark theme
+app-emacs/nimbus-theme 20230525.1402: Nimbus dark theme
 app-emacs/ninja-mode 20230421.1748: Major mode for editing .ninja files
 app-emacs/nix-buffer 20180212.1518: Set up buffer environments with nix
 app-emacs/nix-env-install 20200812.1305: Install packages using nix-env
@@ -3617,7 +3617,7 @@ app-emacs/org-gcal 20221212.1817: Org sync with Google Calendar
 app-emacs/org-generate 20200815.736: Generate template files/folders from org document
 app-emacs/org-gnome 20150614.1457: Orgmode integration with the GNOME desktop
 app-emacs/org-grep 20230424.2005: Kind of M-x rgrep adapted for Org mode
-app-emacs/org-gtd 20230524.1758: An implementation of GTD.
+app-emacs/org-gtd 20230525.1335: An implementation of GTD.
 app-emacs/org-habit-stats 20230412.515: Display info about habits
 app-emacs/org-hyperscheduler 20220704.2140: UI (web) representation of org-agenda
 app-emacs/org-id-cleanup 20230310.1639: Interactively find, present and maybe clean up unused IDs of org-id
@@ -3673,7 +3673,7 @@ app-emacs/org-preview-html 20220809.1033: Automatically preview org-exported HTM
 app-emacs/org-projectile 20220114.730: Repository todo management for org-mode
 app-emacs/org-projectile-helm 20180601.1822: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 20170328.1639: Jekyll's handler for org-protocol
-app-emacs/org-ql 20230505.2225: Org Query Language, search command, and agenda-like view
+app-emacs/org-ql 20230525.1548: Org Query Language, search command, and agenda-like view
 app-emacs/org-radiobutton 20210519.1225: Radiobutton for org-mode lists.
 app-emacs/org-rainbow-tags 20221114.1307: Colorize org tags automatically
 app-emacs/org-random-todo 20190214.2057: show a random TODO (with alert) every so often
@@ -3848,7 +3848,7 @@ app-emacs/pack 20191017.456: Pack and unpack archive files
 app-emacs/package+ 20210124.640: Extensions for the package library.
 app-emacs/package-build 20230524.854: Tools for assembling a package archive
 app-emacs/package-filter 20161122.719: package archive whitelist and blacklist
-app-emacs/package-lint 20230524.1501: A linting library for elisp package authors
+app-emacs/package-lint 20230525.1346: A linting library for elisp package authors
 app-emacs/package-lint-flymake 20230315.1052: A package-lint Flymake backend
 app-emacs/package-loading-notifier 20220130.318: Notify a package is being loaded
 app-emacs/package-safe-delete 20150116.1607: Safely delete package.el packages
@@ -4415,7 +4415,7 @@ app-emacs/rufo 20170718.1416: use rufo to automatically format ruby files
 app-emacs/ruled-switch-buffer 20211205.636: Rule based buffer switching
 app-emacs/rum-mode 20180127.22: Major mode for Rum programming language
 app-emacs/run-command 20230317.2004: Run an external command from a context-dependent list
-app-emacs/run-command-recipes 20230525.1251: This is collection of recipes to `run-command'
+app-emacs/run-command-recipes 20230525.1402: This is collection of recipes to `run-command'
 app-emacs/run-stuff 20230319.459: Context based command execution
 app-emacs/runner 20160524.1048: Improved "open with" suggestions for dired
 app-emacs/runtests 20150807.831: Run unit tests from Emacs
