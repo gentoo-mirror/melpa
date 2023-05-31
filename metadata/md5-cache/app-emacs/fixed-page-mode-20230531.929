@@ -1,12 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Catppuccin for Emacs - 🍄 Soothing pastel theme for Emacs
+DESCRIPTION=A fixed page length mode
 EAPI=8
-HOMEPAGE=https://github.com/catppuccin/emacs
+HOMEPAGE=https://gitlab.com/igorwojnicki/fixed-page-mode
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/catppuccin-theme-20230525.1218.tar
+SRC_URI=https://melpa.org/packages/fixed-page-mode-20230531.929.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=933e747e2381ac1e8f545f4264107e86
+_md5_=3d43e20ecf65486188e38ecffcc96307
