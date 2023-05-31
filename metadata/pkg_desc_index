@@ -659,7 +659,7 @@ app-emacs/company-emojify 20221231.1708: Company completion for Emojify
 app-emacs/company-erlang 20170123.538: company backend based on ivy-erlang-complete
 app-emacs/company-flow 20180225.2159: Flow backend for company-mode
 app-emacs/company-flx 20180103.518: flx based fuzzy matching for company
-app-emacs/company-fuzzy 20230501.656: Fuzzy matching for `company-mode'
+app-emacs/company-fuzzy 20230531.743: Fuzzy matching for `company-mode'
 app-emacs/company-ghci 20190707.311: company backend which uses the current ghci process.
 app-emacs/company-glsl 20210109.1403: Support glsl in company-mode
 app-emacs/company-go 20170825.1643: company-mode backend for Go (using gocode)
@@ -928,7 +928,7 @@ app-emacs/detached 20221129.1430: A package to launch, and manage, detached proc
 app-emacs/detour 20181122.2138: Take a quick detour and return
 app-emacs/devdocs 20230220.2042: Emacs viewer for DevDocs
 app-emacs/devdocs-browser 20230423.444: Browse devdocs.io documents using EWW
-app-emacs/devil 20230528.1732: Minor mode for translating key sequences
+app-emacs/devil 20230531.11: Minor mode for translating key sequences
 app-emacs/dfmt 20170728.1023: Emacs Interface to D indenting/formatting tool dfmt.
 app-emacs/dhall-mode 20230228.1005: Major mode for the dhall configuration language
 app-emacs/dianyou 20210525.1517: Search and analyze mails in Gnus
@@ -1522,7 +1522,7 @@ app-emacs/eww-lnum 20150102.1512: Conkeror-like functionality for eww
 app-emacs/exato 20200524.1319: EXATO: Evil XML/HTML Attributes Text Object
 app-emacs/exec-path-from-shell 20220826.1535: Get environment variables such as $PATH from the shell
 app-emacs/execline 20190711.2010: Major mode for editing execline scripts
-app-emacs/exercism 20230313.2027: Unofficial https://exercism.org integration
+app-emacs/exercism 20230530.2230: Unofficial https://exercism.org integration
 app-emacs/exiftool 20190520.1106: Elisp wrapper around ExifTool
 app-emacs/exotica-theme 20180212.2329: A dark theme with vibrant colors
 app-emacs/expand-line 20151006.207: Expand selection by line
@@ -2080,7 +2080,7 @@ app-emacs/govet 20170808.1724: linter/problem finder for the Go source code
 app-emacs/gpastel 20181229.1404: Integrates GPaste with the kill-ring
 app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20230502.2319: Run instruction-following language models
-app-emacs/gptai 20230430.1823: Integrate with the OpenAI API
+app-emacs/gptai 20230530.1853: Integrate with the OpenAI API
 app-emacs/gptel 20230520.526: A simple ChatGPT client
 app-emacs/grab-mac-link 20210511.1303: Grab link from Mac Apps and insert it into Emacs
 app-emacs/grab-x-link 20191113.848: Grab links from X11 apps and insert into Emacs
@@ -2452,7 +2452,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20230530.1001: P2P filesystem in Emacs
+app-emacs/hyperdrive 20230531.624: P2P filesystem in Emacs
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -2807,7 +2807,7 @@ app-emacs/kooten-theme 20161023.905: Dark color theme
 app-emacs/korean-holidays 20190102.1558: Korean holidays for calendar.
 app-emacs/kosmos-theme 20170502.1850: Black and lightgray theme with not so much syntax highlighting.
 app-emacs/kotlin-mode 20230123.1859: Major mode for kotlin
-app-emacs/kotlin-ts-mode 20230529.1908: A mode for editing Kotlin files based on tree-sitter
+app-emacs/kotlin-ts-mode 20230531.901: A mode for editing Kotlin files based on tree-sitter
 app-emacs/kpm-list 20170924.1352: An emacs buffer list that tries to intelligently group together buffers.
 app-emacs/kroman 20150827.2340: Korean hangul romanization
 app-emacs/ksp-cfg-mode 20190414.2348: major mode for editing KSP CFG files
@@ -3443,7 +3443,7 @@ app-emacs/ob-bitfield 20220401.600: Babel Functions for bitfield
 app-emacs/ob-blockdiag 20210412.1541: org-babel functions for blockdiag evaluation
 app-emacs/ob-browser 20170720.1918: Render HTML in org-mode blocks.
 app-emacs/ob-cfengine3 20230226.1954: Org Babel functions for CFEngine 3
-app-emacs/ob-chatgpt-shell 20230529.1516: Org babel functions for ChatGPT evaluation
+app-emacs/ob-chatgpt-shell 20230531.732: Org babel functions for ChatGPT evaluation
 app-emacs/ob-clojurescript 20180406.1828: org-babel functions for ClojureScript evaluation
 app-emacs/ob-coffee 20170725.1424: org-babel functions for coffee-script evaluation
 app-emacs/ob-coffeescript 20180126.719: org-babel functions for coffee-script evaluation, and fully implementation!
@@ -3451,7 +3451,7 @@ app-emacs/ob-compile 20220830.315: Run compile by org-babel
 app-emacs/ob-crystal 20180126.718: org-babel functions for Crystal evaluation
 app-emacs/ob-cypher 20200521.936: query neo4j using cypher in org-mode blocks
 app-emacs/ob-d2 20230314.352: Org-babel functions for d2
-app-emacs/ob-dall-e-shell 20230524.654: Org babel functions for DALL-E evaluation
+app-emacs/ob-dall-e-shell 20230531.732: Org babel functions for DALL-E evaluation
 app-emacs/ob-dao 20170816.1558: Org Babel Functions for Dao
 app-emacs/ob-dart 20221201.633: Evaluate Dart source blocks in org-mode
 app-emacs/ob-deno 20201019.101: Babel Functions for Javascript/TypeScript with Deno
@@ -3623,7 +3623,7 @@ app-emacs/org-gcal 20221212.1817: Org sync with Google Calendar
 app-emacs/org-generate 20200815.736: Generate template files/folders from org document
 app-emacs/org-gnome 20150614.1457: Orgmode integration with the GNOME desktop
 app-emacs/org-grep 20230424.2005: Kind of M-x rgrep adapted for Org mode
-app-emacs/org-gtd 20230525.1335: An implementation of GTD.
+app-emacs/org-gtd 20230531.100: An implementation of GTD.
 app-emacs/org-habit-stats 20230412.515: Display info about habits
 app-emacs/org-hyperscheduler 20220704.2140: UI (web) representation of org-agenda
 app-emacs/org-id-cleanup 20230310.1639: Interactively find, present and maybe clean up unused IDs of org-id
@@ -3655,7 +3655,7 @@ app-emacs/org-modern 20230525.1107: Modern looks for Org
 app-emacs/org-movies 20210920.101: Manage watchlist with Org mode
 app-emacs/org-mpv-notes 20230414.500: Take notes in org mode while watching videos in mpv
 app-emacs/org-mru-clock 20230104.1922: Clock in/out of tasks with completion and persistent history
-app-emacs/org-msg 20230127.520: Org mode to send and reply to email in HTML.
+app-emacs/org-msg 20230530.2006: Org mode to send and reply to email in HTML.
 app-emacs/org-multi-wiki 20210324.1820: Multiple wikis based on Org mode
 app-emacs/org-multiple-keymap 20191017.1920: Set keymap to elements, such as timestamp and priority.
 app-emacs/org-notebook 20170322.452: Ease the use of org-mode as a notebook
@@ -4710,7 +4710,7 @@ app-emacs/spacebar 20190719.334: Workspaces Bar
 app-emacs/spacegray-theme 20150719.1931: A Hyperminimal UI Theme
 app-emacs/spaceline 20230221.2314: Modeline configuration library for powerline
 app-emacs/spaceline-all-the-icons 20190325.1602: A Spaceline theme using All The Icons
-app-emacs/spacemacs-theme 20230418.2106: Color theme with a dark and light versions
+app-emacs/spacemacs-theme 20230530.1751: Color theme with a dark and light versions
 app-emacs/spaces 20170809.2208: Create and switch between named window configurations.
 app-emacs/spark 20230406.2307: sparkline generation
 app-emacs/sparkline 20150101.1319: Make sparkline images from a list of numbers
@@ -5170,7 +5170,7 @@ app-emacs/vegetative-theme 20220822.353: A Theme based on green CRT terminals
 app-emacs/verb 20230301.2117: Organize and send HTTP requests
 app-emacs/veri-kompass 20200213.934: verilog codebase navigation facility
 app-emacs/verify-url 20160426.1228: find out invalid urls in the buffer or region
-app-emacs/verilog-ext 20230527.1213: SystemVerilog Extensions
+app-emacs/verilog-ext 20230530.1738: SystemVerilog Extensions
 app-emacs/verona-mode 20200823.536: A major mode for the Verona programming language
 app-emacs/versuri 20211104.1301: The lyrics package
 app-emacs/vertica 20131217.1511: Vertica SQL mode extension
