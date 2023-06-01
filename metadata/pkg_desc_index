@@ -1391,7 +1391,7 @@ app-emacs/eshell-git-prompt 20220830.2000: Some Eshell prompt for Git users
 app-emacs/eshell-info-banner 20220728.1006: System information as your Eshell banner
 app-emacs/eshell-outline 20201121.620: Enhanced outline-mode for Eshell
 app-emacs/eshell-prompt-extras 20210925.110: Display extra information for your eshell prompt.
-app-emacs/eshell-syntax-highlighting 20230530.114: Highlight eshell commands
+app-emacs/eshell-syntax-highlighting 20230601.246: Highlight eshell commands
 app-emacs/eshell-toggle 20220718.729: Show/hide eshell under active window.
 app-emacs/eshell-up 20170425.1737: Quickly go to a specific parent directory in eshell
 app-emacs/eshell-vterm 20221229.1328: Vterm for visual commands in eshell
@@ -1557,7 +1557,7 @@ app-emacs/factlog 20130210.140: File activity logger
 app-emacs/faff-theme 20230531.1920: Light Emacs color theme on cornsilk3 background
 app-emacs/fakir 20140729.1652: fakeing bits of Emacs
 app-emacs/fancy-battery 20150101.1204: Fancy battery display
-app-emacs/fancy-compilation 20230223.2309: Enhanced compilation output
+app-emacs/fancy-compilation 20230601.204: Enhanced compilation output
 app-emacs/fancy-dabbrev 20220211.633: Like dabbrev-expand with preview and popup menu
 app-emacs/fancy-narrow 20171031.16: narrow-to-region with more eye candy.
 app-emacs/fantom-mode 20221227.218: A major mode for the Fantom programming language
@@ -1579,7 +1579,7 @@ app-emacs/feature-mode 20220418.848: Major mode for editing Gherkin (i.e. Cucumb
 app-emacs/feebleline 20190822.1401: Replace modeline with a slimmer proxy
 app-emacs/feed-discovery 20200714.1118: Discover feed url by RSS/Atom autodiscovery
 app-emacs/feline 20230315.1821: A modeline with very little
-app-emacs/fennel-mode 20230423.1916: A major-mode for editing Fennel code
+app-emacs/fennel-mode 20230531.2244: A major-mode for editing Fennel code
 app-emacs/fetch 20131201.730: Fetch and unpack resources
 app-emacs/ffmpeg-player 20220704.641: Play video using ffmpeg
 app-emacs/ffmpeg-utils 20230305.709: FFmpeg command utilities wrappers
@@ -2081,7 +2081,7 @@ app-emacs/gpastel 20181229.1404: Integrates GPaste with the kill-ring
 app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20230502.2319: Run instruction-following language models
 app-emacs/gptai 20230530.1853: Integrate with the OpenAI API
-app-emacs/gptel 20230520.526: A simple ChatGPT client
+app-emacs/gptel 20230601.324: A simple ChatGPT client
 app-emacs/grab-mac-link 20210511.1303: Grab link from Mac Apps and insert it into Emacs
 app-emacs/grab-x-link 20191113.848: Grab links from X11 apps and insert into Emacs
 app-emacs/gradle-mode 20150313.1905: Gradle integration with Emacs' compile
@@ -2452,7 +2452,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20230531.624: P2P filesystem in Emacs
+app-emacs/hyperdrive 20230601.531: P2P filesystem in Emacs
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -3197,7 +3197,7 @@ app-emacs/mobdebug-mode 20140110.346: Major mode for MobDebug
 app-emacs/mocha 20200729.1130: Run Mocha or Jasmine tests
 app-emacs/mocha-snippets 20190417.1931: Yasnippets for the Mocha JS Testing Framework
 app-emacs/mocker 20220727.1452: mocking framework for emacs
-app-emacs/modaled 20230531.2033: Build your own minor modes for modal editing
+app-emacs/modaled 20230531.2304: Build your own minor modes for modal editing
 app-emacs/modalka 20221004.1116: Modal editing your way
 app-emacs/mode-icons 20200920.2031: Show icons for modes
 app-emacs/mode-line-bell 20181029.516: Flash the mode line instead of ringing the bell
@@ -4302,7 +4302,7 @@ app-emacs/recentf-ext 20170926.35: Recentf extensions
 app-emacs/recentf-remove-sudo-tramp-prefix 20220621.749: Normalise recentf history
 app-emacs/recently 20210930.207: Track recently opened files to visit them again
 app-emacs/recompile-on-save 20151126.1446: Trigger recompilation on file save.
-app-emacs/recomplete 20230109.536: Immediately (re)complete actions
+app-emacs/recomplete 20230601.15: Immediately (re)complete actions
 app-emacs/recover-buffers 20171009.437: revisit all buffers from an auto-save file
 app-emacs/rect+ 20150621.44: Extensions to rect.el
 app-emacs/rectangle-utils 20190411.1757: Some useful rectangle functions.
@@ -4423,7 +4423,7 @@ app-emacs/ruled-switch-buffer 20211205.636: Rule based buffer switching
 app-emacs/rum-mode 20180127.22: Major mode for Rum programming language
 app-emacs/run-command 20230317.2004: Run an external command from a context-dependent list
 app-emacs/run-command-recipes 20230526.1327: This is collection of recipes to `run-command'
-app-emacs/run-stuff 20230319.459: Context based command execution
+app-emacs/run-stuff 20230601.19: Context based command execution
 app-emacs/runner 20160524.1048: Improved "open with" suggestions for dired
 app-emacs/runtests 20150807.831: Run unit tests from Emacs
 app-emacs/russian-holidays 20170109.2140: Russian holidays for the calendar
@@ -5131,7 +5131,7 @@ app-emacs/use-package-ensure-system-package 20221209.2013: auto install system p
 app-emacs/use-package-hydra 20181228.745: Adds :hydra keyword to use-package macro
 app-emacs/use-proxy 20201209.853: Enable/Disable proxies respecting your HTTP/HTTPS env
 app-emacs/use-ttf 20230503.1015: Keep font consistency across different OSs
-app-emacs/utimeclock 20230319.752: Simple utility for manual time tracking
+app-emacs/utimeclock 20230601.25: Simple utility for manual time tracking
 app-emacs/utop 20230421.1019: Universal toplevel for OCaml
 app-emacs/uuid 20120910.851: UUID's for EmacsLisp
 app-emacs/uuidgen 20220405.1345: Provides various UUID generating functions
@@ -5364,7 +5364,7 @@ app-emacs/xonsh-mode 20201020.52: Major mode for editing xonshrc files
 app-emacs/xquery-mode 20170214.1119: A simple mode for editing xquery programs
 app-emacs/xquery-tool 20200907.811: A simple interface to saxonb's xquery.
 app-emacs/xref-js2 20210310.1238: Jump to references/definitions using ag & js2-mode's AST
-app-emacs/xref-rst 20230116.1300: Lookup reStructuredText symbols
+app-emacs/xref-rst 20230601.21: Lookup reStructuredText symbols
 app-emacs/xresources-theme 20221208.2015: Use your .Xresources as your emacs theme
 app-emacs/xterm-color 20230321.3: ANSI, XTERM 256 and Truecolor support
 app-emacs/xterm-keybinder 20160523.56: Let you extra keybinds in xterm/urxvt
