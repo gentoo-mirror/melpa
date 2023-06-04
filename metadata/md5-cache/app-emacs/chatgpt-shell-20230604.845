@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=NSIS-mode
+DEPEND=app-emacs/shell-maker
+DESCRIPTION=ChatGPT shell + buffer insert commands
 EAPI=8
-HOMEPAGE=http://github.com/mlf176f2/nsis-mode
+HOMEPAGE=https://github.com/xenodium/chatgpt-shell
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/shell-maker >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/nsis-mode-20230523.1810.tar
+SRC_URI=https://melpa.org/packages/chatgpt-shell-20230604.845.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=0e93cff77d08c5cd5cc8468516ffed8e
+_md5_=f5f19e268fa09c7bc59f98aa387a64a0

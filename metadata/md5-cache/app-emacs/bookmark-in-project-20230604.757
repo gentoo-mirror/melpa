@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/shell-maker
-DESCRIPTION=ChatGPT shell + buffer insert commands
+DESCRIPTION=Bookmark access within a project
 EAPI=8
-HOMEPAGE=https://github.com/xenodium/chatgpt-shell
+HOMEPAGE=https://codeberg.org/ideasman42/emacs-bookmark-in-project
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/shell-maker >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/chatgpt-shell-20230603.1830.el
+SRC_URI=https://melpa.org/packages/bookmark-in-project-20230604.757.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=f5f19e268fa09c7bc59f98aa387a64a0
+_md5_=b211c63b2e95bf01282b9aff1d609c5a
