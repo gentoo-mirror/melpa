@@ -193,6 +193,7 @@ app-emacs/audacious 20210917.51: Emacs interface to control audacious
 app-emacs/audio-notes-mode 20170611.2159: Play audio notes synced from somewhere else.
 app-emacs/aurel 20170114.937: Search, get info, vote for and download AUR packages
 app-emacs/aurora-config-mode 20180216.2302: Major mode for Apache Aurora configuration files
+app-emacs/auth-source-1password 20230529.1349: 1password integration for auth-source
 app-emacs/auth-source-gopass 20230109.1213: Gopass integration for auth-source
 app-emacs/auth-source-keytar 20221231.1654: Integrate auth-source with keytar
 app-emacs/auth-source-kwallet 20210605.1032: KWallet integration for auth-source
@@ -1096,6 +1097,7 @@ app-emacs/dune-format 20210505.108: Reformat OCaml's dune files automatically
 app-emacs/duplicate-thing 20181031.1500: Duplicate current line & selection
 app-emacs/dut-mode 20170729.2111: Major mode for the Dut programming language
 app-emacs/dw 20210331.2311: Diceware passphrase generation commands
+app-emacs/dwim-coder-mode 20230602.334: DWIM keybindings for programming modes
 app-emacs/dwim-shell-command 20230527.1441: Shell commands with DWIM behaviour
 app-emacs/dyalog-mode 20230214.1027: Major mode for editing Dyalog APL source code
 app-emacs/dylan 20220115.1804: Dylan editing modes
@@ -1154,7 +1156,7 @@ app-emacs/editorconfig-custom-majormode 20180816.244: Decide major-mode and mmm-
 app-emacs/editorconfig-domain-specific 20180505.924: Apply brace style and other "domain-specific" EditorConfig properties
 app-emacs/editorconfig-generate 20190513.433: Generate .editorconfig
 app-emacs/edn 20160215.1219: Support for reading and writing the edn data format from elisp
-app-emacs/ednc 20230524.945: Emacs Desktop Notification Center
+app-emacs/ednc 20230604.1643: Emacs Desktop Notification Center
 app-emacs/edts 20220521.1345: Erlang Development Tool Suite
 app-emacs/edwina 20221206.1610: Dynamic window manager
 app-emacs/efar 20230216.1213: FAR-like file manager
@@ -2878,6 +2880,7 @@ app-emacs/lemon-mode 20130216.1304: A major mode for editing lemon grammar files
 app-emacs/lentic 20221201.47: One buffer as a view of another
 app-emacs/lentic-server 20160717.2052: Web Server for Emacs Literate Source
 app-emacs/leo 20220111.1045: Interface for dict.leo.org
+app-emacs/lesim-mode 20230604.1826: Major mode for Learning Simulator scripts
 app-emacs/less-css-mode 20161001.453: Major mode for editing LESS CSS files (lesscss.org)
 app-emacs/letcheck 20160202.1948: Check the erroneous assignments in let forms
 app-emacs/letterbox-mode 20170702.125: hide sensitive text on a buffer
@@ -2927,6 +2930,7 @@ app-emacs/list-environment 20210930.1439: A tabulated process environment editor
 app-emacs/list-packages-ext 20151115.1716: Extras for list-packages
 app-emacs/list-unicode-display 20230216.958: Search for and list unicode characters by name
 app-emacs/list-utils 20230422.1740: List-manipulation utility functions
+app-emacs/listenbrainz 20230530.741: ListenBrainz API interface
 app-emacs/lister 20230204.1357: Yet another list printer
 app-emacs/lit-mode 20141205.441: Major mode for lit
 app-emacs/litable 20221028.1640: dynamic evaluation replacement with emacs
@@ -3255,6 +3259,7 @@ app-emacs/mpdel-embark 20230103.2021: Integrate MPDel with Embark
 app-emacs/mpdmacs 20210904.2048: A lightweight MPD client
 app-emacs/mpmc-queue 20180303.2029: a multiple-producer-multiple-consumer queue
 app-emacs/mpv 20220801.1917: control mpv for easy note-taking
+app-emacs/mpvi 20230529.401: Integrated MPV Tool
 app-emacs/mqr 20180527.1204: Multi-dimensional query and replace
 app-emacs/mqtt-mode 20180611.1735: client for interaction with MQTT servers
 app-emacs/msgpack 20200323.515: Read and write MessagePack object
@@ -3287,6 +3292,7 @@ app-emacs/multifiles 20130615.2133: View and edit parts of multiple files in one
 app-emacs/multiple-cursors 20230309.1204: Multiple cursors for Emacs.
 app-emacs/multistate 20210124.2014: Multistate mode
 app-emacs/multitran 20220903.510: Interface to multitran
+app-emacs/musicbrainz 20230530.749: MusicBrainz API interface
 app-emacs/mustache 20210224.710: Mustache templating library in emacs lisp
 app-emacs/mustache-mode 20141024.1432: A major mode for editing Mustache files.
 app-emacs/mustang-theme 20170719.946: port of vim's mustang theme
@@ -3563,7 +3569,7 @@ app-emacs/orderless 20230219.1648: Completion style for matching regexps in any 
 app-emacs/ordinal 20210519.1442: Convert number to ordinal number notation
 app-emacs/org-ac 20170401.1307: Some auto-complete sources for org-mode
 app-emacs/org-agenda-property 20140626.2116: Display org properties in the agenda buffer.
-app-emacs/org-ai 20230530.1228: Your AI assistant with ChatGPT, DALL-E, Whisper
+app-emacs/org-ai 20230604.1751: Your AI assistant with ChatGPT, DALL-E, Whisper
 app-emacs/org-alert 20230520.1449: Notify org deadlines via notify-send
 app-emacs/org-analyzer 20191001.1717: org-analyzer is a tool that extracts time tracking data from org files.
 app-emacs/org-anki 20230117.727: Synchronize org-mode entries to Anki
@@ -3634,6 +3640,7 @@ app-emacs/org-inline-anim 20230331.1048: Inline playback of animated GIF/PNG for
 app-emacs/org-inline-pdf 20230522.1428: Inline PDF previewing for Org
 app-emacs/org-iv 20171001.1022: a tool used to view html (in browser) generated by org-file once the org-file changes
 app-emacs/org-ivy-search 20230222.514: Full text search for org files powered by ivy
+app-emacs/org-jami-bot 20230529.1911: Capture GNU Jami messages as notes and todos in Org mode
 app-emacs/org-jira 20230413.441: Syncing between Jira and Org-mode.
 app-emacs/org-journal 20230309.1240: a simple org-mode based journaling mode
 app-emacs/org-journal-list 20190221.2052: Org mode Journal List
@@ -4494,6 +4501,7 @@ app-emacs/see-mode 20180511.41: Edit string in a separate buffer
 app-emacs/seeing-is-believing 20170214.1320: minor mode for running the seeing-is-believing ruby gem
 app-emacs/seethru 20150218.1829: Easily change Emacs' transparency
 app-emacs/sekka 20170803.1247: A client for Sekka IME server
+app-emacs/selcand 20230530.2118: Select a candidate from a tree of hint characters
 app-emacs/select-themes 20160221.106: Color theme selection with completing-read
 app-emacs/selected 20230219.1328: Keymap for when region is active
 app-emacs/selectric-mode 20200209.2107: IBM Selectric mode for Emacs
@@ -4805,6 +4813,7 @@ app-emacs/sudo-utils 20210119.1930: Sudo utilities
 app-emacs/sudoku 20191015.1315: Simple sudoku game, can download puzzles
 app-emacs/suggest 20190807.851: suggest elisp functions that give the output requested
 app-emacs/suggestion-box 20170830.807: show tooltip on the cursor
+app-emacs/sumibi 20230531.1247: Japanese input method powered by ChatGPT API
 app-emacs/sunburn-theme 20201216.1539: A low contrast color theme
 app-emacs/sunny-day-theme 20140413.2125: Emacs24 theme with a light background.
 app-emacs/sunshine 20200306.1711: Provide weather and forecast information.
