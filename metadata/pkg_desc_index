@@ -357,7 +357,7 @@ app-emacs/bolt-mode 20180310.810: Editing support for Bolt language
 app-emacs/bongo 20201002.1020: play music with Emacs
 app-emacs/bonjourmadame 20170919.1134: Say "Hello ma'am!"
 app-emacs/boogie-friends 20221115.658: A collection of programming modes for Boogie, Dafny, and Z3 (SMTLIB v2).
-app-emacs/bookmark-in-project 20230116.1206: Bookmark access within a project
+app-emacs/bookmark-in-project 20230604.757: Bookmark access within a project
 app-emacs/bookmark-view 20220403.2204: Bookmark views
 app-emacs/bool-flip 20161215.1539: flip the boolean under the point
 app-emacs/boon 20230410.1115: Ergonomic Command Mode for Emacs.
@@ -495,7 +495,7 @@ app-emacs/chaos-mode 20221227.223: A major mode for the Chaos programming langua
 app-emacs/chapel-mode 20210513.457: A major mode for the Chapel programming language
 app-emacs/char-menu 20210321.1657: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 20200616.1418: Unicode table for Emacs
-app-emacs/chatgpt-shell 20230603.1830: ChatGPT shell + buffer insert commands
+app-emacs/chatgpt-shell 20230604.845: ChatGPT shell + buffer insert commands
 app-emacs/chatwork 20170511.442: ChatWork client for Emacs
 app-emacs/cheat-sh 20210607.1307: Interact with cheat.sh
 app-emacs/cheatsheet 20170126.2150: create your own cheatsheet
@@ -861,7 +861,7 @@ app-emacs/dakrone-theme 20170801.1933: dakrone's custom dark theme
 app-emacs/dall-e-shell 20230524.654: Interaction mode for DALL-E
 app-emacs/danneskjold-theme 20221121.634: Beautiful high-contrast Emacs theme.
 app-emacs/dante 20221116.840: Development mode for Haskell
-app-emacs/dap-mode 20230510.1424: Debug Adapter Protocol mode
+app-emacs/dap-mode 20230604.1120: Debug Adapter Protocol mode
 app-emacs/darcsum 20190316.2215: a pcl-cvs like interface for managing darcs patches
 app-emacs/darcula-theme 20171227.1845: Inspired by IntelliJ's Darcula theme
 app-emacs/dark-krystal-theme 20170808.1300: an Emacs 24 theme based on Dark Krystal (tmTheme)
@@ -968,7 +968,7 @@ app-emacs/dired-duplicates 20221007.703: Find duplicate files locally and remote
 app-emacs/dired-dups 20130527.2125: Find duplicate files and display them in a dired buffer
 app-emacs/dired-efap 20220421.1535: Edit Filename At Point in a dired buffer
 app-emacs/dired-explorer 20180607.221: minor-mode provides Explorer like select file at dired.
-app-emacs/dired-fdclone 20220119.717: dired functions and settings to mimic FDclone
+app-emacs/dired-fdclone 20230604.1057: dired functions and settings to mimic FDclone
 app-emacs/dired-filetype-face 20180907.1339: Set different faces for different filetypes in dired
 app-emacs/dired-filter 20221127.1247: Ibuffer-like filtering for dired
 app-emacs/dired-git 20220828.6: Git integration for dired
@@ -1502,7 +1502,7 @@ app-emacs/evil-textobj-column 20170905.1905: Provides column text objects.
 app-emacs/evil-textobj-entire 20150422.1254: text object for entire lines of buffer for evil
 app-emacs/evil-textobj-line 20211101.1429: Line text object for Evil
 app-emacs/evil-textobj-syntax 20181210.1213: Provides syntax text objects.
-app-emacs/evil-textobj-tree-sitter 20230521.414: Provides evil textobjects using tree-sitter
+app-emacs/evil-textobj-tree-sitter 20230604.1018: Provides evil textobjects using tree-sitter
 app-emacs/evil-traces 20191214.558: Visual hints for `evil-ex'
 app-emacs/evil-tree-edit 20230419.1753: Evil structural editing for any language!
 app-emacs/evil-tutor 20150103.653: Vimtutor adapted to Evil and wrapped in a major-mode
@@ -2170,7 +2170,7 @@ app-emacs/hcl-mode 20230302.1029: Major mode for Hashicorp
 app-emacs/headlong 20150417.1526: reckless completion
 app-emacs/heaven-and-hell 20190713.1830: easy toggle light/dark themes
 app-emacs/heex-ts-mode 20230316.553: Major mode for Heex with tree-sitter support
-app-emacs/helm 20230602.903: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20230604.624: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: helm-sources and some utilities for GNU R.
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: helm source for Active Directory
@@ -2203,7 +2203,7 @@ app-emacs/helm-clojuredocs 20160405.723: search for help in clojuredocs.org
 app-emacs/helm-codesearch 20221219.1219: helm interface for codesearch
 app-emacs/helm-commandlinefu 20150611.545: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 20190812.1429: Helm interface for company-mode
-app-emacs/helm-core 20230603.559: Development files for Helm
+app-emacs/helm-core 20230603.623: Development files for Helm
 app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el.
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
@@ -2452,7 +2452,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20230603.1947: P2P filesystem in Emacs
+app-emacs/hyperdrive 20230604.332: P2P filesystem in Emacs
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -3418,7 +3418,7 @@ app-emacs/npm-mode 20190616.2025: minor mode for working with npm projects
 app-emacs/nrepl-eval-sexp-fu 20201007.2311: Tiny functionality enhancements for evaluating sexps.
 app-emacs/nrepl-sync 20140807.1557: connect to nrepl port and eval .sync.clj.
 app-emacs/ns-auto-titlebar 20181022.2154: Set the MacOS transparent titlebar to match theme
-app-emacs/nsis-mode 20230523.1810: NSIS-mode
+app-emacs/nsis-mode 20230604.343: NSIS-mode
 app-emacs/nswbuff 20230311.154: Quick switching between buffers.
 app-emacs/nu-mode 20190404.2032: Modern Emacs Prompts Based Keybinding.
 app-emacs/nubox 20170619.910: Nubox color theme (dark, light and tty versions)
@@ -3651,7 +3651,7 @@ app-emacs/org-mime 20230321.2341: org html export for text/html MIME emails
 app-emacs/org-mind-map 20180826.2340: Creates a directed graph from org-mode files
 app-emacs/org-ml 20230410.30: Functional Org Mode API
 app-emacs/org-mobile-sync 20180606.524: automatically sync org-mobile on changes
-app-emacs/org-modern 20230601.1306: Modern looks for Org
+app-emacs/org-modern 20230604.1002: Modern looks for Org
 app-emacs/org-movies 20210920.101: Manage watchlist with Org mode
 app-emacs/org-mpv-notes 20230414.500: Take notes in org mode while watching videos in mpv
 app-emacs/org-mru-clock 20230104.1922: Clock in/out of tasks with completion and persistent history
@@ -4537,7 +4537,7 @@ app-emacs/sharper 20230129.1827: A dotnet CLI wrapper, using Transient
 app-emacs/shell-current-directory 20140101.2354: create new shell based on buffer directory
 app-emacs/shell-here 20220102.1703: Open a shell relative to the working directory
 app-emacs/shell-history 20100505.839: integration with shell history
-app-emacs/shell-maker 20230524.2217: Interaction mode for making comint shells
+app-emacs/shell-maker 20230604.909: Interaction mode for making comint shells
 app-emacs/shell-pop 20200315.1139: helps you to use shell easily on Emacs. Only one key action to work.
 app-emacs/shell-split-string 20151224.1008: Split strings using shell-like syntax
 app-emacs/shell-switcher 20210509.1045: Provide fast switching between shell buffers.
