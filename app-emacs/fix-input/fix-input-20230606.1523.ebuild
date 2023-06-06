@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Make input methods play nicely with alternative keyboard layout on OS level"
+DESCRIPTION="Make input methods play nicely with alternative layouts"
 
 HOMEPAGE="https://github.com/mrkkrp/fix-input"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

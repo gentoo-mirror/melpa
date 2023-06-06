@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Precise control over buffer killing in Emacs
+DEPEND=app-emacs/compat
+DESCRIPTION=Help keeping ~/.config/emacs clean
 EAPI=8
-HOMEPAGE=https://github.com/mrkkrp/kill-or-bury-alive
+HOMEPAGE=https://github.com/emacscollective/no-littering
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/compat >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/kill-or-bury-alive-20210320.1231.el
+SRC_URI=https://melpa.org/packages/no-littering-20230606.1440.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=906bb873d2a2f2a40d3567dc1a635fe9
+_md5_=1e7f260d0ca25f25c9d5d5f5658a49d7
