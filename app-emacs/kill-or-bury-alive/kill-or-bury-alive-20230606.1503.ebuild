@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Precise control over buffer killing in Emacs"
+DESCRIPTION="Precise control over buffer killing"
 
 HOMEPAGE="https://github.com/mrkkrp/kill-or-bury-alive"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
