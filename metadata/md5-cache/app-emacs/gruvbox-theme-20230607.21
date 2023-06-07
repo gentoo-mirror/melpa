@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Major mode for Markdown-formatted text
+DEPEND=app-emacs/autothemer
+DESCRIPTION=A retro-groove colour theme for Emacs
 EAPI=8
-HOMEPAGE=https://jblevins.org/projects/markdown-mode/
+HOMEPAGE=https://github.com/greduan/emacs-theme-gruvbox
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/autothemer >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/markdown-mode-20230522.147.el
+SRC_URI=https://melpa.org/packages/gruvbox-theme-20230607.21.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=09515136ec72222451bcc7b3d4c9000c
+_md5_=f95a63ef5b49fd800882ea6e9345ce9a
