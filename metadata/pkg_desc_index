@@ -726,7 +726,7 @@ app-emacs/constant-theme 20180921.1012: A calm, dark, almost monochrome color th
 app-emacs/consult 20230606.1010: Consulting completing-read
 app-emacs/consult-ag 20230227.406: The silver searcher integration using Consult
 app-emacs/consult-codesearch 20230315.1424: Consult interface for codesearch
-app-emacs/consult-company 20230403.1911: Consult frontend for company
+app-emacs/consult-company 20230606.1824: Consult frontend for company
 app-emacs/consult-dash 20230529.1419: Consult front-end for dash-docs
 app-emacs/consult-dir 20221001.1748: Insert paths into the minibuffer prompt
 app-emacs/consult-eglot 20230423.1505: A consulting-read interface for eglot
@@ -1199,7 +1199,7 @@ app-emacs/elbank 20180316.1343: Personal finances reporting application
 app-emacs/elcontext 20210109.1238: Create context specific actions
 app-emacs/elcord 20230601.1545: Allows you to integrate Rich Presence from Discord
 app-emacs/elcouch 20201108.955: View and manipulate CouchDB databases
-app-emacs/eldev 20230605.2044: Elisp development tool
+app-emacs/eldev 20230606.1809: Elisp development tool
 app-emacs/eldoc-box 20230526.2100: Display documentation in childframe
 app-emacs/eldoc-cmake 20190419.2244: Eldoc support for CMake
 app-emacs/eldoc-eval 20220106.1951: Enable eldoc support when minibuffer is in use.
@@ -1435,7 +1435,7 @@ app-emacs/evalator 20160213.128: Package for interactive transformation of data 
 app-emacs/evalator-clojure 20160208.2148: Clojure evaluation context for evalator via CIDER.
 app-emacs/eve-mode 20170822.2231: Major mode for editing Eve documents.
 app-emacs/everlasting-scratch 20230105.507: The *scratch* that lasts forever
-app-emacs/evil 20230604.2113: Extensible Vi layer for Emacs.
+app-emacs/evil 20230606.2141: Extensible Vi layer for Emacs.
 app-emacs/evil-anzu 20220911.1939: anzu for evil-mode
 app-emacs/evil-args 20220125.1626: Motions and text objects for delimited arguments in Evil.
 app-emacs/evil-avy 20150908.748: set-based completion
@@ -1760,7 +1760,7 @@ app-emacs/flycheck-yang 20180312.1831: YANG flycheck checker
 app-emacs/flycheck-ycmd 20181016.618: flycheck integration for ycmd
 app-emacs/flymake-aspell 20230408.957: Aspell checker for flymake
 app-emacs/flymake-coffee 20170723.146: A flymake handler for coffee script
-app-emacs/flymake-collection 20230521.1147: Collection of checkers for flymake, bringing flymake to the level of flycheck
+app-emacs/flymake-collection 20230606.2002: Collection of checkers for flymake, bringing flymake to the level of flycheck
 app-emacs/flymake-cspell 20230208.2155: A Flymake backend for CSpell
 app-emacs/flymake-css 20170723.146: Flymake support for css using csslint
 app-emacs/flymake-cursor 20220506.1458: Show flymake messages in the minibuffer after delay
@@ -1898,7 +1898,7 @@ app-emacs/gameoflife 20200614.1814: Screensaver running Conway's Game of Life
 app-emacs/gams-ac 20180423.926: auto-complete source file for GAMS mode
 app-emacs/gams-mode 20230413.1331: Major mode for General Algebraic Modeling System (GAMS)
 app-emacs/gandalf-theme 20130809.947: Gandalf color theme
-app-emacs/gap-mode 20220815.2355: Major mode for editing files in the GAP programing language.
+app-emacs/gap-mode 20230606.2358: Major mode for editing files in the GAP programming language.
 app-emacs/gather 20141230.1338: Gather string in buffer.
 app-emacs/gcmh 20201116.2251: the Garbage Collector Magic Hack
 app-emacs/gcode-mode 20221205.116: Simple G-Code major mode
@@ -2116,7 +2116,7 @@ app-emacs/groovy-mode 20230318.533: Major mode for Groovy source files
 app-emacs/gruber-darker-theme 20221122.1143: Gruber Darker color theme for Emacs 24.
 app-emacs/grugru 20230121.1825: Rotate text at point
 app-emacs/grunt 20160316.1528: Some glue to stick Emacs and Gruntfiles together
-app-emacs/gruvbox-theme 20230511.53: A retro-groove colour theme for Emacs
+app-emacs/gruvbox-theme 20230607.21: A retro-groove colour theme for Emacs
 app-emacs/gs-mode 20151202.1006: Major mode for editing GrADS script files
 app-emacs/gscholar-bibtex 20190130.555: Retrieve BibTeX from Google Scholar and other online sources(ACM, IEEE, DBLP)
 app-emacs/gsettings 20210407.2045: GSettings (Gnome) helpers
@@ -2787,7 +2787,7 @@ app-emacs/keyswap 20160813.957: swap bindings between key pairs
 app-emacs/keytar 20221231.1655: Emacs Lisp interface for node-keytar
 app-emacs/keyword-search 20180424.1102: browser keyword search from Emacs
 app-emacs/kfg 20140909.538: an emacs configuration system
-app-emacs/khalel 20230122.1139: Import, edit and create calendar events through khal
+app-emacs/khalel 20230606.1909: Import, edit and create calendar events through khal
 app-emacs/khardel 20220223.934: Integrate with khard
 app-emacs/khoj 20230602.512: AI personal assistant for your digital brain
 app-emacs/kibit-helper 20150508.1533: Conveniently use the Kibit Leiningen plugin from Emacs
@@ -3005,7 +3005,7 @@ app-emacs/lsp-pyre 20190406.335: lsp-mode client for python using pyre
 app-emacs/lsp-pyright 20230225.1118: Python LSP client using Pyright
 app-emacs/lsp-python-ms 20211204.1209: The lsp-mode client for Microsoft python-language-server
 app-emacs/lsp-rescript 20220314.1957: LSP client configuration for lsp-mode and rescript-vscode
-app-emacs/lsp-scheme 20230605.1621: Scheme support for lsp-mode
+app-emacs/lsp-scheme 20230606.1722: Scheme support for lsp-mode
 app-emacs/lsp-sonarlint 20220510.1802: Emacs Sonarlint lsp client
 app-emacs/lsp-sourcekit 20210905.2017: sourcekit-lsp client for lsp-mode
 app-emacs/lsp-tailwindcss 20230407.951: A lsp-mode client for tailwindcss
@@ -3091,7 +3091,7 @@ app-emacs/mark-multiple 20121118.1554: Sorta lets you mark several regions at on
 app-emacs/mark-thing-at 20201219.232: Mark a pattern at the current point
 app-emacs/mark-tools 20130614.1025: Some simple tools to access the mark-ring in Emacs
 app-emacs/markdown-changelog 20200120.2253: Maintain changelog entries
-app-emacs/markdown-mode 20230522.147: Major mode for Markdown-formatted text
+app-emacs/markdown-mode 20230607.320: Major mode for Markdown-formatted text
 app-emacs/markdown-preview-eww 20160111.1502: Realtime preview by eww
 app-emacs/markdown-preview-mode 20221006.1601: markdown realtime preview minor mode.
 app-emacs/markdown-soma 20220802.956: Live preview for Markdown
@@ -3934,7 +3934,7 @@ app-emacs/pd-remote 20230314.428: Pd remote control helper
 app-emacs/pdb-capf 20200419.1237: Completion-at-point function for python debugger
 app-emacs/pdb-mode 20150128.1751: Major mode for editing Protein Data Bank files
 app-emacs/pdf-tools 20230404.327: Support library for PDF documents
-app-emacs/pdf-view-pagemark 20230530.231: Add indicator in pdfview mode to show the page remaining
+app-emacs/pdf-view-pagemark 20230607.144: Add indicator in pdfview mode to show the page remaining
 app-emacs/pdf-view-restore 20190904.1708: Support for opening last known pdf position in pdfview mode
 app-emacs/pdfgrep 20210203.1730: run `pdfgrep' and display the results.
 app-emacs/peacock-theme 20170808.1320: an Emacs 24 theme based on Peacock (tmTheme)
