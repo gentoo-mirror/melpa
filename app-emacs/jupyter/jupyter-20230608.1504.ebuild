@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Jupyter"
 
-HOMEPAGE="https://github.com/dzop/emacs-jupyter"
+HOMEPAGE="https://github.com/nnicandro/emacs-jupyter"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
