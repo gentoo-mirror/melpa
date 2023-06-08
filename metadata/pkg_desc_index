@@ -591,7 +591,7 @@ app-emacs/clues-theme 20161213.1127: an Emacs 24 theme which may well be fully a
 app-emacs/cm-mode 20170203.2107: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 20230304.2223: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 20210610.1525: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 20230422.828: major-mode for editing CMake sources
+app-emacs/cmake-mode 20230608.1510: major-mode for editing CMake sources
 app-emacs/cmake-project 20171121.1115: Integrates CMake build process with Emacs
 app-emacs/cmd-to-echo 20161203.2133: Show the output of long-running commands in the echo area
 app-emacs/cmm-mode 20150225.746: Major mode for C-- source code
@@ -1332,7 +1332,7 @@ app-emacs/enlive 20170725.1417: query html document with css selectors
 app-emacs/eno 20191013.1239: Goto/copy/cut any word/symbol/line in view, similar to ace-jump/easymotion
 app-emacs/enotify 20130407.1348: A networked notification system for emacs
 app-emacs/environ 20230518.1310: API for environment variables and env files
-app-emacs/envrc 20230105.719: Support for `direnv' that operates buffer-locally
+app-emacs/envrc 20230608.1240: Support for `direnv' that operates buffer-locally
 app-emacs/eopengrok 20230114.1413: opengrok interface for emacs
 app-emacs/epc 20140610.534: A RPC stack for the Emacs Lisp
 app-emacs/epic 20170210.23: Evernote Picker for Cocoa Emacs
@@ -1369,8 +1369,8 @@ app-emacs/ergoemacs-mode 20230207.1551: Emacs mode based on common modern interf
 app-emacs/ergoemacs-status 20160318.538: Adaptive Status Bar / Mode Line
 app-emacs/eri 20200914.644: Enhanced relative indentation (eri)
 app-emacs/erk 20230511.251: Elisp (GitHub) Repository Kit
-app-emacs/erlang 20230515.1036: Erlang major mode
-app-emacs/erlstack-mode 20230202.1955: Minor mode for analysing Erlang stacktraces
+app-emacs/erlang 20230608.533: Erlang major mode
+app-emacs/erlstack-mode 20230608.909: Minor mode for analysing Erlang stacktraces
 app-emacs/eros 20230309.615: Evaluation Result OverlayS for Emacs Lisp
 app-emacs/ert-async 20200105.1031: Async support for ERT
 app-emacs/ert-expectations 20121009.734: The simplest unit test framework in the world
@@ -2739,7 +2739,7 @@ app-emacs/jump-char 20180601.1348: navigation by char
 app-emacs/jump-to-line 20130122.1653: Jump to line number at point.
 app-emacs/jump-tree 20171014.1551: Treat position history as a tree
 app-emacs/jumplist 20151120.345: Jump like vim jumplist or ex jumplist
-app-emacs/jupyter 20230510.1523: Jupyter
+app-emacs/jupyter 20230608.1504: Jupyter
 app-emacs/just-mode 20230303.2255: Justfile editing mode
 app-emacs/justl 20221222.1650: Major mode for driving just files
 app-emacs/jvm-mode 20150422.708: Monitor and manage your JVMs
@@ -2881,7 +2881,7 @@ app-emacs/lemon-mode 20130216.1304: A major mode for editing lemon grammar files
 app-emacs/lentic 20221201.47: One buffer as a view of another
 app-emacs/lentic-server 20160717.2052: Web Server for Emacs Literate Source
 app-emacs/leo 20220111.1045: Interface for dict.leo.org
-app-emacs/lesim-mode 20230604.1826: Major mode for Learning Simulator scripts
+app-emacs/lesim-mode 20230608.1344: Major mode for Learning Simulator scripts
 app-emacs/less-css-mode 20161001.453: Major mode for editing LESS CSS files (lesscss.org)
 app-emacs/letcheck 20160202.1948: Check the erroneous assignments in let forms
 app-emacs/letterbox-mode 20170702.125: hide sensitive text on a buffer
@@ -3946,7 +3946,7 @@ app-emacs/pelican-mode 20190124.2336: Minor mode for editing Pelican sites
 app-emacs/pepita 20200228.2257: Run Splunk search commands, export results to CSV/HTML/JSON
 app-emacs/per-buffer-theme 20221002.2219: Change theme and font according to buffer name or major mode.
 app-emacs/perfect-margin 20220426.1701: auto center windows, work with minimap and/or linum-mode
-app-emacs/perject 20230306.1033: Session-persistent project management
+app-emacs/perject 20230605.841: Session-persistent project management
 app-emacs/perlbrew 20161109.709: A perlbrew wrapper for Emacs
 app-emacs/persistent-overlays 20161128.700: Minor mode to store selected overlays to be loaded later
 app-emacs/persistent-scratch 20230225.1439: Preserve the scratch buffer across Emacs sessions
@@ -4223,7 +4223,7 @@ app-emacs/python-environment 20150310.853: virtualenv API for Emacs Lisp
 app-emacs/python-insert-docstring 20211127.1232: Python Google docstring inserter
 app-emacs/python-isort 20210603.2153: Reformat python-mode buffer with isort
 app-emacs/python-mls 20230522.2131: Multi-line shell for (i)Python
-app-emacs/python-mode 20230608.620: Python major mode
+app-emacs/python-mode 20230608.1517: Python major mode
 app-emacs/python-pytest 20221021.1937: helpers to run pytest
 app-emacs/python-switch-quotes 20161228.809: cycle between ' and " quotes in python strings
 app-emacs/python-test 20181018.29: Python testing integration
@@ -4901,7 +4901,7 @@ app-emacs/tco 20191129.2040: Tail-call optimisation for Emacs lisp
 app-emacs/tea-time 20120331.820: Simple timer package, useful to make perfect tea.
 app-emacs/teacode-expand 20181231.640: Expansion of text by TeaCode program.
 app-emacs/teco 20200707.2309: Teco interpreter
-app-emacs/telega 20230605.956: Telegram client (unofficial)
+app-emacs/telega 20230608.1246: Telegram client (unofficial)
 app-emacs/telepathy 20131209.1258: Access Telepathy from Emacs
 app-emacs/telephone-line 20230322.442: Rewrite of Powerline
 app-emacs/teletext 20211203.1111: Teletext broadcast viewer
@@ -5332,7 +5332,7 @@ app-emacs/wonderland 20130913.119: declarative configuration for Emacsen
 app-emacs/wordel 20230528.1902: An Elisp implementation of "Wordle" (aka "Lingo")
 app-emacs/wordgen 20170803.1820: Random word generator
 app-emacs/wordnut 20180313.443: Major mode interface to WordNet
-app-emacs/wordreference 20230502.1531: Interface for wordreference.com
+app-emacs/wordreference 20230608.1304: Interface for wordreference.com
 app-emacs/wordsmith-mode 20210715.1517: Syntax analysis and NLP text-processing in Emacs (OSX-only)
 app-emacs/worf 20220102.835: A warrior does not press so many keys! (in org-mode)
 app-emacs/workgroups 20110726.1641: workgroups for windows (for Emacs)
