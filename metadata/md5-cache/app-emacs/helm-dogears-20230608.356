@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/emms
-DESCRIPTION=Integrated video tool based on EMMS and MPV
+DEPEND=app-emacs/dogears app-emacs/helm
+DESCRIPTION=Helm source for Dogears
 EAPI=8
-HOMEPAGE=https://github.com/lorniu/mpvi
+HOMEPAGE=https://github.com/alphapapa/dogears.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/emms >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/dogears app-emacs/helm >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/mpvi-20230605.333.tar
+SRC_URI=https://melpa.org/packages/helm-dogears-20230608.356.el
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=dbbceb18b7189d18b160618238f3a81d
+_md5_=4679c1d9ae8ce6caa3c43b8b6ba93d35

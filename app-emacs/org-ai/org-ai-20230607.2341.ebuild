@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Your AI assistant with ChatGPT, DALL-E, Whisper"
+DESCRIPTION="Your AI assistant with ChatGPT, DALL-E, Whisper, Stable Diffusion"
 
 HOMEPAGE="https://github.com/rksm/org-ai"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
