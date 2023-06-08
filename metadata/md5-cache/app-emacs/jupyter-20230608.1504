@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/dash
-DESCRIPTION=Minor mode for analysing Erlang stacktraces
+DEPEND=app-emacs/zmq app-emacs/simple-httpd app-emacs/websocket
+DESCRIPTION=Jupyter
 EAPI=8
-HOMEPAGE=https://github.com/k32/erlstack-mode
+HOMEPAGE=https://github.com/nnicandro/emacs-jupyter
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/dash >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/zmq app-emacs/simple-httpd app-emacs/websocket >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/erlstack-mode-20230202.1955.el
+SRC_URI=https://melpa.org/packages/jupyter-20230608.1504.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=1578871c5501e796886a5f304ec7a6c8
+_md5_=65f7b366b0c68541f55b76ccfbcd140a
