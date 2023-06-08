@@ -1053,7 +1053,7 @@ app-emacs/dockerfile-mode 20220822.2021: Major mode for editing Docker's Dockerf
 app-emacs/docopt 20230216.957: A Docopt implementation in Elisp
 app-emacs/docstr 20221231.1701: A document string minor mode
 app-emacs/doct 20230108.1507: DOCT: Declarative Org capture templates
-app-emacs/dogears 20220829.441: Never lose your place again
+app-emacs/dogears 20230608.400: Never lose your place again
 app-emacs/dokuwiki 20180102.59: Edit Remote DokuWiki Pages Using XML-RPC
 app-emacs/dokuwiki-mode 20170223.1301: Major mode for DokuWiki document
 app-emacs/dollaro 20151123.1302: simple text templates
@@ -1898,7 +1898,7 @@ app-emacs/gameoflife 20200614.1814: Screensaver running Conway's Game of Life
 app-emacs/gams-ac 20180423.926: auto-complete source file for GAMS mode
 app-emacs/gams-mode 20230413.1331: Major mode for General Algebraic Modeling System (GAMS)
 app-emacs/gandalf-theme 20130809.947: Gandalf color theme
-app-emacs/gap-mode 20230606.2358: Major mode for editing files in the GAP programming language.
+app-emacs/gap-mode 20230608.546: Major mode for editing files in the GAP programming language.
 app-emacs/gather 20141230.1338: Gather string in buffer.
 app-emacs/gcmh 20201116.2251: the Garbage Collector Magic Hack
 app-emacs/gcode-mode 20221205.116: Simple G-Code major mode
@@ -2217,7 +2217,7 @@ app-emacs/helm-dictionary 20220514.714: Helm source for looking up dictionaries
 app-emacs/helm-directory 20170709.1103: selecting directory before select the file
 app-emacs/helm-dired-history 20170524.1046: Show dired history with helm.el support.
 app-emacs/helm-dired-recent-dirs 20131228.1414: Show recent dirs with helm.el support.
-app-emacs/helm-dogears 20210822.2106: Helm source for Dogears
+app-emacs/helm-dogears 20230608.356: Helm source for Dogears
 app-emacs/helm-emmet 20160713.1231: helm sources for emmet-mode's snippets
 app-emacs/helm-emms 20220314.1633: Emms for Helm.
 app-emacs/helm-esa 20190721.1429: Esa with helm interface
@@ -2996,7 +2996,7 @@ app-emacs/lsp-julia 20230414.2107: Julia support for lsp-mode
 app-emacs/lsp-latex 20230421.1814: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20230416.1826: LSP Clients for LTEX
 app-emacs/lsp-metals 20230406.755: Scala Client settings
-app-emacs/lsp-mode 20230602.1742: LSP mode
+app-emacs/lsp-mode 20230608.739: LSP mode
 app-emacs/lsp-mssql 20230510.1124: MSSQL LSP bindings
 app-emacs/lsp-origami 20211016.1045: origami.el support for lsp-mode
 app-emacs/lsp-p4 20190127.1049: P4 support for lsp-mode
@@ -3260,7 +3260,7 @@ app-emacs/mpdel-embark 20230103.2021: Integrate MPDel with Embark
 app-emacs/mpdmacs 20210904.2048: A lightweight MPD client
 app-emacs/mpmc-queue 20180303.2029: a multiple-producer-multiple-consumer queue
 app-emacs/mpv 20220801.1917: control mpv for easy note-taking
-app-emacs/mpvi 20230605.333: Integrated video tool based on EMMS and MPV
+app-emacs/mpvi 20230608.154: Integrated video tool based on EMMS and MPV
 app-emacs/mqr 20180527.1204: Multi-dimensional query and replace
 app-emacs/mqtt-mode 20180611.1735: client for interaction with MQTT servers
 app-emacs/msgpack 20200323.515: Read and write MessagePack object
@@ -3570,7 +3570,7 @@ app-emacs/orderless 20230219.1648: Completion style for matching regexps in any 
 app-emacs/ordinal 20210519.1442: Convert number to ordinal number notation
 app-emacs/org-ac 20170401.1307: Some auto-complete sources for org-mode
 app-emacs/org-agenda-property 20140626.2116: Display org properties in the agenda buffer.
-app-emacs/org-ai 20230604.1751: Your AI assistant with ChatGPT, DALL-E, Whisper
+app-emacs/org-ai 20230607.2341: Your AI assistant with ChatGPT, DALL-E, Whisper, Stable Diffusion
 app-emacs/org-alert 20230520.1449: Notify org deadlines via notify-send
 app-emacs/org-analyzer 20191001.1717: org-analyzer is a tool that extracts time tracking data from org files.
 app-emacs/org-anki 20230117.727: Synchronize org-mode entries to Anki
@@ -3690,7 +3690,7 @@ app-emacs/org-projectile-helm 20180601.1822: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 20170328.1639: Jekyll's handler for org-protocol
 app-emacs/org-ql 20230525.1548: Org Query Language, search command, and agenda-like view
 app-emacs/org-radiobutton 20210519.1225: Radiobutton for org-mode lists.
-app-emacs/org-rainbow-tags 20221114.1307: Colorize org tags automatically
+app-emacs/org-rainbow-tags 20230607.1927: Colorize org tags automatically
 app-emacs/org-random-todo 20190214.2057: show a random TODO (with alert) every so often
 app-emacs/org-randomnote 20200110.1407: Find a random note in your Org-Mode files
 app-emacs/org-re-reveal 20230607.1503: Org export to reveal.js presentations
@@ -4223,7 +4223,7 @@ app-emacs/python-environment 20150310.853: virtualenv API for Emacs Lisp
 app-emacs/python-insert-docstring 20211127.1232: Python Google docstring inserter
 app-emacs/python-isort 20210603.2153: Reformat python-mode buffer with isort
 app-emacs/python-mls 20230522.2131: Multi-line shell for (i)Python
-app-emacs/python-mode 20230515.722: Python major mode
+app-emacs/python-mode 20230608.620: Python major mode
 app-emacs/python-pytest 20221021.1937: helpers to run pytest
 app-emacs/python-switch-quotes 20161228.809: cycle between ' and " quotes in python strings
 app-emacs/python-test 20181018.29: Python testing integration
@@ -4272,7 +4272,7 @@ app-emacs/random-splash-image 20151003.130: Randomly sets splash image to *GNU E
 app-emacs/ranger 20210125.330: Make dired more like ranger
 app-emacs/rase 20120928.2045: Run At Sun Event daemon
 app-emacs/rats 20170818.1013: Rapid testing suite for Go
-app-emacs/raycast-mode 20230530.1132: Develop Raycast Extensions
+app-emacs/raycast-mode 20230607.2107: Develop Raycast Extensions
 app-emacs/rbenv 20141120.749: Emacs integration for rbenv
 app-emacs/rbs-mode 20210430.135: A major mode for RBS
 app-emacs/rbt 20170202.2302: Integrate reviewboard with emacs.
@@ -4928,7 +4928,7 @@ app-emacs/tern 20191227.950: Tern-powered JavaScript integration
 app-emacs/tern-auto-complete 20191227.950: Tern Completion by auto-complete.el
 app-emacs/tern-context-coloring 20170102.2253: Use Tern for context coloring
 app-emacs/terraform-doc 20230521.849: Look up terraform documentation on the fly
-app-emacs/terraform-mode 20230605.1220: Major mode for terraform configuration file
+app-emacs/terraform-mode 20230607.1923: Major mode for terraform configuration file
 app-emacs/tesouro 20221003.1303: Brazilian Portuguese synonym search in dicio.com.br
 app-emacs/test-c 20180423.1720: quickly test c code
 app-emacs/test-case-mode 20130525.1434: unit test front-end
