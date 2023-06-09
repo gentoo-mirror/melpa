@@ -23,10 +23,12 @@ DEPEND="app-emacs/eglot
 	app-emacs/ag
 	app-emacs/ripgrep
 	app-emacs/hydra
-	app-emacs/flycheck"
+	app-emacs/flycheck
+	app-emacs/company"
 RDEPEND="app-emacs/eglot
 	app-emacs/lsp-mode
 	app-emacs/ag
 	app-emacs/ripgrep
 	app-emacs/hydra
-	app-emacs/flycheck"
+	app-emacs/flycheck
+	app-emacs/company"
