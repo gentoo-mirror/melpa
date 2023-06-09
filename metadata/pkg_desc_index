@@ -496,7 +496,7 @@ app-emacs/chaos-mode 20221227.223: A major mode for the Chaos programming langua
 app-emacs/chapel-mode 20210513.457: A major mode for the Chapel programming language
 app-emacs/char-menu 20210321.1657: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 20200616.1418: Unicode table for Emacs
-app-emacs/chatgpt-shell 20230604.845: ChatGPT shell + buffer insert commands
+app-emacs/chatgpt-shell 20230609.704: ChatGPT shell + buffer insert commands
 app-emacs/chatwork 20170511.442: ChatWork client for Emacs
 app-emacs/cheat-sh 20210607.1307: Interact with cheat.sh
 app-emacs/cheatsheet 20170126.2150: create your own cheatsheet
@@ -1435,7 +1435,7 @@ app-emacs/evalator 20160213.128: Package for interactive transformation of data 
 app-emacs/evalator-clojure 20160208.2148: Clojure evaluation context for evalator via CIDER.
 app-emacs/eve-mode 20170822.2231: Major mode for editing Eve documents.
 app-emacs/everlasting-scratch 20230105.507: The *scratch* that lasts forever
-app-emacs/evil 20230606.2141: Extensible Vi layer for Emacs.
+app-emacs/evil 20230608.2150: Extensible Vi layer for Emacs.
 app-emacs/evil-anzu 20220911.1939: anzu for evil-mode
 app-emacs/evil-args 20220125.1626: Motions and text objects for delimited arguments in Evil.
 app-emacs/evil-avy 20150908.748: set-based completion
@@ -1581,7 +1581,7 @@ app-emacs/feature-mode 20220418.848: Major mode for editing Gherkin (i.e. Cucumb
 app-emacs/feebleline 20190822.1401: Replace modeline with a slimmer proxy
 app-emacs/feed-discovery 20200714.1118: Discover feed url by RSS/Atom autodiscovery
 app-emacs/feline 20230315.1821: A modeline with very little
-app-emacs/fennel-mode 20230531.2244: A major-mode for editing Fennel code
+app-emacs/fennel-mode 20230608.1841: A major-mode for editing Fennel code
 app-emacs/fetch 20131201.730: Fetch and unpack resources
 app-emacs/ffmpeg-player 20220704.641: Play video using ffmpeg
 app-emacs/ffmpeg-utils 20230305.709: FFmpeg command utilities wrappers
@@ -1851,7 +1851,7 @@ app-emacs/forth-mode 20220629.519: Programming language mode for Forth
 app-emacs/fortpy 20150715.2032: a Fortran auto-completion for Emacs
 app-emacs/fortune-cookie 20181223.842: Print a fortune in your scratch buffer.
 app-emacs/fountain-mode 20230515.534: Major mode for screenwriting in Fountain markup
-app-emacs/fpga 20230606.726: FPGA & ASIC Utils
+app-emacs/fpga 20230606.925: FPGA & ASIC Utils
 app-emacs/fraktur-mode 20160815.227: Easily insert Unicode mathematical Fraktur characters
 app-emacs/frame-local 20180330.940: Variables local to a frame
 app-emacs/frame-mode 20190710.2030: Use frames instead of windows
@@ -1898,7 +1898,7 @@ app-emacs/gameoflife 20200614.1814: Screensaver running Conway's Game of Life
 app-emacs/gams-ac 20180423.926: auto-complete source file for GAMS mode
 app-emacs/gams-mode 20230413.1331: Major mode for General Algebraic Modeling System (GAMS)
 app-emacs/gandalf-theme 20130809.947: Gandalf color theme
-app-emacs/gap-mode 20230608.546: Major mode for editing files in the GAP programming language.
+app-emacs/gap-mode 20230609.506: Major mode for editing files in the GAP programming language.
 app-emacs/gather 20141230.1338: Gather string in buffer.
 app-emacs/gcmh 20201116.2251: the Garbage Collector Magic Hack
 app-emacs/gcode-mode 20221205.116: Simple G-Code major mode
@@ -2144,7 +2144,7 @@ app-emacs/hal-mode 20160704.1746: Major mode for editing HAL files
 app-emacs/ham-mode 20150811.1306: Html As Markdown. Transparently edit an html file using markdown
 app-emacs/hamburg-theme 20160123.740: Color Theme with a dark blue background.
 app-emacs/hamburger-menu 20220509.1341: Mode line hamburger menu
-app-emacs/haml-mode 20230322.1744: Major mode for editing Haml files
+app-emacs/haml-mode 20230608.1833: Major mode for editing Haml files
 app-emacs/hamlet-mode 20131208.724: Hamlet editing mode
 app-emacs/hammy 20230516.505: Programmable, interactive interval timers
 app-emacs/handle 20191029.856: A handle for major-mode generic functions.
@@ -3348,7 +3348,7 @@ app-emacs/neil 20230322.2035: companion for Babashka Neil
 app-emacs/nemerle 20161029.2023: major mode for editing nemerle programs
 app-emacs/neon-mode 20180406.1156: Simple major mode for editing neon files
 app-emacs/neotree 20200324.1946: A tree plugin like NerdTree for Vim
-app-emacs/nerd-icons 20230603.1813: Emacs Nerd Font Icons Library
+app-emacs/nerd-icons 20230609.641: Emacs Nerd Font Icons Library
 app-emacs/nerd-icons-completion 20230430.1611: Add icons to completion candidates
 app-emacs/nerd-icons-dired 20230511.1453: Shows icons for each file in dired mode
 app-emacs/nerd-icons-ibuffer 20230417.1549: Display nerd icons in ibuffer
@@ -4223,7 +4223,7 @@ app-emacs/python-environment 20150310.853: virtualenv API for Emacs Lisp
 app-emacs/python-insert-docstring 20211127.1232: Python Google docstring inserter
 app-emacs/python-isort 20210603.2153: Reformat python-mode buffer with isort
 app-emacs/python-mls 20230522.2131: Multi-line shell for (i)Python
-app-emacs/python-mode 20230608.1517: Python major mode
+app-emacs/python-mode 20230608.1938: Python major mode
 app-emacs/python-pytest 20221021.1937: helpers to run pytest
 app-emacs/python-switch-quotes 20161228.809: cycle between ' and " quotes in python strings
 app-emacs/python-test 20181018.29: Python testing integration
@@ -4726,7 +4726,7 @@ app-emacs/spark 20230406.2307: sparkline generation
 app-emacs/sparkline 20150101.1319: Make sparkline images from a list of numbers
 app-emacs/sparql-mode 20230104.1113: Edit and interactively evaluate SPARQL queries.
 app-emacs/spatial-navigate 20230115.633: Directional navigation between white-space blocks
-app-emacs/spdx 20230526.109: Insert SPDX license and copyright headers
+app-emacs/spdx 20230609.123: Insert SPDX license and copyright headers
 app-emacs/speech-tagger 20170728.1829: tag parts of speech using coreNLP
 app-emacs/speechd-el 20220608.1422: Client to speech synthesizers and Braille displays.
 app-emacs/speed-type 20230206.1330: Practice touch and speed typing
@@ -5181,7 +5181,7 @@ app-emacs/vegetative-theme 20220822.353: A Theme based on green CRT terminals
 app-emacs/verb 20230301.2117: Organize and send HTTP requests
 app-emacs/veri-kompass 20200213.934: verilog codebase navigation facility
 app-emacs/verify-url 20160426.1228: find out invalid urls in the buffer or region
-app-emacs/verilog-ext 20230606.1345: SystemVerilog Extensions
+app-emacs/verilog-ext 20230608.1827: SystemVerilog Extensions
 app-emacs/verona-mode 20200823.536: A major mode for the Verona programming language
 app-emacs/versuri 20211104.1301: The lyrics package
 app-emacs/vertica 20131217.1511: Vertica SQL mode extension
@@ -5189,7 +5189,7 @@ app-emacs/vertica-snippets 20200423.1200: Yasnippets for Vertica
 app-emacs/vertico-prescient 20230221.1257: prescient.el + Vertico
 app-emacs/vertigo 20211224.1256: Jump across lines using the home row.
 app-emacs/vhdl-capf 20160221.1734: Completion at point function (capf) for vhdl-mode.
-app-emacs/vhdl-ext 20230525.1841: VHDL Extensions
+app-emacs/vhdl-ext 20230609.1245: VHDL Extensions
 app-emacs/vhdl-tools 20200330.1819: Utilities for navigating vhdl sources
 app-emacs/vi-tilde-fringe 20141028.242: Displays tildes in the fringe on empty lines a la Vi.
 app-emacs/viewer 20170107.202: View-mode extension
@@ -5450,12 +5450,12 @@ app-emacs/zetz-mode 20200823.536: A major mode for the ZetZ programming language
 app-emacs/zig-mode 20230307.1215: A major mode for the Zig programming language
 app-emacs/zim-wiki-mode 20230211.1650: Zim Desktop Wiki edit mode
 app-emacs/zimports 20211011.2059: Reformat python imports with zimports
-app-emacs/zk 20230505.1950: Functions for working with Zettelkasten-style linked notes
-app-emacs/zk-desktop 20230502.2202: Desktop environment for zk
+app-emacs/zk 20230609.742: Functions for working with Zettelkasten-style linked notes
+app-emacs/zk-desktop 20230609.742: Desktop environment for zk
 app-emacs/zk-index 20230505.2118: Index for zk
 app-emacs/zk-luhmann 20230505.2107: Support for Luhmann-style IDs in zk
 app-emacs/zlc 20151011.157: Provides zsh like completion system to Emacs
-app-emacs/zmq 20230515.1736: ZMQ bindings in elisp
+app-emacs/zmq 20230608.1856: ZMQ bindings in elisp
 app-emacs/znc 20210803.159: ZNC + ERC
 app-emacs/zombie 20141222.1616: major mode for editing ZOMBIE programs
 app-emacs/zombie-trellys-mode 20150304.1702: A minor mode for interaction with Zombie Trellys
