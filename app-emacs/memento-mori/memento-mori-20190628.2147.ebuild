@@ -4,7 +4,7 @@
 EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
-SOURCE_TYPE="single"
+SOURCE_TYPE="tar"
 REALNAME="memento-mori"
 DIGEST_SOURCES="yes"
 

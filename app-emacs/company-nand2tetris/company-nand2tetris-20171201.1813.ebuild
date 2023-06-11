@@ -4,7 +4,7 @@
 EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
-SOURCE_TYPE="single"
+SOURCE_TYPE="tar"
 REALNAME="company-nand2tetris"
 DIGEST_SOURCES="yes"
 
