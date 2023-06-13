@@ -234,7 +234,7 @@ app-emacs/autobookmarks 20220509.1712: Save recently visited files and buffers
 app-emacs/autobuild 20230518.438: Define and execute build rules and compilation pipelines
 app-emacs/autodisass-java-bytecode 20211005.1920: Automatically disassemble Java bytecode
 app-emacs/autodisass-llvm-bitcode 20150411.125: Automatically disassemble LLVM bitcode
-app-emacs/autoscratch 20230605.617: Automatically switch scratch buffer mode
+app-emacs/autoscratch 20230612.719: Automatically switch scratch buffer mode
 app-emacs/autotetris-mode 20141114.1646: automatically play tetris
 app-emacs/autothemer 20230414.1419: Conveniently define themes
 app-emacs/autumn-light-theme 20150515.1447: A light color theme with muted, autumnal colors.
@@ -870,7 +870,7 @@ app-emacs/darcula-theme 20171227.1845: Inspired by IntelliJ's Darcula theme
 app-emacs/dark-krystal-theme 20170808.1300: an Emacs 24 theme based on Dark Krystal (tmTheme)
 app-emacs/dark-mint-theme 20160302.642: dark & minty fresh theme
 app-emacs/dark-souls 20140314.1128: Prepare to die
-app-emacs/darkman 20230527.1312: Seamless integration with Darkman
+app-emacs/darkman 20230613.1308: Seamless integration with Darkman
 app-emacs/darkmine-theme 20160406.624: Yet another emacs dark color theme.
 app-emacs/darkokai-theme 20200614.1452: A darker variant on Monokai.
 app-emacs/darktooth-theme 20221014.1418: From the darkness... it watches
@@ -1445,7 +1445,7 @@ app-emacs/evil-better-visual-line 20200123.2045: gj and gk visual line mode fix
 app-emacs/evil-cleverparens 20230529.2117: Evil friendly minor-mode for editing lisp.
 app-emacs/evil-colemak-basics 20221230.1443: Basic Colemak key bindings for evil-mode
 app-emacs/evil-colemak-minimal 20171006.1317: Minimal Colemak key bindings for evil-mode
-app-emacs/evil-collection 20230530.1639: A set of keybindings for Evil mode
+app-emacs/evil-collection 20230613.1637: A set of keybindings for Evil mode
 app-emacs/evil-commentary 20230610.1006: Comment stuff out. A port of vim-commentary.
 app-emacs/evil-dvorak 20160416.1841: evil keybindings for that work with dvorak mode
 app-emacs/evil-easymotion 20200424.135: A port of vim's easymotion to emacs
@@ -3409,7 +3409,7 @@ app-emacs/nodemcu-mode 20180501.2225: Minor mode for NodeMCU
 app-emacs/noflet 20141102.1454: locally override functions
 app-emacs/nofrils-acme-theme 20180620.1248: Port of "No Frils Acme" Vim theme.
 app-emacs/nord-theme 20230311.1131: An arctic, north-bluish clean and elegant theme
-app-emacs/nordic-night-theme 20230613.524: A darker, more colorful version of the lovely Nord theme
+app-emacs/nordic-night-theme 20230613.1631: A darker, more colorful version of the lovely Nord theme
 app-emacs/nordless-theme 20201222.1627: A mostly colorless version of nord-theme
 app-emacs/norns 20220821.1614: Interactive development environment for monome norns
 app-emacs/northcode-theme 20180423.1649: A dark theme focused on blue and orange colors.
@@ -3705,7 +3705,7 @@ app-emacs/org-re-reveal-ref 20211029.551: Citations and bibliography for org-re-
 app-emacs/org-recent-headings 20211011.1519: Jump to recently used Org headings
 app-emacs/org-recur 20230124.1532: Recurring org-mode tasks
 app-emacs/org-redmine 20160711.1114: Redmine tools using Emacs OrgMode
-app-emacs/org-ref 20230612.1256: citations, cross-references and bibliographies in org-mode
+app-emacs/org-ref 20230613.1658: citations, cross-references and bibliographies in org-mode
 app-emacs/org-ref-prettify 20220507.649: Prettify org-ref citation links
 app-emacs/org-repo-todo 20171228.119: Simple repository todo management with org-mode
 app-emacs/org-reverse-datetree 20221203.259: Create reverse date trees in org-mode
@@ -4229,7 +4229,7 @@ app-emacs/python-environment 20150310.853: virtualenv API for Emacs Lisp
 app-emacs/python-insert-docstring 20211127.1232: Python Google docstring inserter
 app-emacs/python-isort 20210603.2153: Reformat python-mode buffer with isort
 app-emacs/python-mls 20230522.2131: Multi-line shell for (i)Python
-app-emacs/python-mode 20230613.1037: Python major mode
+app-emacs/python-mode 20230613.1158: Python major mode
 app-emacs/python-pytest 20221021.1937: helpers to run pytest
 app-emacs/python-switch-quotes 20161228.809: cycle between ' and " quotes in python strings
 app-emacs/python-test 20181018.29: Python testing integration
@@ -4626,7 +4626,7 @@ app-emacs/sl 20161217.1404: An Emacs clone of sl(1)
 app-emacs/slack 20211129.310: Slack client for Emacs
 app-emacs/slideview 20150324.2240: File slideshow
 app-emacs/slim-mode 20170728.1348: Major mode for editing Slim files
-app-emacs/slime 20230613.743: Superior Lisp Interaction Mode for Emacs
+app-emacs/slime 20230613.1337: Superior Lisp Interaction Mode for Emacs
 app-emacs/slime-company 20210124.1627: slime completion backend for company mode
 app-emacs/slime-docker 20210426.1422: Integration of SLIME with Docker containers
 app-emacs/slime-repl-ansi-color 20230214.1453: Turn on ANSI colors in REPL output;
@@ -5046,7 +5046,7 @@ app-emacs/tree-sitter-indent 20220411.1439: Provide indentation with a Tree-sitt
 app-emacs/tree-sitter-ispell 20230205.533: Run ispell on tree-sitter text nodes
 app-emacs/tree-sitter-langs 20230311.1456: Grammar bundle for tree-sitter
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
-app-emacs/treemacs 20230611.2048: A tree style file explorer package
+app-emacs/treemacs 20230613.1301: A tree style file explorer package
 app-emacs/treemacs-all-the-icons 20230408.1109: all-the-icons integration for treemacs
 app-emacs/treemacs-evil 20230510.1644: Evil mode integration for treemacs
 app-emacs/treemacs-icons-dired 20230408.1109: Treemacs icons for dired
