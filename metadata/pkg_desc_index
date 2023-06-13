@@ -394,7 +394,7 @@ app-emacs/buffer-env 20221110.2137: Buffer-local process environments
 app-emacs/buffer-flip 20220718.10: Cycle through buffers like Alt-Tab in Windows
 app-emacs/buffer-manage 20211122.1957: Manage buffers
 app-emacs/buffer-move 20220512.755: easily swap buffers
-app-emacs/buffer-name-relative 20230612.426: Relative buffer names
+app-emacs/buffer-name-relative 20230613.621: Relative buffer names
 app-emacs/buffer-ring 20220120.124: Rings and tori for buffer navigation
 app-emacs/buffer-sets 20230319.1822: Sets of Buffers for Buffer Management
 app-emacs/buffer-utils 20140512.1400: Buffer-manipulation utility functions
@@ -1298,8 +1298,8 @@ app-emacs/emacsshot 20191206.944: Snapshot a frame or window from within
 app-emacs/emamux 20200315.1220: Interact with tmux
 app-emacs/emamux-ruby-test 20130812.1639: Ruby test with emamux
 app-emacs/emaps 20200508.1759: Utilities for working with keymaps
-app-emacs/embark 20230605.550: Conveniently act on minibuffer completions
-app-emacs/embark-consult 20230503.1055: Consult integration for Embark
+app-emacs/embark 20230613.529: Conveniently act on minibuffer completions
+app-emacs/embark-consult 20230613.654: Consult integration for Embark
 app-emacs/embark-vc 20230212.1920: Embark actions for various version control integrations
 app-emacs/ember-mode 20200208.1423: Ember navigation mode for emacs
 app-emacs/ember-yasnippets 20160526.1658: Snippets for Ember.js development
@@ -2744,7 +2744,7 @@ app-emacs/jump-tree 20171014.1551: Treat position history as a tree
 app-emacs/jumplist 20151120.345: Jump like vim jumplist or ex jumplist
 app-emacs/jupyter 20230608.1504: Jupyter
 app-emacs/just-mode 20230303.2255: Justfile editing mode
-app-emacs/justl 20230611.704: Major mode for driving just files
+app-emacs/justl 20230612.1546: Major mode for driving just files
 app-emacs/jvm-mode 20150422.708: Monitor and manage your JVMs
 app-emacs/k8s-mode 20230305.1039: Major mode for Kubernetes configuration file
 app-emacs/kaesar 20230221.108: AES algorithm encrypt/decrypt
@@ -2942,7 +2942,7 @@ app-emacs/litable 20221028.1640: dynamic evaluation replacement with emacs
 app-emacs/litanize 20230419.917: Generate "Latour Litanies"
 app-emacs/litecoin-ticker 20160612.11: litecoin price in modeline
 app-emacs/literal-string 20191023.733: edit string literals in a dedicated buffer
-app-emacs/literate-calc-mode 20230127.153: Inline results from calc
+app-emacs/literate-calc-mode 20230612.2332: Inline results from calc
 app-emacs/literate-coffee-mode 20170211.1515: major-mode for Literate CoffeeScript
 app-emacs/literate-elisp 20220626.932: Load Emacs Lisp code blocks from Org files
 app-emacs/litex-mode 20221107.147: Minor mode for converting lisp to LaTeX
@@ -3409,7 +3409,7 @@ app-emacs/nodemcu-mode 20180501.2225: Minor mode for NodeMCU
 app-emacs/noflet 20141102.1454: locally override functions
 app-emacs/nofrils-acme-theme 20180620.1248: Port of "No Frils Acme" Vim theme.
 app-emacs/nord-theme 20230311.1131: An arctic, north-bluish clean and elegant theme
-app-emacs/nordic-night-theme 20230605.2045: A darker, more colorful version of the lovely Nord theme
+app-emacs/nordic-night-theme 20230613.524: A darker, more colorful version of the lovely Nord theme
 app-emacs/nordless-theme 20201222.1627: A mostly colorless version of nord-theme
 app-emacs/norns 20220821.1614: Interactive development environment for monome norns
 app-emacs/northcode-theme 20180423.1649: A dark theme focused on blue and orange colors.
@@ -3856,7 +3856,7 @@ app-emacs/ox-textile 20210919.1738: Textile Back-End for Org Export Engine
 app-emacs/ox-tiddly 20200927.857: Org TiddlyWiki exporter
 app-emacs/ox-timeline 20220321.2115: HTML Timeline Back-End for Org Export Engine
 app-emacs/ox-trac 20171026.1823: Org Export Backend to Trac WikiFormat
-app-emacs/ox-tufte 20160926.1607: Tufte HTML org-mode export backend
+app-emacs/ox-tufte 20230612.1902: Tufte HTML org-mode export backend
 app-emacs/ox-twbs 20200628.1949: Bootstrap compatible HTML Back-End for Org
 app-emacs/ox-twiki 20200927.857: Org Twiki and Foswiki export
 app-emacs/ox-wk 20191231.2058: Wiki Back-End for Org Export Engine
@@ -4229,7 +4229,7 @@ app-emacs/python-environment 20150310.853: virtualenv API for Emacs Lisp
 app-emacs/python-insert-docstring 20211127.1232: Python Google docstring inserter
 app-emacs/python-isort 20210603.2153: Reformat python-mode buffer with isort
 app-emacs/python-mls 20230522.2131: Multi-line shell for (i)Python
-app-emacs/python-mode 20230608.1938: Python major mode
+app-emacs/python-mode 20230613.1037: Python major mode
 app-emacs/python-pytest 20221021.1937: helpers to run pytest
 app-emacs/python-switch-quotes 20161228.809: cycle between ' and " quotes in python strings
 app-emacs/python-test 20181018.29: Python testing integration
@@ -4626,7 +4626,7 @@ app-emacs/sl 20161217.1404: An Emacs clone of sl(1)
 app-emacs/slack 20211129.310: Slack client for Emacs
 app-emacs/slideview 20150324.2240: File slideshow
 app-emacs/slim-mode 20170728.1348: Major mode for editing Slim files
-app-emacs/slime 20230611.823: Superior Lisp Interaction Mode for Emacs
+app-emacs/slime 20230613.743: Superior Lisp Interaction Mode for Emacs
 app-emacs/slime-company 20210124.1627: slime completion backend for company mode
 app-emacs/slime-docker 20210426.1422: Integration of SLIME with Docker containers
 app-emacs/slime-repl-ansi-color 20230214.1453: Turn on ANSI colors in REPL output;
