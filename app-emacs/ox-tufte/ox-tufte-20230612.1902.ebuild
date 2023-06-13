@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Tufte HTML org-mode export backend"
 
-HOMEPAGE="https://github.com/dakrone/ox-tufte"
+HOMEPAGE="https://github.com/ox-tufte/ox-tufte"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
