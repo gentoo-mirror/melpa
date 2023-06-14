@@ -498,7 +498,7 @@ app-emacs/chaos-mode 20221227.223: A major mode for the Chaos programming langua
 app-emacs/chapel-mode 20210513.457: A major mode for the Chapel programming language
 app-emacs/char-menu 20210321.1657: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 20200616.1418: Unicode table for Emacs
-app-emacs/chatgpt-shell 20230609.704: ChatGPT shell + buffer insert commands
+app-emacs/chatgpt-shell 20230614.719: ChatGPT shell + buffer insert commands
 app-emacs/chatwork 20170511.442: ChatWork client for Emacs
 app-emacs/cheat-sh 20210607.1307: Interact with cheat.sh
 app-emacs/cheatsheet 20170126.2150: create your own cheatsheet
@@ -1201,7 +1201,7 @@ app-emacs/elbank 20180316.1343: Personal finances reporting application
 app-emacs/elcontext 20210109.1238: Create context specific actions
 app-emacs/elcord 20230601.1545: Allows you to integrate Rich Presence from Discord
 app-emacs/elcouch 20201108.955: View and manipulate CouchDB databases
-app-emacs/eldev 20230611.1624: Elisp development tool
+app-emacs/eldev 20230613.1802: Elisp development tool
 app-emacs/eldoc-box 20230610.700: Display documentation in childframe
 app-emacs/eldoc-cmake 20190419.2244: Eldoc support for CMake
 app-emacs/eldoc-eval 20220106.1951: Enable eldoc support when minibuffer is in use.
@@ -1445,7 +1445,7 @@ app-emacs/evil-better-visual-line 20200123.2045: gj and gk visual line mode fix
 app-emacs/evil-cleverparens 20230529.2117: Evil friendly minor-mode for editing lisp.
 app-emacs/evil-colemak-basics 20221230.1443: Basic Colemak key bindings for evil-mode
 app-emacs/evil-colemak-minimal 20171006.1317: Minimal Colemak key bindings for evil-mode
-app-emacs/evil-collection 20230613.1637: A set of keybindings for Evil mode
+app-emacs/evil-collection 20230614.533: A set of keybindings for Evil mode
 app-emacs/evil-commentary 20230610.1006: Comment stuff out. A port of vim-commentary.
 app-emacs/evil-dvorak 20160416.1841: evil keybindings for that work with dvorak mode
 app-emacs/evil-easymotion 20200424.135: A port of vim's easymotion to emacs
@@ -2747,9 +2747,9 @@ app-emacs/just-mode 20230303.2255: Justfile editing mode
 app-emacs/justl 20230612.1546: Major mode for driving just files
 app-emacs/jvm-mode 20150422.708: Monitor and manage your JVMs
 app-emacs/k8s-mode 20230305.1039: Major mode for Kubernetes configuration file
-app-emacs/kaesar 20230221.108: AES algorithm encrypt/decrypt
-app-emacs/kaesar-file 20230221.108: AES encrypt/decrypt file
-app-emacs/kaesar-mode 20230221.108: AES encrypt/decrypt buffer
+app-emacs/kaesar 20230405.1134: AES algorithm encrypt/decrypt
+app-emacs/kaesar-file 20230614.332: AES encrypt/decrypt file
+app-emacs/kaesar-mode 20230405.1134: AES encrypt/decrypt buffer
 app-emacs/kakapo-mode 20171004.451: TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment.
 app-emacs/kakoune 20230206.2037: A simulation, but not emulation, of kakoune
 app-emacs/kaleidoscope 20170808.817: Controlling Kaleidoscope-powered devices.
@@ -3705,7 +3705,7 @@ app-emacs/org-re-reveal-ref 20211029.551: Citations and bibliography for org-re-
 app-emacs/org-recent-headings 20211011.1519: Jump to recently used Org headings
 app-emacs/org-recur 20230124.1532: Recurring org-mode tasks
 app-emacs/org-redmine 20160711.1114: Redmine tools using Emacs OrgMode
-app-emacs/org-ref 20230613.1658: citations, cross-references and bibliographies in org-mode
+app-emacs/org-ref 20230613.1849: citations, cross-references and bibliographies in org-mode
 app-emacs/org-ref-prettify 20220507.649: Prettify org-ref citation links
 app-emacs/org-repo-todo 20171228.119: Simple repository todo management with org-mode
 app-emacs/org-reverse-datetree 20221203.259: Create reverse date trees in org-mode
@@ -3762,7 +3762,7 @@ app-emacs/org-web-tools 20201212.1058: Display and capture web content with Org-
 app-emacs/org-wild-notifier 20230323.920: Customizable org-agenda notifications
 app-emacs/org-working-set 20220414.1402: Manage and visit a small set of org-nodes.
 app-emacs/org-wunderlist 20191017.1917: Org sync with Wunderlist
-app-emacs/org-zettelkasten 20230526.1650: A Zettelkasten mode leveraging Org
+app-emacs/org-zettelkasten 20230613.1924: A Zettelkasten mode leveraging Org
 app-emacs/org2blog 20230501.2319: Blog from Org mode to WordPress
 app-emacs/org2ctex 20200331.550: Export org to ctex (a latex macro for Chinese)
 app-emacs/org2elcomment 20170324.945: Convert Org file to Elisp comments
@@ -4455,7 +4455,7 @@ app-emacs/s-buffer 20130605.2124: s operations for buffers
 app-emacs/s12cpuv2-mode 20171013.2051: Major-mode for S12CPUV2 assembly
 app-emacs/s3ed 20200929.1317: Tramp-like access to s3
 app-emacs/sackspace 20130719.956: A better backspace
-app-emacs/sage-shell-mode 20230609.1725: A front-end for Sage Math
+app-emacs/sage-shell-mode 20230614.616: A front-end for Sage Math
 app-emacs/sailfish-scratchbox 20171202.1332: Sailfish OS scratchbox inside the emacs.
 app-emacs/sakura-theme 20220822.254: Filled with cherry blossoms
 app-emacs/salesforce-utils 20160814.154: simple utilities for Salesforce
@@ -4732,7 +4732,7 @@ app-emacs/spark 20230406.2307: sparkline generation
 app-emacs/sparkline 20150101.1319: Make sparkline images from a list of numbers
 app-emacs/sparql-mode 20230104.1113: Edit and interactively evaluate SPARQL queries.
 app-emacs/spatial-navigate 20230115.633: Directional navigation between white-space blocks
-app-emacs/spdx 20230612.123: Insert SPDX license and copyright headers
+app-emacs/spdx 20230614.117: Insert SPDX license and copyright headers
 app-emacs/speech-tagger 20170728.1829: tag parts of speech using coreNLP
 app-emacs/speechd-el 20220608.1422: Client to speech synthesizers and Braille displays.
 app-emacs/speed-type 20230206.1330: Practice touch and speed typing
@@ -4907,7 +4907,7 @@ app-emacs/tco 20191129.2040: Tail-call optimisation for Emacs lisp
 app-emacs/tea-time 20120331.820: Simple timer package, useful to make perfect tea.
 app-emacs/teacode-expand 20181231.640: Expansion of text by TeaCode program.
 app-emacs/teco 20200707.2309: Teco interpreter
-app-emacs/telega 20230608.1246: Telegram client (unofficial)
+app-emacs/telega 20230614.749: Telegram client (unofficial)
 app-emacs/telepathy 20131209.1258: Access Telepathy from Emacs
 app-emacs/telephone-line 20230322.442: Rewrite of Powerline
 app-emacs/teletext 20211203.1111: Teletext broadcast viewer
