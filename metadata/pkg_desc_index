@@ -931,7 +931,7 @@ app-emacs/detached 20221129.1430: A package to launch, and manage, detached proc
 app-emacs/detour 20181122.2138: Take a quick detour and return
 app-emacs/devdocs 20230220.2042: Emacs viewer for DevDocs
 app-emacs/devdocs-browser 20230423.444: Browse devdocs.io documents using EWW
-app-emacs/devil 20230611.2349: Minor mode for translating key sequences
+app-emacs/devil 20230615.21: Minor mode for translating key sequences
 app-emacs/dfmt 20170728.1023: Emacs Interface to D indenting/formatting tool dfmt.
 app-emacs/dhall-mode 20230228.1005: Major mode for the dhall configuration language
 app-emacs/dianyou 20210525.1517: Search and analyze mails in Gnus
@@ -1088,7 +1088,7 @@ app-emacs/dsvn 20221102.1416: Subversion interface
 app-emacs/dtb-mode 20210105.1132: Show device tree souce in dtbs
 app-emacs/dtk 20230516.1745: access SWORD content via diatheke
 app-emacs/dtrace-script-mode 20150214.623: DTrace code editing commands for Emacs
-app-emacs/dtrt-indent 20230302.2151: Adapt to foreign indentation offsets
+app-emacs/dtrt-indent 20230615.911: Adapt to foreign indentation offsets
 app-emacs/dts-mode 20211202.18: Major mode for Devicetree source code
 app-emacs/ducpel 20140702.1154: Logic game with sokoban elements
 app-emacs/dumb-diff 20171211.2122: fast arbitrary diffs
@@ -1243,7 +1243,7 @@ app-emacs/elisp-lint 20220419.252: Basic linting for Emacs Lisp
 app-emacs/elisp-refs 20230419.405: find callers of elisp functions or macros
 app-emacs/elisp-sandbox 20131116.1842: Evaluate EmacsLisp expressions in a sandbox
 app-emacs/elisp-slime-nav 20210510.528: Make M-. and M-, work in elisp like they do in slime
-app-emacs/elixir-mode 20221017.2044: Major mode for editing Elixir files
+app-emacs/elixir-mode 20230615.1043: Major mode for editing Elixir files
 app-emacs/elixir-ts-mode 20230403.823: Major mode for Elixir with tree-sitter support
 app-emacs/elixir-yasnippets 20150417.1239: Yasnippets for Elixir
 app-emacs/ellocate 20200112.1931: The locate command reimplemented in Emacs Lisp
@@ -1306,7 +1306,7 @@ app-emacs/ember-yasnippets 20160526.1658: Snippets for Ember.js development
 app-emacs/embrace 20171031.1833: Add/Change/Delete pairs based on `expand-region'
 app-emacs/emidje 20190209.1726: Test runner and report viewer for Midje
 app-emacs/emmet-mode 20221111.329: Unofficial Emmet's support for emacs
-app-emacs/emms 20230525.2038: The Emacs Multimedia System
+app-emacs/emms 20230614.1904: The Emacs Multimedia System
 app-emacs/emms-info-mediainfo 20131223.1300: Info-method for EMMS using medianfo
 app-emacs/emms-mark-ext 20130529.327: Extra functions for emms-mark-mode and emms-tag-edit-mode
 app-emacs/emms-mode-line-cycle 20160221.1120: Display the emms mode line as a ticker
@@ -1445,7 +1445,7 @@ app-emacs/evil-better-visual-line 20200123.2045: gj and gk visual line mode fix
 app-emacs/evil-cleverparens 20230529.2117: Evil friendly minor-mode for editing lisp.
 app-emacs/evil-colemak-basics 20221230.1443: Basic Colemak key bindings for evil-mode
 app-emacs/evil-colemak-minimal 20171006.1317: Minimal Colemak key bindings for evil-mode
-app-emacs/evil-collection 20230614.533: A set of keybindings for Evil mode
+app-emacs/evil-collection 20230615.404: A set of keybindings for Evil mode
 app-emacs/evil-commentary 20230610.1006: Comment stuff out. A port of vim-commentary.
 app-emacs/evil-dvorak 20160416.1841: evil keybindings for that work with dvorak mode
 app-emacs/evil-easymotion 20200424.135: A port of vim's easymotion to emacs
@@ -2993,14 +2993,14 @@ app-emacs/lsp-grammarly 20221231.1655: LSP Clients for Grammarly
 app-emacs/lsp-haskell 20230104.1508: Haskell support for lsp-mode
 app-emacs/lsp-intellij 20180831.2051: intellij lsp client
 app-emacs/lsp-ivy 20220831.1823: LSP ivy integration
-app-emacs/lsp-java 20230614.1410: Java support for lsp-mode
+app-emacs/lsp-java 20230615.614: Java support for lsp-mode
 app-emacs/lsp-javacomp 20190124.1755: Provide Java IDE features powered by JavaComp.
 app-emacs/lsp-jedi 20220430.18: Lsp client plugin for Python Jedi Language Server
 app-emacs/lsp-julia 20230414.2107: Julia support for lsp-mode
 app-emacs/lsp-latex 20230421.1814: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20230416.1826: LSP Clients for LTEX
 app-emacs/lsp-metals 20230406.755: Scala Client settings
-app-emacs/lsp-mode 20230611.2041: LSP mode
+app-emacs/lsp-mode 20230614.2208: LSP mode
 app-emacs/lsp-mssql 20230510.1124: MSSQL LSP bindings
 app-emacs/lsp-origami 20211016.1045: origami.el support for lsp-mode
 app-emacs/lsp-p4 20190127.1049: P4 support for lsp-mode
@@ -3218,7 +3218,7 @@ app-emacs/modern-fringes 20220401.202: Replaces default fringe bitmaps with bett
 app-emacs/modern-sh 20211101.1001: Minor mode for editing shell script
 app-emacs/modtime-skip-mode 20140128.2201: Minor mode for disabling modtime and supersession checks on files.
 app-emacs/modular-config 20210726.1614: Organize your config into small and loadable modules
-app-emacs/modus-themes 20230610.243: Elegant, highly legible and customizable themes
+app-emacs/modus-themes 20230615.422: Elegant, highly legible and customizable themes
 app-emacs/moe-theme 20230518.1108: A colorful eye-candy theme. Moe, moe, kyun!
 app-emacs/molar-mass 20220922.1752: Calculates molar mass of a molecule
 app-emacs/molecule 20180527.743: Simple wrapper for molecule
@@ -3594,7 +3594,7 @@ app-emacs/org-bookmark-heading 20230517.1141: Emacs bookmark support for Org mod
 app-emacs/org-bookmarks-extractor 20220829.146: Extract bookmarks from Org mode
 app-emacs/org-books 20210408.1913: Reading list management with Org mode and helm
 app-emacs/org-brain 20230217.1908: Org-mode concept mapping
-app-emacs/org-bulletproof 20230611.2037: Automatic plain list bullet cycling
+app-emacs/org-bulletproof 20230615.640: Automatic plain list bullet cycling
 app-emacs/org-bullets 20200317.1740: Show bullets in org-mode as UTF-8 characters
 app-emacs/org-caldav 20230421.1620: Sync org files with external calendar through CalDAV
 app-emacs/org-calibre-notes 20221202.1657: Extract highlights and notes from Calibre EPUB reader
@@ -4148,7 +4148,7 @@ app-emacs/projectile-sift 20160107.1015: Run a sift with Projectile
 app-emacs/projectile-speedbar 20190807.2010: projectile integration for speedbar
 app-emacs/projectile-trailblazer 20170928.1624: Minor mode for Rails projects using trailblazer
 app-emacs/projectile-variable 20170208.1718: Store project local variables.
-app-emacs/projection 20230529.1839: Project type support for `project'
+app-emacs/projection 20230603.1248: Project type support for `project'
 app-emacs/projection-multi 20230529.1035: Projection integration for `compile-multi'
 app-emacs/projector 20211112.1514: Lightweight library for managing project-aware shell and command buffers
 app-emacs/projekt 20150324.848: some kind of staging for CVS
