@@ -18,5 +18,19 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/s
+	app-emacs/with-shell-interpreter
+	app-emacs/kv
+	app-emacs/transient
+	app-emacs/hydra
+	app-emacs/grep
+	app-emacs/string-inflection
+	app-emacs/docker-tramp"
+RDEPEND="app-emacs/s
+	app-emacs/with-shell-interpreter
+	app-emacs/kv
+	app-emacs/transient
+	app-emacs/hydra
+	app-emacs/grep
+	app-emacs/string-inflection
+	app-emacs/docker-tramp"
