@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A Jabber client for Emacs."
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://codeberg.org/emacs-jabber/emacs-jabber"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
