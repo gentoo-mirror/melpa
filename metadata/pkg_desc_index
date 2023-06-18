@@ -362,7 +362,7 @@ app-emacs/boogie-friends 20221115.658: A collection of programming modes for Boo
 app-emacs/bookmark-in-project 20230604.757: Bookmark access within a project
 app-emacs/bookmark-view 20220403.2204: Bookmark views
 app-emacs/bool-flip 20161215.1539: flip the boolean under the point
-app-emacs/boon 20230410.1115: Ergonomic Command Mode for Emacs.
+app-emacs/boon 20230618.1334: Ergonomic Command Mode for Emacs.
 app-emacs/borg 20230319.1956: Assimilate Emacs packages as Git submodules
 app-emacs/borland-blue-theme 20160117.1321: Blue/yellow theme based on old DOS Borland/Turbo C IDE
 app-emacs/boron-theme 20170808.1308: an Emacs 24 theme based on Boron (tmTheme)
@@ -1181,7 +1181,7 @@ app-emacs/ejson-mode 20190720.2138: Major mode for editing ejson files.
 app-emacs/ekg 20230613.1319: A system for recording and linking information
 app-emacs/el-autoyas 20120918.1317: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-fly-indent-mode 20180422.243: Indent Emacs Lisp on the fly
-app-emacs/el-get 20230101.1231: Manage the external elisp bits and pieces you depend upon
+app-emacs/el-get 20230618.1453: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 20150728.920: A loader inspired by init-loader
 app-emacs/el-init-viewer 20150303.828: Record viewer for el-init
 app-emacs/el-mock 20220625.1949: Tiny Mock and Stub framework in Emacs Lisp
@@ -1804,7 +1804,7 @@ app-emacs/flymake-quickdef 20200308.2342: Quickly define a new Flymake backend
 app-emacs/flymake-racket 20210105.606: Flymake extension for Racket.
 app-emacs/flymake-rakudo 20220424.637: Flymake syntax checker for Rakudo
 app-emacs/flymake-ruby 20170723.146: A flymake handler for ruby-mode files
-app-emacs/flymake-ruff 20230128.1739: A flymake plugin for python files using ruff
+app-emacs/flymake-ruff 20230618.1600: A flymake plugin for python files using ruff
 app-emacs/flymake-sass 20170723.146: Flymake handler for sass and scss files
 app-emacs/flymake-shell 20170723.146: A flymake syntax-checker for shell scripts
 app-emacs/flymake-shellcheck 20220308.2218: A bash/sh Flymake backend powered by ShellCheck
@@ -2564,7 +2564,7 @@ app-emacs/init-loader 20210703.902: Loader for configuration files
 app-emacs/init-open-recentf 20220220.2004: Invoke a command immediately after startup
 app-emacs/initsplit 20160919.1818: code to split customizations into different files
 app-emacs/ink-mode 20201105.2242: Major mode for writing interactive fiction in Ink
-app-emacs/inkpot-theme 20230611.243: A port of vim's inkpot theme
+app-emacs/inkpot-theme 20230618.715: A port of vim's inkpot theme
 app-emacs/inline-crypt 20170824.900: Simple inline encryption via openssl
 app-emacs/inline-docs 20230406.1002: Show inline contextual docs.
 app-emacs/inlineR 20191017.1920: insert Tag for inline image of R graphics
@@ -3543,7 +3543,7 @@ app-emacs/ol-tmsu 20230207.1457: Org-mode links to TMSU queries
 app-emacs/olc 20200818.1221: Open location code library
 app-emacs/old-norse-input 20170816.1842: An input method for Old Norse
 app-emacs/oldlace-theme 20150705.1300: Emacs 24 theme with an 'oldlace' background.
-app-emacs/olivetti 20230515.523: Minor mode for a nice writing environment
+app-emacs/olivetti 20230618.421: Minor mode for a nice writing environment
 app-emacs/om-mode 20140915.2110: Insert Om component template with life cycle.
 app-emacs/omni-kill 20171016.2140: Kill all the things
 app-emacs/omni-log 20200304.2229: Logging utilities
@@ -3579,7 +3579,7 @@ app-emacs/org-agenda-property 20140626.2116: Display org properties in the agend
 app-emacs/org-ai 20230607.2341: Your AI assistant with ChatGPT, DALL-E, Whisper, Stable Diffusion
 app-emacs/org-alert 20230520.1449: Notify org deadlines via notify-send
 app-emacs/org-analyzer 20191001.1717: org-analyzer is a tool that extracts time tracking data from org files.
-app-emacs/org-anki 20230617.850: Synchronize org-mode entries to Anki
+app-emacs/org-anki 20230618.1059: Synchronize org-mode entries to Anki
 app-emacs/org-appear 20220617.2355: Auto-toggle Org elements
 app-emacs/org-arbeitszeit 20220816.1447: Calculate your worktime
 app-emacs/org-assistant 20230611.544: Org babel extension for Chat Assistant APIs
@@ -4229,7 +4229,7 @@ app-emacs/python-environment 20150310.853: virtualenv API for Emacs Lisp
 app-emacs/python-insert-docstring 20211127.1232: Python Google docstring inserter
 app-emacs/python-isort 20210603.2153: Reformat python-mode buffer with isort
 app-emacs/python-mls 20230522.2131: Multi-line shell for (i)Python
-app-emacs/python-mode 20230617.1055: Python major mode
+app-emacs/python-mode 20230618.825: Python major mode
 app-emacs/python-pytest 20221021.1937: helpers to run pytest
 app-emacs/python-switch-quotes 20161228.809: cycle between ' and " quotes in python strings
 app-emacs/python-test 20181018.29: Python testing integration
@@ -4409,7 +4409,7 @@ app-emacs/roguel-ike 20160120.302: A coffee-break roguelike
 app-emacs/ron-mode 20200830.1554: Rusty Object Notation mode
 app-emacs/rope-read-mode 20211228.1126: Rearrange lines to read text smoothly
 app-emacs/ropgadget 20230107.1225: Display and filter ROP gadgets of a binary
-app-emacs/ros 20230320.1657: Package to write code for ROS systems
+app-emacs/ros 20230618.1116: Package to write code for ROS systems
 app-emacs/rotate 20210126.637: Rotate the layout of emacs
 app-emacs/roy-mode 20121208.1158: Roy major mode
 app-emacs/rpm-spec-mode 20160710.1136: RPM spec file editing commands for Emacs/XEmacs
@@ -5195,7 +5195,7 @@ app-emacs/vertica-snippets 20200423.1200: Yasnippets for Vertica
 app-emacs/vertico-prescient 20230221.1257: prescient.el + Vertico
 app-emacs/vertigo 20211224.1256: Jump across lines using the home row.
 app-emacs/vhdl-capf 20160221.1734: Completion at point function (capf) for vhdl-mode.
-app-emacs/vhdl-ext 20230617.1558: VHDL Extensions
+app-emacs/vhdl-ext 20230618.1337: VHDL Extensions
 app-emacs/vhdl-tools 20200330.1819: Utilities for navigating vhdl sources
 app-emacs/vi-tilde-fringe 20141028.242: Displays tildes in the fringe on empty lines a la Vi.
 app-emacs/viewer 20170107.202: View-mode extension
