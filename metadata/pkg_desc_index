@@ -765,7 +765,7 @@ app-emacs/corfu-prescient 20221216.112: prescient.el + Corfu
 app-emacs/corral 20160502.948: Quickly surround text with delimiters
 app-emacs/cort 20211020.18: Simplify extended unit test framework
 app-emacs/cosmo 20170922.744: Cosmological Calculator
-app-emacs/counsel 20230410.1815: Various completion functions using Ivy
+app-emacs/counsel 20230619.1623: Various completion functions using Ivy
 app-emacs/counsel-ag-popup 20210121.805: Interactive search with counsel-ag
 app-emacs/counsel-at-point 20230116.951: Context sensitive project search
 app-emacs/counsel-bbdb 20220909.727: Quick search&input email from BBDB based on Emacs API `completing-read'
@@ -1111,7 +1111,7 @@ app-emacs/dynamic-fonts 20140731.1226: Set faces based on available fonts
 app-emacs/dynamic-graphs 20210908.2010: Manipulation with graphviz graphs
 app-emacs/dynamic-ruler 20160602.808: Displays a dynamic ruler at point.
 app-emacs/dynamic-spaces 20171027.1851: When editing, don't move text separated by spaces
-app-emacs/dynaring 20210924.2026: A dynamically sized ring structure
+app-emacs/dynaring 20230619.1854: A dynamically sized ring structure
 app-emacs/dyncloze 20210712.145: Language alternatives self-testing
 app-emacs/e2ansi 20190517.1902: Syntax highlighting support for `less', powered by Emacs.
 app-emacs/e2wm 20170215.36: simple window manager for emacs
@@ -1310,7 +1310,7 @@ app-emacs/ember-yasnippets 20160526.1658: Snippets for Ember.js development
 app-emacs/embrace 20171031.1833: Add/Change/Delete pairs based on `expand-region'
 app-emacs/emidje 20190209.1726: Test runner and report viewer for Midje
 app-emacs/emmet-mode 20221111.329: Unofficial Emmet's support for emacs
-app-emacs/emms 20230614.1904: The Emacs Multimedia System
+app-emacs/emms 20230619.1857: The Emacs Multimedia System
 app-emacs/emms-info-mediainfo 20131223.1300: Info-method for EMMS using medianfo
 app-emacs/emms-mark-ext 20130529.327: Extra functions for emms-mark-mode and emms-tag-edit-mode
 app-emacs/emms-mode-line-cycle 20160221.1120: Display the emms mode line as a ticker
@@ -1331,7 +1331,7 @@ app-emacs/emr 20220108.548: Emacs refactoring system.
 app-emacs/enclose 20121008.1614: Enclose cursor within punctuation pairs.
 app-emacs/encourage-mode 20151128.905: Encourages you in your work. :D
 app-emacs/encrypt-region 20220802.918: Encrypts and decrypts regions
-app-emacs/engine-mode 20230516.1526: Define and query search engines from within Emacs
+app-emacs/engine-mode 20230619.1503: Define and query search engines
 app-emacs/enh-ruby-mode 20221011.1957: Major mode for editing Ruby files
 app-emacs/enlightened-theme 20210220.2327: A theme based on enlightened
 app-emacs/enlive 20170725.1417: query html document with css selectors
@@ -1570,7 +1570,7 @@ app-emacs/fancy-dabbrev 20220211.633: Like dabbrev-expand with preview and popup
 app-emacs/fancy-narrow 20171031.16: narrow-to-region with more eye candy.
 app-emacs/fantom-mode 20221227.218: A major mode for the Fantom programming language
 app-emacs/fantom-theme 20200328.604: Dark theme based on Phantom Code for VSCode
-app-emacs/fanyi 20221117.1821: Not only English-Chinese translator
+app-emacs/fanyi 20230619.1600: Not only English-Chinese translator
 app-emacs/farmhouse-themes 20221025.2054: Farmhouse Themes, dark and light versions
 app-emacs/fasd 20210104.738: Emacs integration for the command-line productivity booster `fasd'
 app-emacs/fast-scroll 20191016.327: Some utilities for faster scrolling over large buffers.
@@ -1850,7 +1850,7 @@ app-emacs/foreman-mode 20170725.1422: View and manage Procfile-based application
 app-emacs/forest-blue-theme 20160627.842: Emacs theme with a dark background.
 app-emacs/forge 20230522.1054: Access Git forges from Magit.
 app-emacs/form-feed 20210508.1627: Display ^L glyphs as horizontal lines
-app-emacs/format-all 20230615.1839: Auto-format C, C++, JS, Python, Ruby and 50 other languages
+app-emacs/format-all 20230619.1541: Auto-format C, C++, JS, Python, Ruby and 50 other languages
 app-emacs/format-sql 20150422.1333: Use format-sql to make your SQL readable in directly Emacs.
 app-emacs/format-table 20181223.1616: Parse and reformat tabular data.
 app-emacs/forth-mode 20220629.519: Programming language mode for Forth
@@ -3436,7 +3436,7 @@ app-emacs/npm-mode 20190616.2025: minor mode for working with npm projects
 app-emacs/nrepl-eval-sexp-fu 20201007.2311: Tiny functionality enhancements for evaluating sexps.
 app-emacs/nrepl-sync 20140807.1557: connect to nrepl port and eval .sync.clj.
 app-emacs/ns-auto-titlebar 20181022.2154: Set the MacOS transparent titlebar to match theme
-app-emacs/nsis-mode 20230605.1652: NSIS-mode
+app-emacs/nsis-mode 20230619.1220: NSIS-mode
 app-emacs/nswbuff 20230311.154: Quick switching between buffers.
 app-emacs/nu-mode 20190404.2032: Modern Emacs Prompts Based Keybinding.
 app-emacs/nubox 20170619.910: Nubox color theme (dark, light and tty versions)
@@ -4306,7 +4306,7 @@ app-emacs/read-only-cfg 20210717.205: Make files read-only based on user config
 app-emacs/readable-numbers 20220711.911: Visually separate long integers
 app-emacs/readline-complete 20150708.1437: offers completions in shell mode
 app-emacs/real-auto-save 20200505.1537: Automatically save your buffers/files at regular intervals
-app-emacs/realgud 20220818.1750: A modular front-end for interacting with external debuggers
+app-emacs/realgud 20230619.1158: A modular front-end for interacting with external debuggers
 app-emacs/realgud-byebug 20190520.1140: Realgud front-end to the Ruby byebug debugger
 app-emacs/realgud-ipdb 20200722.1116: Realgud front-end to ipdb
 app-emacs/realgud-jdb 20200722.1120: Realgud front-end to Java's jdb debugger"
