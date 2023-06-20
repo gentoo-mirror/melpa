@@ -447,7 +447,7 @@ app-emacs/calmer-forest-theme 20230302.2149: Darkish theme with green/orange tin
 app-emacs/camcorder 20190317.2138: Record screencasts in gif or other formats.
 app-emacs/caml 20230129.1145: Caml mode for GNU Emacs
 app-emacs/cangjie 20230219.1150: Retrieve cangjie code for han characters
-app-emacs/cape 20230606.904: Completion At Point Extensions
+app-emacs/cape 20230620.1542: Completion At Point Extensions
 app-emacs/capnp-mode 20210707.2310: Major mode for editing Capn' Proto Files
 app-emacs/capture 20130828.1644: screencasting with "avconv" or "ffmpeg"
 app-emacs/carbon-now-sh 20220701.332: https://carbon.now.sh integration.
@@ -720,7 +720,7 @@ app-emacs/composable 20220608.1148: composable editing
 app-emacs/composer 20221120.202: Interface to PHP Composer
 app-emacs/comware-router-mode 20230107.1624: Major mode for editing Comware configuration files
 app-emacs/concurrent 20170601.435: Concurrent utility functions for emacs lisp
-app-emacs/conda 20230528.2355: Work with your conda environments
+app-emacs/conda 20230620.1745: Work with your conda environments
 app-emacs/config-general-mode 20171024.1840: Config::General config file mode
 app-emacs/config-parser 20160426.1219: a library for parsing config file
 app-emacs/conkeror-minor-mode 20150114.1604: Mode for editing conkeror javascript files.
@@ -1056,7 +1056,7 @@ app-emacs/docker-compose-mode 20200830.1336: Major mode for editing docker-compo
 app-emacs/docker-tramp 20220219.420: TRAMP integration for docker containers
 app-emacs/dockerfile-mode 20220822.2021: Major mode for editing Docker's Dockerfiles
 app-emacs/docopt 20230216.957: A Docopt implementation in Elisp
-app-emacs/docsim 20230619.251: Search and compare notes with a local search engine
+app-emacs/docsim 20230620.1518: Search and compare notes with a local search engine
 app-emacs/docstr 20221231.1701: A document string minor mode
 app-emacs/doct 20230108.1507: DOCT: Declarative Org capture templates
 app-emacs/dogears 20230608.400: Never lose your place again
@@ -1182,7 +1182,7 @@ app-emacs/ein 20230426.1857: Emacs IPython Notebook
 app-emacs/eink-theme 20190219.858: E Ink color theme
 app-emacs/ejc-sql 20230228.102: Emacs SQL client uses Clojure JDBC.
 app-emacs/ejson-mode 20190720.2138: Major mode for editing ejson files.
-app-emacs/ekg 20230613.1319: A system for recording and linking information
+app-emacs/ekg 20230620.1807: A system for recording and linking information
 app-emacs/el-autoyas 20120918.1317: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-fly-indent-mode 20180422.243: Indent Emacs Lisp on the fly
 app-emacs/el-get 20230618.1453: Manage the external elisp bits and pieces you depend upon
@@ -2279,7 +2279,7 @@ app-emacs/helm-lean 20210305.1705: Helm interfaces for lean-mode
 app-emacs/helm-lib-babel 20180510.1324: helm insertion of babel function references
 app-emacs/helm-lines 20220103.1909: A helm interface for completing by lines
 app-emacs/helm-lobsters 20150213.1546: helm front-end for lobste.rs
-app-emacs/helm-ls-git 20230617.1533: list git files.
+app-emacs/helm-ls-git 20230620.1632: list git files.
 app-emacs/helm-ls-hg 20150909.543: List hg files in hg project.
 app-emacs/helm-ls-svn 20190316.2203: helm extension to list svn files
 app-emacs/helm-lsp 20210419.2014: LSP helm integration
@@ -2464,7 +2464,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20230619.2253: P2P filesystem in Emacs
+app-emacs/hyperdrive 20230620.1851: P2P filesystem in Emacs
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -3006,7 +3006,7 @@ app-emacs/lsp-julia 20230414.2107: Julia support for lsp-mode
 app-emacs/lsp-latex 20230421.1814: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20230416.1826: LSP Clients for LTEX
 app-emacs/lsp-metals 20230406.755: Scala Client settings
-app-emacs/lsp-mode 20230620.532: LSP mode
+app-emacs/lsp-mode 20230620.1628: LSP mode
 app-emacs/lsp-mssql 20230510.1124: MSSQL LSP bindings
 app-emacs/lsp-origami 20211016.1045: origami.el support for lsp-mode
 app-emacs/lsp-p4 20190127.1049: P4 support for lsp-mode
@@ -3019,7 +3019,7 @@ app-emacs/lsp-scheme 20230606.1722: Scheme support for lsp-mode
 app-emacs/lsp-sonarlint 20220510.1802: Emacs Sonarlint lsp client
 app-emacs/lsp-sourcekit 20210905.2017: sourcekit-lsp client for lsp-mode
 app-emacs/lsp-tailwindcss 20230407.951: A lsp-mode client for tailwindcss
-app-emacs/lsp-treemacs 20230504.516: LSP treemacs
+app-emacs/lsp-treemacs 20230620.1844: LSP treemacs
 app-emacs/lsp-ui 20230116.2024: UI modules for lsp-mode
 app-emacs/lua-mode 20221218.605: a major-mode for editing Lua scripts
 app-emacs/luarocks 20170430.2305: luarocks tools
@@ -3566,7 +3566,7 @@ app-emacs/on-screen 20160302.950: guide your eyes while scrolling
 app-emacs/one-themes 20200720.1444: One Colorscheme
 app-emacs/one-time-pad-encrypt 20160329.1513: One time pad encryption within file
 app-emacs/opam 20150719.1220: OPAM tools
-app-emacs/opam-switch-mode 20221109.2306: Select OCaml opam switches via a menu
+app-emacs/opam-switch-mode 20230620.1534: Select OCaml opam switches via a menu
 app-emacs/open-in-msvs 20170123.2228: Open current file:line:column in Microsoft Visual Studio
 app-emacs/open-junk-file 20161210.1114: Open a junk (memo) file to try-and-error
 app-emacs/opencc 20170722.816: 中文简繁转换 <-> 中文簡繁轉換 (Convert Chinese with OpenCC)
@@ -3975,7 +3975,7 @@ app-emacs/perspective 20220921.346: switch between named "perspectives" of the e
 app-emacs/perspective-exwm 20230218.1358: Better integration for perspective.el and EXWM
 app-emacs/perspeen 20171203.1021: An package for multi-workspace
 app-emacs/pest-mode 20221231.15: Major mode for editing Pest files
-app-emacs/pet 20230423.2326: Executable and virtualenv tracker for python-mode
+app-emacs/pet 20230620.1653: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 20220913.1401: a simple wrapper around asynchronous processes
 app-emacs/pg 20230423.839: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
 app-emacs/pgdevenv 20150105.2236: Manage your PostgreSQL development envs
@@ -4255,7 +4255,7 @@ app-emacs/qtcreator-theme 20201215.1523: A color theme that mimics Qt Creator ID
 app-emacs/quack 20181106.1301: enhanced support for editing and running Scheme code
 app-emacs/quarto-mode 20221005.1632: A (poly)mode for https://quarto.org
 app-emacs/quasi-monochrome-theme 20200415.705: Quasi Monochrome theme
-app-emacs/quelpa 20221220.1136: Emacs Lisp packages built directly from source
+app-emacs/quelpa 20230620.1343: Emacs Lisp packages built directly from source
 app-emacs/quelpa-leaf 20221231.1618: Quelpa handler for leaf
 app-emacs/quelpa-use-package 20201022.746: quelpa handler for use-package
 app-emacs/quick-buffer-switch 20221220.1142: Quick switch to file or dir buffers.
@@ -4974,7 +4974,7 @@ app-emacs/thrift 20230616.714: major mode for fbthrift and Apache Thrift files
 app-emacs/thumb-through 20120119.534: Plain text reader of HTML documents
 app-emacs/tickscript-mode 20171219.203: A major mode for Tickscript files
 app-emacs/tidal 20230616.734: Interact with TidalCycles for live coding patterns
-app-emacs/tide 20230605.1410: Typescript Interactive Development Environment
+app-emacs/tide 20230620.1444: Typescript Interactive Development Environment
 app-emacs/tikz 20220526.521: A minor mode to edit TikZ pictures
 app-emacs/tile 20161225.357: Tile windows with layouts
 app-emacs/time-block 20230511.1434: Block running commands using time
@@ -5197,7 +5197,7 @@ app-emacs/vegetative-theme 20220822.353: A Theme based on green CRT terminals
 app-emacs/verb 20230301.2117: Organize and send HTTP requests
 app-emacs/veri-kompass 20200213.934: verilog codebase navigation facility
 app-emacs/verify-url 20160426.1228: find out invalid urls in the buffer or region
-app-emacs/verilog-ext 20230617.1422: SystemVerilog Extensions
+app-emacs/verilog-ext 20230620.1641: SystemVerilog Extensions
 app-emacs/verona-mode 20200823.536: A major mode for the Verona programming language
 app-emacs/versuri 20211104.1301: The lyrics package
 app-emacs/vertica 20131217.1511: Vertica SQL mode extension
