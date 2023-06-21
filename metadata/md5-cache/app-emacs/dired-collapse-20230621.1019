@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/compile-multi app-emacs/consult
-DESCRIPTION=Consulting read support for `compile-multi'
+DEPEND=app-emacs/dash app-emacs/f app-emacs/dired-hacks-utils
+DESCRIPTION=Collapse unique nested paths in dired listing
 EAPI=8
-HOMEPAGE=https://github.com/mohkale/compile-multi
+HOMEPAGE=https://melpa.org/packages/
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/compile-multi app-emacs/consult >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/dash app-emacs/f app-emacs/dired-hacks-utils >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/consult-compile-multi-20230618.2022.tar
+SRC_URI=https://melpa.org/packages/dired-collapse-20230621.1019.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=ce9eb4c3d7b9ef61bf74cdf8345b4038
+_md5_=d8afba6fa01744f5f5d9200219d68bd6

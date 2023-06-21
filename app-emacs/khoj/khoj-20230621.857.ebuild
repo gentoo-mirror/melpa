@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="AI personal assistant for your digital brain"
 
-HOMEPAGE="https://github.com/debanjum/khoj/tree/master/src/interface/emacs"
+HOMEPAGE="https://github.com/khoj-ai/khoj/tree/master/src/interface/emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
