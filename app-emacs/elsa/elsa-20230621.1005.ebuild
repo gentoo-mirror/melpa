@@ -21,8 +21,14 @@ KEYWORDS="~amd64 ~x86"
 DEPEND="app-emacs/trinary
 	app-emacs/f
 	app-emacs/dash
-	app-emacs/lsp-mode"
+	app-emacs/lsp-mode
+	app-emacs/ansi
+	app-emacs/async
+	app-emacs/lgr"
 RDEPEND="app-emacs/trinary
 	app-emacs/f
 	app-emacs/dash
-	app-emacs/lsp-mode"
+	app-emacs/lsp-mode
+	app-emacs/ansi
+	app-emacs/async
+	app-emacs/lgr"
