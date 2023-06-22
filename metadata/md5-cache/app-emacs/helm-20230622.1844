@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/seq app-emacs/inheritenv
-DESCRIPTION=Support for `direnv' that operates buffer-locally
+DEPEND=app-emacs/helm-core app-emacs/popup
+DESCRIPTION=Helm is an Emacs incremental and narrowing framework
 EAPI=8
-HOMEPAGE=https://github.com/purcell/envrc
+HOMEPAGE=https://emacs-helm.github.io/helm/
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/seq app-emacs/inheritenv >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/helm-core app-emacs/popup >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/envrc-20230608.1240.tar
+SRC_URI=https://melpa.org/packages/helm-20230622.1844.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	01bc6dc778b74a9deebe4e419a3b790e	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=12eb9224384ee19c91406359647bad7c
+_md5_=f3757fc92657cf57d541ff02aff438b6
