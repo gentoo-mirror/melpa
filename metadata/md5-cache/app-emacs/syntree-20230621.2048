@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/tree-sitter
-DESCRIPTION=Grammar bundle for tree-sitter
+DEPEND=app-emacs/org-mode
+DESCRIPTION=Draw plain text constituency trees
 EAPI=8
-HOMEPAGE=https://github.com/emacs-tree-sitter/tree-sitter-langs
+HOMEPAGE=https://github.com/enricoflor/syntree
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/tree-sitter >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/org-mode >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/tree-sitter-langs-20230311.1456.tar
+SRC_URI=https://melpa.org/packages/syntree-20230621.2048.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dcd21c5d379fc2217e95f529504c5fe0	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=5bd798d36d2a3a702d62969f60567ac2
+_md5_=0629f9b84cc7c12001c2faee4df61d39
