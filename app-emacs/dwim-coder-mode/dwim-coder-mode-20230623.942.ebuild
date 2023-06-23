@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="DWIM keybindings for programming modes"
+DESCRIPTION="DWIM keybindings for C, Python, Rust, and more"
 
 HOMEPAGE="https://sadiqpk.org/projects/dwim-coder-mode.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
