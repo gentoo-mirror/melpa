@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Comment/uncomment lines efficiently. Like Nerd Commenter in Vim
+DEPEND=app-emacs/s
+DESCRIPTION=A multimedia player/manager, YouTube interface
 EAPI=8
-HOMEPAGE=http://github.com/redguardtoo/evil-nerd-commenter
+HOMEPAGE=https://github.com/isamert/empv.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/s >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/evil-nerd-commenter-20221207.1245.tar
+SRC_URI=https://melpa.org/packages/empv-20230624.2256.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	01bc6dc778b74a9deebe4e419a3b790e	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=06b09e2b85c84b47accb44f0f069e080
+_md5_=7c15366583a4f050ed2707b721b57aae
