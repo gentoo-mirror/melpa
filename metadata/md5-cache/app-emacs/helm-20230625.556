@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/dash app-emacs/s
-DESCRIPTION=Simplify writing indentation functions, alternative to SMIE
+DEPEND=app-emacs/helm-core app-emacs/popup
+DESCRIPTION=Helm is an Emacs incremental and narrowing framework
 EAPI=8
-HOMEPAGE=https://github.com/semenInRussia/simple-indentation.el
+HOMEPAGE=https://emacs-helm.github.io/helm/
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/dash app-emacs/s >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/helm-core app-emacs/popup >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/simple-indentation-20221127.1232.tar
+SRC_URI=https://melpa.org/packages/helm-20230625.556.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	01bc6dc778b74a9deebe4e419a3b790e	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=f426773afd5e6bef581506fb6062ab8f
+_md5_=f3757fc92657cf57d541ff02aff438b6
