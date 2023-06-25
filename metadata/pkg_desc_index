@@ -395,7 +395,7 @@ app-emacs/buffer-env 20221110.2137: Buffer-local process environments
 app-emacs/buffer-flip 20220718.10: Cycle through buffers like Alt-Tab in Windows
 app-emacs/buffer-manage 20211122.1957: Manage buffers
 app-emacs/buffer-move 20220512.755: easily swap buffers
-app-emacs/buffer-name-relative 20230623.50: Relative buffer names
+app-emacs/buffer-name-relative 20230625.347: Relative buffer names
 app-emacs/buffer-ring 20220120.124: Rings and tori for buffer navigation
 app-emacs/buffer-sets 20230319.1822: Sets of Buffers for Buffer Management
 app-emacs/buffer-utils 20140512.1400: Buffer-manipulation utility functions
@@ -1326,7 +1326,7 @@ app-emacs/emoji-recall 20160723.2208: How many emoji can you recall from memory?
 app-emacs/emojify 20210108.1111: Display emojis in Emacs
 app-emacs/emojify-logos 20180814.917: Add logos to emojify
 app-emacs/empos 20151011.1916: Locate bibtex citations from within emacs
-app-emacs/empv 20230624.2256: A multimedia player/manager, YouTube interface
+app-emacs/empv 20230625.1316: A multimedia player/manager, YouTube interface
 app-emacs/emr 20220108.548: Emacs refactoring system.
 app-emacs/enclose 20121008.1614: Enclose cursor within punctuation pairs.
 app-emacs/encourage-mode 20151128.905: Encourages you in your work. :D
@@ -1441,7 +1441,7 @@ app-emacs/evalator 20160213.128: Package for interactive transformation of data 
 app-emacs/evalator-clojure 20160208.2148: Clojure evaluation context for evalator via CIDER.
 app-emacs/eve-mode 20170822.2231: Major mode for editing Eve documents.
 app-emacs/everlasting-scratch 20230105.507: The *scratch* that lasts forever
-app-emacs/evil 20230622.715: Extensible Vi layer for Emacs.
+app-emacs/evil 20230625.1536: Extensible Vi layer for Emacs.
 app-emacs/evil-anzu 20220911.1939: anzu for evil-mode
 app-emacs/evil-args 20220125.1626: Motions and text objects for delimited arguments in Evil.
 app-emacs/evil-avy 20150908.748: set-based completion
@@ -1640,7 +1640,7 @@ app-emacs/flatui-dark-theme 20170513.1422: Dark color theme with colors from htt
 app-emacs/flatui-theme 20160619.127: A color theme for Emacs based on flatuicolors.com
 app-emacs/fleetish-theme 20230407.1438: A take on the JetBrains Fleet theme
 app-emacs/flex-autopair 20120809.1218: Automatically insert pair braces and quotes, insertion conditions & actions are highly customizable.
-app-emacs/flex-compile 20230523.1546: Run, evaluate and compile across many languages
+app-emacs/flex-compile 20230625.1021: Run, evaluate and compile across many languages
 app-emacs/flex-isearch 20170308.2010: Flex matching (like ido) in isearch.
 app-emacs/flim 20230205.1423: A library to provide basic features about message representation or encoding.
 app-emacs/flimenu 20200810.1510: Flatten imenu automatically
@@ -2180,7 +2180,7 @@ app-emacs/hcl-mode 20230302.1029: Major mode for Hashicorp
 app-emacs/headlong 20150417.1526: reckless completion
 app-emacs/heaven-and-hell 20190713.1830: easy toggle light/dark themes
 app-emacs/heex-ts-mode 20230316.553: Major mode for Heex with tree-sitter support
-app-emacs/helm 20230624.1641: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20230625.556: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: helm-sources and some utilities for GNU R.
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: helm source for Active Directory
@@ -2213,7 +2213,7 @@ app-emacs/helm-clojuredocs 20160405.723: search for help in clojuredocs.org
 app-emacs/helm-codesearch 20221219.1219: helm interface for codesearch
 app-emacs/helm-commandlinefu 20150611.545: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 20190812.1429: Helm interface for company-mode
-app-emacs/helm-core 20230624.1641: Development files for Helm
+app-emacs/helm-core 20230625.556: Development files for Helm
 app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el.
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
@@ -2464,7 +2464,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20230625.105: P2P filesystem in Emacs
+app-emacs/hyperdrive 20230625.636: P2P filesystem in Emacs
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -2739,7 +2739,7 @@ app-emacs/julia-formatter 20230525.1742: Use JuliaFormatter.jl for julia code
 app-emacs/julia-mode 20230620.1132: Major mode for editing Julia source code
 app-emacs/julia-repl 20230529.943: A minor mode for a Julia REPL
 app-emacs/julia-shell 20161125.1910: Major mode for an inferior Julia shell
-app-emacs/julia-snail 20230530.1319: Julia Snail
+app-emacs/julia-snail 20230621.1809: Julia Snail
 app-emacs/julia-ts-mode 20230505.1846: Major mode for Julia source code using tree-sitter
 app-emacs/julia-vterm 20220912.246: A mode for Julia REPL using vterm
 app-emacs/jumblr 20170727.2043: an anagram game for emacs
@@ -3212,7 +3212,7 @@ app-emacs/mobdebug-mode 20140110.346: Major mode for MobDebug
 app-emacs/mocha 20200729.1130: Run Mocha or Jasmine tests
 app-emacs/mocha-snippets 20190417.1931: Yasnippets for the Mocha JS Testing Framework
 app-emacs/mocker 20220727.1452: mocking framework for emacs
-app-emacs/modaled 20230617.130: Build your own minor modes for modal editing
+app-emacs/modaled 20230625.1448: Build your own minor modes for modal editing
 app-emacs/modalka 20230606.1357: Modal editing your way
 app-emacs/mode-icons 20200920.2031: Show icons for modes
 app-emacs/mode-line-bell 20181029.516: Flash the mode line instead of ringing the bell
@@ -3224,7 +3224,7 @@ app-emacs/modern-fringes 20220401.202: Replaces default fringe bitmaps with bett
 app-emacs/modern-sh 20211101.1001: Minor mode for editing shell script
 app-emacs/modtime-skip-mode 20140128.2201: Minor mode for disabling modtime and supersession checks on files.
 app-emacs/modular-config 20210726.1614: Organize your config into small and loadable modules
-app-emacs/modus-themes 20230615.422: Elegant, highly legible and customizable themes
+app-emacs/modus-themes 20230625.1327: Elegant, highly legible and customizable themes
 app-emacs/moe-theme 20230518.1108: A colorful eye-candy theme. Moe, moe, kyun!
 app-emacs/molar-mass 20220922.1752: Calculates molar mass of a molecule
 app-emacs/molecule 20180527.743: Simple wrapper for molecule
@@ -3735,7 +3735,7 @@ app-emacs/org-special-block-extras 20220326.1432: 30 new custom blocks & 34 link
 app-emacs/org-sql 20220621.2252: Org-Mode SQL converter
 app-emacs/org-starter 20220326.1106: A basic configuration framework for org mode
 app-emacs/org-starter-swiper 20220326.1106: Swiper for org-starter
-app-emacs/org-static-blog 20230204.1000: a simple org-mode based static blog generator
+app-emacs/org-static-blog 20230625.721: a simple org-mode based static blog generator
 app-emacs/org-sticky-header 20201223.143: Show off-screen Org heading at top of window
 app-emacs/org-super-agenda 20220826.2315: Supercharge your agenda
 app-emacs/org-superstar-mode 20230116.1358: Prettify headings and plain lists in Org mode
@@ -4157,8 +4157,8 @@ app-emacs/projectile-sift 20160107.1015: Run a sift with Projectile
 app-emacs/projectile-speedbar 20190807.2010: projectile integration for speedbar
 app-emacs/projectile-trailblazer 20170928.1624: Minor mode for Rails projects using trailblazer
 app-emacs/projectile-variable 20170208.1718: Store project local variables.
-app-emacs/projection 20230621.2205: Project type support for `project'
-app-emacs/projection-multi 20230621.1904: Projection integration for `compile-multi'
+app-emacs/projection 20230624.1315: Project type support for `project'
+app-emacs/projection-multi 20230624.1315: Projection integration for `compile-multi'
 app-emacs/projector 20211112.1514: Lightweight library for managing project-aware shell and command buffers
 app-emacs/projekt 20150324.848: some kind of staging for CVS
 app-emacs/projmake-mode 20161031.1715: Project oriented automatic builder and error highlighter, flymake for projects
@@ -4608,7 +4608,7 @@ app-emacs/simp 20180607.254: Simple project definition, chiefly for file finding
 app-emacs/simple-bookmarks 20190204.1426: Bookmark / functioncall manager
 app-emacs/simple-call-tree 20210625.2001: analyze source code based on font-lock text-properties
 app-emacs/simple-httpd 20230619.642: pure elisp HTTP server
-app-emacs/simple-indentation 20221127.1232: Simplify writing indentation functions, alternative to SMIE
+app-emacs/simple-indentation 20230625.1610: Simplify writing indentation functions, alternative to SMIE
 app-emacs/simple-modeline 20210312.1048: A simple mode-line configuration for Emacs
 app-emacs/simple-mpc 20220216.102: provides a simple interface to mpc
 app-emacs/simple-paren 20220713.902: Non-electrical insert paired delimiter, wrap
@@ -4635,7 +4635,7 @@ app-emacs/sl 20161217.1404: An Emacs clone of sl(1)
 app-emacs/slack 20211129.310: Slack client for Emacs
 app-emacs/slideview 20150324.2240: File slideshow
 app-emacs/slim-mode 20170728.1348: Major mode for editing Slim files
-app-emacs/slime 20230613.1337: Superior Lisp Interaction Mode for Emacs
+app-emacs/slime 20230625.1056: Superior Lisp Interaction Mode for Emacs
 app-emacs/slime-company 20210124.1627: slime completion backend for company mode
 app-emacs/slime-docker 20210426.1422: Integration of SLIME with Docker containers
 app-emacs/slime-repl-ansi-color 20230214.1453: Turn on ANSI colors in REPL output;
@@ -4696,7 +4696,7 @@ app-emacs/smtpmail-multi 20160218.2349: Use different smtp servers for sending m
 app-emacs/smudge 20210326.2222: Control the Spotify app
 app-emacs/smyx-theme 20141127.828: smyx Color Theme
 app-emacs/snakemake-mode 20230418.147: Major mode for editing Snakemake files
-app-emacs/snap-indent 20221220.1908: Simple automatic indentation
+app-emacs/snap-indent 20230625.1700: Simple automatic indentation
 app-emacs/snapshot-timemachine 20161221.929: Step through (Btrfs, ZFS, ...) snapshots of files
 app-emacs/snapshot-timemachine-rsnapshot 20170324.1213: rsnapshot backend for snapshot-timemachine
 app-emacs/snazzy-theme 20170828.757: An elegant syntax theme with bright colors
@@ -4804,7 +4804,7 @@ app-emacs/sticky-shell 20230207.1454: Minor mode to keep track of previous promp
 app-emacs/stickyfunc-enhance 20150429.1814: An enhancement to stock `semantic-stickyfunc-mode'
 app-emacs/stimmung-themes 20230503.1148: Themes tuned to inner harmonies
 app-emacs/stock-ticker 20150204.1052: Show stock prices in mode line
-app-emacs/stock-tracker 20230622.123: Track stock price
+app-emacs/stock-tracker 20230625.524: Track stock price
 app-emacs/strace-mode 20171116.2039: strace output syntax highlighting
 app-emacs/streak 20220311.1929: Track a daily streak in your Mode Line
 app-emacs/streamlink 20210811.1429: A major mode for streamlink output
