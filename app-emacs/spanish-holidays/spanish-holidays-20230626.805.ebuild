@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="gpr-ts-mode"
+REALNAME="spanish-holidays"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Tree-sitter support for GNAT project"
+DESCRIPTION="Spain holidays for calendar"
 
-HOMEPAGE="https://github.com/brownts/gpr-ts-mode"
+HOMEPAGE="https://gitlab.com/gnuhack/spanish-holidays"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
