@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Play multimedia files in org-mode"
+DESCRIPTION="Playback multimedia files from Org documents"
 
 HOMEPAGE="https://git.sr.ht/~jagrg/org-emms"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
