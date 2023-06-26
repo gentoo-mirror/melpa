@@ -253,7 +253,7 @@ app-emacs/awscli-capf 20190930.1517: Completion at point function for the AWS CL
 app-emacs/axe 20230120.1915: AWS Extensions
 app-emacs/axiom-environment 20220612.1535: An environment for using Axiom/OpenAxiom/FriCAS
 app-emacs/ayu-theme 20230306.1924: Ayu theme
-app-emacs/babashka 20230618.2025: Babashka Tasks Interface
+app-emacs/babashka 20230625.2028: Babashka Tasks Interface
 app-emacs/babel 20210612.640: interface to web translation services such as Babelfish
 app-emacs/babel-repl 20160504.2201: Run babel REPL
 app-emacs/back-button 20220827.1733: Visual navigation through mark rings
@@ -363,7 +363,7 @@ app-emacs/boogie-friends 20221115.658: A collection of programming modes for Boo
 app-emacs/bookmark-in-project 20230604.757: Bookmark access within a project
 app-emacs/bookmark-view 20220403.2204: Bookmark views
 app-emacs/bool-flip 20161215.1539: flip the boolean under the point
-app-emacs/boon 20230618.1334: Ergonomic Command Mode for Emacs.
+app-emacs/boon 20230625.2015: Ergonomic Command Mode for Emacs.
 app-emacs/borg 20230319.1956: Assimilate Emacs packages as Git submodules
 app-emacs/borland-blue-theme 20160117.1321: Blue/yellow theme based on old DOS Borland/Turbo C IDE
 app-emacs/boron-theme 20170808.1308: an Emacs 24 theme based on Boron (tmTheme)
@@ -540,7 +540,7 @@ app-emacs/circe 20221126.1508: Client for IRC in Emacs
 app-emacs/circe-notifications 20180102.2318: Add desktop notifications to Circe.
 app-emacs/circleci-api 20210227.1607: Bindings for the CircleCI API
 app-emacs/citar 20230325.136: Citation-related commands for org, latex, markdown
-app-emacs/citar-denote 20230403.1038: Minor mode to integrate Citar and Denote
+app-emacs/citar-denote 20230625.2105: Minor mode to integrate Citar and Denote
 app-emacs/citar-embark 20230323.1926: Citar/Embark integration
 app-emacs/citar-org-roam 20230404.1225: Citar/org-roam integration
 app-emacs/citeproc-el 20230228.1414: A CSL 1.0.2 Citation Processor
@@ -580,8 +580,8 @@ app-emacs/clockodo 20220604.2049: A small integration for the clockodo api
 app-emacs/clojars 20180825.1951: clojars.org search interface
 app-emacs/clojure-essential-ref 20221215.1427: Cider-doc to "Clojure, The Essential Reference"
 app-emacs/clojure-essential-ref-nov 20221215.1427: Cider-doc to "Clojure, The Essential Reference" (EPUB)
-app-emacs/clojure-mode 20230624.1857: Major mode for Clojure code
-app-emacs/clojure-mode-extra-font-locking 20221214.915: Extra font-locking for Clojure mode
+app-emacs/clojure-mode 20230626.715: Major mode for Clojure code
+app-emacs/clojure-mode-extra-font-locking 20230626.715: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 20150814.736: Quickly create Clojure and ClojureScript repls for a project.
 app-emacs/clojure-snippets 20220914.950: Yasnippets for clojure
 app-emacs/clojure-ts-mode 20230604.211: Major mode for Clojure code
@@ -1056,7 +1056,7 @@ app-emacs/docker-compose-mode 20200830.1336: Major mode for editing docker-compo
 app-emacs/docker-tramp 20220219.420: TRAMP integration for docker containers
 app-emacs/dockerfile-mode 20220822.2021: Major mode for editing Docker's Dockerfiles
 app-emacs/docopt 20230216.957: A Docopt implementation in Elisp
-app-emacs/docsim 20230621.2010: Search and compare notes with a local search engine
+app-emacs/docsim 20230626.326: Search and compare notes with a local search engine
 app-emacs/docstr 20221231.1701: A document string minor mode
 app-emacs/doct 20230108.1507: DOCT: Declarative Org capture templates
 app-emacs/dogears 20230608.400: Never lose your place again
@@ -1302,7 +1302,7 @@ app-emacs/emacsshot 20191206.944: Snapshot a frame or window from within
 app-emacs/emamux 20200315.1220: Interact with tmux
 app-emacs/emamux-ruby-test 20130812.1639: Ruby test with emamux
 app-emacs/emaps 20200508.1759: Utilities for working with keymaps
-app-emacs/embark 20230624.2230: Conveniently act on minibuffer completions
+app-emacs/embark 20230625.1937: Conveniently act on minibuffer completions
 app-emacs/embark-consult 20230616.2243: Consult integration for Embark
 app-emacs/embark-vc 20230212.1920: Embark actions for various version control integrations
 app-emacs/ember-mode 20200208.1423: Ember navigation mode for emacs
@@ -1515,6 +1515,7 @@ app-emacs/evil-traces 20191214.558: Visual hints for `evil-ex'
 app-emacs/evil-tree-edit 20230419.1753: Evil structural editing for any language!
 app-emacs/evil-tutor 20150103.653: Vimtutor adapted to Evil and wrapped in a major-mode
 app-emacs/evil-tutor-ja 20160917.132: Japanese Vimtutor adapted to Evil and wrapped in a major-mode
+app-emacs/evil-tutor-sc 20230625.2254: Simplified Chinese Evil-tutor
 app-emacs/evil-vimish-fold 20200122.117: Integrate vimish-fold with evil
 app-emacs/evil-visual-mark-mode 20230202.318: Display evil marks on buffer
 app-emacs/evil-visual-replace 20171016.613: search/replace commands for evil visual state, inc. blocks
@@ -1640,7 +1641,7 @@ app-emacs/flatui-dark-theme 20170513.1422: Dark color theme with colors from htt
 app-emacs/flatui-theme 20160619.127: A color theme for Emacs based on flatuicolors.com
 app-emacs/fleetish-theme 20230407.1438: A take on the JetBrains Fleet theme
 app-emacs/flex-autopair 20120809.1218: Automatically insert pair braces and quotes, insertion conditions & actions are highly customizable.
-app-emacs/flex-compile 20230625.1021: Run, evaluate and compile across many languages
+app-emacs/flex-compile 20230625.1811: Run, evaluate and compile across many languages
 app-emacs/flex-isearch 20170308.2010: Flex matching (like ido) in isearch.
 app-emacs/flim 20230205.1423: A library to provide basic features about message representation or encoding.
 app-emacs/flimenu 20200810.1510: Flatten imenu automatically
@@ -2087,7 +2088,7 @@ app-emacs/goto-line-preview 20230111.1531: Preview line when executing `goto-lin
 app-emacs/govc 20221216.1712: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/govet 20170808.1724: linter/problem finder for the Go source code
 app-emacs/gpastel 20181229.1404: Integrates GPaste with the kill-ring
-app-emacs/gpr-ts-mode 20230613.1237: Tree-sitter support for GNAT project
+app-emacs/gpr-ts-mode 20230626.337: Major mode for GNAT project files using Tree-Sitter
 app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20230502.2319: Run instruction-following language models
 app-emacs/gptai 20230530.1853: Integrate with the OpenAI API
@@ -2415,7 +2416,7 @@ app-emacs/hiwin 20150825.827: Visible active window mode.
 app-emacs/hl-anything 20160422.1708: Highlight symbols, selections, enclosing parens and more.
 app-emacs/hl-block-mode 20230521.2306: Highlighting nested blocks
 app-emacs/hl-indent 20170429.2104: Highlight irregular indentation.
-app-emacs/hl-indent-scope 20230521.1312: Highlight indentation by scope
+app-emacs/hl-indent-scope 20230626.633: Highlight indentation by scope
 app-emacs/hl-prog-extra 20230201.140: Customizable highlighting for source-code
 app-emacs/hl-sentence 20171018.1519: highlight a sentence based on customizable face
 app-emacs/hl-todo 20230428.1332: Highlight TODO and similar keywords
@@ -2464,7 +2465,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20230625.636: P2P filesystem in Emacs
+app-emacs/hyperdrive 20230626.346: P2P filesystem in Emacs
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -2756,6 +2757,7 @@ app-emacs/k8s-mode 20230305.1039: Major mode for Kubernetes configuration file
 app-emacs/kaesar 20230622.951: AES algorithm encrypt/decrypt
 app-emacs/kaesar-file 20230614.332: AES encrypt/decrypt file
 app-emacs/kaesar-mode 20230405.1134: AES encrypt/decrypt buffer
+app-emacs/kaesar-pbkdf2 20230405.1134: PBKDF2 extension for kaesar.el
 app-emacs/kakapo-mode 20171004.451: TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment.
 app-emacs/kakoune 20230206.2037: A simulation, but not emulation, of kakoune
 app-emacs/kaleidoscope 20170808.817: Controlling Kaleidoscope-powered devices.
@@ -4253,6 +4255,7 @@ app-emacs/qrencode 20230324.2335: QRCode encoder
 app-emacs/qt-pro-mode 20170604.1841: Qt Pro/Pri major mode
 app-emacs/qtcreator-theme 20201215.1523: A color theme that mimics Qt Creator IDE
 app-emacs/quack 20181106.1301: enhanced support for editing and running Scheme code
+app-emacs/quakec-mode 20230619.947: Major mode for QuakeC
 app-emacs/quarto-mode 20221005.1632: A (poly)mode for https://quarto.org
 app-emacs/quasi-monochrome-theme 20200415.705: Quasi Monochrome theme
 app-emacs/quelpa 20230620.1343: Emacs Lisp packages built directly from source
@@ -4738,6 +4741,7 @@ app-emacs/spaceline 20230221.2314: Modeline configuration library for powerline
 app-emacs/spaceline-all-the-icons 20190325.1602: A Spaceline theme using All The Icons
 app-emacs/spacemacs-theme 20230530.1751: Color theme with a dark and light versions
 app-emacs/spaces 20170809.2208: Create and switch between named window configurations.
+app-emacs/spanish-holidays 20230626.805: Spain holidays for calendar
 app-emacs/spark 20230406.2307: sparkline generation
 app-emacs/sparkline 20150101.1319: Make sparkline images from a list of numbers
 app-emacs/sparql-mode 20230104.1113: Edit and interactively evaluate SPARQL queries.
@@ -4970,7 +4974,7 @@ app-emacs/thingopt 20160520.2318: Thing at Point optional utilities
 app-emacs/thinks 20170802.1128: Insert text in a think bubble.
 app-emacs/thread-dump 20170816.1850: Java thread dump viewer
 app-emacs/threes 20160820.1242: A clone of Threes (a tiny puzzle game)
-app-emacs/thrift 20230616.714: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 20230625.1900: major mode for fbthrift and Apache Thrift files
 app-emacs/thumb-through 20120119.534: Plain text reader of HTML documents
 app-emacs/tickscript-mode 20171219.203: A major mode for Tickscript files
 app-emacs/tidal 20230616.734: Interact with TidalCycles for live coding patterns
