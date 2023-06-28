@@ -727,7 +727,7 @@ app-emacs/conkeror-minor-mode 20150114.1604: Mode for editing conkeror javascrip
 app-emacs/conllu-mode 20200501.2328: editing mode for CoNLL-U files
 app-emacs/connection 20191111.446: TCP-based client connection
 app-emacs/constant-theme 20180921.1012: A calm, dark, almost monochrome color theme.
-app-emacs/consult 20230626.1154: Consulting completing-read
+app-emacs/consult 20230627.1801: Consulting completing-read
 app-emacs/consult-ag 20230227.406: The silver searcher integration using Consult
 app-emacs/consult-codesearch 20230315.1424: Consult interface for codesearch
 app-emacs/consult-company 20230606.1824: Consult frontend for company
@@ -1205,7 +1205,7 @@ app-emacs/elbank 20180316.1343: Personal finances reporting application
 app-emacs/elcontext 20210109.1238: Create context specific actions
 app-emacs/elcord 20230627.1213: Allows you to integrate Rich Presence from Discord
 app-emacs/elcouch 20201108.955: View and manipulate CouchDB databases
-app-emacs/eldev 20230620.1909: Elisp development tool
+app-emacs/eldev 20230627.1916: Elisp development tool
 app-emacs/eldoc-box 20230610.700: Display documentation in childframe
 app-emacs/eldoc-cmake 20190419.2244: Eldoc support for CMake
 app-emacs/eldoc-eval 20220106.1951: Enable eldoc support when minibuffer is in use.
@@ -1229,7 +1229,7 @@ app-emacs/elfeed-org 20221118.852: Configure elfeed with one or more org-mode fi
 app-emacs/elfeed-protocol 20230512.950: Provide fever/newsblur/owncloud/ttrss protocols for elfeed
 app-emacs/elfeed-score 20230506.1524: Gnus-style scoring for Elfeed
 app-emacs/elfeed-summary 20221210.1349: Feed summary interface for elfeed
-app-emacs/elfeed-tube 20230430.546: YouTube integration for Elfeed
+app-emacs/elfeed-tube 20230627.1930: YouTube integration for Elfeed
 app-emacs/elfeed-tube-mpv 20230607.717: Control mpv from Elfeed
 app-emacs/elfeed-web 20210226.258: web interface to Elfeed
 app-emacs/elfeed-webkit 20230604.2111: Render elfeed entries in embedded webkit widgets
@@ -1498,7 +1498,7 @@ app-emacs/evil-smartparens 20171210.1513: Evil support for smartparens
 app-emacs/evil-snipe 20220428.1432: emulate vim-sneak & vim-seek
 app-emacs/evil-space 20151208.1228: Repeat motion in Evil. Correct the behaviour of what SPC should do.
 app-emacs/evil-string-inflection 20200524.1402: snake_case -> CamelCase -> etc. for text objects
-app-emacs/evil-surround 20221229.1650: emulate surround.vim from Vim
+app-emacs/evil-surround 20230627.2052: emulate surround.vim from Vim
 app-emacs/evil-swap-keys 20191105.1426: Intelligently swap keys on text input with evil
 app-emacs/evil-tabs 20160217.1520: Integrating Vim-style tabs for Evil mode users.
 app-emacs/evil-terminal-cursor-changer 20220628.1831: Change cursor shape and color by evil state in terminal
@@ -2465,7 +2465,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20230627.244: P2P filesystem in Emacs
+app-emacs/hyperdrive 20230627.2112: P2P filesystem in Emacs
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -2749,7 +2749,7 @@ app-emacs/jump-char 20180601.1348: navigation by char
 app-emacs/jump-to-line 20130122.1653: Jump to line number at point.
 app-emacs/jump-tree 20171014.1551: Treat position history as a tree
 app-emacs/jumplist 20151120.345: Jump like vim jumplist or ex jumplist
-app-emacs/jupyter 20230608.1504: Jupyter
+app-emacs/jupyter 20230627.2030: Jupyter
 app-emacs/just-mode 20230303.2255: Justfile editing mode
 app-emacs/justl 20230612.1546: Major mode for driving just files
 app-emacs/jvm-mode 20150422.708: Monitor and manage your JVMs
@@ -2995,7 +2995,7 @@ app-emacs/lox-mode 20200619.1700: Major mode for the Lox programming language
 app-emacs/lpy 20221106.1310: A lispy interface to Python
 app-emacs/lsp-cfn 20220822.1545: LSP integration for cfn-lsp-extra
 app-emacs/lsp-dart 20230516.52: Dart support lsp-mode
-app-emacs/lsp-docker 20230508.2051: LSP Docker integration
+app-emacs/lsp-docker 20230627.1601: LSP Docker integration
 app-emacs/lsp-focus 20200906.1917: focus.el support for lsp-mode
 app-emacs/lsp-grammarly 20221231.1655: LSP Clients for Grammarly
 app-emacs/lsp-haskell 20230104.1508: Haskell support for lsp-mode
@@ -4494,7 +4494,7 @@ app-emacs/scihub 20220913.618: Sci-Hub integration
 app-emacs/sclang-extensions 20160509.338: Extensions for the SuperCollider Emacs mode.
 app-emacs/sclang-snippets 20130513.751: Snippets for the SuperCollider Emacs mode
 app-emacs/scopeline 20230622.829: Show scope info of blocks in buffer at end of scope
-app-emacs/scpaste 20221125.1731: Paste to the web via scp.
+app-emacs/scpaste 20230627.1800: Paste to the web via scp.
 app-emacs/scratch 20220319.1705: Mode-specific scratch buffers
 app-emacs/scratch-comment 20200812.1025: Insert Elisp result as comment in scratch buffer
 app-emacs/scratch-ext 20220617.132: Extensions for *scratch*
@@ -4510,7 +4510,7 @@ app-emacs/scrollable-quick-peek 20201224.329: Display scrollable overlays
 app-emacs/scrollkeeper 20190109.629: Custom scrolling commands with visual guidelines
 app-emacs/scrooge 20180630.1022: Major mode for Twitter Scrooge files
 app-emacs/scss-mode 20180123.1708: Major mode for editing SCSS files
-app-emacs/sculpture-themes 20230605.957: Themes with vivid colors
+app-emacs/sculpture-themes 20230627.1755: Themes with vivid colors
 app-emacs/sdcv 20220210.1412: Interface for sdcv (StartDict console version).
 app-emacs/sdlang-mode 20161201.711: Major mode for Simple Declarative Language files.
 app-emacs/search-web 20150312.1103: Post web search queries using `browse-url'.
@@ -5201,7 +5201,7 @@ app-emacs/vegetative-theme 20220822.353: A Theme based on green CRT terminals
 app-emacs/verb 20230301.2117: Organize and send HTTP requests
 app-emacs/veri-kompass 20200213.934: verilog codebase navigation facility
 app-emacs/verify-url 20160426.1228: find out invalid urls in the buffer or region
-app-emacs/verilog-ext 20230620.1641: SystemVerilog Extensions
+app-emacs/verilog-ext 20230627.1748: SystemVerilog Extensions
 app-emacs/verona-mode 20200823.536: A major mode for the Verona programming language
 app-emacs/versuri 20211104.1301: The lyrics package
 app-emacs/vertica 20131217.1511: Vertica SQL mode extension
