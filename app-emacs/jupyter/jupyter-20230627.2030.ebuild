@@ -18,9 +18,11 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/zmq
+DEPEND="app-emacs/org-mode
+	app-emacs/zmq
 	app-emacs/simple-httpd
 	app-emacs/websocket"
-RDEPEND="app-emacs/zmq
+RDEPEND="app-emacs/org-mode
+	app-emacs/zmq
 	app-emacs/simple-httpd
 	app-emacs/websocket"
