@@ -231,7 +231,7 @@ app-emacs/auto-virtualenv 20220712.1612: Auto activate python virtualenvs
 app-emacs/auto-virtualenvwrapper 20230317.1313: Lightweight auto activate python virtualenvs
 app-emacs/auto-yasnippet 20230208.331: Quickly create disposable yasnippets
 app-emacs/autobookmarks 20220509.1712: Save recently visited files and buffers
-app-emacs/autobuild 20230628.759: Define and execute build rules and compilation pipelines
+app-emacs/autobuild 20230628.2343: Define and execute build rules and compilation pipelines
 app-emacs/autodisass-java-bytecode 20211005.1920: Automatically disassemble Java bytecode
 app-emacs/autodisass-llvm-bitcode 20150411.125: Automatically disassemble LLVM bitcode
 app-emacs/autoscratch 20230612.719: Automatically switch scratch buffer mode
@@ -419,7 +419,7 @@ app-emacs/butler 20210928.230: Emacs client for Jenkins
 app-emacs/buttercup 20230418.819: Behavior-Driven Emacs Lisp Testing
 app-emacs/buttercup-junit 20190802.2258: JUnit reporting for Buttercup
 app-emacs/button-lock 20230304.2212: Clickable text defined by regular expression
-app-emacs/buttons 20230628.752: Define and visualize hierarchies of keymaps
+app-emacs/buttons 20230628.2340: Define and visualize hierarchies of keymaps
 app-emacs/c-c-combo 20151224.255: Make stuff happen when you reach a target wpm
 app-emacs/c-eldoc 20201004.2347: helpful description of the arguments to C functions
 app-emacs/c-eval 20210611.705: Compile and run one-off C code snippets
@@ -1375,7 +1375,7 @@ app-emacs/ergoemacs-mode 20230207.1551: Emacs mode based on common modern interf
 app-emacs/ergoemacs-status 20160318.538: Adaptive Status Bar / Mode Line
 app-emacs/eri 20200914.644: Enhanced relative indentation (eri)
 app-emacs/erk 20230511.251: Elisp (GitHub) Repository Kit
-app-emacs/erlang 20230608.533: Erlang major mode
+app-emacs/erlang 20230628.1002: Erlang major mode
 app-emacs/erlstack-mode 20230608.909: Minor mode for analysing Erlang stacktraces
 app-emacs/eros 20230309.615: Evaluation Result OverlayS for Emacs Lisp
 app-emacs/ert-async 20200105.1031: Async support for ERT
@@ -2181,7 +2181,7 @@ app-emacs/hcl-mode 20230302.1029: Major mode for Hashicorp
 app-emacs/headlong 20150417.1526: reckless completion
 app-emacs/heaven-and-hell 20190713.1830: easy toggle light/dark themes
 app-emacs/heex-ts-mode 20230316.553: Major mode for Heex with tree-sitter support
-app-emacs/helm 20230625.556: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20230629.546: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: helm-sources and some utilities for GNU R.
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: helm source for Active Directory
@@ -2214,7 +2214,7 @@ app-emacs/helm-clojuredocs 20160405.723: search for help in clojuredocs.org
 app-emacs/helm-codesearch 20221219.1219: helm interface for codesearch
 app-emacs/helm-commandlinefu 20150611.545: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 20190812.1429: Helm interface for company-mode
-app-emacs/helm-core 20230625.556: Development files for Helm
+app-emacs/helm-core 20230629.546: Development files for Helm
 app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el.
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
@@ -5439,7 +5439,7 @@ app-emacs/yesql-ghosts 20150220.1237: Display ghostly yesql defqueries inline
 app-emacs/yesterbox 20200327.52: Count number of inbox messages by day
 app-emacs/ynab 20200607.2008: Major mode for YNAB (you need a budget)
 app-emacs/yoficator 20190509.1620: Interactively yoficate Russian texts
-app-emacs/yoshi-theme 20230225.740: Theme named after my cat
+app-emacs/yoshi-theme 20230629.647: Theme named after my cat
 app-emacs/youdao-dictionary 20200722.1705: Youdao Dictionary interface for Emacs
 app-emacs/youtube-sub-extractor 20221116.653: Extract YouTube video subtitles
 app-emacs/ytdious 20210228.2111: Query / Preview YouTube via Invidious
