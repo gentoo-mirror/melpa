@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Elegant, highly legible and customizable themes
+DEPEND=app-emacs/transient
+DESCRIPTION=Walk through git revisions of a file
 EAPI=8
-HOMEPAGE=https://git.sr.ht/~protesilaos/modus-themes
+HOMEPAGE=https://gitlab.com/pidu/git-timemachine
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/transient >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/modus-themes-20230630.642.tar
+SRC_URI=https://melpa.org/packages/git-timemachine-20230630.1214.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	01bc6dc778b74a9deebe4e419a3b790e	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=f2b52b4e0f9c0cadca6174ab751bd037
+_md5_=96b9df81b0a7fbcb20bb753f42397d8e
