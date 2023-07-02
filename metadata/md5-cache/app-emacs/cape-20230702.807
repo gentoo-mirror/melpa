@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DEPEND=app-emacs/compat
-DESCRIPTION=Enchanted Spell Checker
+DESCRIPTION=Completion At Point Extensions
 EAPI=8
-HOMEPAGE=https://github.com/minad/jinx
+HOMEPAGE=https://github.com/minad/cape
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=app-emacs/compat >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/jinx-20230626.1825.tar
+SRC_URI=https://melpa.org/packages/cape-20230702.807.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	01bc6dc778b74a9deebe4e419a3b790e	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=f9e7e2169c9d4441c285bcb2236c0c26
+_md5_=9c080c28b03b0d8a24bb9ce2fea03729
