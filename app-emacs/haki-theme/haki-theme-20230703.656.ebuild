@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION=""
+DESCRIPTION="An elegant, high-contrast dark theme in modern sense"
 
 HOMEPAGE="https://github.com/idlip/haki"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
