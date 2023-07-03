@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/dash
-DESCRIPTION=Parameter based program
+DEPEND=app-emacs/transient app-emacs/dash
+DESCRIPTION=AI personal assistant for your digital brain
 EAPI=8
-HOMEPAGE=https://github.com/plandes/choice-program
+HOMEPAGE=https://github.com/khoj-ai/khoj/tree/master/src/interface/emacs
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/dash >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/transient app-emacs/dash >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/choice-program-20201217.1751.tar
+SRC_URI=https://melpa.org/packages/khoj-20230703.48.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	01bc6dc778b74a9deebe4e419a3b790e	elisp	7190c722d9e06fabcae26ef1e1dc9183	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=2e51d1bd1722a79588725312f276e70c
+_md5_=c2b9063e1db8cd39982985222d927a6a
