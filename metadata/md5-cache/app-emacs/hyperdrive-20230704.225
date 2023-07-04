@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Evaluate mode line content when idle
+DEPEND=app-emacs/map app-emacs/compat app-emacs/plz app-emacs/persist
+DESCRIPTION=P2P filesystem in Emacs
 EAPI=8
-HOMEPAGE=https://codeberg.org/ideasman42/emacs-mode-line-idle
+HOMEPAGE=https://git.sr.ht/~ushin/hyperdrive.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/map app-emacs/compat app-emacs/plz app-emacs/persist >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/mode-line-idle-20230116.951.tar
+SRC_URI=https://melpa.org/packages/hyperdrive-20230704.225.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dde4f515dde15603a26a3755438e9c78	elisp	d5d9361b9698f474179a2ac3f8bf46e8	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=9a986f568839ea05cd74e060d38bc55a
+_md5_=b1978562e130b5696050a66ad24ca162
