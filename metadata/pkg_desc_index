@@ -254,7 +254,7 @@ app-emacs/awscli-capf 20190930.1517: Completion at point function for the AWS CL
 app-emacs/axe 20230120.1915: AWS Extensions
 app-emacs/axiom-environment 20220612.1535: An environment for using Axiom/OpenAxiom/FriCAS
 app-emacs/ayu-theme 20230306.1924: Ayu theme
-app-emacs/babashka 20230701.1059: Babashka Tasks Interface
+app-emacs/babashka 20230704.1224: Babashka Tasks Interface
 app-emacs/babel 20210612.640: interface to web translation services such as Babelfish
 app-emacs/babel-repl 20160504.2201: Run babel REPL
 app-emacs/back-button 20220827.1733: Visual navigation through mark rings
@@ -569,7 +569,7 @@ app-emacs/clippy 20230118.1924: Show tooltip with function documentation at poin
 app-emacs/clips-mode 20170909.823: Major mode for editing CLIPS code and REPL
 app-emacs/clj-decompiler 20220103.1746: Clojure Java decompiler expansion
 app-emacs/clj-deps-new 20230413.1833: Create clojure projects from templates
-app-emacs/clj-refactor 20230520.1550: A collection of commands for refactoring Clojure code
+app-emacs/clj-refactor 20230704.1541: A collection of commands for refactoring Clojure code
 app-emacs/cljr-helm 20220721.824: Wraps clojure refactor commands with helm
 app-emacs/cljr-ivy 20200602.1607: Access clojure refactor with ivy completion
 app-emacs/cljsbuild-mode 20160402.1700: A minor mode for the ClojureScript 'lein cljsbuild' command
@@ -1513,12 +1513,12 @@ app-emacs/evil-textobj-column 20170905.1905: Provides column text objects.
 app-emacs/evil-textobj-entire 20150422.1254: text object for entire lines of buffer for evil
 app-emacs/evil-textobj-line 20211101.1429: Line text object for Evil
 app-emacs/evil-textobj-syntax 20181210.1213: Provides syntax text objects.
-app-emacs/evil-textobj-tree-sitter 20230604.1018: Provides evil textobjects using tree-sitter
+app-emacs/evil-textobj-tree-sitter 20230704.1451: Provides evil textobjects using tree-sitter
 app-emacs/evil-traces 20191214.558: Visual hints for `evil-ex'
 app-emacs/evil-tree-edit 20230419.1753: Evil structural editing for any language!
 app-emacs/evil-tutor 20150103.653: Vimtutor adapted to Evil and wrapped in a major-mode
 app-emacs/evil-tutor-ja 20160917.132: Japanese Vimtutor adapted to Evil and wrapped in a major-mode
-app-emacs/evil-tutor-sc 20230703.638: Simplified Chinese tutor for Evil
+app-emacs/evil-tutor-sc 20230704.1425: Simplified Chinese tutor for Evil
 app-emacs/evil-vimish-fold 20200122.117: Integrate vimish-fold with evil
 app-emacs/evil-visual-mark-mode 20230202.318: Display evil marks on buffer
 app-emacs/evil-visual-replace 20171016.613: search/replace commands for evil visual state, inc. blocks
@@ -1560,7 +1560,7 @@ app-emacs/eyebrowse-restore 20230312.1821: Persistent Eyebrowse for all frames
 app-emacs/eyuml 20141028.2227: Write textual uml diagram from emacs using yuml.me
 app-emacs/ez-query-replace 20210724.2247: a smarter context-sensitive query-replace that can be reapplied
 app-emacs/eziam-themes 20221121.1609: The mostly monochrome Eziam theme family.
-app-emacs/f 20230116.1032: Modern API for working with files and directories
+app-emacs/f 20230704.1346: Modern API for working with files and directories
 app-emacs/f3 20180130.1158: a helm interface to find
 app-emacs/fabric 20171116.656: Launch Fabric using Emacs
 app-emacs/face-explorer 20190517.1857: Library and tools for faces and text properties
@@ -2095,6 +2095,7 @@ app-emacs/gpastel 20181229.1404: Integrates GPaste with the kill-ring
 app-emacs/gpr-ts-mode 20230626.337: Major mode for GNAT project files using Tree-Sitter
 app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20230502.2319: Run instruction-following language models
+app-emacs/gpt-commit 20230703.1609: GPT Conventional Commit Title
 app-emacs/gptai 20230530.1853: Integrate with the OpenAI API
 app-emacs/gptel 20230623.2344: A simple ChatGPT client
 app-emacs/grab-mac-link 20210511.1303: Grab link from Mac Apps and insert it into Emacs
@@ -2373,6 +2374,7 @@ app-emacs/helpful 20230504.1546: A better *help* buffer
 app-emacs/hemera-theme 20180916.924: Light theme
 app-emacs/hemisu-theme 20130508.1844: Hemisu for Emacs.
 app-emacs/hercules 20200420.747: An auto-magical, which-key-based hydra banisher.
+app-emacs/heroku 20230704.1217: Like Magit but for Heroku CLI
 app-emacs/heroku-theme 20150523.219: Heroku color theme
 app-emacs/hexo 20221130.1642: Major mode & tools for Hexo
 app-emacs/hfst-mode 20160708.1202: major mode for editing HFST files
@@ -2481,7 +2483,7 @@ app-emacs/i3wm 20170822.1438: i3wm integration library
 app-emacs/i3wm-config-mode 20220913.1121: Better syntax highlighting for i3wm's config file
 app-emacs/ialign 20220629.1241: visual align-regexp
 app-emacs/iasm-mode 20171023.1422: interactive assembly major mode.
-app-emacs/ibrowse 20230704.1057: Interact with your browser
+app-emacs/ibrowse 20230704.1838: Interact with your browser
 app-emacs/ibuffer-git 20110508.731: show git status in ibuffer column
 app-emacs/ibuffer-project 20220321.1312: Group ibuffer's list by project or any function
 app-emacs/ibuffer-projectile 20200805.604: Group ibuffer's list by projectile root
@@ -2697,7 +2699,7 @@ app-emacs/jetbrains 20180301.502: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default JetBrains Darcula theme
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file.
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
-app-emacs/jinx 20230702.1302: Enchanted Spell Checker
+app-emacs/jinx 20230704.1604: Enchanted Spell Checker
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jist 20161229.1721: Gist integration
@@ -2827,7 +2829,7 @@ app-emacs/kooten-theme 20161023.905: Dark color theme
 app-emacs/korean-holidays 20190102.1558: Korean holidays for calendar.
 app-emacs/kosmos-theme 20170502.1850: Black and lightgray theme with not so much syntax highlighting.
 app-emacs/kotlin-mode 20230123.1859: Major mode for kotlin
-app-emacs/kotlin-ts-mode 20230531.901: A mode for editing Kotlin files based on tree-sitter
+app-emacs/kotlin-ts-mode 20230704.1512: A mode for editing Kotlin files based on tree-sitter
 app-emacs/kpm-list 20170924.1352: An emacs buffer list that tries to intelligently group together buffers.
 app-emacs/kroman 20150827.2340: Korean hangul romanization
 app-emacs/ksp-cfg-mode 20190414.2348: major mode for editing KSP CFG files
@@ -3103,7 +3105,7 @@ app-emacs/mandoku-tls 20171118.240: A tool to access the TLS database
 app-emacs/map-progress 20190128.16: mapping macros that report progress
 app-emacs/map-regexp 20190128.18: map over matches of a regular expression
 app-emacs/marcopolo 20160421.1004: Emacs client to the Docker HUB/Registry API
-app-emacs/marginalia 20230702.759: Enrich existing commands with completion annotations
+app-emacs/marginalia 20230704.1551: Enrich existing commands with completion annotations
 app-emacs/mark-multiple 20121118.1554: Sorta lets you mark several regions at once.
 app-emacs/mark-thing-at 20201219.232: Mark a pattern at the current point
 app-emacs/mark-tools 20130614.1025: Some simple tools to access the mark-ring in Emacs
@@ -3413,7 +3415,7 @@ app-emacs/no-clown-fiesta-theme 20230220.1019: Not-so-colorful-theme
 app-emacs/no-emoji 20180515.1837: Show :emoji-name: instead of emoji characters
 app-emacs/no-littering 20230620.1017: Help keeping ~/.config/emacs clean
 app-emacs/no-spam 20190724.1854: Add repeat delays to commands
-app-emacs/noaa 20230523.606: Get NOAA weather data
+app-emacs/noaa 20230704.1428: Get NOAA weather data
 app-emacs/noccur 20191015.719: Run multi-occur on project/dired files
 app-emacs/nocomments-mode 20170213.2037: Minor mode that makes comments invisible.
 app-emacs/noctilux-theme 20161113.1442: Dark theme inspired by LightTable
@@ -4707,7 +4709,7 @@ app-emacs/smtpmail-multi 20160218.2349: Use different smtp servers for sending m
 app-emacs/smudge 20210326.2222: Control the Spotify app
 app-emacs/smyx-theme 20141127.828: smyx Color Theme
 app-emacs/snakemake-mode 20230418.147: Major mode for editing Snakemake files
-app-emacs/snap-indent 20230625.1700: Simple automatic indentation
+app-emacs/snap-indent 20230704.1833: Simple automatic indentation
 app-emacs/snapshot-timemachine 20161221.929: Step through (Btrfs, ZFS, ...) snapshots of files
 app-emacs/snapshot-timemachine-rsnapshot 20170324.1213: rsnapshot backend for snapshot-timemachine
 app-emacs/snazzy-theme 20170828.757: An elegant syntax theme with bright colors
@@ -5508,4 +5510,4 @@ app-emacs/zprint-mode 20200731.1238: Reformat Clojure(Script) code using zprint
 app-emacs/ztree 20210415.1947: Text mode directory tree
 app-emacs/zweilight-theme 20170113.605: A dark color theme for Emacs.
 app-emacs/zygospore 20140703.852: reversible C-x 1 (delete-other-windows)
-app-emacs/zzz-to-char 20230606.1641: Fancy version of `zap-to-char' command
+app-emacs/zzz-to-char 20230704.1306: Fancy version of `zap-to-char' command
