@@ -12,7 +12,7 @@ app-emacs/abc-mode 20220713.1359: Major mode for editing abc music files
 app-emacs/abgaben 20171119.646: review and correct assignments received by mail
 app-emacs/abl-mode 20210923.950: Python TDD minor mode
 app-emacs/abridge-diff 20230307.2159: Abridge long line-based diff hunks, including in magit
-app-emacs/abs-mode 20230603.1054: Major mode for the modeling language Abs
+app-emacs/abs-mode 20230705.1437: Major mode for the modeling language Abs
 app-emacs/abyss-theme 20170808.1345: A dark theme with contrasting colours.
 app-emacs/ac-alchemist 20150908.656: auto-complete source for alchemist
 app-emacs/ac-c-headers 20200816.1007: auto-complete source for C headers
@@ -449,7 +449,7 @@ app-emacs/calmer-forest-theme 20230302.2149: Darkish theme with green/orange tin
 app-emacs/camcorder 20190317.2138: Record screencasts in gif or other formats.
 app-emacs/caml 20230129.1145: Caml mode for GNU Emacs
 app-emacs/cangjie 20230219.1150: Retrieve cangjie code for han characters
-app-emacs/cape 20230704.2128: Completion At Point Extensions
+app-emacs/cape 20230705.1626: Completion At Point Extensions
 app-emacs/capnp-mode 20210707.2310: Major mode for editing Capn' Proto Files
 app-emacs/capture 20130828.1644: screencasting with "avconv" or "ffmpeg"
 app-emacs/carbon-now-sh 20220701.332: https://carbon.now.sh integration.
@@ -529,7 +529,7 @@ app-emacs/chronometrist-spark 20230629.1039: Show sparklines in Chronometrist bu
 app-emacs/chronos 20150602.1529: multiple simultaneous countdown / countup timers
 app-emacs/chruby 20180114.1652: Emacs integration for chruby
 app-emacs/chyla-theme 20221213.1012: chyla.org - green color theme.
-app-emacs/cider 20230705.734: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 20230705.1254: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-decompile 20151122.537: decompilation extension for cider
 app-emacs/cider-eval-sexp-fu 20190311.2152: Briefly highlights an evaluated sexp.
 app-emacs/cider-hydra 20190816.1121: Hydras for CIDER.
@@ -1292,7 +1292,7 @@ app-emacs/emacs-bazel-mode 20230510.2235: Bazel support for Emacs
 app-emacs/emacs-crystal-mode 20230223.2257: Major mode for editing Crystal files
 app-emacs/emacs-el-fetch 20230624.2: Show system information in Neofetch-like style (eg CPU, RAM)
 app-emacs/emacs-everywhere 20220831.1636: System-wide popup windows for quick edits
-app-emacs/emacs-websearch 20230624.1317: Query search engines
+app-emacs/emacs-websearch 20230705.1639: Query search engines
 app-emacs/emacsc 20230326.1852: helper for emacsc(1)
 app-emacs/emacsist-view 20160426.1223: Mode for viewing emacsist.com
 app-emacs/emacsql 20230417.1448: High-level SQL database front-end
@@ -2484,7 +2484,7 @@ app-emacs/i3wm 20170822.1438: i3wm integration library
 app-emacs/i3wm-config-mode 20220913.1121: Better syntax highlighting for i3wm's config file
 app-emacs/ialign 20220629.1241: visual align-regexp
 app-emacs/iasm-mode 20171023.1422: interactive assembly major mode.
-app-emacs/ibrowse 20230705.907: Interact with your browser
+app-emacs/ibrowse 20230705.1526: Interact with your browser
 app-emacs/ibuffer-git 20110508.731: show git status in ibuffer column
 app-emacs/ibuffer-project 20220321.1312: Group ibuffer's list by project or any function
 app-emacs/ibuffer-projectile 20200805.604: Group ibuffer's list by projectile root
@@ -2738,7 +2738,7 @@ app-emacs/json-reformat 20220905.2342: Reformatting tool for JSON
 app-emacs/json-rpc 20200417.1629: JSON-RPC library
 app-emacs/json-rpc-server 20220205.1504: Server-side JSON-RPC library.
 app-emacs/json-snatcher 20200916.1717: Grabs the path to JSON values in a JSON file
-app-emacs/jsonian 20230414.1851: A major mode for editing JSON files
+app-emacs/jsonian 20230705.1045: A major mode for editing JSON files
 app-emacs/jsonl 20190623.509: Utility functions for working with line-delimited JSON
 app-emacs/jsonnet-mode 20220121.2109: Major mode for editing jsonnet files
 app-emacs/jss 20130508.1423: An emacs interface to webkit and mozilla debuggers
@@ -3096,7 +3096,7 @@ app-emacs/malinka 20171202.1021: A C/C++ project configuration package for Emacs
 app-emacs/mallard-mode 20131204.425: Major mode for editing Mallard files
 app-emacs/mallard-snippets 20131023.1851: Yasnippets for Mallard
 app-emacs/malyon 20161208.2125: mode to execute Z-code files version 3, 5, 8
-app-emacs/mame 20230617.1456: A MAME front-end
+app-emacs/mame 20230705.1446: A MAME front-end
 app-emacs/man-commands 20151221.2221: Add interactive commands for every manpages installed in your computer.
 app-emacs/manage-minor-mode 20210108.1832: Manage your minor-modes easily
 app-emacs/manage-minor-mode-table 20220616.1932: Manage minor-modes in table
@@ -3185,7 +3185,7 @@ app-emacs/mhc 20201227.406: Message Harmonized Calendaring system.
 app-emacs/mic 20230123.944: Minimal and combinable configuration manager
 app-emacs/mic-paren 20170731.1907: advanced highlighting of matching parentheses
 app-emacs/micgoline 20160415.326: powerline mode, color schemes from microsoft and google's logo.
-app-emacs/micromamba 20230620.845: A library for working with micromamba environments
+app-emacs/micromamba 20230705.1543: A library for working with micromamba environments
 app-emacs/migemo 20200913.12: Japanese incremental search through dynamic pattern expansion
 app-emacs/milkode 20140927.529: Command line search and direct jump with Milkode
 app-emacs/mimetypes 20201115.1605: Guess a file's mimetype by extension
@@ -3407,11 +3407,11 @@ app-emacs/nixos-options 20160209.1841: Interface for browsing and completing Nix
 app-emacs/nixpkgs-fmt 20200327.2302: Reformat Nix using nixpkgs-fmt
 app-emacs/nlinum-hl 20211112.1241: heal nlinum's line numbers
 app-emacs/nlinum-relative 20160526.708: Relative line number with nlinum
-app-emacs/nndiscourse 20220210.1529: Gnus backend for Discourse
-app-emacs/nnhackernews 20230222.1441: Gnus backend for Hacker News
+app-emacs/nndiscourse 20230705.1229: Gnus backend for Discourse
+app-emacs/nnhackernews 20230705.1359: Gnus backend for Hacker News
 app-emacs/nnir-est 20180710.2103: Gnus nnir interface for HyperEstraier
-app-emacs/nnreddit 20230615.2355: Gnus Backend For Reddit
-app-emacs/nntwitter 20230323.1458: Gnus Backend For Twitter
+app-emacs/nnreddit 20230705.1328: Gnus Backend For Reddit
+app-emacs/nntwitter 20230705.1110: Gnus Backend For Twitter
 app-emacs/no-clown-fiesta-theme 20230220.1019: Not-so-colorful-theme
 app-emacs/no-emoji 20180515.1837: Show :emoji-name: instead of emoji characters
 app-emacs/no-littering 20230620.1017: Help keeping ~/.config/emacs clean
@@ -3772,7 +3772,7 @@ app-emacs/org-treescope 20200503.1609: Time scoping sparse trees within org
 app-emacs/org-treeusage 20221011.1301: Examine the usage of org headings in a tree-like manner
 app-emacs/org-trello 20210314.1901: Minor mode to synchronize org-mode buffer and trello board
 app-emacs/org-unique-id 20220907.821: Create unique IDs for org headers
-app-emacs/org-upcoming-modeline 20230704.850: Show next org event in mode line
+app-emacs/org-upcoming-modeline 20230705.1152: Show next org event in mode line
 app-emacs/org-variable-pitch 20220220.1757: Minor mode for variable pitch text in org mode.
 app-emacs/org-vcard 20221111.328: org-mode support for vCard export and import.
 app-emacs/org-view-mode 20221208.327: Read-only viewer with less markup clutter in org mode files
