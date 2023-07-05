@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/dash app-emacs/anaphora app-emacs/request
-DESCRIPTION=Gnus Backend For Twitter
+DEPEND=app-emacs/request app-emacs/dash app-emacs/anaphora
+DESCRIPTION=Gnus backend for Hacker News
 EAPI=8
-HOMEPAGE=https://github.com/dickmao/nntwitter
+HOMEPAGE=https://github.com/dickmao/nnhackernews
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/dash app-emacs/anaphora app-emacs/request >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/request app-emacs/dash app-emacs/anaphora >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/nntwitter-20230323.1458.tar
+SRC_URI=https://melpa.org/packages/nnhackernews-20230705.1359.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dde4f515dde15603a26a3755438e9c78	elisp	d5d9361b9698f474179a2ac3f8bf46e8	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=c0bfcd8b6fd6a5d53240795589f49e4a
+_md5_=2f9ba3fe06087770fc833127261fe20a
