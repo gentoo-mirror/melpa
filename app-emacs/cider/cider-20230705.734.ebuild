@@ -23,10 +23,14 @@ DEPEND="app-emacs/clojure-mode
 	app-emacs/queue
 	app-emacs/spinner
 	app-emacs/seq
-	app-emacs/sesman"
+	app-emacs/sesman
+	app-emacs/logview
+	app-emacs/transient"
 RDEPEND="app-emacs/clojure-mode
 	app-emacs/parseedn
 	app-emacs/queue
 	app-emacs/spinner
 	app-emacs/seq
-	app-emacs/sesman"
+	app-emacs/sesman
+	app-emacs/logview
+	app-emacs/transient"
