@@ -24,7 +24,6 @@ DEPEND="app-emacs/clojure-mode
 	app-emacs/spinner
 	app-emacs/seq
 	app-emacs/sesman
-	app-emacs/logview
 	app-emacs/transient"
 RDEPEND="app-emacs/clojure-mode
 	app-emacs/parseedn
@@ -32,5 +31,4 @@ RDEPEND="app-emacs/clojure-mode
 	app-emacs/spinner
 	app-emacs/seq
 	app-emacs/sesman
-	app-emacs/logview
 	app-emacs/transient"

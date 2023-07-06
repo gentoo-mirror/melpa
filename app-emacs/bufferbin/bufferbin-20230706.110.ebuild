@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Quick mouse access to buffers"
 
-HOMEPAGE="https://github.com/blueridge-data"
+HOMEPAGE="https://github.com/blueridge-data/bufferbin"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
