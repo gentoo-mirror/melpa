@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/map app-emacs/compat app-emacs/plz app-emacs/persist
-DESCRIPTION=P2P filesystem in Emacs
+DESCRIPTION=DWIM keybindings for C, Python, Rust, and more
 EAPI=8
-HOMEPAGE=https://git.sr.ht/~ushin/hyperdrive.el
+HOMEPAGE=https://sadiqpk.org/projects/dwim-coder-mode.html
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/map app-emacs/compat app-emacs/plz app-emacs/persist >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/hyperdrive-20230704.225.tar
+SRC_URI=https://melpa.org/packages/dwim-coder-mode-20230705.651.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dde4f515dde15603a26a3755438e9c78	elisp	d5d9361b9698f474179a2ac3f8bf46e8	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=b1978562e130b5696050a66ad24ca162
+_md5_=0fa6d0a5e39d6e413f929a14ad08651a
