@@ -402,7 +402,7 @@ app-emacs/buffer-sets 20230319.1822: Sets of Buffers for Buffer Management
 app-emacs/buffer-utils 20140512.1400: Buffer-manipulation utility functions
 app-emacs/buffer-watcher 20170913.839: Easily run shell scripts per filetype/directory when a buffer is saved
 app-emacs/buffer-wrap 20220704.646: Wrap the beginning and the end of buffer
-app-emacs/bufferbin 20230702.1903: Quick mouse access to buffers
+app-emacs/bufferbin 20230706.110: Quick mouse access to buffers
 app-emacs/bufler 20221031.1852: Group buffers into workspaces with programmable rules
 app-emacs/bufshow 20130726.1838: A simple presentation tool for Emacs.
 app-emacs/bug-reference-github 20200206.2158: Set `bug-reference-url-format' in Github repos
@@ -529,7 +529,7 @@ app-emacs/chronometrist-spark 20230629.1039: Show sparklines in Chronometrist bu
 app-emacs/chronos 20150602.1529: multiple simultaneous countdown / countup timers
 app-emacs/chruby 20180114.1652: Emacs integration for chruby
 app-emacs/chyla-theme 20221213.1012: chyla.org - green color theme.
-app-emacs/cider 20230705.1254: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 20230706.1009: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-decompile 20151122.537: decompilation extension for cider
 app-emacs/cider-eval-sexp-fu 20190311.2152: Briefly highlights an evaluated sexp.
 app-emacs/cider-hydra 20190816.1121: Hydras for CIDER.
@@ -569,7 +569,7 @@ app-emacs/clippy 20230118.1924: Show tooltip with function documentation at poin
 app-emacs/clips-mode 20170909.823: Major mode for editing CLIPS code and REPL
 app-emacs/clj-decompiler 20220103.1746: Clojure Java decompiler expansion
 app-emacs/clj-deps-new 20230413.1833: Create clojure projects from templates
-app-emacs/clj-refactor 20230704.1541: A collection of commands for refactoring Clojure code
+app-emacs/clj-refactor 20230706.1315: A collection of commands for refactoring Clojure code
 app-emacs/cljr-helm 20220721.824: Wraps clojure refactor commands with helm
 app-emacs/cljr-ivy 20200602.1607: Access clojure refactor with ivy completion
 app-emacs/cljsbuild-mode 20160402.1700: A minor mode for the ClojureScript 'lein cljsbuild' command
@@ -763,7 +763,7 @@ app-emacs/copy-file-on-save 20230402.1829: Copy file on save, automatic deployme
 app-emacs/copyit 20190919.1258: Copy it, yank anything!
 app-emacs/copyit-pandoc 20190919.1258: Copy it, yank anything!
 app-emacs/coq-commenter 20170822.2309: Coq commenting minor mode for proof
-app-emacs/corfu-candidate-overlay 20230704.1404: Show first candidate in an overlay while typing
+app-emacs/corfu-candidate-overlay 20230706.635: Show first candidate in an overlay while typing
 app-emacs/corfu-prescient 20221216.112: prescient.el + Corfu
 app-emacs/corral 20160502.948: Quickly surround text with delimiters
 app-emacs/cort 20211020.18: Simplify extended unit test framework
@@ -1095,13 +1095,13 @@ app-emacs/dsvn 20221102.1416: Subversion interface
 app-emacs/dtb-mode 20210105.1132: Show device tree souce in dtbs
 app-emacs/dtk 20230516.1745: access SWORD content via diatheke
 app-emacs/dtrace-script-mode 20150214.623: DTrace code editing commands for Emacs
-app-emacs/dtrt-indent 20230629.1342: Adapt to foreign indentation offsets
+app-emacs/dtrt-indent 20230706.1119: Adapt to foreign indentation offsets
 app-emacs/dts-mode 20211202.18: Major mode for Devicetree source code
 app-emacs/ducpel 20140702.1154: Logic game with sokoban elements
 app-emacs/dumb-diff 20171211.2122: fast arbitrary diffs
 app-emacs/dumb-jump 20230517.2053: Jump to definition for 50+ languages without configuration
 app-emacs/dummyparens 20141009.1024: parenthesis auto-pairing and wrapping
-app-emacs/dune 20230628.1216: Integration with the dune build system
+app-emacs/dune 20230402.1815: Integration with the dune build system
 app-emacs/dune-format 20210505.108: Reformat OCaml's dune files automatically
 app-emacs/duplicate-thing 20181031.1500: Duplicate current line & selection
 app-emacs/dut-mode 20170729.2111: Major mode for the Dut programming language
@@ -1291,7 +1291,7 @@ app-emacs/emacs-ansilove 20230210.1338: Display buffers as PNG images using ansi
 app-emacs/emacs-bazel-mode 20230510.2235: Bazel support for Emacs
 app-emacs/emacs-crystal-mode 20230223.2257: Major mode for editing Crystal files
 app-emacs/emacs-el-fetch 20230624.2: Show system information in Neofetch-like style (eg CPU, RAM)
-app-emacs/emacs-everywhere 20220831.1636: System-wide popup windows for quick edits
+app-emacs/emacs-everywhere 20230706.1152: System-wide popup windows for quick edits
 app-emacs/emacs-websearch 20230705.1639: Query search engines
 app-emacs/emacsc 20230326.1852: helper for emacsc(1)
 app-emacs/emacsist-view 20160426.1223: Mode for viewing emacsist.com
@@ -2188,7 +2188,7 @@ app-emacs/hcl-mode 20230302.1029: Major mode for Hashicorp
 app-emacs/headlong 20150417.1526: reckless completion
 app-emacs/heaven-and-hell 20190713.1830: easy toggle light/dark themes
 app-emacs/heex-ts-mode 20230316.553: Major mode for Heex with tree-sitter support
-app-emacs/helm 20230704.1018: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20230705.559: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: helm-sources and some utilities for GNU R.
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: helm source for Active Directory
@@ -2484,7 +2484,7 @@ app-emacs/i3wm 20170822.1438: i3wm integration library
 app-emacs/i3wm-config-mode 20220913.1121: Better syntax highlighting for i3wm's config file
 app-emacs/ialign 20220629.1241: visual align-regexp
 app-emacs/iasm-mode 20171023.1422: interactive assembly major mode.
-app-emacs/ibrowse 20230705.1526: Interact with your browser
+app-emacs/ibrowse 20230706.10: Interact with your browser
 app-emacs/ibuffer-git 20110508.731: show git status in ibuffer column
 app-emacs/ibuffer-project 20220321.1312: Group ibuffer's list by project or any function
 app-emacs/ibuffer-projectile 20200805.604: Group ibuffer's list by projectile root
@@ -2757,7 +2757,7 @@ app-emacs/jump-char 20180601.1348: navigation by char
 app-emacs/jump-to-line 20130122.1653: Jump to line number at point.
 app-emacs/jump-tree 20171014.1551: Treat position history as a tree
 app-emacs/jumplist 20151120.345: Jump like vim jumplist or ex jumplist
-app-emacs/jupyter 20230627.2030: Jupyter
+app-emacs/jupyter 20230706.139: Jupyter
 app-emacs/just-mode 20230303.2255: Justfile editing mode
 app-emacs/justl 20230612.1546: Major mode for driving just files
 app-emacs/jvm-mode 20150422.708: Monitor and manage your JVMs
@@ -3016,7 +3016,7 @@ app-emacs/lsp-julia 20230414.2107: Julia support for lsp-mode
 app-emacs/lsp-latex 20230421.1814: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20230416.1826: LSP Clients for LTEX
 app-emacs/lsp-metals 20230406.755: Scala Client settings
-app-emacs/lsp-mode 20230628.1609: LSP mode
+app-emacs/lsp-mode 20230706.655: LSP mode
 app-emacs/lsp-mssql 20230510.1124: MSSQL LSP bindings
 app-emacs/lsp-origami 20211016.1045: origami.el support for lsp-mode
 app-emacs/lsp-p4 20190127.1049: P4 support for lsp-mode
@@ -3463,7 +3463,7 @@ app-emacs/nvm 20210826.1000: Manage Node versions within Emacs
 app-emacs/nxml-uxml 20220606.1213: MicroXML support for nXML
 app-emacs/nyan-mode 20220408.2334: Nyan Cat shows position in current buffer in mode-line
 app-emacs/nyx-theme 20170910.1307: Dark theme
-app-emacs/oauth 20230522.1900: OAuth 1.0 client library
+app-emacs/oauth 20230705.2118: OAuth 1.0 client library
 app-emacs/oauth2-request 20210215.657: OAuth2 request package interface
 app-emacs/ob-ada-spark 20221114.2007: Babel functions for Ada & SPARK
 app-emacs/ob-applescript 20190709.1607: Org-babel functions for AppleScript
@@ -3772,7 +3772,7 @@ app-emacs/org-treescope 20200503.1609: Time scoping sparse trees within org
 app-emacs/org-treeusage 20221011.1301: Examine the usage of org headings in a tree-like manner
 app-emacs/org-trello 20210314.1901: Minor mode to synchronize org-mode buffer and trello board
 app-emacs/org-unique-id 20220907.821: Create unique IDs for org headers
-app-emacs/org-upcoming-modeline 20230705.1152: Show next org event in mode line
+app-emacs/org-upcoming-modeline 20230705.2110: Show next org event in mode line
 app-emacs/org-variable-pitch 20220220.1757: Minor mode for variable pitch text in org mode.
 app-emacs/org-vcard 20221111.328: org-mode support for vCard export and import.
 app-emacs/org-view-mode 20221208.327: Read-only viewer with less markup clutter in org mode files
@@ -3987,7 +3987,7 @@ app-emacs/perspective 20220921.346: switch between named "perspectives" of the e
 app-emacs/perspective-exwm 20230218.1358: Better integration for perspective.el and EXWM
 app-emacs/perspeen 20171203.1021: An package for multi-workspace
 app-emacs/pest-mode 20221231.15: Major mode for editing Pest files
-app-emacs/pet 20230621.814: Executable and virtualenv tracker for python-mode
+app-emacs/pet 20230705.2132: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 20220913.1401: a simple wrapper around asynchronous processes
 app-emacs/pg 20230423.839: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
 app-emacs/pgdevenv 20150105.2236: Manage your PostgreSQL development envs
@@ -4932,7 +4932,7 @@ app-emacs/tco 20191129.2040: Tail-call optimisation for Emacs lisp
 app-emacs/tea-time 20120331.820: Simple timer package, useful to make perfect tea.
 app-emacs/teacode-expand 20181231.640: Expansion of text by TeaCode program.
 app-emacs/teco 20200707.2309: Teco interpreter
-app-emacs/telega 20230620.627: Telegram client (unofficial)
+app-emacs/telega 20230706.1154: Telegram client (unofficial)
 app-emacs/telepathy 20131209.1258: Access Telepathy from Emacs
 app-emacs/telephone-line 20230322.442: Rewrite of Powerline
 app-emacs/teletext 20211203.1111: Teletext broadcast viewer
@@ -5258,7 +5258,7 @@ app-emacs/vtm 20200921.338: Manages vterm buffers with configuration files
 app-emacs/vue-html-mode 20180428.2035: Major mode for editing Vue.js templates
 app-emacs/vue-mode 20190415.231: Major mode for vue component based on mmm-mode
 app-emacs/vuiet 20220218.1024: The music player and explorer for Emacs
-app-emacs/vulpea 20221128.633: A collection of org-roam note-taking functions
+app-emacs/vulpea 20230706.1130: A collection of org-roam note-taking functions
 app-emacs/vunit-mode 20220316.1812: VUnit Runner Interface
 app-emacs/vyper-mode 20180707.1935: Major mode for the Vyper programming language
 app-emacs/w32-browser 20170101.1954: Run Windows application associated with a file.
