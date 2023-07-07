@@ -5,20 +5,20 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="indent-lint"
+REALNAME="gpt-commit"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Async indentation checker"
+DESCRIPTION="Commit messages with GPT in Emacs"
 
-HOMEPAGE="https://github.com/conao3/indent-lint.el"
+HOMEPAGE="https://github.com/ywkim/gpt-commit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/async-await
-	app-emacs/async"
-RDEPEND="app-emacs/async-await
-	app-emacs/async"
+DEPEND="app-emacs/magit
+	app-emacs/request"
+RDEPEND="app-emacs/magit
+	app-emacs/request"
