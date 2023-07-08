@@ -474,7 +474,7 @@ app-emacs/ccc 20210501.820: buffer local cursor color control library
 app-emacs/ccls 20230111.1754: ccls client for lsp-mode
 app-emacs/cd-compile 20141108.1957: run compile in a specific directory
 app-emacs/cdb 20230318.2152: constant database (cdb) reader for Emacs Lisp
-app-emacs/cdlatex 20230411.748: Fast input methods for LaTeX environments and math
+app-emacs/cdlatex 20230708.754: Fast input methods for LaTeX environments and math
 app-emacs/cdnjs 20161031.1522: A front end for http://cdnjs.com
 app-emacs/cedit 20200816.526: paredit-like commands for c-like languages
 app-emacs/celery 20170225.924: a minor mode to draw stats from celery and more?
@@ -542,7 +542,7 @@ app-emacs/circe 20221126.1508: Client for IRC in Emacs
 app-emacs/circe-notifications 20180102.2318: Add desktop notifications to Circe.
 app-emacs/circleci-api 20210227.1607: Bindings for the CircleCI API
 app-emacs/citar 20230325.136: Citation-related commands for org, latex, markdown
-app-emacs/citar-denote 20230625.2105: Minor mode to integrate Citar and Denote
+app-emacs/citar-denote 20230708.403: Minor mode to integrate Citar and Denote
 app-emacs/citar-embark 20230323.1926: Citar/Embark integration
 app-emacs/citar-org-roam 20230404.1225: Citar/org-roam integration
 app-emacs/citeproc-el 20230228.1414: A CSL 1.0.2 Citation Processor
@@ -1432,7 +1432,7 @@ app-emacs/esxml 20230308.2254: Library for working with xml via esxml and sxml
 app-emacs/eta 20210115.1655: standard and multi dispatch key bind
 app-emacs/etable 20161028.2009: Implementation of javax.swing.JTable for Emacs.
 app-emacs/etc-sudoers-mode 20201102.1707: Edit Sudo security policies
-app-emacs/etd 20230703.548: Examples to Tests and Docs
+app-emacs/etd 20230708.613: Examples to Tests and Docs
 app-emacs/eterm-256color 20210224.2241: Customizable 256 colors for term.
 app-emacs/eterm-fn 20191010.2331: Function keys (F1--F12) for term.
 app-emacs/ethan-wspace 20201106.2059: whitespace customizations for emacs
@@ -2580,7 +2580,7 @@ app-emacs/initsplit 20160919.1818: code to split customizations into different f
 app-emacs/ink-mode 20201105.2242: Major mode for writing interactive fiction in Ink
 app-emacs/inkpot-theme 20230618.715: A port of vim's inkpot theme
 app-emacs/inline-crypt 20170824.900: Simple inline encryption via openssl
-app-emacs/inline-docs 20230406.1002: Show inline contextual docs.
+app-emacs/inline-docs 20230708.222: Show inline contextual docs.
 app-emacs/inlineR 20191017.1920: insert Tag for inline image of R graphics
 app-emacs/insecure-lock 20230426.53: Extensible screen lock framework
 app-emacs/insert-char-preview 20201023.2108: Insert Unicode char
@@ -2807,7 +2807,7 @@ app-emacs/keyword-search 20180424.1102: browser keyword search from Emacs
 app-emacs/kfg 20140909.538: an emacs configuration system
 app-emacs/khalel 20230606.1909: Import, edit and create calendar events through khal
 app-emacs/khardel 20220223.934: Integrate with khard
-app-emacs/khoj 20230703.1926: AI personal assistant for your digital brain
+app-emacs/khoj 20230707.1934: AI personal assistant for your digital brain
 app-emacs/kibit-helper 20150508.1533: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-file-path 20230306.1041: Copy file name into kill ring
 app-emacs/kill-or-bury-alive 20230606.1503: Precise control over buffer killing
@@ -3472,7 +3472,7 @@ app-emacs/ob-bitfield 20220401.600: Babel Functions for bitfield
 app-emacs/ob-blockdiag 20210412.1541: org-babel functions for blockdiag evaluation
 app-emacs/ob-browser 20170720.1918: Render HTML in org-mode blocks.
 app-emacs/ob-cfengine3 20230226.1954: Org Babel functions for CFEngine 3
-app-emacs/ob-chatgpt-shell 20230702.1359: Org babel functions for ChatGPT evaluation
+app-emacs/ob-chatgpt-shell 20230707.2101: Org babel functions for ChatGPT evaluation
 app-emacs/ob-clojurescript 20180406.1828: org-babel functions for ClojureScript evaluation
 app-emacs/ob-coffee 20170725.1424: org-babel functions for coffee-script evaluation
 app-emacs/ob-coffeescript 20180126.719: org-babel functions for coffee-script evaluation, and fully implementation!
@@ -3614,7 +3614,7 @@ app-emacs/org-books 20210408.1913: Reading list management with Org mode and hel
 app-emacs/org-brain 20230217.1908: Org-mode concept mapping
 app-emacs/org-bulletproof 20230615.640: Automatic plain list bullet cycling
 app-emacs/org-bullets 20200317.1740: Show bullets in org-mode as UTF-8 characters
-app-emacs/org-caldav 20230625.35: Sync org files with external calendar through CalDAV
+app-emacs/org-caldav 20230708.134: Sync org files with external calendar through CalDAV
 app-emacs/org-calibre-notes 20221202.1657: Extract highlights and notes from Calibre EPUB reader
 app-emacs/org-capture-pop-frame 20230516.236: Run org-capture in a new pop frame
 app-emacs/org-category-capture 20220114.730: Contextualy capture of org-mode TODOs.
@@ -4648,7 +4648,7 @@ app-emacs/sl 20161217.1404: An Emacs clone of sl(1)
 app-emacs/slack 20211129.310: Slack client for Emacs
 app-emacs/slideview 20150324.2240: File slideshow
 app-emacs/slim-mode 20170728.1348: Major mode for editing Slim files
-app-emacs/slime 20230625.1056: Superior Lisp Interaction Mode for Emacs
+app-emacs/slime 20230707.1938: Superior Lisp Interaction Mode for Emacs
 app-emacs/slime-company 20210124.1627: slime completion backend for company mode
 app-emacs/slime-docker 20210426.1422: Integration of SLIME with Docker containers
 app-emacs/slime-repl-ansi-color 20230214.1453: Turn on ANSI colors in REPL output;
@@ -4867,7 +4867,7 @@ app-emacs/sway-lang-mode 20230320.507: Major mode for sway
 app-emacs/sweet-theme 20200708.1202: Sweet-looking theme
 app-emacs/sweetgreen 20180605.335: Order Salads from sweetgreen.com
 app-emacs/swift-helpful 20220707.846: Show documentation for Swift programs.
-app-emacs/swift-mode 20230603.809: Major-mode for Apple's Swift programming language
+app-emacs/swift-mode 20230708.312: Major-mode for Apple's Swift programming language
 app-emacs/swift3-mode 20160918.1250: Major-mode for Apple's Swift programming language.
 app-emacs/swiper 20230410.1815: Isearch with an overview. Oh, man!
 app-emacs/swiper-helm 20180131.1744: Helm version of Swiper.
@@ -4937,7 +4937,7 @@ app-emacs/telephone-line 20230322.442: Rewrite of Powerline
 app-emacs/teletext 20211203.1111: Teletext broadcast viewer
 app-emacs/teletext-yle 20210927.825: Teletext provider for Finnish national network YLE
 app-emacs/tempel 20230702.801: Tempo templates/snippets with in-buffer field editing
-app-emacs/tempel-collection 20230629.1027: Collection of templates for Tempel
+app-emacs/tempel-collection 20230707.1937: Collection of templates for Tempel
 app-emacs/template-overlays 20180706.1132: Display template regions using overlays
 app-emacs/templatel 20210902.228: Templating language;
 app-emacs/temporary-persistent 20230115.1425: Keep temp notes buffers persistent
