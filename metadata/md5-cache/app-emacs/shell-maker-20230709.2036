@@ -1,12 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Customizable highlighting for source-code
+DESCRIPTION=Interaction mode for making comint shells
 EAPI=8
-HOMEPAGE=https://codeberg.org/ideasman42/emacs-hl-prog-extra
+HOMEPAGE=https://github.com/xenodium/chatgpt-shell
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/hl-prog-extra-20230201.140.tar
+SRC_URI=https://melpa.org/packages/shell-maker-20230709.2036.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dde4f515dde15603a26a3755438e9c78	elisp	d5d9361b9698f474179a2ac3f8bf46e8	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=e5adac6741245a9be445120091f8623f
+_md5_=9735f50760e04aecba26bd09630d1826
