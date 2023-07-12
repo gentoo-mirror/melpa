@@ -85,7 +85,7 @@ app-emacs/ahungry-theme 20180131.328: Ahungry color theme for Emacs. Make sure t
 app-emacs/airline-themes 20211214.1749: vim-airline themes for emacs powerline
 app-emacs/airplay 20130212.1226: Airplay bindings to Emacs
 app-emacs/alan-mode 20230216.857: Major mode for editing Alan files
-app-emacs/alarm-clock 20230326.718: Alarm Clock
+app-emacs/alarm-clock 20230711.2139: Alarm Clock
 app-emacs/alchemist 20180312.1304: Elixir tooling integration into Emacs
 app-emacs/alda-mode 20230406.1927: An Alda major mode
 app-emacs/alect-themes 20211022.1651: Configurable light, dark and black themes for Emacs 24 or later
@@ -522,7 +522,7 @@ app-emacs/chocolate-theme 20210128.1647: A dark chocolaty theme
 app-emacs/choice-program 20220801.1839: Parameter based program
 app-emacs/chroma 20230503.1210: Color manipulation library
 app-emacs/chronometer 20190304.1528: a [not so] simple chronometer
-app-emacs/chronometrist 20230629.1039: Friendly and powerful personal time tracker and analyzer
+app-emacs/chronometrist 20230712.1532: Friendly and powerful personal time tracker and analyzer
 app-emacs/chronometrist-goal 20210510.1831: Adds support for time goals to Chronometrist
 app-emacs/chronometrist-key-values 20230629.1039: add key-values to Chronometrist data
 app-emacs/chronometrist-spark 20230629.1039: Show sparklines in Chronometrist buffers
@@ -1446,7 +1446,7 @@ app-emacs/evalator 20160213.128: Package for interactive transformation of data 
 app-emacs/evalator-clojure 20160208.2148: Clojure evaluation context for evalator via CIDER.
 app-emacs/eve-mode 20170822.2231: Major mode for editing Eve documents.
 app-emacs/everlasting-scratch 20230105.507: The *scratch* that lasts forever
-app-emacs/evil 20230709.1930: Extensible Vi layer for Emacs.
+app-emacs/evil 20230712.1502: Extensible Vi layer for Emacs.
 app-emacs/evil-anzu 20220911.1939: anzu for evil-mode
 app-emacs/evil-args 20220125.1626: Motions and text objects for delimited arguments in Evil.
 app-emacs/evil-avy 20150908.748: set-based completion
@@ -2189,7 +2189,7 @@ app-emacs/hcl-mode 20230302.1029: Major mode for Hashicorp
 app-emacs/headlong 20150417.1526: reckless completion
 app-emacs/heaven-and-hell 20190713.1830: easy toggle light/dark themes
 app-emacs/heex-ts-mode 20230316.553: Major mode for Heex with tree-sitter support
-app-emacs/helm 20230710.411: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20230712.1159: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: helm-sources and some utilities for GNU R.
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: helm source for Active Directory
@@ -2745,11 +2745,11 @@ app-emacs/jss 20130508.1423: An emacs interface to webkit and mozilla debuggers
 app-emacs/jst 20150604.1138: JS test mode
 app-emacs/jtags 20160211.2029: enhanced tags functionality for Java development
 app-emacs/julia-formatter 20230525.1742: Use JuliaFormatter.jl for julia code
-app-emacs/julia-mode 20230620.1132: Major mode for editing Julia source code
+app-emacs/julia-mode 20230712.1524: Major mode for editing Julia source code
 app-emacs/julia-repl 20230529.943: A minor mode for a Julia REPL
 app-emacs/julia-shell 20161125.1910: Major mode for an inferior Julia shell
 app-emacs/julia-snail 20230621.1809: Julia Snail
-app-emacs/julia-ts-mode 20230701.1938: Major mode for Julia source code using tree-sitter
+app-emacs/julia-ts-mode 20230711.2009: Major mode for Julia source code using tree-sitter
 app-emacs/julia-vterm 20220912.246: A mode for Julia REPL using vterm
 app-emacs/jumblr 20170727.2043: an anagram game for emacs
 app-emacs/jump 20210110.2237: build functions which contextually jump between files
@@ -2925,7 +2925,7 @@ app-emacs/license-templates 20230311.11: Create LICENSE using GitHub API
 app-emacs/ligature 20220808.1225: Display typographical ligatures in major modes
 app-emacs/ligature-pragmatapro 20221127.2252: PragmataPro support for ligature.el
 app-emacs/light-soap-theme 20150607.1445: Emacs 24 theme with a light background.
-app-emacs/ligo-mode 20230706.1035: A major mode for editing LIGO source code
+app-emacs/ligo-mode 20230712.1425: A major mode for editing LIGO source code
 app-emacs/line-reminder 20230420.142: Line annotation for changed and saved lines
 app-emacs/line-up-words 20180219.1024: Align words in an intelligent way
 app-emacs/lines-at-once 20180422.247: Insert and edit multiple lines at once
@@ -3016,7 +3016,7 @@ app-emacs/lsp-julia 20230414.2107: Julia support for lsp-mode
 app-emacs/lsp-latex 20230421.1814: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20230416.1826: LSP Clients for LTEX
 app-emacs/lsp-metals 20230406.755: Scala Client settings
-app-emacs/lsp-mode 20230709.1205: LSP mode
+app-emacs/lsp-mode 20230712.551: LSP mode
 app-emacs/lsp-mssql 20230510.1124: MSSQL LSP bindings
 app-emacs/lsp-origami 20211016.1045: origami.el support for lsp-mode
 app-emacs/lsp-p4 20190127.1049: P4 support for lsp-mode
@@ -3131,7 +3131,7 @@ app-emacs/math-preview 20230425.1820: Preview TeX math equations inline
 app-emacs/math-symbol-lists 20220828.2047: Lists of Unicode math symbols and latex commands
 app-emacs/math-symbols 20201005.2313: Math Symbol Input methods and conversion tools
 app-emacs/math-tex-convert 20221210.1937: Convert LaTeX macros to unicode and back
-app-emacs/matlab-mode 20230426.2216: Major mode for MATLAB(R) dot-m files
+app-emacs/matlab-mode 20230712.1655: Major mode for MATLAB(R) dot-m files
 app-emacs/maude-mode 20230504.937: Emacs mode for the programming language Maude
 app-emacs/maven-test-mode 20141220.557: Utilities for navigating test files and running maven test tasks.
 app-emacs/maxframe 20170120.1705: maximize the emacs frame based on display size
@@ -3157,7 +3157,7 @@ app-emacs/memento-mori 20190628.2147: Reminder of mortality
 app-emacs/memoize 20200103.2036: Memoization functions
 app-emacs/memolist 20150804.1721: memolist.el is Emacs port of memolist.vim.
 app-emacs/mentor 20230103.1146: Frontend for the rTorrent bittorrent client
-app-emacs/meow 20230711.836: Yet Another modal editing
+app-emacs/meow 20230712.1632: Yet Another modal editing
 app-emacs/merlin 20230630.1208: Mode for Merlin, an assistant for OCaml
 app-emacs/merlin-ac 20221123.1408: Merlin and auto-complete integration
 app-emacs/merlin-company 20221123.1408: Merlin and company mode integration
@@ -3304,7 +3304,7 @@ app-emacs/muban 20180415.1219: Lightweight template expansion tool
 app-emacs/mugur 20210719.722: Configurator for QMK compatible keyboards
 app-emacs/multi 20131013.1544: Clojure-style multi-methods for emacs lisp
 app-emacs/multi-compile 20211113.2119: Multi target interface to compile.
-app-emacs/multi-line 20230704.814: multi-line statements
+app-emacs/multi-line 20230712.720: multi-line statements
 app-emacs/multi-project 20230704.2024: Find files, compile, and search for multiple projects.
 app-emacs/multi-run 20210108.336: Efficiently manage multiple remote nodes
 app-emacs/multi-term 20200514.428: Managing multiple terminal buffers in Emacs.
@@ -3578,7 +3578,7 @@ app-emacs/on-screen 20160302.950: guide your eyes while scrolling
 app-emacs/one-themes 20200720.1444: One Colorscheme
 app-emacs/one-time-pad-encrypt 20160329.1513: One time pad encryption within file
 app-emacs/opam 20150719.1220: OPAM tools
-app-emacs/opam-switch-mode 20230711.1938: Select OCaml opam switches via a menu
+app-emacs/opam-switch-mode 20230712.1209: Select OCaml opam switches via a menu
 app-emacs/open-in-msvs 20170123.2228: Open current file:line:column in Microsoft Visual Studio
 app-emacs/open-junk-file 20161210.1114: Open a junk (memo) file to try-and-error
 app-emacs/opencc 20170722.816: 中文简繁转换 <-> 中文簡繁轉換 (Convert Chinese with OpenCC)
@@ -3864,7 +3864,7 @@ app-emacs/ox-nikola 20151114.1116: Export Nikola articles using org-mode.
 app-emacs/ox-pandoc 20230627.643: An Org-mode exporter using pandoc
 app-emacs/ox-pukiwiki 20150124.1716: Pukiwiki Back-End for Org Export Engine
 app-emacs/ox-qmd 20230325.1315: Qiita Markdown Back-End for Org Export Engine
-app-emacs/ox-report 20220910.951: Export your org file to minutes report PDF file
+app-emacs/ox-report 20230712.1639: Export your org file to minutes report PDF file
 app-emacs/ox-reveal 20221127.814: reveal.js Presentation Back-End for Org Export Engine
 app-emacs/ox-review 20220619.724: Re:VIEW Back-End for Org Export Engine
 app-emacs/ox-rfc 20230619.338: RFC Back-End for Org Export Engine
@@ -5308,7 +5308,7 @@ app-emacs/weechat 20190520.1551: Chat via WeeChat's relay protocol in Emacs
 app-emacs/weechat-alert 20160416.1248: Weechat notifier using alerts
 app-emacs/weibo 20150307.2242: Weibo client for Emacs
 app-emacs/weyland-yutani-theme 20210802.2251: Emacs theme based off Alien movie franchise
-app-emacs/wfnames 20230519.437: Edit filenames
+app-emacs/wfnames 20230712.1154: Edit filenames
 app-emacs/wgrep 20230203.1214: Writable grep buffer
 app-emacs/wgrep-ack 20230207.1125: Writable ack-and-a-half buffer
 app-emacs/wgrep-ag 20230202.315: Writable ag buffer
@@ -5485,7 +5485,7 @@ app-emacs/zetz-mode 20200823.536: A major mode for the ZetZ programming language
 app-emacs/zig-mode 20230307.1215: A major mode for the Zig programming language
 app-emacs/zim-wiki-mode 20230211.1650: Zim Desktop Wiki edit mode
 app-emacs/zimports 20211011.2059: Reformat python imports with zimports
-app-emacs/zk 20230709.1110: Functions for working with Zettelkasten-style linked notes
+app-emacs/zk 20230712.1103: Functions for working with Zettelkasten-style linked notes
 app-emacs/zk-desktop 20230609.742: Desktop environment for zk
 app-emacs/zk-index 20230709.1112: Index for zk
 app-emacs/zk-luhmann 20230505.2107: Support for Luhmann-style IDs in zk
