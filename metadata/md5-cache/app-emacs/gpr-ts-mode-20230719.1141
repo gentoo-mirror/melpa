@@ -1,0 +1,12 @@
+BDEPEND=>=app-editors/emacs-25.3:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
+DESCRIPTION=Major mode for GNAT project files using Tree-Sitter
+EAPI=8
+HOMEPAGE=https://github.com/brownts/gpr-ts-mode
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=>=app-editors/emacs-25.3:*
+SLOT=0
+SRC_URI=https://melpa.org/packages/gpr-ts-mode-20230719.1141.tar
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dde4f515dde15603a26a3755438e9c78	elisp	d5d9361b9698f474179a2ac3f8bf46e8	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
+_md5_=7e5dc3f316c8042b2b6a16e1c413a6e8
