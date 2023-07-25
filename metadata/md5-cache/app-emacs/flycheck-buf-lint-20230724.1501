@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=A major mode for editing JSON files
+DEPEND=app-emacs/flycheck app-emacs/s
+DESCRIPTION=Flycheck checker for protobuf with buf.build
 EAPI=8
-HOMEPAGE=https://github.com/iwahbe/jsonian
+HOMEPAGE=https://github.com/shuxiao9058/flycheck-buf-lint
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/flycheck app-emacs/s >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/jsonian-20230705.1045.tar
+SRC_URI=https://melpa.org/packages/flycheck-buf-lint-20230724.1501.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dde4f515dde15603a26a3755438e9c78	elisp	d5d9361b9698f474179a2ac3f8bf46e8	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=26e6a59ecf1489655659b2e385ede715
+_md5_=e585b443079a93795413cfae8560ece6
