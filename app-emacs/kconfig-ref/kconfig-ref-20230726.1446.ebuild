@@ -18,7 +18,5 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/ripgrep
-	app-emacs/projectile"
-RDEPEND="app-emacs/ripgrep
-	app-emacs/projectile"
+DEPEND="app-emacs/projectile"
+RDEPEND="app-emacs/projectile"
