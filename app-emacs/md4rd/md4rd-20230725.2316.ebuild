@@ -5,20 +5,24 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="consult-dir"
+REALNAME="md4rd"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Insert paths into the minibuffer prompt"
+DESCRIPTION="Mode for reddit (browse it)."
 
-HOMEPAGE="https://github.com/karthink/consult-dir"
+HOMEPAGE="https://github.com/ahungry/md4rd"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/consult
-	app-emacs/project"
-RDEPEND="app-emacs/consult
-	app-emacs/project"
+DEPEND="app-emacs/request
+	app-emacs/dash
+	app-emacs/s
+	app-emacs/tree-mode"
+RDEPEND="app-emacs/request
+	app-emacs/dash
+	app-emacs/s
+	app-emacs/tree-mode"

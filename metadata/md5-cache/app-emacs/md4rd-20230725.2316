@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=major-mode for editing CMake sources
+DEPEND=app-emacs/request app-emacs/dash app-emacs/s app-emacs/tree-mode
+DESCRIPTION=Mode for reddit (browse it).
 EAPI=8
-HOMEPAGE=https://melpa.org/packages/
+HOMEPAGE=https://github.com/ahungry/md4rd
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/request app-emacs/dash app-emacs/s app-emacs/tree-mode >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/cmake-mode-20230718.1752.tar
+SRC_URI=https://melpa.org/packages/md4rd-20230725.2316.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dde4f515dde15603a26a3755438e9c78	elisp	d5d9361b9698f474179a2ac3f8bf46e8	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=e6901585070ba3a745c478f35d140008
+_md5_=c24ef5b7db05d0ecf875fe5e7cda52dd
