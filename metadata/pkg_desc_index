@@ -501,7 +501,7 @@ app-emacs/chaos-mode 20221227.223: A major mode for the Chaos programming langua
 app-emacs/chapel-mode 20210513.457: A major mode for the Chapel programming language
 app-emacs/char-menu 20210321.1657: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 20200616.1418: Unicode table for Emacs
-app-emacs/chatgpt-shell 20230725.1907: ChatGPT shell + buffer insert commands
+app-emacs/chatgpt-shell 20230727.733: ChatGPT shell + buffer insert commands
 app-emacs/chatwork 20170511.442: ChatWork client for Emacs
 app-emacs/cheat-sh 20210607.1307: Interact with cheat.sh
 app-emacs/cheatsheet 20170126.2150: create your own cheatsheet
@@ -889,7 +889,7 @@ app-emacs/dash-alfred 20191024.450: Search Dash documentation via Dash-Alfred-Wo
 app-emacs/dash-at-point 20211023.104: Search the word at point with Dash
 app-emacs/dash-docs 20210830.926: Offline documentation browser using Dash docsets.
 app-emacs/dash-functional 20210826.1149: Collection of useful combinators for Emacs Lisp
-app-emacs/dashboard 20230512.1839: A startup screen extracted from Spacemacs
+app-emacs/dashboard 20230726.2018: A startup screen extracted from Spacemacs
 app-emacs/dashboard-hackernews 20220516.1809: Display Hacker News on dashboard
 app-emacs/dashboard-ls 20221231.1629: Display files/directories in current directory on Dashboard
 app-emacs/dashboard-project-status 20190202.1354: Display a git project status in a dashboard widget.
@@ -1108,7 +1108,7 @@ app-emacs/dune-format 20210505.108: Reformat OCaml's dune files automatically
 app-emacs/duplicate-thing 20181031.1500: Duplicate current line & selection
 app-emacs/dut-mode 20170729.2111: Major mode for the Dut programming language
 app-emacs/dw 20210331.2311: Diceware passphrase generation commands
-app-emacs/dwim-coder-mode 20230726.400: DWIM keybindings for C, Python, Rust, and more
+app-emacs/dwim-coder-mode 20230727.632: DWIM keybindings for C, Python, Rust, and more
 app-emacs/dwim-shell-command 20230709.2129: Shell commands with DWIM behaviour
 app-emacs/dyalog-mode 20230214.1027: Major mode for editing Dyalog APL source code
 app-emacs/dylan 20220115.1804: Dylan editing modes
@@ -1244,7 +1244,7 @@ app-emacs/elgrep 20211221.852: Searching files for regular expressions
 app-emacs/elhome 20161025.2042: A framework for a "home" Emacs configuration
 app-emacs/elisp-autofmt 20230521.2304: Emacs lisp auto-format
 app-emacs/elisp-def 20220803.1647: macro-aware go-to-definition for elisp
-app-emacs/elisp-demos 20220903.1232: Elisp API Demos
+app-emacs/elisp-demos 20230726.2059: Elisp API Demos
 app-emacs/elisp-depend 20190325.1114: Parse depend libraries of elisp file.
 app-emacs/elisp-depmap 20220223.1131: Generate an elisp dependency map in graphviz
 app-emacs/elisp-docstring-mode 20170304.1615: Major mode for editing elisp docstrings.
@@ -2455,7 +2455,7 @@ app-emacs/hsluv 20181127.1206: hsluv color space conversions
 app-emacs/ht 20230703.558: The missing hash table library for Emacs
 app-emacs/html-check-frag 20201106.1748: Check html-fragments
 app-emacs/html-script-src 20130807.918: Insert <script src=".."> for popular JavaScript libraries
-app-emacs/html-to-hiccup 20230120.1416: Convert HTML to Hiccup syntax
+app-emacs/html-to-hiccup 20230727.1013: Convert HTML to Hiccup syntax
 app-emacs/html-to-markdown 20151105.840: HTML to Markdown converter written in Emacs-lisp.
 app-emacs/html2org 20170418.501: Convert html to org format text
 app-emacs/htmlize 20210825.2150: Convert buffer text and decorations to HTML.
@@ -2749,7 +2749,7 @@ app-emacs/julia-formatter 20230525.1742: Use JuliaFormatter.jl for julia code
 app-emacs/julia-mode 20230712.1524: Major mode for editing Julia source code
 app-emacs/julia-repl 20230529.943: A minor mode for a Julia REPL
 app-emacs/julia-shell 20161125.1910: Major mode for an inferior Julia shell
-app-emacs/julia-snail 20230720.1934: Julia Snail
+app-emacs/julia-snail 20230727.838: Julia Snail
 app-emacs/julia-ts-mode 20230711.2009: Major mode for Julia source code using tree-sitter
 app-emacs/julia-vterm 20220912.246: A mode for Julia REPL using vterm
 app-emacs/jumblr 20170727.2043: an anagram game for emacs
@@ -2809,7 +2809,7 @@ app-emacs/keyword-search 20180424.1102: browser keyword search from Emacs
 app-emacs/kfg 20140909.538: an emacs configuration system
 app-emacs/khalel 20230606.1909: Import, edit and create calendar events through khal
 app-emacs/khardel 20220223.934: Integrate with khard
-app-emacs/khoj 20230722.729: AI personal assistant for your digital brain
+app-emacs/khoj 20230727.34: AI personal assistant for your digital brain
 app-emacs/kibit-helper 20150508.1533: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-file-path 20230306.1041: Copy file name into kill ring
 app-emacs/kill-or-bury-alive 20230606.1503: Precise control over buffer killing
@@ -2894,7 +2894,7 @@ app-emacs/lean-mode 20230611.728: A major mode for the Lean 3 language
 app-emacs/leanote 20161223.139: A minor mode writing markdown leanote
 app-emacs/learn-ocaml 20211003.1412: Emacs frontend for learn-ocaml
 app-emacs/ledger-import 20210419.818: Fetch OFX files from bank and push them to Ledger
-app-emacs/ledger-mode 20230723.734: Helper code for use with the "ledger" command-line tool
+app-emacs/ledger-mode 20230727.615: Helper code for use with the "ledger" command-line tool
 app-emacs/leerzeichen 20220626.835: Minor mode to display whitespace characters.
 app-emacs/leetcode 20230524.1851: An leetcode client
 app-emacs/legalese 20200119.2248: Add legalese to your program files
@@ -3017,7 +3017,7 @@ app-emacs/lsp-julia 20230414.2107: Julia support for lsp-mode
 app-emacs/lsp-latex 20230717.1707: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20230416.1826: LSP Clients for LTEX
 app-emacs/lsp-metals 20230721.1656: Scala Client settings
-app-emacs/lsp-mode 20230726.1833: LSP mode
+app-emacs/lsp-mode 20230727.944: LSP mode
 app-emacs/lsp-mssql 20230510.1124: MSSQL LSP bindings
 app-emacs/lsp-origami 20211016.1045: origami.el support for lsp-mode
 app-emacs/lsp-p4 20190127.1049: P4 support for lsp-mode
@@ -3055,8 +3055,8 @@ app-emacs/madhat2r-theme 20170203.30: dark color theme that is easy on the eyes
 app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20180219.1552: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
-app-emacs/magik-mode 20230726.2001: mode for editing Magik + some utils.
-app-emacs/magit 20230723.1601: A Git porcelain inside Emacs.
+app-emacs/magik-mode 20230727.813: mode for editing Magik + some utils.
+app-emacs/magit 20230727.208: A Git porcelain inside Emacs.
 app-emacs/magit-annex 20230407.1200: Control git-annex from Magit
 app-emacs/magit-commit-mark 20230420.304: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3427,7 +3427,7 @@ app-emacs/nodejs-repl 20200802.1310: Run Node.js REPL
 app-emacs/nodemcu-mode 20180501.2225: Minor mode for NodeMCU
 app-emacs/noflet 20141102.1454: locally override functions
 app-emacs/nofrils-acme-theme 20180620.1248: Port of "No Frils Acme" Vim theme.
-app-emacs/noir-mode 20230613.1526: Description
+app-emacs/noir-mode 20230726.2309: Description
 app-emacs/nord-theme 20230311.1131: An arctic, north-bluish clean and elegant theme
 app-emacs/nordic-night-theme 20230613.1631: A darker, more colorful version of the lovely Nord theme
 app-emacs/nordless-theme 20201222.1627: A mostly colorless version of nord-theme
@@ -3579,7 +3579,7 @@ app-emacs/on-screen 20160302.950: guide your eyes while scrolling
 app-emacs/one-themes 20200720.1444: One Colorscheme
 app-emacs/one-time-pad-encrypt 20160329.1513: One time pad encryption within file
 app-emacs/opam 20150719.1220: OPAM tools
-app-emacs/opam-switch-mode 20230713.2235: Select OCaml opam switches via a menu
+app-emacs/opam-switch-mode 20230726.2041: Select OCaml opam switches via a menu
 app-emacs/open-in-msvs 20170123.2228: Open current file:line:column in Microsoft Visual Studio
 app-emacs/open-junk-file 20161210.1114: Open a junk (memo) file to try-and-error
 app-emacs/opencc 20170722.816: 中文简繁转换 <-> 中文簡繁轉換 (Convert Chinese with OpenCC)
@@ -4885,7 +4885,7 @@ app-emacs/sws-mode 20210908.2121: (S)ignificant (W)hite(S)pace mode
 app-emacs/sx 20220804.1419: StackExchange client. Ask and answer questions on Stack Overflow, Super User, and the likes
 app-emacs/sxiv 20220530.14: Run the Simple X Image Viewer, with Dired integration
 app-emacs/symbol-navigation-hydra 20211010.2353: A symbol-aware, range-aware hydra
-app-emacs/symbol-overlay 20230602.851: Highlight symbols with keymap-enabled overlays
+app-emacs/symbol-overlay 20230727.552: Highlight symbols with keymap-enabled overlays
 app-emacs/symbolist 20211107.1615: List and interactively unbind Emacs Lisp symbols
 app-emacs/symbolword-mode 20180401.1427: modify word split
 app-emacs/symex 20230322.2003: An evil way to edit Lisp symbolic expressions as trees
