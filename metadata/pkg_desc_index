@@ -62,7 +62,7 @@ app-emacs/ack-menu 20150504.2022: A menu-based front-end for ack
 app-emacs/acme-theme 20210430.302: A color theme based on Acme & Sam from Plan 9
 app-emacs/actionscript-mode 20180527.1701: A simple mode for editing Actionscript 3 files
 app-emacs/activity-watch-mode 20230731.802: Automatic time tracking extension.
-app-emacs/ada-ts-mode 20230807.647: Major mode for Ada using Tree-sitter
+app-emacs/ada-ts-mode 20230814.1220: Major mode for Ada using Tree-sitter
 app-emacs/adafruit-wisdom 20200217.306: Get/display adafruit.com quotes
 app-emacs/add-hooks 20171217.123: Functions for setting multiple hooks
 app-emacs/add-node-modules-path 20230307.655: Add node_modules to your exec-path
@@ -768,7 +768,7 @@ app-emacs/copy-file-on-save 20230402.1829: Copy file on save, automatic deployme
 app-emacs/copyit 20190919.1258: Copy it, yank anything!
 app-emacs/copyit-pandoc 20190919.1258: Copy it, yank anything!
 app-emacs/coq-commenter 20170822.2309: Coq commenting minor mode for proof
-app-emacs/corfu-candidate-overlay 20230706.635: Show first candidate in an overlay while typing
+app-emacs/corfu-candidate-overlay 20230814.1537: Show first candidate in an overlay while typing
 app-emacs/corfu-prescient 20221216.112: prescient.el + Corfu
 app-emacs/corral 20160502.948: Quickly surround text with delimiters
 app-emacs/cort 20211020.18: Simplify extended unit test framework
@@ -1073,7 +1073,7 @@ app-emacs/dokuwiki 20180102.59: Edit Remote DokuWiki Pages Using XML-RPC
 app-emacs/dokuwiki-mode 20170223.1301: Major mode for DokuWiki document
 app-emacs/dollaro 20151123.1302: simple text templates
 app-emacs/doom 20180301.2308: DOM implementation and manipulation library
-app-emacs/doom-modeline 20230814.814: A minimal and modern mode-line
+app-emacs/doom-modeline 20230814.1704: A minimal and modern mode-line
 app-emacs/doom-modeline-now-playing 20210831.1442: Segment for Doom Modeline to show playerctl information
 app-emacs/doom-themes 20230221.610: an opinionated pack of modern color-themes
 app-emacs/dot-mode 20180312.2300: minor mode to repeat typing or commands
@@ -1101,7 +1101,7 @@ app-emacs/dsvn 20221102.1416: Subversion interface
 app-emacs/dtb-mode 20210105.1132: Show device tree souce in dtbs
 app-emacs/dtk 20230601.1417: access SWORD content via diatheke
 app-emacs/dtrace-script-mode 20150214.623: DTrace code editing commands for Emacs
-app-emacs/dtrt-indent 20230725.1615: Adapt to foreign indentation offsets
+app-emacs/dtrt-indent 20230814.1616: Adapt to foreign indentation offsets
 app-emacs/dts-mode 20211202.18: Major mode for Devicetree source code
 app-emacs/ducpel 20140702.1154: Logic game with sokoban elements
 app-emacs/dumb-diff 20171211.2122: fast arbitrary diffs
@@ -1112,7 +1112,7 @@ app-emacs/dune-format 20210505.108: Reformat OCaml's dune files automatically
 app-emacs/duplicate-thing 20181031.1500: Duplicate current line & selection
 app-emacs/dut-mode 20170729.2111: Major mode for the Dut programming language
 app-emacs/dw 20210331.2311: Diceware passphrase generation commands
-app-emacs/dwim-coder-mode 20230813.1358: DWIM keybindings for C, Python, Rust, and more
+app-emacs/dwim-coder-mode 20230814.1606: DWIM keybindings for C, Python, Rust, and more
 app-emacs/dwim-shell-command 20230730.1153: Shell commands with DWIM behaviour
 app-emacs/dyalog-mode 20230214.1027: Major mode for editing Dyalog APL source code
 app-emacs/dylan 20220115.1804: Dylan editing modes
@@ -1244,7 +1244,7 @@ app-emacs/elfeed-tube-mpv 20230607.717: Control mpv from Elfeed
 app-emacs/elfeed-web 20210226.258: web interface to Elfeed
 app-emacs/elfeed-webkit 20230604.2111: Render elfeed entries in embedded webkit widgets
 app-emacs/elforth 20210522.928: Do you have what it takes to hack Emacs Lisp in Forth?
-app-emacs/elgrep 20230810.645: Searching files for regular expressions
+app-emacs/elgrep 20230814.1215: Searching files for regular expressions
 app-emacs/elhome 20161025.2042: A framework for a "home" Emacs configuration
 app-emacs/elisp-autofmt 20230808.1344: Emacs lisp auto-format
 app-emacs/elisp-def 20220803.1647: macro-aware go-to-definition for elisp
@@ -2166,7 +2166,7 @@ app-emacs/habitica 20220215.1758: Interface for habitica.com
 app-emacs/hack-mode 20230227.1950: Major mode for the Hack programming language
 app-emacs/hacker-typer 20170206.1520: Pretend to write code like a pro
 app-emacs/hackernews 20230127.1918: Hacker News Client for Emacs
-app-emacs/haki-theme 20230810.1516: An elegant, high-contrast dark theme in modern sense
+app-emacs/haki-theme 20230814.1414: An elegant, high-contrast dark theme in modern sense
 app-emacs/hal-mode 20160704.1746: Major mode for editing HAL files
 app-emacs/ham-mode 20150811.1306: Html As Markdown. Transparently edit an html file using markdown
 app-emacs/hamburg-theme 20160123.740: Color Theme with a dark blue background.
@@ -3016,7 +3016,7 @@ app-emacs/lsp-cfn 20230701.1533: LSP integration for cfn-lsp-extra
 app-emacs/lsp-dart 20230516.52: Dart support lsp-mode
 app-emacs/lsp-docker 20230627.1601: LSP Docker integration
 app-emacs/lsp-focus 20200906.1917: focus.el support for lsp-mode
-app-emacs/lsp-grammarly 20221231.1655: LSP Clients for Grammarly
+app-emacs/lsp-grammarly 20230814.1813: LSP Clients for Grammarly
 app-emacs/lsp-haskell 20230104.1508: Haskell support for lsp-mode
 app-emacs/lsp-intellij 20180831.2051: intellij lsp client
 app-emacs/lsp-ivy 20220831.1823: LSP ivy integration
@@ -3027,7 +3027,7 @@ app-emacs/lsp-julia 20230414.2107: Julia support for lsp-mode
 app-emacs/lsp-latex 20230717.1707: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20230416.1826: LSP Clients for LTEX
 app-emacs/lsp-metals 20230809.2004: Scala Client settings
-app-emacs/lsp-mode 20230812.1018: LSP mode
+app-emacs/lsp-mode 20230814.1307: LSP mode
 app-emacs/lsp-mssql 20230510.1124: MSSQL LSP bindings
 app-emacs/lsp-origami 20211016.1045: origami.el support for lsp-mode
 app-emacs/lsp-p4 20190127.1049: P4 support for lsp-mode
@@ -3057,7 +3057,7 @@ app-emacs/lyrics-fetcher 20220717.1716: Fetch song lyrics and album covers
 app-emacs/m-buffer 20220719.1850: List-Oriented, Functional Buffer Manipulation
 app-emacs/mac-pseudo-daemon 20200215.513: Daemon mode that plays nice with Mac OS.
 app-emacs/maces-game 20170903.1551: another anagram game.
-app-emacs/macports 20230427.1110: A porcelain for MacPorts
+app-emacs/macports 20230814.1525: A porcelain for MacPorts
 app-emacs/macro-math 20130328.1604: in-buffer mathematical operations
 app-emacs/macrostep 20230813.2123: Interactive macro expander
 app-emacs/macrostep-geiser 20210717.801: Macrostep for `geiser'
@@ -3631,9 +3631,9 @@ app-emacs/org-bullets 20200317.1740: Show bullets in org-mode as UTF-8 character
 app-emacs/org-caldav 20230708.134: Sync org files with external calendar through CalDAV
 app-emacs/org-calibre-notes 20221202.1657: Extract highlights and notes from Calibre EPUB reader
 app-emacs/org-capture-pop-frame 20230516.236: Run org-capture in a new pop frame
-app-emacs/org-category-capture 20230813.1934: Contextualy capture of org-mode TODOs.
+app-emacs/org-category-capture 20230814.45: Contextualy capture of org-mode TODOs.
 app-emacs/org-change 20230505.150: Annotate changes in org-mode files
-app-emacs/org-chef 20220422.300: Cookbook and recipe management with org-mode.
+app-emacs/org-chef 20230814.1312: Cookbook and recipe management with org-mode.
 app-emacs/org-cliplink 20201126.1020: insert org-mode links from the clipboard
 app-emacs/org-clock-convenience 20230424.2101: Convenience functions for org time tracking
 app-emacs/org-clock-csv 20201222.1506: Export `org-mode' clock entries to CSV format.
@@ -3723,7 +3723,7 @@ app-emacs/org-present 20220806.1847: Minimalist presentation minor-mode for Emac
 app-emacs/org-present-remote 20221107.1139: A web-based remote control for org-present
 app-emacs/org-pretty-tags 20211228.1546: Surrogates for tags
 app-emacs/org-preview-html 20220809.1033: Automatically preview org-exported HTML files within Emacs
-app-emacs/org-projectile 20230813.1939: Repository todo management for org-mode
+app-emacs/org-projectile 20230814.159: Repository todo capture and management for org-mode with projectile
 app-emacs/org-projectile-helm 20230813.1934: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 20170328.1639: Jekyll's handler for org-protocol
 app-emacs/org-ql 20230525.1548: Org Query Language, search command, and agenda-like view
@@ -4624,8 +4624,8 @@ app-emacs/shut-up 20210403.1249: Shut up would you!
 app-emacs/shx 20221224.2230: Extras for the comint-mode shell
 app-emacs/sibilant-mode 20151119.2145: Support for the Sibilant programming language
 app-emacs/sicp 20200512.1137: Structure and Interpretation of Computer Programs in info format
-app-emacs/side-hustle 20210627.701: Hustle through Imenu in a side window
-app-emacs/side-notes 20210709.1403: Easy access to a directory notes file
+app-emacs/side-hustle 20230814.1047: Hustle through Imenu in a side window
+app-emacs/side-notes 20230814.302: Easy access to a directory notes file
 app-emacs/sidecar-locals 20230518.1422: A flexible alternative to built-in dir-locals
 app-emacs/sideline 20230808.2230: Show information on the side
 app-emacs/sideline-blame 20230406.2312: Show blame messages with sideline
@@ -5354,8 +5354,8 @@ app-emacs/wiki-nav 20230304.2212: Simple file navigation using [[WikiStrings]]
 app-emacs/wiki-summary 20181010.1824: View Wikipedia summaries in Emacs easily.
 app-emacs/wikinfo 20220906.1709: Scrape Wikipedia Infoboxes
 app-emacs/wikinforg 20230630.116: Org-mode wikinfo integration
-app-emacs/wildcharm-light-theme 20230814.115: Port of vim-wildcharm (light) colorscheme
-app-emacs/wildcharm-theme 20230813.1305: Port of vim-wildcharm colorscheme
+app-emacs/wildcharm-light-theme 20230814.1051: Port of vim-wildcharm (light) colorscheme
+app-emacs/wildcharm-theme 20230814.1051: Port of vim-wildcharm colorscheme
 app-emacs/wilt 20180220.854: An extensions for calculating WILT in a buffer.
 app-emacs/win-switch 20161009.1627: fast, dynamic bindings for window-switching/resizing
 app-emacs/windata 20090830.1040: convert window configuration to list
