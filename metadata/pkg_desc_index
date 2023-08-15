@@ -367,7 +367,7 @@ app-emacs/boogie-friends 20221115.658: A collection of programming modes for Boo
 app-emacs/bookmark-in-project 20230604.757: Bookmark access within a project
 app-emacs/bookmark-view 20220403.2204: Bookmark views
 app-emacs/bool-flip 20161215.1539: flip the boolean under the point
-app-emacs/boon 20230808.1231: Ergonomic Command Mode for Emacs.
+app-emacs/boon 20230815.905: Ergonomic Command Mode for Emacs.
 app-emacs/borg 20230717.1325: Assimilate Emacs packages as Git submodules
 app-emacs/borland-blue-theme 20160117.1321: Blue/yellow theme based on old DOS Borland/Turbo C IDE
 app-emacs/boron-theme 20170808.1308: an Emacs 24 theme based on Boron (tmTheme)
@@ -474,10 +474,10 @@ app-emacs/cbm 20171116.1240: Switch to similar buffers.
 app-emacs/cbor 20230810.1653: CBOR utilities
 app-emacs/cc-cedict 20210814.819: Interface to CC-CEDICT (a Chinese-English dictionary)
 app-emacs/ccc 20210501.820: buffer local cursor color control library
-app-emacs/ccls 20230111.1754: ccls client for lsp-mode
+app-emacs/ccls 20230815.731: ccls client for lsp-mode
 app-emacs/cd-compile 20141108.1957: run compile in a specific directory
 app-emacs/cdb 20230318.2152: constant database (cdb) reader for Emacs Lisp
-app-emacs/cdlatex 20230812.1623: Fast input methods for LaTeX environments and math
+app-emacs/cdlatex 20230815.957: Fast input methods for LaTeX environments and math
 app-emacs/cdnjs 20161031.1522: A front end for http://cdnjs.com
 app-emacs/cedit 20200816.526: paredit-like commands for c-like languages
 app-emacs/celery 20170225.924: a minor mode to draw stats from celery and more?
@@ -1073,7 +1073,7 @@ app-emacs/dokuwiki 20180102.59: Edit Remote DokuWiki Pages Using XML-RPC
 app-emacs/dokuwiki-mode 20170223.1301: Major mode for DokuWiki document
 app-emacs/dollaro 20151123.1302: simple text templates
 app-emacs/doom 20180301.2308: DOM implementation and manipulation library
-app-emacs/doom-modeline 20230814.1704: A minimal and modern mode-line
+app-emacs/doom-modeline 20230815.230: A minimal and modern mode-line
 app-emacs/doom-modeline-now-playing 20210831.1442: Segment for Doom Modeline to show playerctl information
 app-emacs/doom-themes 20230221.610: an opinionated pack of modern color-themes
 app-emacs/dot-mode 20180312.2300: minor mode to repeat typing or commands
@@ -1112,7 +1112,7 @@ app-emacs/dune-format 20210505.108: Reformat OCaml's dune files automatically
 app-emacs/duplicate-thing 20181031.1500: Duplicate current line & selection
 app-emacs/dut-mode 20170729.2111: Major mode for the Dut programming language
 app-emacs/dw 20210331.2311: Diceware passphrase generation commands
-app-emacs/dwim-coder-mode 20230814.1606: DWIM keybindings for C, Python, Rust, and more
+app-emacs/dwim-coder-mode 20230815.641: DWIM keybindings for C, Python, Rust, and more
 app-emacs/dwim-shell-command 20230730.1153: Shell commands with DWIM behaviour
 app-emacs/dyalog-mode 20230214.1027: Major mode for editing Dyalog APL source code
 app-emacs/dylan 20220115.1804: Dylan editing modes
@@ -2485,7 +2485,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20230814.652: P2P filesystem
+app-emacs/hyperdrive 20230815.631: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -2538,7 +2538,7 @@ app-emacs/ids-edit 20170818.1502: IDS (Ideographic Description Sequence) editing
 app-emacs/iedit 20220216.717: Edit multiple regions in the same way simultaneously.
 app-emacs/ietf-docs 20190420.851: Fetch, Cache and Load IETF documents
 app-emacs/iflipb 20220612.858: Interactively flip between recently visited buffers
-app-emacs/igist 20230813.741: List, create, update and delete GitHub gists
+app-emacs/igist 20230815.750: List, create, update and delete GitHub gists
 app-emacs/ignoramus 20220611.1514: Ignore backups, build files, et al.
 app-emacs/igv 20141210.1227: Control Integrative Genomic Viewer within Emacs
 app-emacs/image+ 20150707.1616: Image manipulate extensions for Emacs
@@ -2819,7 +2819,7 @@ app-emacs/keyword-search 20180424.1102: browser keyword search from Emacs
 app-emacs/kfg 20140909.538: an emacs configuration system
 app-emacs/khalel 20230606.1909: Import, edit and create calendar events through khal
 app-emacs/khardel 20220223.934: Integrate with khard
-app-emacs/khoj 20230802.655: AI personal assistant for your digital brain
+app-emacs/khoj 20230815.225: AI personal assistant for your digital brain
 app-emacs/kibit-helper 20150508.1533: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-file-path 20230306.1041: Copy file name into kill ring
 app-emacs/kill-or-bury-alive 20230606.1503: Precise control over buffer killing
@@ -3014,13 +3014,13 @@ app-emacs/lox-mode 20200619.1700: Major mode for the Lox programming language
 app-emacs/lpy 20221106.1310: A lispy interface to Python
 app-emacs/lsp-cfn 20230701.1533: LSP integration for cfn-lsp-extra
 app-emacs/lsp-dart 20230516.52: Dart support lsp-mode
-app-emacs/lsp-docker 20230627.1601: LSP Docker integration
+app-emacs/lsp-docker 20230815.718: LSP Docker integration
 app-emacs/lsp-focus 20200906.1917: focus.el support for lsp-mode
 app-emacs/lsp-grammarly 20230814.1827: LSP Clients for Grammarly
-app-emacs/lsp-haskell 20230104.1508: Haskell support for lsp-mode
+app-emacs/lsp-haskell 20230815.718: Haskell support for lsp-mode
 app-emacs/lsp-intellij 20180831.2051: intellij lsp client
 app-emacs/lsp-ivy 20220831.1823: LSP ivy integration
-app-emacs/lsp-java 20230801.943: Java support for lsp-mode
+app-emacs/lsp-java 20230815.717: Java support for lsp-mode
 app-emacs/lsp-javacomp 20190124.1755: Provide Java IDE features powered by JavaComp.
 app-emacs/lsp-jedi 20220430.18: Lsp client plugin for Python Jedi Language Server
 app-emacs/lsp-julia 20230414.2107: Julia support for lsp-mode
@@ -3029,7 +3029,7 @@ app-emacs/lsp-ltex 20230416.1826: LSP Clients for LTEX
 app-emacs/lsp-metals 20230809.2004: Scala Client settings
 app-emacs/lsp-mode 20230814.1307: LSP mode
 app-emacs/lsp-mssql 20230510.1124: MSSQL LSP bindings
-app-emacs/lsp-origami 20211016.1045: origami.el support for lsp-mode
+app-emacs/lsp-origami 20230815.704: origami.el support for lsp-mode
 app-emacs/lsp-p4 20190127.1049: P4 support for lsp-mode
 app-emacs/lsp-pascal 20200422.1610: LSP client for Pascal
 app-emacs/lsp-pyre 20190406.335: lsp-mode client for python using pyre
@@ -3038,7 +3038,7 @@ app-emacs/lsp-python-ms 20230731.1458: The lsp-mode client for Microsoft python-
 app-emacs/lsp-rescript 20220314.1957: LSP client configuration for lsp-mode and rescript-vscode
 app-emacs/lsp-scheme 20230606.1722: Scheme support for lsp-mode
 app-emacs/lsp-sonarlint 20230814.1954: Emacs SonarLint lsp client
-app-emacs/lsp-sourcekit 20210905.2017: sourcekit-lsp client for lsp-mode
+app-emacs/lsp-sourcekit 20230815.717: sourcekit-lsp client for lsp-mode
 app-emacs/lsp-tailwindcss 20230407.951: A lsp-mode client for tailwindcss
 app-emacs/lsp-treemacs 20230811.611: LSP treemacs
 app-emacs/lsp-ui 20230811.552: UI modules for lsp-mode
@@ -3380,7 +3380,7 @@ app-emacs/neato-graph-bar 20181130.1649: Neat-o graph bars CPU/memory etc.
 app-emacs/neil 20230322.2035: companion for Babashka Neil
 app-emacs/nemerle 20161029.2023: major mode for editing nemerle programs
 app-emacs/neon-mode 20180406.1156: Simple major mode for editing neon files
-app-emacs/neotree 20230808.237: A tree plugin like NerdTree for Vim
+app-emacs/neotree 20230815.219: A tree plugin like NerdTree for Vim
 app-emacs/nerd-icons 20230812.1744: Emacs Nerd Font Icons Library
 app-emacs/nerd-icons-completion 20230430.1611: Add icons to completion candidates
 app-emacs/nerd-icons-dired 20230803.1848: Shows icons for each file in dired mode
@@ -3515,7 +3515,7 @@ app-emacs/ob-html-chrome 20181219.1042: HTML code blocks converted to PNG using 
 app-emacs/ob-http 20180707.1448: http request in org-mode babel
 app-emacs/ob-hy 20180702.540: org-babel functions for Hy-lang evaluation
 app-emacs/ob-ipython 20180224.953: org-babel functions for IPython evaluation
-app-emacs/ob-julia-vterm 20221102.756: Babel functions for Julia that work with julia-vterm
+app-emacs/ob-julia-vterm 20230815.246: Babel functions for Julia that work with julia-vterm
 app-emacs/ob-kotlin 20180823.1321: org-babel functions for kotlin evaluation
 app-emacs/ob-latex-as-png 20200629.1013: Org-babel functions for latex-as-png evaluation
 app-emacs/ob-lesim 20230619.357: Org-babel functions for lesim-mode
@@ -4022,7 +4022,7 @@ app-emacs/php-boris 20130527.821: Run boris php REPL
 app-emacs/php-boris-minor-mode 20140209.1835: a minor mode to evaluate PHP code in the Boris repl
 app-emacs/php-cs-fixer 20220516.1008: php-cs-fixer wrapper.
 app-emacs/php-eldoc 20140202.1941: eldoc backend for php
-app-emacs/php-mode 20230812.2333: Major mode for editing PHP code
+app-emacs/php-mode 20230815.732: Major mode for editing PHP code
 app-emacs/php-quickhelp 20210819.2025: Quickhelp at point for php
 app-emacs/php-refactor-mode 20171124.635: Minor mode to quickly and safely perform common refactorings
 app-emacs/php-runtime 20230404.1713: Language binding bridge to PHP
@@ -4209,7 +4209,7 @@ app-emacs/psalm 20211002.1552: Interface to Psalm
 app-emacs/psc-ide 20210219.2247: Minor mode for PureScript's IDE server.
 app-emacs/psci 20230313.1333: Major mode for purescript repl psci
 app-emacs/psession 20230105.503: Persistent save of elisp objects.
-app-emacs/psysh 20220607.1642: PsySH, PHP interactive shell (REPL)
+app-emacs/psysh 20230815.730: PsySH, PHP interactive shell (REPL)
 app-emacs/pt 20161226.1959: A front-end for pt, The Platinum Searcher.
 app-emacs/ptemplate 20210324.1446: Project templates
 app-emacs/ptemplate-templates 20210324.1443: Official templates
@@ -5355,8 +5355,8 @@ app-emacs/wiki-nav 20230304.2212: Simple file navigation using [[WikiStrings]]
 app-emacs/wiki-summary 20181010.1824: View Wikipedia summaries in Emacs easily.
 app-emacs/wikinfo 20220906.1709: Scrape Wikipedia Infoboxes
 app-emacs/wikinforg 20230630.116: Org-mode wikinfo integration
-app-emacs/wildcharm-light-theme 20230814.1051: Port of vim-wildcharm (light) colorscheme
-app-emacs/wildcharm-theme 20230814.1051: Port of vim-wildcharm colorscheme
+app-emacs/wildcharm-light-theme 20230815.642: Port of vim-wildcharm (light) colorscheme
+app-emacs/wildcharm-theme 20230815.642: Port of vim-wildcharm colorscheme
 app-emacs/wilt 20180220.854: An extensions for calculating WILT in a buffer.
 app-emacs/win-switch 20161009.1627: fast, dynamic bindings for window-switching/resizing
 app-emacs/windata 20090830.1040: convert window configuration to list
@@ -5465,7 +5465,7 @@ app-emacs/yarn-mode 20200208.2332: Major mode for yarn.lock files.
 app-emacs/yascroll 20220212.1742: Yet Another Scroll Bar Mode
 app-emacs/yasnippet 20200604.246: Yet another snippet extension for Emacs
 app-emacs/yasnippet-lean 20220105.2251: Collection of snippets for the Lean prover
-app-emacs/yasnippet-snippets 20230622.1323: Collection of yasnippet snippets
+app-emacs/yasnippet-snippets 20230815.820: Collection of yasnippet snippets
 app-emacs/yatemplate 20211115.1208: File templates with yasnippet
 app-emacs/yatex 20221225.512: Yet Another tex-mode for emacs //野鳥//
 app-emacs/yaxception 20150105.1540: Provide framework about exception like Java for Elisp
