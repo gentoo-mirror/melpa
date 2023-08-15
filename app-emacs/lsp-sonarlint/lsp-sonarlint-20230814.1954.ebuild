@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs Sonarlint lsp client"
+DESCRIPTION="Emacs SonarLint lsp client"
 
 HOMEPAGE="https://github.com/emacs-lsp/lsp-sonarlint"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
