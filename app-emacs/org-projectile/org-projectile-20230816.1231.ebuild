@@ -20,7 +20,7 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/projectile
 	app-emacs/dash
-	app-emacs/org-category-capture"
+	app-emacs/org-project-capture"
 RDEPEND="app-emacs/projectile
 	app-emacs/dash
-	app-emacs/org-category-capture"
+	app-emacs/org-project-capture"
