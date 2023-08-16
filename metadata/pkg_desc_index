@@ -590,7 +590,7 @@ app-emacs/clojure-mode 20230626.715: Major mode for Clojure code
 app-emacs/clojure-mode-extra-font-locking 20230626.715: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 20150814.736: Quickly create Clojure and ClojureScript repls for a project.
 app-emacs/clojure-snippets 20220914.950: Yasnippets for clojure
-app-emacs/clojure-ts-mode 20230812.1719: Major mode for Clojure code
+app-emacs/clojure-ts-mode 20230816.244: Major mode for Clojure code
 app-emacs/clomacs 20220415.1035: Simplifies Emacs Lisp interaction with Clojure.
 app-emacs/closql 20230806.2058: Store EIEIO objects using EmacSQL
 app-emacs/closure-lint-mode 20101118.2124: minor mode for the Closure Linter
@@ -1713,7 +1713,7 @@ app-emacs/flycheck-flow 20190304.1459: Support Flow in flycheck
 app-emacs/flycheck-ghcmod 20150114.632: A flycheck checker for Haskell using ghcmod
 app-emacs/flycheck-golangci-lint 20230523.1855: Flycheck checker for golangci-lint
 app-emacs/flycheck-gometalinter 20180424.941: flycheck checker for gometalinter
-app-emacs/flycheck-google-cpplint 20220616.1802: Help to comply with the Google C++ Style Guide
+app-emacs/flycheck-google-cpplint 20230816.734: Help to comply with the Google C++ Style Guide
 app-emacs/flycheck-gradle 20190315.234: Flycheck extension for Gradle.
 app-emacs/flycheck-grammalecte 20230605.1035: Integrate Grammalecte with Flycheck
 app-emacs/flycheck-grammarly 20221231.1654: Grammarly support for Flycheck
@@ -2200,7 +2200,7 @@ app-emacs/hcl-mode 20230302.1029: Major mode for Hashicorp
 app-emacs/headlong 20150417.1526: reckless completion
 app-emacs/heaven-and-hell 20190713.1830: easy toggle light/dark themes
 app-emacs/heex-ts-mode 20230316.553: Major mode for Heex with tree-sitter support
-app-emacs/helm 20230813.1421: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20230815.1654: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: helm-sources and some utilities for GNU R.
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: helm source for Active Directory
@@ -2485,7 +2485,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20230815.631: P2P filesystem
+app-emacs/hyperdrive 20230816.228: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -2722,7 +2722,7 @@ app-emacs/jonprl-mode 20160819.59: A major mode for editing JonPRL files
 app-emacs/journalctl-mode 20221119.1653: Sample major mode for viewing output journalctl
 app-emacs/jpop 20170410.1250: Lightweight project caching and navigation framework
 app-emacs/jq-format 20190428.1434: Reformat JSON and JSONLines using jq
-app-emacs/jq-mode 20220610.1119: Edit jq scripts.
+app-emacs/jq-mode 20230816.809: Edit jq scripts.
 app-emacs/jquery-doc 20150812.758: jQuery api documentation interface for emacs
 app-emacs/js-auto-beautify 20161031.509: auto format you js/jsx file
 app-emacs/js-auto-format-mode 20180807.1352: Minor mode for auto-formatting JavaScript code
@@ -2761,7 +2761,7 @@ app-emacs/julia-repl 20230529.943: A minor mode for a Julia REPL
 app-emacs/julia-shell 20161125.1910: Major mode for an inferior Julia shell
 app-emacs/julia-snail 20230804.2013: Julia Snail
 app-emacs/julia-ts-mode 20230711.2009: Major mode for Julia source code using tree-sitter
-app-emacs/julia-vterm 20230811.247: A mode for Julia REPL using vterm
+app-emacs/julia-vterm 20230815.2318: A mode for Julia REPL using vterm
 app-emacs/jumblr 20170727.2043: an anagram game for emacs
 app-emacs/jump 20210110.2237: build functions which contextually jump between files
 app-emacs/jump-char 20180601.1348: navigation by char
@@ -2928,7 +2928,7 @@ app-emacs/libelcouch 20230129.1000: Communication with CouchDB
 app-emacs/liberime 20230113.556: Rime elisp binding
 app-emacs/liblouis 20220426.657: Mode for editing liblouis braille translation tables
 app-emacs/libmpdee 20220825.957: Client end library for mpd, a music playing daemon
-app-emacs/libmpdel 20221229.916: Communication with an MPD server
+app-emacs/libmpdel 20230816.839: Communication with an MPD server
 app-emacs/librera-sync 20230306.17: Sync document's position with Librera Reader for Android
 app-emacs/lice 20220312.2215: License And Header Template
 app-emacs/license-snippets 20201117.1619: LICENSE templates for yasnippet
@@ -3515,7 +3515,7 @@ app-emacs/ob-html-chrome 20181219.1042: HTML code blocks converted to PNG using 
 app-emacs/ob-http 20180707.1448: http request in org-mode babel
 app-emacs/ob-hy 20180702.540: org-babel functions for Hy-lang evaluation
 app-emacs/ob-ipython 20180224.953: org-babel functions for IPython evaluation
-app-emacs/ob-julia-vterm 20230815.246: Babel functions for Julia that work with julia-vterm
+app-emacs/ob-julia-vterm 20230815.2332: Babel functions for Julia that work with julia-vterm
 app-emacs/ob-kotlin 20180823.1321: org-babel functions for kotlin evaluation
 app-emacs/ob-latex-as-png 20200629.1013: Org-babel functions for latex-as-png evaluation
 app-emacs/ob-lesim 20230619.357: Org-babel functions for lesim-mode
@@ -3677,7 +3677,7 @@ app-emacs/org-if 20150920.1513: Interactive Fiction Authoring System for Org-Mod
 app-emacs/org-incoming 20230209.1509: Sort incoming PDFs into your org files
 app-emacs/org-index 20230803.1629: Ranked and incremental search among selected org-headlines
 app-emacs/org-inline-anim 20230610.1504: Inline playback of animated GIF/PNG for Org
-app-emacs/org-inline-pdf 20230809.302: Inline PDF previewing for Org
+app-emacs/org-inline-pdf 20230815.2356: Inline PDF previewing for Org
 app-emacs/org-iv 20171001.1022: a tool used to view html (in browser) generated by org-file once the org-file changes
 app-emacs/org-ivy-search 20230222.514: Full text search for org files powered by ivy
 app-emacs/org-jami-bot 20230605.950: Capture GNU Jami messages as notes and todos in Org mode
@@ -5472,7 +5472,7 @@ app-emacs/yaxception 20150105.1540: Provide framework about exception like Java 
 app-emacs/ycm 20150822.1836: Emacs client for the YouCompleteMe auto-completion server.
 app-emacs/ycmd 20190416.807: emacs bindings to the ycmd completion server
 app-emacs/ydk-mode 20170114.223: Language support for Yu-Gi-Oh! deck files
-app-emacs/yeetube 20230811.1527: YouTube/Invidious Front End
+app-emacs/yeetube 20230816.437: YouTube/Invidious Front End
 app-emacs/yequake 20200219.2323: Drop-down frames, like Yakuake
 app-emacs/yesql-ghosts 20150220.1237: Display ghostly yesql defqueries inline
 app-emacs/yesterbox 20200327.52: Count number of inbox messages by day
