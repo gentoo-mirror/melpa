@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Upload sharing to 0x0.st"
 
-HOMEPAGE="https://gitlab.com/willvaughn/emacs-0x0"
+HOMEPAGE="https://git.sr.ht/~willvaughn/emacs-0x0"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
