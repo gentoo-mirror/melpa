@@ -5,22 +5,20 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="org-projectile"
+REALNAME="ibuffer-projectile"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Repository todo capture and management for org-mode with projectile"
+DESCRIPTION="Group ibuffer's list by projectile root"
 
-HOMEPAGE="https://github.com/colonelpanic8/org-project-capture"
+HOMEPAGE="https://github.com/purcell/ibuffer-projectile"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/projectile
-	app-emacs/dash
-	app-emacs/org-project-capture"
+	app-emacs/seq"
 RDEPEND="app-emacs/projectile
-	app-emacs/dash
-	app-emacs/org-project-capture"
+	app-emacs/seq"
