@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/dash app-emacs/s app-emacs/spinner
-DESCRIPTION=fast, friendly searching with ripgrep
+DESCRIPTION=Upload sharing to 0x0.st
 EAPI=8
-HOMEPAGE=https://github.com/Wilfred/deadgrep
+HOMEPAGE=https://git.sr.ht/~willvaughn/emacs-0x0
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/dash app-emacs/s app-emacs/spinner >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/deadgrep-20230429.429.tar
+SRC_URI=https://melpa.org/packages/0x0-20230816.1829.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	b3b15bdbe800c721e93b69b70cce2b67	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=5e7dd3e713bc81aecae2f5034a4b35bf
+_md5_=711b30f30f6365ade987109854194daf
