@@ -1075,7 +1075,7 @@ app-emacs/dokuwiki 20180102.59: Edit Remote DokuWiki Pages Using XML-RPC
 app-emacs/dokuwiki-mode 20170223.1301: Major mode for DokuWiki document
 app-emacs/dollaro 20151123.1302: simple text templates
 app-emacs/doom 20180301.2308: DOM implementation and manipulation library
-app-emacs/doom-modeline 20230819.1826: A minimal and modern mode-line
+app-emacs/doom-modeline 20230821.1430: A minimal and modern mode-line
 app-emacs/doom-modeline-now-playing 20210831.1442: Segment for Doom Modeline to show playerctl information
 app-emacs/doom-themes 20230221.610: an opinionated pack of modern color-themes
 app-emacs/dot-env 20230820.2014: Dotenv functionality
@@ -1194,7 +1194,7 @@ app-emacs/eide 20230525.651: IDE interface
 app-emacs/eimp 20120826.2039: Emacs Image Manipulation Package
 app-emacs/ein 20230622.1757: Emacs IPython Notebook
 app-emacs/eink-theme 20190219.858: E Ink color theme
-app-emacs/ejc-sql 20230702.2048: Emacs SQL client uses Clojure JDBC.
+app-emacs/ejc-sql 20230821.1259: Emacs SQL client uses Clojure JDBC.
 app-emacs/ejson-mode 20190720.2138: Major mode for editing ejson files.
 app-emacs/ekg 20230810.316: A system for recording and linking information
 app-emacs/el-autoyas 20120918.1317: Automatically create Emacs-Lisp Yasnippets
@@ -1603,7 +1603,7 @@ app-emacs/fedi 20230820.1912: Helper functions for fediverse clients
 app-emacs/feebleline 20190822.1401: Replace modeline with a slimmer proxy
 app-emacs/feed-discovery 20200714.1118: Discover feed url by RSS/Atom autodiscovery
 app-emacs/feline 20230315.1821: A modeline with very little
-app-emacs/fennel-mode 20230715.1855: A major-mode for editing Fennel code
+app-emacs/fennel-mode 20230814.1953: A major-mode for editing Fennel code
 app-emacs/fetch 20131201.730: Fetch and unpack resources
 app-emacs/ffmpeg-player 20220704.641: Play video using ffmpeg
 app-emacs/ffmpeg-utils 20230305.709: FFmpeg command utilities wrappers
@@ -1982,7 +1982,7 @@ app-emacs/git-backup 20191209.2144: Backup each file change using git
 app-emacs/git-backup-ivy 20221015.431: An ivy interface to git-backup
 app-emacs/git-blamed 20161028.1926: Minor mode for incremental blame for Git
 app-emacs/git-command 20191028.333: A Git Command-Line interface
-app-emacs/git-commit 20230731.908: Edit Git commit messages.
+app-emacs/git-commit 20230821.1441: Edit Git commit messages.
 app-emacs/git-commit-insert-issue 20230512.1416: Get issues list when typing "Fixes #"
 app-emacs/git-dwim 20170126.1214: Context-aware git commands such as branch handling
 app-emacs/git-grep 20200920.1751: Search tools using git grep
@@ -2887,7 +2887,7 @@ app-emacs/latex-extra 20220817.5: Adds several useful functionalities to LaTeX-m
 app-emacs/latex-math-preview 20211228.641: preview LaTeX mathematical expressions.
 app-emacs/latex-pretty-symbols 20151112.1044: Display many latex symbols as their unicode counterparts
 app-emacs/latex-preview-pane 20181008.1822: Makes LaTeX editing less painful by providing a updatable preview pane
-app-emacs/latex-table-wizard 20230516.1857: Magic editing of LaTeX tables
+app-emacs/latex-table-wizard 20230821.1507: Magic editing of LaTeX tables
 app-emacs/latex-unicode-math-mode 20170123.1816: Input method for Unicode math symbols
 app-emacs/latexdiff 20190827.1651: Latexdiff integration in Emacs
 app-emacs/latvian-holidays 20230326.2030: Latvian holidays for the calendar
@@ -3420,6 +3420,7 @@ app-emacs/nix-haskell-mode 20190615.135: haskell-mode integrations for Nix
 app-emacs/nix-mode 20230421.2036: Major mode for editing .nix files
 app-emacs/nix-modeline 20210405.742: Info about in-progress Nix evaluations on your modeline
 app-emacs/nix-sandbox 20210325.1622: Utility functions to work with nix-shell sandboxes
+app-emacs/nix-ts-mode 20230821.1334: Major mode for Nix expressions, powered by tree-sitter
 app-emacs/nix-update 20220816.2212: Update "fetch" blocks in .nix expressions
 app-emacs/nixos-options 20160209.1841: Interface for browsing and completing NixOS options.
 app-emacs/nixpkgs-fmt 20200327.2302: Reformat Nix using nixpkgs-fmt
@@ -3559,7 +3560,7 @@ app-emacs/obfusurl 20170809.1524: Obfuscate URLs so they aren't spoilers
 app-emacs/objc-font-lock 20141021.1822: Highlight Objective-C method calls.
 app-emacs/objed 20200911.1435: Navigate and edit text objects.
 app-emacs/oblivion-theme 20230415.551: A port of GEdit oblivion theme
-app-emacs/obsidian 20230810.903: Obsidian Notes interface
+app-emacs/obsidian 20230821.1111: Obsidian Notes interface
 app-emacs/obsidian-theme 20170719.948: port of the eclipse obsidian theme
 app-emacs/ocamlformat 20230718.1531: Utility functions to format ocaml code
 app-emacs/occidental-theme 20130312.1958: Custom theme for faces based on Adwaita
@@ -4402,7 +4403,7 @@ app-emacs/replace-from-region 20170227.2316: Replace commands whose query is fro
 app-emacs/replace-pairs 20160207.1251: Query-replace pairs of things
 app-emacs/replace-symbol 20160518.12: Rename symbols in expressions or buffers
 app-emacs/replace-with-inflections 20180831.635: Inflection aware `query-replace'
-app-emacs/repo 20220820.1554: Running repo from Emacs
+app-emacs/repo 20230821.1032: Running repo from Emacs
 app-emacs/req-package 20180605.1141: A use-package wrapper for package runtime dependencies management
 app-emacs/request 20230127.417: Compatible layer for URL request
 app-emacs/request-deferred 20220614.1604: Wrap request.el by deferred
@@ -4644,7 +4645,7 @@ app-emacs/silkworm-theme 20210215.1120: Light theme with pleasant, low contrast 
 app-emacs/simp 20180607.254: Simple project definition, chiefly for file finding, and grepping
 app-emacs/simple-bookmarks 20190204.1426: Bookmark / functioncall manager
 app-emacs/simple-call-tree 20210625.2001: analyze source code based on font-lock text-properties
-app-emacs/simple-httpd 20230619.642: pure elisp HTTP server
+app-emacs/simple-httpd 20230821.1458: pure elisp HTTP server
 app-emacs/simple-indentation 20230625.1610: Simplify writing indentation functions, alternative to SMIE
 app-emacs/simple-modeline 20210312.1048: A simple mode-line configuration for Emacs
 app-emacs/simple-mpc 20220216.102: provides a simple interface to mpc
@@ -4772,7 +4773,7 @@ app-emacs/sozluk 20230730.1749: An online Turkish dictionary
 app-emacs/space-theming 20200502.1032: Easilly override theme faces
 app-emacs/spacebar 20190719.334: Workspaces Bar
 app-emacs/spacegray-theme 20150719.1931: A Hyperminimal UI Theme
-app-emacs/spaceline 20230221.2314: Modeline configuration library for powerline
+app-emacs/spaceline 20230821.1443: Modeline configuration library for powerline
 app-emacs/spaceline-all-the-icons 20190325.1602: A Spaceline theme using All The Icons
 app-emacs/spacemacs-theme 20230530.1751: Color theme with a dark and light versions
 app-emacs/spaces 20170809.2208: Create and switch between named window configurations.
@@ -4849,7 +4850,7 @@ app-emacs/strace-mode 20171116.2039: strace output syntax highlighting
 app-emacs/streak 20220311.1929: Track a daily streak in your Mode Line
 app-emacs/streamlink 20210811.1429: A major mode for streamlink output
 app-emacs/strie 20160211.2222: A simple trie data structure implementation
-app-emacs/string-edit-at-point 20220913.712: Avoid escape nightmares by editing string in separate buffer
+app-emacs/string-edit-at-point 20230118.1933: Avoid escape nightmares by editing string in separate buffer
 app-emacs/string-inflection 20220910.1306: underscore -> UPCASE -> CamelCase -> lowerCamelCase conversion of names
 app-emacs/string-utils 20140508.2041: String-manipulation utilities
 app-emacs/stripe-buffer 20141208.1508: Use a different background for even and odd lines
