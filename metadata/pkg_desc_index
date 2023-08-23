@@ -588,8 +588,8 @@ app-emacs/clockodo 20220604.2049: A small integration for the clockodo api
 app-emacs/clojars 20180825.1951: clojars.org search interface
 app-emacs/clojure-essential-ref 20221215.1427: Cider-doc to "Clojure, The Essential Reference"
 app-emacs/clojure-essential-ref-nov 20221215.1427: Cider-doc to "Clojure, The Essential Reference" (EPUB)
-app-emacs/clojure-mode 20230823.1141: Major mode for Clojure code
-app-emacs/clojure-mode-extra-font-locking 20230626.715: Extra font-locking for Clojure mode
+app-emacs/clojure-mode 20230823.1720: Major mode for Clojure code
+app-emacs/clojure-mode-extra-font-locking 20230823.1720: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 20150814.736: Quickly create Clojure and ClojureScript repls for a project.
 app-emacs/clojure-snippets 20220914.950: Yasnippets for clojure
 app-emacs/clojure-ts-mode 20230816.244: Major mode for Clojure code
@@ -602,7 +602,7 @@ app-emacs/clues-theme 20161213.1127: an Emacs 24 theme which may well be fully a
 app-emacs/cm-mode 20170203.2107: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 20230304.2223: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 20210610.1525: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 20230816.1746: major-mode for editing CMake sources
+app-emacs/cmake-mode 20230823.1325: major-mode for editing CMake sources
 app-emacs/cmake-project 20171121.1115: Integrates CMake build process with Emacs
 app-emacs/cmd-to-echo 20161203.2133: Show the output of long-running commands in the echo area
 app-emacs/cmm-mode 20150225.746: Major mode for C-- source code
@@ -829,7 +829,7 @@ app-emacs/cryptol-mode 20190531.2051: Cryptol major mode for Emacs
 app-emacs/crystal-playground 20180830.501: Local crystal playground for short code snippets.
 app-emacs/csgo-conf-mode 20161209.1619: CS:GO Configuration files syntax highlighting
 app-emacs/csharp-mode 20221126.2005: C# mode derived mode
-app-emacs/csound-mode 20230529.1850: A major mode for interacting and coding Csound
+app-emacs/csound-mode 20230823.1147: A major mode for interacting and coding Csound
 app-emacs/csproj-mode 20200801.1732: Work with .NET project files (csproj, vbproj)
 app-emacs/css-autoprefixer 20180311.1600: Adds autoprefix to CSS
 app-emacs/css-comb 20160416.559: Sort CSS properties in a particular order using CSS Comb
@@ -1060,7 +1060,7 @@ app-emacs/dna-mode 20191001.2108: a major mode for editing dna sequences
 app-emacs/doc-show-inline 20230808.1344: Show doc-strings found in external files
 app-emacs/docbook-snippets 20150714.1625: Yasnippets for DocBook
 app-emacs/docean 20180605.1744: Interact with DigitalOcean from Emacs.
-app-emacs/docker 20230823.619: Interface to Docker
+app-emacs/docker 20230823.937: Interface to Docker
 app-emacs/docker-api 20160525.720: Emacs interface to the Docker API
 app-emacs/docker-cli 20190524.1624: Running various commands in docker containers
 app-emacs/docker-compose-mode 20200830.1336: Major mode for editing docker-compose files
@@ -1219,7 +1219,7 @@ app-emacs/elbank 20180316.1343: Personal finances reporting application
 app-emacs/elcontext 20210109.1238: Create context specific actions
 app-emacs/elcord 20230627.1213: Allows you to integrate Rich Presence from Discord
 app-emacs/elcouch 20201108.955: View and manipulate CouchDB databases
-app-emacs/eldev 20230822.1920: Elisp development tool
+app-emacs/eldev 20230823.1748: Elisp development tool
 app-emacs/eldoc-box 20230810.503: Display documentation in childframe
 app-emacs/eldoc-cmake 20190419.2244: Eldoc support for CMake
 app-emacs/eldoc-eval 20220106.1951: Enable eldoc support when minibuffer is in use.
@@ -1242,7 +1242,7 @@ app-emacs/elfeed-goodies 20221003.1406: Elfeed goodies
 app-emacs/elfeed-org 20221118.852: Configure elfeed with one or more org-mode files
 app-emacs/elfeed-protocol 20230512.950: Provide fever/newsblur/owncloud/ttrss protocols for elfeed
 app-emacs/elfeed-score 20230728.1433: Gnus-style scoring for Elfeed
-app-emacs/elfeed-summary 20230813.942: Feed summary interface for elfeed
+app-emacs/elfeed-summary 20230823.925: Feed summary interface for elfeed
 app-emacs/elfeed-tube 20230627.1930: YouTube integration for Elfeed
 app-emacs/elfeed-tube-mpv 20230607.717: Control mpv from Elfeed
 app-emacs/elfeed-web 20210226.258: web interface to Elfeed
@@ -1571,7 +1571,7 @@ app-emacs/eyebrowse-restore 20230312.1821: Persistent Eyebrowse for all frames
 app-emacs/eyuml 20141028.2227: Write textual uml diagram from emacs using yuml.me
 app-emacs/ez-query-replace 20210724.2247: a smarter context-sensitive query-replace that can be reapplied
 app-emacs/eziam-themes 20230820.917: The mostly monochrome Eziam theme family.
-app-emacs/f 20230704.1346: Modern API for working with files and directories
+app-emacs/f 20230823.1159: Modern API for working with files and directories
 app-emacs/f3 20180130.1158: a helm interface to find
 app-emacs/fabric 20171116.656: Launch Fabric using Emacs
 app-emacs/face-explorer 20190517.1857: Library and tools for faces and text properties
@@ -1883,7 +1883,7 @@ app-emacs/fountain-mode 20230714.609: Major mode for screenwriting in Fountain m
 app-emacs/fpga 20230606.925: FPGA & ASIC Utils
 app-emacs/fraktur-mode 20160815.227: Easily insert Unicode mathematical Fraktur characters
 app-emacs/frame-local 20180330.940: Variables local to a frame
-app-emacs/frame-mode 20230823.555: Use frames instead of windows
+app-emacs/frame-mode 20230823.1850: Use frames instead of windows
 app-emacs/frame-purpose 20211011.1518: Purpose-specific frames
 app-emacs/frame-tag 20170111.6: Minor mode that assigns a unique number to each frame for easy switching
 app-emacs/frames-only-mode 20210107.918: Use frames instead of Emacs windows
@@ -2728,7 +2728,7 @@ app-emacs/jonprl-mode 20160819.59: A major mode for editing JonPRL files
 app-emacs/journalctl-mode 20221119.1653: Sample major mode for viewing output journalctl
 app-emacs/jpop 20170410.1250: Lightweight project caching and navigation framework
 app-emacs/jq-format 20190428.1434: Reformat JSON and JSONLines using jq
-app-emacs/jq-mode 20230816.809: Edit jq scripts.
+app-emacs/jq-mode 20230823.1003: Edit jq scripts.
 app-emacs/jquery-doc 20150812.758: jQuery api documentation interface for emacs
 app-emacs/js-auto-beautify 20161031.509: auto format you js/jsx file
 app-emacs/js-auto-format-mode 20180807.1352: Minor mode for auto-formatting JavaScript code
@@ -3023,7 +3023,7 @@ app-emacs/lsp-dart 20230516.52: Dart support lsp-mode
 app-emacs/lsp-docker 20230815.718: LSP Docker integration
 app-emacs/lsp-focus 20200906.1917: focus.el support for lsp-mode
 app-emacs/lsp-grammarly 20230814.1827: LSP Clients for Grammarly
-app-emacs/lsp-haskell 20230821.929: Haskell support for lsp-mode
+app-emacs/lsp-haskell 20230823.1043: Haskell support for lsp-mode
 app-emacs/lsp-intellij 20180831.2051: intellij lsp client
 app-emacs/lsp-ivy 20220831.1823: LSP ivy integration
 app-emacs/lsp-java 20230815.717: Java support for lsp-mode
@@ -3720,7 +3720,7 @@ app-emacs/org-octopress 20170821.415: Compose octopress articles using org-mode.
 app-emacs/org-onenote 20171008.500: export org-mode document to onenote.
 app-emacs/org-outline-numbering 20180705.1501: Show outline numbering as overlays in org-mode
 app-emacs/org-outlook 20160705.1338: Outlook org
-app-emacs/org-page 20230821.929: a static site generator based on org mode
+app-emacs/org-page 20230823.1105: a static site generator based on org mode
 app-emacs/org-parser 20200417.301: parse org files into structured datatypes.
 app-emacs/org-pdftools 20220320.301: Support for links to documents in pdfview mode
 app-emacs/org-picklink 20210210.516: Pick a headline link from org-agenda
@@ -3995,7 +3995,7 @@ app-emacs/pepita 20200228.2257: Run Splunk search commands, export results to CS
 app-emacs/per-buffer-theme 20221002.2219: Change theme and font according to buffer name or major mode.
 app-emacs/perfect-margin 20220426.1701: auto center windows, work with minimap and/or linum-mode
 app-emacs/perject 20230605.841: Session-persistent project management
-app-emacs/perlbrew 20161109.709: A perlbrew wrapper for Emacs
+app-emacs/perlbrew 20230823.1652: A perlbrew wrapper for Emacs
 app-emacs/persist-state 20230728.714: Regularly persist bookmarks, history, recent files and more
 app-emacs/persistent-overlays 20161128.700: Minor mode to store selected overlays to be loaded later
 app-emacs/persistent-scratch 20230225.1439: Preserve the scratch buffer across Emacs sessions
@@ -4483,7 +4483,7 @@ app-emacs/rufo 20170718.1416: use rufo to automatically format ruby files
 app-emacs/ruled-switch-buffer 20211205.636: Rule based buffer switching
 app-emacs/rum-mode 20180127.22: Major mode for Rum programming language
 app-emacs/run-command 20230317.2004: Run an external command from a context-dependent list
-app-emacs/run-command-recipes 20230815.1224: This is collection of recipes to `run-command'
+app-emacs/run-command-recipes 20230823.1307: This is collection of recipes to `run-command'
 app-emacs/run-stuff 20230601.19: Context based command execution
 app-emacs/runner 20160524.1048: Improved "open with" suggestions for dired
 app-emacs/runtests 20150807.831: Run unit tests from Emacs
@@ -4909,7 +4909,7 @@ app-emacs/sxiv 20220530.14: Run the Simple X Image Viewer, with Dired integratio
 app-emacs/symbol-navigation-hydra 20211010.2353: A symbol-aware, range-aware hydra
 app-emacs/symbol-overlay 20230729.807: Highlight symbols with keymap-enabled overlays
 app-emacs/symbolist 20211107.1615: List and interactively unbind Emacs Lisp symbols
-app-emacs/symbols-outline 20230823.958: Display symbols (functions, variables, etc) in outline view
+app-emacs/symbols-outline 20230823.1542: Display symbols (functions, variables, etc) in outline view
 app-emacs/symbolword-mode 20180401.1427: modify word split
 app-emacs/symex 20230322.2003: An evil way to edit Lisp symbolic expressions as trees
 app-emacs/symon 20170224.833: tiny graphical system monitor
@@ -4961,7 +4961,7 @@ app-emacs/tco 20191129.2040: Tail-call optimisation for Emacs lisp
 app-emacs/tea-time 20120331.820: Simple timer package, useful to make perfect tea.
 app-emacs/teacode-expand 20181231.640: Expansion of text by TeaCode program.
 app-emacs/teco 20200707.2309: Teco interpreter
-app-emacs/telega 20230822.2127: Telegram client (unofficial)
+app-emacs/telega 20230823.1026: Telegram client (unofficial)
 app-emacs/telepathy 20131209.1258: Access Telepathy from Emacs
 app-emacs/telephone-line 20230322.442: Rewrite of Powerline
 app-emacs/teleport 20230723.2009: Integration for tsh (goteleport.com)
@@ -5246,8 +5246,8 @@ app-emacs/vegetative-theme 20220822.353: A Theme based on green CRT terminals
 app-emacs/verb 20230711.1636: Organize and send HTTP requests
 app-emacs/veri-kompass 20200213.934: verilog codebase navigation facility
 app-emacs/verify-url 20160426.1228: find out invalid urls in the buffer or region
-app-emacs/verilog-ext 20230822.2115: SystemVerilog Extensions
-app-emacs/verilog-ts-mode 20230822.1827: Verilog Tree-sitter major mode
+app-emacs/verilog-ext 20230823.1142: SystemVerilog Extensions
+app-emacs/verilog-ts-mode 20230823.1142: Verilog Tree-sitter major mode
 app-emacs/verona-mode 20200823.536: A major mode for the Verona programming language
 app-emacs/versuri 20211104.1301: The lyrics package
 app-emacs/vertica 20131217.1511: Vertica SQL mode extension
