@@ -1,12 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Upload sharing to 0x0.st
+DESCRIPTION=Simple G-Code major mode
 EAPI=8
-HOMEPAGE=https://git.sr.ht/~willvaughn/emacs-0x0
+HOMEPAGE=https://gitlab.com/wavexx/gcode-mode.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/0x0-20230816.1829.tar
+SRC_URI=https://melpa.org/packages/gcode-mode-20230823.2141.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	b3b15bdbe800c721e93b69b70cce2b67	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=711b30f30f6365ade987109854194daf
+_md5_=226aceffaa7a35b4f4c1f804cacf541c
