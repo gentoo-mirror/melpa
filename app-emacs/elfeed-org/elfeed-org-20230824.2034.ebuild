@@ -19,10 +19,6 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/elfeed
-	app-emacs/org-mode
-	app-emacs/dash
-	app-emacs/s"
+	app-emacs/org-mode"
 RDEPEND="app-emacs/elfeed
-	app-emacs/org-mode
-	app-emacs/dash
-	app-emacs/s"
+	app-emacs/org-mode"
