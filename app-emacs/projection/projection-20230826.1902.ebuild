@@ -5,18 +5,22 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="apheleia"
+REALNAME="projection"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Reformat buffer stably"
+DESCRIPTION="Project type support for \`project'"
 
-HOMEPAGE="https://github.com/raxod502/apheleia"
+HOMEPAGE="https://github.com/mohkale/projection"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/project
+	app-emacs/compat
+	app-emacs/f"
+RDEPEND="app-emacs/project
+	app-emacs/compat
+	app-emacs/f"

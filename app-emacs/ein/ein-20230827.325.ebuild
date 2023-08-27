@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs IPython Notebook"
+DESCRIPTION="jupyter notebook client"
 
 HOMEPAGE="https://github.com/dickmao/emacs-ipython-notebook"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
