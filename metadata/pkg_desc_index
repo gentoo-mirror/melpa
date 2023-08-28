@@ -182,6 +182,7 @@ app-emacs/async 20230528.622: Asynchronous processing in Emacs
 app-emacs/async-await 20220827.437: Async/Await
 app-emacs/async-backup 20220131.1438: Backup on each save without freezing Emacs
 app-emacs/async-job-queue 20230427.2122: Dispatch queue of async jobs to a fixed number of slots
+app-emacs/async-status 20230821.204: A package for indicator support
 app-emacs/atcoder-tools 20200109.1236: An atcoder-tools client
 app-emacs/atl-long-lines 20220704.644: Turn off truncate-lines when the line is long
 app-emacs/atl-markup 20220704.644: Automatically truncate lines for markup languages
@@ -466,6 +467,7 @@ app-emacs/cargo-transient 20230512.131: A transient UI for Cargo, Rust's package
 app-emacs/caroline-theme 20160318.520: A trip down to New Orleans...
 app-emacs/cascading-dir-locals 20211013.1955: Apply all (!) .dir-locals.el from root to current directory
 app-emacs/caseformat 20160115.1615: Format based letter case converter
+app-emacs/caser 20230823.1527: Change text casing from camelCase to dash-case to snake_case
 app-emacs/cask-mode 20160410.1449: major mode for editing Cask files
 app-emacs/cask-package-toolset 20170921.2256: Toolsettize your package
 app-emacs/caskxy 20140513.1539: Control Cask in Emacs
@@ -535,7 +537,7 @@ app-emacs/chronometrist-spark 20230629.1039: Show sparklines in Chronometrist bu
 app-emacs/chronos 20230804.1712: Multiple simultaneous countdown / countup timers
 app-emacs/chruby 20180114.1652: Emacs integration for chruby
 app-emacs/chyla-theme 20221213.1012: chyla.org - green color theme.
-app-emacs/cider 20230826.2159: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 20230827.1616: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-decompile 20151122.537: decompilation extension for cider
 app-emacs/cider-eval-sexp-fu 20190311.2152: Briefly highlights an evaluated sexp.
 app-emacs/cider-hydra 20190816.1121: Hydras for CIDER.
@@ -722,7 +724,7 @@ app-emacs/company-ycm 20140904.1817: company-ycm
 app-emacs/company-ycmd 20180520.1053: company-mode backend for ycmd
 app-emacs/compdef 20200304.611: A local completion definer
 app-emacs/competitive-programming-snippets 20201115.1702: Competitive Programming snippets for yasnippet
-app-emacs/compile-multi 20230822.1933: A multi target interface to compile
+app-emacs/compile-multi 20230827.2151: A multi target interface to compile
 app-emacs/compile-multi-all-the-icons 20230822.1933: Affixate `compile-multi' with icons
 app-emacs/compiler-explorer 20221108.825: Compiler explorer client (godbolt.org)
 app-emacs/composable 20220608.1148: composable editing
@@ -740,7 +742,7 @@ app-emacs/consult 20230821.2055: Consulting completing-read
 app-emacs/consult-ag 20230227.406: The silver searcher integration using Consult
 app-emacs/consult-codesearch 20230315.1424: Consult interface for codesearch
 app-emacs/consult-company 20230606.1824: Consult frontend for company
-app-emacs/consult-compile-multi 20230822.1933: Consulting read support for `compile-multi'
+app-emacs/consult-compile-multi 20230827.2151: Consulting read support for `compile-multi'
 app-emacs/consult-dash 20230529.1419: Consult front-end for dash-docs
 app-emacs/consult-dir 20230725.2338: Insert paths into the minibuffer prompt
 app-emacs/consult-eglot 20230423.1505: A consulting-read interface for eglot
@@ -868,7 +870,7 @@ app-emacs/cyphejor 20230606.1501: Shorten major mode names using user-defined ru
 app-emacs/cypher-mode 20151110.1142: major mode for editing cypher scripts
 app-emacs/cython-mode 20221130.1257: Major mode for editing Cython files
 app-emacs/czech-holidays 20160113.1752: Adds a list of Czech public holidays to Emacs calendar
-app-emacs/d-mode 20220602.649: D Programming Language major mode for (X)Emacs
+app-emacs/d-mode 20230827.2032: D Programming Language major mode for (X)Emacs
 app-emacs/d2-mode 20230210.1130: Major mode for working with d2 graphs
 app-emacs/dactyl-mode 20140906.1725: Major mode for editing Pentadactyl config files
 app-emacs/dad-joke 20170928.658: Get/display dad jokes
@@ -935,6 +937,7 @@ app-emacs/demangle-mode 20210822.2210: Automatically demangle C++, D, and Rust s
 app-emacs/demap 20220322.2309: Detachable minimap package
 app-emacs/demo-it 20211221.2152: Create demonstrations
 app-emacs/deno-fmt 20230117.1117: Minor mode for using deno fmt on save
+app-emacs/deno-ts-mode 20230823.1554: Major mode for Deno
 app-emacs/describe-hash 20200718.1556: Help function for examining a hash map
 app-emacs/describe-number 20151101.55: Describe arbitrarily large number at point.
 app-emacs/desktop+ 20170107.2132: Handle special buffers when saving & restoring sessions
@@ -2490,7 +2493,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20230827.829: P2P filesystem
+app-emacs/hyperdrive 20230827.2045: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -3013,7 +3016,7 @@ app-emacs/look-dired 20160729.2323: Extensions to look-mode for dired buffers
 app-emacs/look-mode 20220626.641: quick file viewer for image and text file browsing
 app-emacs/loop 20160813.1407: friendly imperative loop structures
 app-emacs/loophole 20221126.1556: Manage temporary key bindings
-app-emacs/loopy 20230812.1837: A looping macro
+app-emacs/loopy 20230827.1900: A looping macro
 app-emacs/loopy-dash 20230501.225: Dash destructuring for `loopy'
 app-emacs/lorem-ipsum 20221214.1857: Insert dummy pseudo Latin text
 app-emacs/lox-mode 20200619.1700: Major mode for the Lox programming language
@@ -3563,6 +3566,7 @@ app-emacs/objed 20200911.1435: Navigate and edit text objects.
 app-emacs/oblivion-theme 20230415.551: A port of GEdit oblivion theme
 app-emacs/obsidian 20230821.1111: Obsidian Notes interface
 app-emacs/obsidian-theme 20170719.948: port of the eclipse obsidian theme
+app-emacs/ocaml-ts-mode 20230820.1946: Major mode for OCaml using tree-sitter
 app-emacs/ocamlformat 20230718.1531: Utility functions to format ocaml code
 app-emacs/occidental-theme 20130312.1958: Custom theme for faces based on Adwaita
 app-emacs/occur-context-resize 20210121.50: dynamically resize context around matches in occur-mode
@@ -3754,6 +3758,7 @@ app-emacs/org-rich-yank 20230605.824: Paste with org-mode markup and link to sou
 app-emacs/org-roam 20230307.1721: A database abstraction layer for Org-mode
 app-emacs/org-roam-bibtex 20230628.2036: Org Roam meets BibTeX
 app-emacs/org-roam-ql 20230823.2249: Interface to query and view results from org-roam
+app-emacs/org-roam-ql-ql 20230820.1942: Intgrating org-roam and org-ql
 app-emacs/org-roam-timestamps 20221104.1544: Keep track of modification times for org-roam
 app-emacs/org-roam-ui 20221105.1040: User Interface for Org-roam
 app-emacs/org-ros 20220320.1705: Rahul's Org-Mode Screenshot
@@ -4697,6 +4702,7 @@ app-emacs/smart-comment 20160322.1839: smarter commenting
 app-emacs/smart-compile 20230822.1208: an interface to `compile'
 app-emacs/smart-cursor-color 20201207.2228: Change cursor color dynamically
 app-emacs/smart-dash 20220704.1645: Smart-Dash minor mode
+app-emacs/smart-delete 20230802.1113: IntelliJ-like backspace/delete
 app-emacs/smart-forward 20140430.713: Semantic navigation
 app-emacs/smart-hungry-delete 20220516.1538: smart hungry deletion of whitespace
 app-emacs/smart-indent-rigidly 20141206.15: Smart rigid indenting
