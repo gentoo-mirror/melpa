@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/ts
-DESCRIPTION=Programmable, interactive interval timers
+DEPEND=app-emacs/request app-emacs/persist
+DESCRIPTION=Client for fediverse services using the Mastodon API
 EAPI=8
-HOMEPAGE=https://github.com/alphapapa/hammy.el
+HOMEPAGE=https://codeberg.org/martianh/mastodon.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/ts >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/request app-emacs/persist >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/hammy-20230702.342.tar
+SRC_URI=https://melpa.org/packages/mastodon-20230830.1959.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	b3b15bdbe800c721e93b69b70cce2b67	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=a409ce15b40e0018e3fa98e1bf94e602
+_md5_=df4148e5ed1ad5f7093a5ecadfcb57db
