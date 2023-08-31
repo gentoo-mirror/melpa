@@ -5,22 +5,20 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="mastodon"
+REALNAME="hammy"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Client for fediverse services using the Mastodon API"
+DESCRIPTION="Programmable, interactive interval timers"
 
-HOMEPAGE="https://codeberg.org/martianh/mastodon.el"
+HOMEPAGE="https://github.com/alphapapa/hammy.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/request
-	app-emacs/persist
+DEPEND="app-emacs/svg-lib
 	app-emacs/ts"
-RDEPEND="app-emacs/request
-	app-emacs/persist
+RDEPEND="app-emacs/svg-lib
 	app-emacs/ts"
