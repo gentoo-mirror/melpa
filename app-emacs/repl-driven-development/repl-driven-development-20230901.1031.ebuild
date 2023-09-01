@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Send arbitrary code to a REPL in the background"
 
-HOMEPAGE="https://alhassy.github.io/repl-driven-development/"
+HOMEPAGE="https://alhassy.com/repl-driven-development"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
@@ -22,9 +22,13 @@ DEPEND="app-emacs/s
 	app-emacs/dash
 	app-emacs/eros
 	app-emacs/bind-key
-	app-emacs/org-mode"
+	app-emacs/f
+	app-emacs/devdocs
+	app-emacs/pulsar"
 RDEPEND="app-emacs/s
 	app-emacs/dash
 	app-emacs/eros
 	app-emacs/bind-key
-	app-emacs/org-mode"
+	app-emacs/f
+	app-emacs/devdocs
+	app-emacs/pulsar"
