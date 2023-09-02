@@ -279,7 +279,7 @@ app-emacs/base16-theme 20230716.215: Collection of themes built on combinations 
 app-emacs/bash-completion 20230612.1103: Bash completion for the shell buffer
 app-emacs/basic-c-compile 20170302.1112: Quickly create a Makefile, compile and run C.
 app-emacs/basic-ide 20230118.1040: BASIC IDE c64
-app-emacs/basic-mode 20230826.1326: Major mode for editing BASIC code
+app-emacs/basic-mode 20230902.1556: Major mode for editing BASIC code
 app-emacs/basic-theme 20160817.827: Minimalistic light color theme
 app-emacs/bats-mode 20230325.7: Emacs mode for editing and running Bats tests
 app-emacs/battery-notifier 20220705.2030: Notify when battery capacity is low
@@ -298,7 +298,7 @@ app-emacs/beans 20221114.1634: Major mode for Beans grammar
 app-emacs/bech32 20221210.1154: Bech32 library
 app-emacs/beef-mode 20221227.203: A major mode for the Beef programming language
 app-emacs/beeminder 20201227.2024: Emacs interface for Beeminder
-app-emacs/beginend 20230303.754: Redefine M-< and M-> for some modes
+app-emacs/beginend 20230902.1458: Redefine M-< and M-> for some modes
 app-emacs/belarus-holidays 20190102.1343: Belarus holidays whith transfers
 app-emacs/benchmark-init 20220414.1612: Benchmarks for require and load calls
 app-emacs/benchstat 20171014.312: proper benchmarking made simple
@@ -398,7 +398,7 @@ app-emacs/bts-github 20170401.1249: A plugin of bts.el for GitHub
 app-emacs/bubbleberry-theme 20141017.944: A theme based on LightTable for Emacs24
 app-emacs/buckwalter 20191119.1950: Write arabic using Buckwalter transliteration
 app-emacs/buffer-buttons 20150106.1439: Define, save, and load code-safe buttons in files for emacs
-app-emacs/buffer-env 20221110.2137: Buffer-local process environments
+app-emacs/buffer-env 20230902.1514: Buffer-local process environments
 app-emacs/buffer-flip 20220718.10: Cycle through buffers like Alt-Tab in Windows
 app-emacs/buffer-manage 20211122.1957: Manage buffers
 app-emacs/buffer-move 20220512.755: easily swap buffers
@@ -1222,7 +1222,7 @@ app-emacs/elbank 20180316.1343: Personal finances reporting application
 app-emacs/elcontext 20210109.1238: Create context specific actions
 app-emacs/elcord 20230627.1213: Allows you to integrate Rich Presence from Discord
 app-emacs/elcouch 20201108.955: View and manipulate CouchDB databases
-app-emacs/eldev 20230901.1948: Elisp development tool
+app-emacs/eldev 20230902.1637: Elisp development tool
 app-emacs/eldoc-box 20230810.503: Display documentation in childframe
 app-emacs/eldoc-cmake 20190419.2244: Eldoc support for CMake
 app-emacs/eldoc-eval 20220106.1951: Enable eldoc support when minibuffer is in use.
@@ -4201,8 +4201,8 @@ app-emacs/projectile-sift 20160107.1015: Run a sift with Projectile
 app-emacs/projectile-speedbar 20190807.2010: projectile integration for speedbar
 app-emacs/projectile-trailblazer 20170928.1624: Minor mode for Rails projects using trailblazer
 app-emacs/projectile-variable 20170208.1718: Store project local variables.
-app-emacs/projection 20230826.1902: Project type support for `project'
-app-emacs/projection-multi 20230826.1801: Projection integration for `compile-multi'
+app-emacs/projection 20230901.2015: Project type support for `project'
+app-emacs/projection-multi 20230827.2155: Projection integration for `compile-multi'
 app-emacs/projector 20211112.1514: Lightweight library for managing project-aware shell and command buffers
 app-emacs/projekt 20150324.848: some kind of staging for CVS
 app-emacs/projmake-mode 20161031.1715: Project oriented automatic builder and error highlighter, flymake for projects
@@ -4748,7 +4748,7 @@ app-emacs/snap-indent 20230704.1833: Simple automatic indentation
 app-emacs/snapshot-timemachine 20161221.929: Step through (Btrfs, ZFS, ...) snapshots of files
 app-emacs/snapshot-timemachine-rsnapshot 20170324.1213: rsnapshot backend for snapshot-timemachine
 app-emacs/snazzy-theme 20170828.757: An elegant syntax theme with bright colors
-app-emacs/sniem 20230822.358: Hands-eased united editing method
+app-emacs/sniem 20230902.1613: Hands-eased united editing method
 app-emacs/snitch 20210202.1730: An Emacs firewall
 app-emacs/snoopy 20171008.2004: minor mode for number row unshifted character insertion
 app-emacs/snow 20221226.2238: Let it snow in Emacs!
@@ -4949,7 +4949,7 @@ app-emacs/tabbar-ruler 20160802.307: Pretty tabbar, autohide, use both tabbar/ru
 app-emacs/tabgo 20230425.907: Jump to tabs, avy style
 app-emacs/tablist 20230321.705: Extended tabulated-list-mode
 app-emacs/tabnine 20230801.219: An unofficial TabNine package with TabNine Chat supported
-app-emacs/tabspaces 20230831.1645: Leverage tab-bar and project for buffer-isolated workspaces
+app-emacs/tabspaces 20230902.1522: Leverage tab-bar and project for buffer-isolated workspaces
 app-emacs/tabula-rasa 20141216.547: Distraction free writing mode
 app-emacs/tagedit 20161121.855: Some paredit-like features for html-mode
 app-emacs/take-off 20140531.917: Emacs remote web access
@@ -5078,7 +5078,7 @@ app-emacs/tornado-template-mode 20141128.1008: A major mode for editing tornado 
 app-emacs/torus 20190325.753: A buffer groups manager
 app-emacs/total-lines 20171227.1239: Keep track of a buffer's total number of lines
 app-emacs/totd 20150519.1440: Display a random daily emacs command.
-app-emacs/totp 20230102.1707: Time-based One-time Password (TOTP)
+app-emacs/totp 20230902.1828: Time-based One-time Password (TOTP)
 app-emacs/tox 20170404.1059: Launch current python test with tox
 app-emacs/toxi-theme 20160424.2126: A dark color theme by toxi
 app-emacs/tql-mode 20170724.254: TQL mode
