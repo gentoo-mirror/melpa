@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="libelcouch"
+REALNAME="navigel"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Communication with CouchDB"
+DESCRIPTION="Facilitate the creation of tabulated-list based UIs"
 
-HOMEPAGE="https://gitlab.petton.fr/elcouch/libelcouch/"
+HOMEPAGE="https://github.com/DamienCassou/navigel"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/request"
-RDEPEND="app-emacs/request"
+DEPEND="app-emacs/tablist"
+RDEPEND="app-emacs/tablist"
