@@ -18,7 +18,8 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/eglot
+DEPEND="app-emacs/vhdl-ts-mode
+	app-emacs/eglot
 	app-emacs/lsp-mode
 	app-emacs/ag
 	app-emacs/ripgrep
@@ -27,7 +28,8 @@ DEPEND="app-emacs/eglot
 	app-emacs/company
 	app-emacs/outshine
 	app-emacs/async"
-RDEPEND="app-emacs/eglot
+RDEPEND="app-emacs/vhdl-ts-mode
+	app-emacs/eglot
 	app-emacs/lsp-mode
 	app-emacs/ag
 	app-emacs/ripgrep
