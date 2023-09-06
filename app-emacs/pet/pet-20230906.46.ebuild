@@ -5,18 +5,22 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="org-ai"
+REALNAME="pet"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Your AI assistant with ChatGPT, DALL-E, Whisper, Stable Diffusion"
+DESCRIPTION="Executable and virtualenv tracker for python-mode"
 
-HOMEPAGE="https://github.com/rksm/org-ai"
+HOMEPAGE="https://github.com/wyuenho/emacs-pet/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/f
+	app-emacs/map
+	app-emacs/seq"
+RDEPEND="app-emacs/f
+	app-emacs/map
+	app-emacs/seq"
