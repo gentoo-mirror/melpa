@@ -237,7 +237,7 @@ app-emacs/auto-virtualenvwrapper 20230317.1313: Lightweight auto activate python
 app-emacs/auto-yasnippet 20230208.331: Quickly create disposable yasnippets
 app-emacs/autobookmarks 20220509.1712: Save recently visited files and buffers
 app-emacs/autobuild 20230906.1629: Define and execute build rules and compilation pipelines
-app-emacs/autodisass-java-bytecode 20211005.1920: Automatically disassemble Java bytecode
+app-emacs/autodisass-java-bytecode 20230907.1729: Automatically disassemble Java bytecode
 app-emacs/autodisass-llvm-bitcode 20150411.125: Automatically disassemble LLVM bitcode
 app-emacs/autoscratch 20230612.719: Automatically switch scratch buffer mode
 app-emacs/autotetris-mode 20141114.1646: automatically play tetris
@@ -1083,9 +1083,9 @@ app-emacs/dokuwiki 20180102.59: Edit Remote DokuWiki Pages Using XML-RPC
 app-emacs/dokuwiki-mode 20170223.1301: Major mode for DokuWiki document
 app-emacs/dollaro 20151123.1302: simple text templates
 app-emacs/doom 20180301.2308: DOM implementation and manipulation library
-app-emacs/doom-modeline 20230906.311: A minimal and modern mode-line
+app-emacs/doom-modeline 20230908.259: A minimal and modern mode-line
 app-emacs/doom-modeline-now-playing 20210831.1442: Segment for Doom Modeline to show playerctl information
-app-emacs/doom-themes 20230907.1633: an opinionated pack of modern color-themes
+app-emacs/doom-themes 20230907.1657: an opinionated pack of modern color-themes
 app-emacs/dot-env 20230820.2014: Dotenv functionality
 app-emacs/dot-mode 20180312.2300: minor mode to repeat typing or commands
 app-emacs/dotenv-mode 20191027.2129: Major mode for .env files
@@ -1125,7 +1125,7 @@ app-emacs/duplicate-thing 20181031.1500: Duplicate current line & selection
 app-emacs/dut-mode 20170729.2111: Major mode for the Dut programming language
 app-emacs/dw 20210331.2311: Diceware passphrase generation commands
 app-emacs/dwim-coder-mode 20230830.1215: DWIM keybindings for C, Python, Rust, and more
-app-emacs/dwim-shell-command 20230730.1153: Shell commands with DWIM behaviour
+app-emacs/dwim-shell-command 20230907.2028: Shell commands with DWIM behaviour
 app-emacs/dyalog-mode 20230214.1027: Major mode for editing Dyalog APL source code
 app-emacs/dylan 20220115.1804: Dylan editing modes
 app-emacs/dynamic-fonts 20140731.1226: Set faces based on available fonts
@@ -1464,7 +1464,7 @@ app-emacs/evalator 20160213.128: Package for interactive transformation of data 
 app-emacs/evalator-clojure 20160208.2148: Clojure evaluation context for evalator via CIDER.
 app-emacs/eve-mode 20170822.2231: Major mode for editing Eve documents.
 app-emacs/everlasting-scratch 20230105.507: The *scratch* that lasts forever
-app-emacs/evil 20230828.1342: Extensible Vi layer for Emacs.
+app-emacs/evil 20230908.544: Extensible Vi layer for Emacs.
 app-emacs/evil-anzu 20220911.1939: anzu for evil-mode
 app-emacs/evil-args 20220125.1626: Motions and text objects for delimited arguments in Evil.
 app-emacs/evil-avy 20150908.748: set-based completion
@@ -1565,7 +1565,7 @@ app-emacs/exsqlaim-mode 20170607.1003: Use variables inside sql queries
 app-emacs/extempore-mode 20220704.2241: Emacs major mode for Extempore source files
 app-emacs/extend-dnd 20151122.1850: R drag and Drop
 app-emacs/external-dict 20230313.118: Query external dictionary like goldendict, Bob.app etc
-app-emacs/extmap 20230905.1753: Externally-stored constant mapping for Elisp
+app-emacs/extmap 20230907.1959: Externally-stored constant mapping for Elisp
 app-emacs/exunit 20230730.445: ExUnit test runner
 app-emacs/exwm-edit 20220414.106: Edit mode for EXWM
 app-emacs/exwm-firefox-core 20190812.2110: Firefox hotkeys to functions
@@ -2094,7 +2094,7 @@ app-emacs/god-mode 20221230.708: Minor mode for God-like command entering
 app-emacs/godoctor 20180710.2152: Frontend for godoctor
 app-emacs/goggles 20230428.1547: Pulse modified regions
 app-emacs/gold-mode 20140607.206: Major mode for editing .gold files
-app-emacs/golden-ratio 20191028.1732: Automatic resizing of Emacs windows to the golden ratio
+app-emacs/golden-ratio 20230907.2258: Automatic resizing of Emacs windows to the golden ratio
 app-emacs/golden-ratio-scroll-screen 20221102.240: Scroll half screen down or up, and highlight current line
 app-emacs/golint 20180221.2015: lint for the Go source code
 app-emacs/gom-mode 20131008.253: Major mode for Gomfile
@@ -2499,7 +2499,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20230907.813: P2P filesystem
+app-emacs/hyperdrive 20230908.653: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -3085,7 +3085,7 @@ app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20180219.1552: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-mode 20230817.1258: mode for editing Magik + some utils.
-app-emacs/magit 20230905.1712: A Git porcelain inside Emacs.
+app-emacs/magit 20230907.2217: A Git porcelain inside Emacs.
 app-emacs/magit-annex 20230407.1200: Control git-annex from Magit
 app-emacs/magit-commit-mark 20230420.304: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3103,7 +3103,7 @@ app-emacs/magit-patch-changelog 20221209.123: Generate a patch according to emac
 app-emacs/magit-popup 20200719.1015: Define prefix-infix-suffix command combos
 app-emacs/magit-rbr 20181009.2016: Support for git rbr in Magit
 app-emacs/magit-reviewboard 20200727.1748: Show open Reviewboard reviews in Magit
-app-emacs/magit-section 20230905.1720: Sections for read-only buffers.
+app-emacs/magit-section 20230907.2217: Sections for read-only buffers.
 app-emacs/magit-stats 20230223.1819: Generates GIT Repo Statistics Report
 app-emacs/magit-stgit 20220914.1349: StGit extension for Magit
 app-emacs/magit-svn 20220314.1451: Git-Svn extension for Magit
@@ -3749,7 +3749,7 @@ app-emacs/org-project-capture 20230830.1733: Repository todo capture and managem
 app-emacs/org-projectile 20230817.851: Repository todo capture and management for org-mode with projectile
 app-emacs/org-projectile-helm 20230817.801: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 20170328.1639: Jekyll's handler for org-protocol
-app-emacs/org-ql 20230907.151: Org Query Language, search command, and agenda-like view
+app-emacs/org-ql 20230908.722: Org Query Language, search command, and agenda-like view
 app-emacs/org-radiobutton 20210519.1225: Radiobutton for org-mode lists.
 app-emacs/org-rainbow-tags 20230607.1927: Colorize org tags automatically
 app-emacs/org-random-todo 20190214.2057: show a random TODO (with alert) every so often
@@ -4269,7 +4269,7 @@ app-emacs/pydoc 20221222.1426: functional, syntax highlighted pydoc navigation
 app-emacs/pyenv-mode 20230821.1645: Integrate pyenv with python-mode
 app-emacs/pygen 20161121.506: Python code generation using Elpy and Python-mode.
 app-emacs/pygn-mode 20230606.42: Major-mode for chess PGN files, powered by Python
-app-emacs/pyim 20230412.134: A Chinese input method support quanpin, shuangpin, wubi, cangjie and rime.
+app-emacs/pyim 20230908.39: A Chinese input method support quanpin, shuangpin, wubi, cangjie and rime.
 app-emacs/pyim-basedict 20220614.1108: The default pinyin dict of pyim
 app-emacs/pyim-cangjiedict 20210617.934: Some cangjie dicts for pyim
 app-emacs/pyim-smzmdict 20210505.1445: Sanma(triple) Zhengma dict for pyim
@@ -5122,7 +5122,7 @@ app-emacs/tree-sitter-indent 20220411.1439: Provide indentation with a Tree-sitt
 app-emacs/tree-sitter-ispell 20230205.533: Run ispell on tree-sitter text nodes
 app-emacs/tree-sitter-langs 20230906.509: Grammar bundle for tree-sitter
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
-app-emacs/treemacs 20230830.1936: A tree style file explorer package
+app-emacs/treemacs 20230907.2010: A tree style file explorer package
 app-emacs/treemacs-all-the-icons 20230408.1109: all-the-icons integration for treemacs
 app-emacs/treemacs-evil 20230822.2039: Evil mode integration for treemacs
 app-emacs/treemacs-icons-dired 20230408.1109: Treemacs icons for dired
@@ -5265,7 +5265,7 @@ app-emacs/vegetative-theme 20220822.353: A Theme based on green CRT terminals
 app-emacs/verb 20230825.2151: Organize and send HTTP requests
 app-emacs/veri-kompass 20200213.934: verilog codebase navigation facility
 app-emacs/verify-url 20160426.1228: find out invalid urls in the buffer or region
-app-emacs/verilog-ext 20230905.1523: SystemVerilog Extensions
+app-emacs/verilog-ext 20230907.1829: SystemVerilog Extensions
 app-emacs/verilog-ts-mode 20230905.1216: Verilog Tree-sitter major mode
 app-emacs/verona-mode 20200823.536: A major mode for the Verona programming language
 app-emacs/versuri 20211104.1301: The lyrics package
