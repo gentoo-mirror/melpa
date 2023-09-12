@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="VHDL Tree-sitter major mode"
 
-HOMEPAGE="https://github.com/gmlarumbe/vhdl-ext"
+HOMEPAGE="https://github.com/gmlarumbe/vhdl-ts-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

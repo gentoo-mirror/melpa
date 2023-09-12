@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Verilog Tree-sitter major mode"
 
-HOMEPAGE="https://github.com/gmlarumbe/verilog-ext"
+HOMEPAGE="https://github.com/gmlarumbe/verilog-ts-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
