@@ -908,7 +908,7 @@ app-emacs/dashboard-project-status 20190202.1354: Display a git project status i
 app-emacs/date-at-point 20150308.1243: Add `date' to `thing-at-point' function
 app-emacs/date-field 20141129.1539: Date widget
 app-emacs/date2name 20190630.933: Package to prepend ISO Timestamps to files
-app-emacs/datetime 20230729.1954: Parsing, formatting and matching timestamps
+app-emacs/datetime 20230912.1947: Parsing, formatting and matching timestamps
 app-emacs/datetime-format 20160612.1715: Datetime functions
 app-emacs/datomic-snippets 20180817.1045: Yasnippets for Datomic
 app-emacs/dayone 20160105.1240: Utility script for Day One
@@ -1086,7 +1086,7 @@ app-emacs/dollaro 20151123.1302: simple text templates
 app-emacs/doom 20180301.2308: DOM implementation and manipulation library
 app-emacs/doom-modeline 20230908.259: A minimal and modern mode-line
 app-emacs/doom-modeline-now-playing 20210831.1442: Segment for Doom Modeline to show playerctl information
-app-emacs/doom-themes 20230911.1936: an opinionated pack of modern color-themes
+app-emacs/doom-themes 20230912.1924: an opinionated pack of modern color-themes
 app-emacs/dot-env 20230820.2014: Dotenv functionality
 app-emacs/dot-mode 20180312.2300: minor mode to repeat typing or commands
 app-emacs/dotenv-mode 20191027.2129: Major mode for .env files
@@ -1229,7 +1229,7 @@ app-emacs/elbank 20180316.1343: Personal finances reporting application
 app-emacs/elcontext 20210109.1238: Create context specific actions
 app-emacs/elcord 20230627.1213: Allows you to integrate Rich Presence from Discord
 app-emacs/elcouch 20230903.750: View and manipulate CouchDB databases
-app-emacs/eldev 20230908.1813: Elisp development tool
+app-emacs/eldev 20230912.1955: Elisp development tool
 app-emacs/eldoc-box 20230810.503: Display documentation in childframe
 app-emacs/eldoc-cmake 20190419.2244: Eldoc support for CMake
 app-emacs/eldoc-eval 20220106.1951: Enable eldoc support when minibuffer is in use.
@@ -1522,7 +1522,7 @@ app-emacs/evil-smartparens 20171210.1513: Evil support for smartparens
 app-emacs/evil-snipe 20230821.1602: emulate vim-sneak & vim-seek
 app-emacs/evil-space 20151208.1228: Repeat motion in Evil. Correct the behaviour of what SPC should do.
 app-emacs/evil-string-inflection 20200524.1402: snake_case -> CamelCase -> etc. for text objects
-app-emacs/evil-surround 20230819.836: emulate surround.vim from Vim
+app-emacs/evil-surround 20230912.1705: emulate surround.vim from Vim
 app-emacs/evil-swap-keys 20191105.1426: Intelligently swap keys on text input with evil
 app-emacs/evil-tabs 20160217.1520: Integrating Vim-style tabs for Evil mode users.
 app-emacs/evil-terminal-cursor-changer 20230827.118: Change cursor shape and color by evil state in terminal
@@ -2095,7 +2095,7 @@ app-emacs/god-mode 20221230.708: Minor mode for God-like command entering
 app-emacs/godoctor 20180710.2152: Frontend for godoctor
 app-emacs/goggles 20230428.1547: Pulse modified regions
 app-emacs/gold-mode 20140607.206: Major mode for editing .gold files
-app-emacs/golden-ratio 20230909.1819: Automatic resizing of Emacs windows to the golden ratio
+app-emacs/golden-ratio 20230912.1825: Automatic resizing of Emacs windows to the golden ratio
 app-emacs/golden-ratio-scroll-screen 20221102.240: Scroll half screen down or up, and highlight current line
 app-emacs/golint 20180221.2015: lint for the Go source code
 app-emacs/gom-mode 20131008.253: Major mode for Gomfile
@@ -2138,6 +2138,7 @@ app-emacs/graphene-meta-theme 20161204.1607: Integrated theming for common packa
 app-emacs/graphql 20221128.1106: GraphQL utilities
 app-emacs/graphql-doc 20220527.1721: GraphQL Documentation Explorer
 app-emacs/graphql-mode 20230411.1943: Major mode for editing GraphQL schemas
+app-emacs/graphql-ts-mode 20230911.2036: Tree-sitter support for GraphQL
 app-emacs/graphviz-dot-mode 20230325.1050: Mode for the dot-language used by graphviz (att).
 app-emacs/grapnel 20131001.1534: HTTP request lib with flexible callback dispatch
 app-emacs/grass-mode 20170503.1500: Provides Emacs modes for interacting with the GRASS GIS program
@@ -2956,7 +2957,7 @@ app-emacs/license-templates 20230311.11: Create LICENSE using GitHub API
 app-emacs/ligature 20220808.1225: Display typographical ligatures in major modes
 app-emacs/ligature-pragmatapro 20221127.2252: PragmataPro support for ligature.el
 app-emacs/light-soap-theme 20150607.1445: Emacs 24 theme with a light background.
-app-emacs/ligo-mode 20230727.1523: A major mode for editing LIGO source code
+app-emacs/ligo-mode 20230912.2145: A major mode for editing LIGO source code
 app-emacs/line-reminder 20230420.142: Line annotation for changed and saved lines
 app-emacs/line-up-words 20180219.1024: Align words in an intelligent way
 app-emacs/lines-at-once 20180422.247: Insert and edit multiple lines at once
@@ -3259,7 +3260,7 @@ app-emacs/modaled 20230825.152: Build your own minor modes for modal editing
 app-emacs/modalka 20230606.1357: Modal editing your way
 app-emacs/mode-icons 20230911.20: Show icons for modes
 app-emacs/mode-line-bell 20181029.516: Flash the mode line instead of ringing the bell
-app-emacs/mode-line-debug 20230511.2106: Show status of debug-on-error in mode-line
+app-emacs/mode-line-debug 20230901.1235: Show status of debug-on-error in mode-line
 app-emacs/mode-line-idle 20230704.12: Evaluate mode line content when idle
 app-emacs/modelica-mode 20230508.1020: Major mode for editing Modelica files
 app-emacs/modern-cpp-font-lock 20210405.1155: Font-locking for "Modern C++"
@@ -4984,7 +4985,7 @@ app-emacs/teco 20200707.2309: Teco interpreter
 app-emacs/telega 20230831.812: Telegram client (unofficial)
 app-emacs/telepathy 20131209.1258: Access Telepathy from Emacs
 app-emacs/telephone-line 20230322.442: Rewrite of Powerline
-app-emacs/teleport 20230723.2009: Integration for tsh (goteleport.com)
+app-emacs/teleport 20230912.2229: Integration for tsh (goteleport.com)
 app-emacs/teletext 20211203.1111: Teletext broadcast viewer
 app-emacs/teletext-yle 20210927.825: Teletext provider for Finnish national network YLE
 app-emacs/tempel 20230810.2303: Tempo templates/snippets with in-buffer field editing
@@ -5124,7 +5125,7 @@ app-emacs/tree-sitter-ispell 20230205.533: Run ispell on tree-sitter text nodes
 app-emacs/tree-sitter-langs 20230910.547: Grammar bundle for tree-sitter
 app-emacs/treebundel 20230911.2103: Bundle related git-worktrees together
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
-app-emacs/treemacs 20230911.1950: A tree style file explorer package
+app-emacs/treemacs 20230912.1707: A tree style file explorer package
 app-emacs/treemacs-all-the-icons 20230408.1109: all-the-icons integration for treemacs
 app-emacs/treemacs-evil 20230822.2039: Evil mode integration for treemacs
 app-emacs/treemacs-icons-dired 20230408.1109: Treemacs icons for dired
@@ -5267,8 +5268,8 @@ app-emacs/vegetative-theme 20220822.353: A Theme based on green CRT terminals
 app-emacs/verb 20230825.2151: Organize and send HTTP requests
 app-emacs/veri-kompass 20200213.934: verilog codebase navigation facility
 app-emacs/verify-url 20160426.1228: find out invalid urls in the buffer or region
-app-emacs/verilog-ext 20230911.1755: SystemVerilog Extensions
-app-emacs/verilog-ts-mode 20230907.1830: Verilog Tree-sitter major mode
+app-emacs/verilog-ext 20230912.2040: SystemVerilog Extensions
+app-emacs/verilog-ts-mode 20230912.1837: Verilog Tree-sitter major mode
 app-emacs/verona-mode 20200823.536: A major mode for the Verona programming language
 app-emacs/versuri 20211104.1301: The lyrics package
 app-emacs/vertica 20131217.1511: Vertica SQL mode extension
@@ -5277,9 +5278,9 @@ app-emacs/vertico 20230912.939: VERTical Interactive COmpletion
 app-emacs/vertico-prescient 20230221.1257: prescient.el + Vertico
 app-emacs/vertigo 20211224.1256: Jump across lines using the home row.
 app-emacs/vhdl-capf 20160221.1734: Completion at point function (capf) for vhdl-mode.
-app-emacs/vhdl-ext 20230911.1759: VHDL Extensions
+app-emacs/vhdl-ext 20230912.2047: VHDL Extensions
 app-emacs/vhdl-tools 20200330.1819: Utilities for navigating vhdl sources
-app-emacs/vhdl-ts-mode 20230907.1831: VHDL Tree-sitter major mode
+app-emacs/vhdl-ts-mode 20230912.1852: VHDL Tree-sitter major mode
 app-emacs/vi-tilde-fringe 20141028.242: Displays tildes in the fringe on empty lines a la Vi.
 app-emacs/viewer 20170107.202: View-mode extension
 app-emacs/viking-mode 20160705.2027: kill first, ask later
