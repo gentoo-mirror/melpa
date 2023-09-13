@@ -596,7 +596,7 @@ app-emacs/clojure-mode 20230911.1653: Major mode for Clojure code
 app-emacs/clojure-mode-extra-font-locking 20230911.1653: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 20150814.736: Quickly create Clojure and ClojureScript repls for a project.
 app-emacs/clojure-snippets 20220914.950: Yasnippets for clojure
-app-emacs/clojure-ts-mode 20230910.1742: Major mode for Clojure code
+app-emacs/clojure-ts-mode 20230913.207: Major mode for Clojure code
 app-emacs/clomacs 20220415.1035: Simplifies Emacs Lisp interaction with Clojure.
 app-emacs/closql 20230806.2058: Store EIEIO objects using EmacSQL
 app-emacs/closure-lint-mode 20101118.2124: minor mode for the Closure Linter
@@ -741,7 +741,7 @@ app-emacs/conkeror-minor-mode 20150114.1604: Mode for editing conkeror javascrip
 app-emacs/conllu-mode 20200501.2328: editing mode for CoNLL-U files
 app-emacs/connection 20191111.446: TCP-based client connection
 app-emacs/constant-theme 20180921.1012: A calm, dark, almost monochrome color theme.
-app-emacs/consult 20230909.1125: Consulting completing-read
+app-emacs/consult 20230913.1015: Consulting completing-read
 app-emacs/consult-ag 20230227.406: The silver searcher integration using Consult
 app-emacs/consult-codesearch 20230315.1424: Consult interface for codesearch
 app-emacs/consult-company 20230606.1824: Consult frontend for company
@@ -893,7 +893,7 @@ app-emacs/dark-souls 20140314.1128: Prepare to die
 app-emacs/darkman 20230901.953: Seamless integration with Darkman
 app-emacs/darkmine-theme 20160406.624: Yet another emacs dark color theme.
 app-emacs/darkokai-theme 20200614.1452: A darker variant on Monokai.
-app-emacs/darktooth-theme 20230818.157: From the darkness... it watches
+app-emacs/darktooth-theme 20230913.256: From the darkness... it watches
 app-emacs/dart-mode 20220401.0: Major mode for editing Dart files
 app-emacs/dart-server 20210501.1445: Minor mode for editing Dart files
 app-emacs/dash 20230714.723: A modern list library for Emacs
@@ -1084,7 +1084,7 @@ app-emacs/dokuwiki 20180102.59: Edit Remote DokuWiki Pages Using XML-RPC
 app-emacs/dokuwiki-mode 20170223.1301: Major mode for DokuWiki document
 app-emacs/dollaro 20151123.1302: simple text templates
 app-emacs/doom 20180301.2308: DOM implementation and manipulation library
-app-emacs/doom-modeline 20230908.259: A minimal and modern mode-line
+app-emacs/doom-modeline 20230912.1353: A minimal and modern mode-line
 app-emacs/doom-modeline-now-playing 20210831.1442: Segment for Doom Modeline to show playerctl information
 app-emacs/doom-themes 20230912.1924: an opinionated pack of modern color-themes
 app-emacs/dot-env 20230820.2014: Dotenv functionality
@@ -2729,7 +2729,7 @@ app-emacs/jetbrains 20180301.502: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default JetBrains Darcula theme
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file.
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
-app-emacs/jinx 20230912.847: Enchanted Spell Checker
+app-emacs/jinx 20230913.1034: Enchanted Spell Checker
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jist 20161229.1721: Gist integration
@@ -2789,7 +2789,7 @@ app-emacs/jump-tree 20171014.1551: Treat position history as a tree
 app-emacs/jumplist 20151120.345: Jump like vim jumplist or ex jumplist
 app-emacs/jupyter 20230706.139: Jupyter
 app-emacs/just-mode 20230303.2255: Justfile editing mode
-app-emacs/justl 20230821.318: Major mode for driving just files
+app-emacs/justl 20230913.232: Major mode for driving just files
 app-emacs/jvm-mode 20150422.708: Monitor and manage your JVMs
 app-emacs/k8s-mode 20230305.1039: Major mode for Kubernetes configuration file
 app-emacs/kaesar 20230626.2314: AES algorithm encrypt/decrypt
@@ -2804,7 +2804,7 @@ app-emacs/kana 20210531.1427: Learn Japanese hiragana and katakana
 app-emacs/kanban 20230210.1505: Parse org-todo headlines to use org-tables as Kanban tables
 app-emacs/kanji-mode 20160826.1139: View stroke order for kanji characters at cursor
 app-emacs/kaocha-runner 20230511.934: A package for running Kaocha tests via CIDER.
-app-emacs/kaolin-themes 20230909.2213: A set of eye pleasing themes
+app-emacs/kaolin-themes 20230912.2332: A set of eye pleasing themes
 app-emacs/kaomoji 20220721.441: Input kaomoji superb easily
 app-emacs/kapacitor 20190414.1908: Main file for kapacitor-mode
 app-emacs/karma 20160220.1245: Karma Test Runner Emacs Integration
@@ -3087,7 +3087,7 @@ app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20180219.1552: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-mode 20230817.1258: mode for editing Magik + some utils.
-app-emacs/magit 20230912.1108: A Git porcelain inside Emacs.
+app-emacs/magit 20230912.1920: A Git porcelain inside Emacs.
 app-emacs/magit-annex 20230407.1200: Control git-annex from Magit
 app-emacs/magit-commit-mark 20230420.304: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3268,7 +3268,7 @@ app-emacs/modern-fringes 20220401.202: Replaces default fringe bitmaps with bett
 app-emacs/modern-sh 20211101.1001: Minor mode for editing shell script
 app-emacs/modtime-skip-mode 20140128.2201: Minor mode for disabling modtime and supersession checks on files.
 app-emacs/modular-config 20210726.1614: Organize your config into small and loadable modules
-app-emacs/modus-themes 20230825.337: Elegant, highly legible and customizable themes
+app-emacs/modus-themes 20230913.1018: Elegant, highly legible and customizable themes
 app-emacs/moe-theme 20230818.554: A colorful eye-candy theme. Moe, moe, kyun!
 app-emacs/molar-mass 20220922.1752: Calculates molar mass of a molecule
 app-emacs/molecule 20180527.743: Simple wrapper for molecule
@@ -4803,7 +4803,7 @@ app-emacs/spark 20230406.2307: sparkline generation
 app-emacs/sparkline 20150101.1319: Make sparkline images from a list of numbers
 app-emacs/sparql-mode 20230104.1113: Edit and interactively evaluate SPARQL queries.
 app-emacs/spatial-navigate 20230115.633: Directional navigation between white-space blocks
-app-emacs/spdx 20230912.57: Insert SPDX license and copyright headers
+app-emacs/spdx 20230913.59: Insert SPDX license and copyright headers
 app-emacs/speech-tagger 20170728.1829: tag parts of speech using coreNLP
 app-emacs/speechd-el 20220608.1422: Client to speech synthesizers and Braille displays.
 app-emacs/speed-type 20230206.1330: Practice touch and speed typing
@@ -5269,7 +5269,7 @@ app-emacs/verb 20230825.2151: Organize and send HTTP requests
 app-emacs/veri-kompass 20200213.934: verilog codebase navigation facility
 app-emacs/verify-url 20160426.1228: find out invalid urls in the buffer or region
 app-emacs/verilog-ext 20230912.2040: SystemVerilog Extensions
-app-emacs/verilog-ts-mode 20230912.1837: Verilog Tree-sitter major mode
+app-emacs/verilog-ts-mode 20230913.908: Verilog Tree-sitter major mode
 app-emacs/verona-mode 20200823.536: A major mode for the Verona programming language
 app-emacs/versuri 20211104.1301: The lyrics package
 app-emacs/vertica 20131217.1511: Vertica SQL mode extension
@@ -5280,7 +5280,7 @@ app-emacs/vertigo 20211224.1256: Jump across lines using the home row.
 app-emacs/vhdl-capf 20160221.1734: Completion at point function (capf) for vhdl-mode.
 app-emacs/vhdl-ext 20230912.2047: VHDL Extensions
 app-emacs/vhdl-tools 20200330.1819: Utilities for navigating vhdl sources
-app-emacs/vhdl-ts-mode 20230912.1852: VHDL Tree-sitter major mode
+app-emacs/vhdl-ts-mode 20230913.922: VHDL Tree-sitter major mode
 app-emacs/vi-tilde-fringe 20141028.242: Displays tildes in the fringe on empty lines a la Vi.
 app-emacs/viewer 20170107.202: View-mode extension
 app-emacs/viking-mode 20160705.2027: kill first, ask later
@@ -5338,7 +5338,7 @@ app-emacs/wanderlust 20230818.1424: Yet Another Message Interface on Emacsen
 app-emacs/warm-night-theme 20161101.1428: Emacs 24 theme with a dark background.
 app-emacs/wasp-mode 20230424.1307: A major mode for the Wasp programming language
 app-emacs/watch-buffer 20120331.2044: run a shell command when saving a buffer
-app-emacs/wavedrom-mode 20230908.1615: WaveDrom Integration
+app-emacs/wavedrom-mode 20230913.1138: WaveDrom Integration
 app-emacs/wavefront-obj-mode 20170808.1716: Major mode for Wavefront obj files
 app-emacs/wc-goal-mode 20140829.1359: Running word count with goals (minor mode)
 app-emacs/wc-mode 20210418.47: Running word count with goals (minor mode)
@@ -5567,7 +5567,7 @@ app-emacs/zotero 20211008.2207: Library for the Zotero API
 app-emacs/zotra 20230819.1747: Library to use Zotero translators
 app-emacs/zotxt 20210908.402: Tools to integrate emacs with Zotero via the zotxt plugin.
 app-emacs/zoutline 20220102.835: Simple outline library.
-app-emacs/zoxide 20220711.33: Find file by zoxide
+app-emacs/zoxide 20230912.2359: Find file by zoxide
 app-emacs/zpl-mode 20180906.1059: ZIMPL major mode
 app-emacs/zpresent 20201207.732: Simple presentation mode based on org files.
 app-emacs/zprint-format 20210602.146: Reformat Clojure code using zprint
