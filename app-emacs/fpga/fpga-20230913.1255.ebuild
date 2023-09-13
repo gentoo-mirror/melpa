@@ -18,7 +18,5 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/ggtags
-	app-emacs/company"
-RDEPEND="app-emacs/ggtags
-	app-emacs/company"
+DEPEND="app-emacs/company"
+RDEPEND="app-emacs/company"
