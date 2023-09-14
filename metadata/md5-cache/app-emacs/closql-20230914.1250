@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=cursor stays vertically centered
+DEPEND=app-emacs/compat app-emacs/emacsql
+DESCRIPTION=Store EIEIO objects using EmacSQL
 EAPI=8
-HOMEPAGE=https://github.com/andre-r/centered-cursor-mode.el
+HOMEPAGE=https://github.com/emacscollective/closql
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/compat app-emacs/emacsql >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/centered-cursor-mode-20230913.2133.tar
+SRC_URI=https://melpa.org/packages/closql-20230914.1250.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	b3b15bdbe800c721e93b69b70cce2b67	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=835ab9010a7bea0f8d9da42afd35c606
+_md5_=c2f2de5e67198ac77c8ca1fbd11006ad
