@@ -483,7 +483,7 @@ app-emacs/ccc 20210501.820: buffer local cursor color control library
 app-emacs/ccls 20230815.731: ccls client for lsp-mode
 app-emacs/cd-compile 20141108.1957: run compile in a specific directory
 app-emacs/cdb 20230318.2152: constant database (cdb) reader for Emacs Lisp
-app-emacs/cdlatex 20230823.631: Fast input methods for LaTeX environments and math
+app-emacs/cdlatex 20230915.948: Fast input methods for LaTeX environments and math
 app-emacs/cdnjs 20161031.1522: A front end for http://cdnjs.com
 app-emacs/cedit 20200816.526: paredit-like commands for c-like languages
 app-emacs/celery 20170225.924: a minor mode to draw stats from celery and more?
@@ -1084,7 +1084,7 @@ app-emacs/dokuwiki 20180102.59: Edit Remote DokuWiki Pages Using XML-RPC
 app-emacs/dokuwiki-mode 20170223.1301: Major mode for DokuWiki document
 app-emacs/dollaro 20151123.1302: simple text templates
 app-emacs/doom 20180301.2308: DOM implementation and manipulation library
-app-emacs/doom-modeline 20230912.1353: A minimal and modern mode-line
+app-emacs/doom-modeline 20230915.622: A minimal and modern mode-line
 app-emacs/doom-modeline-now-playing 20210831.1442: Segment for Doom Modeline to show playerctl information
 app-emacs/doom-themes 20230912.1924: an opinionated pack of modern color-themes
 app-emacs/dot-env 20230820.2014: Dotenv functionality
@@ -3044,7 +3044,7 @@ app-emacs/lsp-ivy 20220831.1823: LSP ivy integration
 app-emacs/lsp-java 20230827.428: Java support for lsp-mode
 app-emacs/lsp-javacomp 20190124.1755: Provide Java IDE features powered by JavaComp.
 app-emacs/lsp-jedi 20230824.1908: Lsp client plugin for Python Jedi Language Server
-app-emacs/lsp-julia 20230414.2107: Julia support for lsp-mode
+app-emacs/lsp-julia 20230915.654: Julia support for lsp-mode
 app-emacs/lsp-latex 20230717.1707: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20230416.1826: LSP Clients for LTEX
 app-emacs/lsp-metals 20230817.827: Scala Client settings
@@ -3580,7 +3580,7 @@ app-emacs/oblivion-theme 20230415.551: A port of GEdit oblivion theme
 app-emacs/obsidian 20230831.1430: Obsidian Notes interface
 app-emacs/obsidian-theme 20170719.948: port of the eclipse obsidian theme
 app-emacs/ocaml-ts-mode 20230820.1946: Major mode for OCaml using tree-sitter
-app-emacs/ocamlformat 20230718.1531: Utility functions to format ocaml code
+app-emacs/ocamlformat 20230915.941: Utility functions to format ocaml code
 app-emacs/occidental-theme 20130312.1958: Custom theme for faces based on Adwaita
 app-emacs/occur-context-resize 20210121.50: dynamically resize context around matches in occur-mode
 app-emacs/occur-x 20130610.1343: Extra functionality for occur
