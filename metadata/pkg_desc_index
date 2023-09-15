@@ -392,7 +392,7 @@ app-emacs/broadcast 20151205.212: Links buffers together for simultaneous editin
 app-emacs/browse-at-remote 20230223.554: Open github/gitlab/bitbucket/stash/gist/phab/sourcehut page from Emacs
 app-emacs/browse-kill-ring 20220410.1509: interactively insert items from kill-ring
 app-emacs/browse-url-dwim 20140731.1922: Context-sensitive external browse URL or Internet search
-app-emacs/brutalist-theme 20230902.932: Brutalist theme
+app-emacs/brutalist-theme 20230914.2107: Brutalist theme
 app-emacs/bshell 20230805.1646: Manage and track multiple inferior shells
 app-emacs/btc-ticker 20220409.1647: Shows latest bitcoin price
 app-emacs/bts 20151109.1333: A unified UI for various bug tracking systems
@@ -596,7 +596,7 @@ app-emacs/clojure-mode 20230911.1653: Major mode for Clojure code
 app-emacs/clojure-mode-extra-font-locking 20230911.1653: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 20150814.736: Quickly create Clojure and ClojureScript repls for a project.
 app-emacs/clojure-snippets 20220914.950: Yasnippets for clojure
-app-emacs/clojure-ts-mode 20230913.207: Major mode for Clojure code
+app-emacs/clojure-ts-mode 20230915.435: Major mode for Clojure code
 app-emacs/clomacs 20220415.1035: Simplifies Emacs Lisp interaction with Clojure.
 app-emacs/closql 20230914.1250: Store EIEIO objects using EmacSQL
 app-emacs/closure-lint-mode 20101118.2124: minor mode for the Closure Linter
@@ -606,7 +606,7 @@ app-emacs/clues-theme 20161213.1127: an Emacs 24 theme which may well be fully a
 app-emacs/cm-mode 20170203.2107: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 20230304.2223: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 20210610.1525: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 20230823.1325: major-mode for editing CMake sources
+app-emacs/cmake-mode 20230914.1713: major-mode for editing CMake sources
 app-emacs/cmake-project 20171121.1115: Integrates CMake build process with Emacs
 app-emacs/cmd-to-echo 20161203.2133: Show the output of long-running commands in the echo area
 app-emacs/cmm-mode 20150225.746: Major mode for C-- source code
@@ -1473,7 +1473,7 @@ app-emacs/evil-better-visual-line 20200123.2045: gj and gk visual line mode fix
 app-emacs/evil-cleverparens 20230529.2117: Evil friendly minor-mode for editing lisp.
 app-emacs/evil-colemak-basics 20221230.1443: Basic Colemak key bindings for evil-mode
 app-emacs/evil-colemak-minimal 20171006.1317: Minimal Colemak key bindings for evil-mode
-app-emacs/evil-collection 20230904.935: A set of keybindings for Evil mode
+app-emacs/evil-collection 20230915.230: A set of keybindings for Evil mode
 app-emacs/evil-commentary 20230610.1006: Comment stuff out. A port of vim-commentary.
 app-emacs/evil-dvorak 20160416.1841: evil keybindings for that work with dvorak mode
 app-emacs/evil-easymotion 20200424.135: A port of vim's easymotion to emacs
@@ -1935,7 +1935,7 @@ app-emacs/fyure 20130216.1314: An interface to fix Japanese hyoki-yure
 app-emacs/fzf 20230403.1304: A front-end for fzf.
 app-emacs/gameoflife 20200614.1814: Screensaver running Conway's Game of Life
 app-emacs/gams-ac 20180423.926: auto-complete source file for GAMS mode
-app-emacs/gams-mode 20230914.441: Major mode for General Algebraic Modeling System (GAMS)
+app-emacs/gams-mode 20230915.149: Major mode for General Algebraic Modeling System (GAMS)
 app-emacs/gandalf-theme 20130809.947: Gandalf color theme
 app-emacs/gap-mode 20230802.108: Major mode for editing files in the GAP programming language.
 app-emacs/gather 20141230.1338: Gather string in buffer.
@@ -2216,7 +2216,7 @@ app-emacs/hcl-mode 20230302.1029: Major mode for Hashicorp
 app-emacs/headlong 20150417.1526: reckless completion
 app-emacs/heaven-and-hell 20190713.1830: easy toggle light/dark themes
 app-emacs/heex-ts-mode 20230316.553: Major mode for Heex with tree-sitter support
-app-emacs/helm 20230914.903: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20230914.1148: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: helm-sources and some utilities for GNU R.
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: helm source for Active Directory
@@ -2249,7 +2249,7 @@ app-emacs/helm-clojuredocs 20160405.723: search for help in clojuredocs.org
 app-emacs/helm-codesearch 20221219.1219: helm interface for codesearch
 app-emacs/helm-commandlinefu 20150611.545: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 20190812.1429: Helm interface for company-mode
-app-emacs/helm-core 20230914.857: Development files for Helm
+app-emacs/helm-core 20230914.1855: Development files for Helm
 app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el.
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
@@ -3705,7 +3705,7 @@ app-emacs/org-inline-pdf 20230826.1220: Inline PDF previewing for Org
 app-emacs/org-iv 20171001.1022: a tool used to view html (in browser) generated by org-file once the org-file changes
 app-emacs/org-ivy-search 20230222.514: Full text search for org files powered by ivy
 app-emacs/org-jami-bot 20230605.950: Capture GNU Jami messages as notes and todos in Org mode
-app-emacs/org-jira 20230816.2037: Syncing between Jira and Org-mode.
+app-emacs/org-jira 20230915.57: Syncing between Jira and Org-mode.
 app-emacs/org-journal 20230309.1240: a simple org-mode based journaling mode
 app-emacs/org-journal-list 20190221.2052: Org mode Journal List
 app-emacs/org-journal-tags 20230704.2026: Tagging and querying system for org-journal
@@ -4231,7 +4231,7 @@ app-emacs/protobuf-mode 20230506.330: major mode for editing protocol buffers.
 app-emacs/protobuf-ts-mode 20230728.1747: Tree sitter support for Protocol Buffers (proto3 only)
 app-emacs/protocols 20170802.1132: Protocol database access functions.
 app-emacs/proxy-mode 20230303.706: A minor mode to toggle proxy.
-app-emacs/psalm 20211002.1552: Interface to Psalm
+app-emacs/psalm 20230914.1925: Interface to Psalm
 app-emacs/psc-ide 20210219.2247: Minor mode for PureScript's IDE server.
 app-emacs/psci 20230313.1333: Major mode for purescript repl psci
 app-emacs/psession 20230105.503: Persistent save of elisp objects.
@@ -4803,7 +4803,7 @@ app-emacs/spark 20230406.2307: sparkline generation
 app-emacs/sparkline 20150101.1319: Make sparkline images from a list of numbers
 app-emacs/sparql-mode 20230104.1113: Edit and interactively evaluate SPARQL queries.
 app-emacs/spatial-navigate 20230115.633: Directional navigation between white-space blocks
-app-emacs/spdx 20230914.58: Insert SPDX license and copyright headers
+app-emacs/spdx 20230915.59: Insert SPDX license and copyright headers
 app-emacs/speech-tagger 20170728.1829: tag parts of speech using coreNLP
 app-emacs/speechd-el 20220608.1422: Client to speech synthesizers and Braille displays.
 app-emacs/speed-type 20230206.1330: Practice touch and speed typing
@@ -5268,7 +5268,7 @@ app-emacs/vegetative-theme 20220822.353: A Theme based on green CRT terminals
 app-emacs/verb 20230825.2151: Organize and send HTTP requests
 app-emacs/veri-kompass 20200213.934: verilog codebase navigation facility
 app-emacs/verify-url 20160426.1228: find out invalid urls in the buffer or region
-app-emacs/verilog-ext 20230912.2040: SystemVerilog Extensions
+app-emacs/verilog-ext 20230914.2213: SystemVerilog Extensions
 app-emacs/verilog-ts-mode 20230913.908: Verilog Tree-sitter major mode
 app-emacs/verona-mode 20200823.536: A major mode for the Verona programming language
 app-emacs/versuri 20211104.1301: The lyrics package
@@ -5278,7 +5278,7 @@ app-emacs/vertico 20230912.939: VERTical Interactive COmpletion
 app-emacs/vertico-prescient 20230221.1257: prescient.el + Vertico
 app-emacs/vertigo 20211224.1256: Jump across lines using the home row.
 app-emacs/vhdl-capf 20160221.1734: Completion at point function (capf) for vhdl-mode.
-app-emacs/vhdl-ext 20230912.2047: VHDL Extensions
+app-emacs/vhdl-ext 20230914.2212: VHDL Extensions
 app-emacs/vhdl-tools 20200330.1819: Utilities for navigating vhdl sources
 app-emacs/vhdl-ts-mode 20230913.922: VHDL Tree-sitter major mode
 app-emacs/vi-tilde-fringe 20141028.242: Displays tildes in the fringe on empty lines a la Vi.
@@ -5390,8 +5390,8 @@ app-emacs/wiki-nav 20230304.2212: Simple file navigation using [[WikiStrings]]
 app-emacs/wiki-summary 20181010.1824: View Wikipedia summaries in Emacs easily.
 app-emacs/wikinfo 20220906.1709: Scrape Wikipedia Infoboxes
 app-emacs/wikinforg 20230630.116: Org-mode wikinfo integration
-app-emacs/wildcharm-light-theme 20230909.848: Port of vim-wildcharm (light) colorscheme
-app-emacs/wildcharm-theme 20230909.848: Port of vim-wildcharm colorscheme
+app-emacs/wildcharm-light-theme 20230914.2328: Port of vim-wildcharm (light) colorscheme
+app-emacs/wildcharm-theme 20230914.2328: Port of vim-wildcharm colorscheme
 app-emacs/wilt 20180220.854: An extensions for calculating WILT in a buffer.
 app-emacs/win-switch 20161009.1627: fast, dynamic bindings for window-switching/resizing
 app-emacs/windata 20090830.1040: convert window configuration to list
