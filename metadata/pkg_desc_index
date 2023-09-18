@@ -98,7 +98,7 @@ app-emacs/align-cljlet 20160112.2101: Space align various Clojure forms
 app-emacs/all-ext 20200315.1443: M-x all with helm-swoop/anything/multiple-cursors/line-number
 app-emacs/all-the-icons 20230909.2053: A library for inserting Developer icons
 app-emacs/all-the-icons-completion 20230617.1206: Add icons to completion candidates
-app-emacs/all-the-icons-dired 20230908.2208: Shows icons for each file in dired mode
+app-emacs/all-the-icons-dired 20230918.1245: Shows icons for each file in dired mode
 app-emacs/all-the-icons-gnus 20180511.654: Shows icons for in Gnus
 app-emacs/all-the-icons-ibuffer 20230503.1625: Display icons for all buffers in ibuffer
 app-emacs/all-the-icons-ivy 20190508.1803: Shows icons while using ivy and counsel
@@ -885,7 +885,7 @@ app-emacs/dakrone-theme 20170801.1933: dakrone's custom dark theme
 app-emacs/dall-e-shell 20230807.1640: Interaction mode for DALL-E
 app-emacs/danneskjold-theme 20221121.634: Beautiful high-contrast Emacs theme.
 app-emacs/dante 20230808.658: Development mode for Haskell
-app-emacs/dap-mode 20230822.603: Debug Adapter Protocol mode
+app-emacs/dap-mode 20230918.1618: Debug Adapter Protocol mode
 app-emacs/darcsum 20190316.2215: a pcl-cvs like interface for managing darcs patches
 app-emacs/darcula-theme 20171227.1845: Inspired by IntelliJ's Darcula theme
 app-emacs/dark-krystal-theme 20170808.1300: an Emacs 24 theme based on Dark Krystal (tmTheme)
@@ -1085,7 +1085,7 @@ app-emacs/dokuwiki 20180102.59: Edit Remote DokuWiki Pages Using XML-RPC
 app-emacs/dokuwiki-mode 20170223.1301: Major mode for DokuWiki document
 app-emacs/dollaro 20151123.1302: simple text templates
 app-emacs/doom 20180301.2308: DOM implementation and manipulation library
-app-emacs/doom-modeline 20230916.446: A minimal and modern mode-line
+app-emacs/doom-modeline 20230918.1144: A minimal and modern mode-line
 app-emacs/doom-modeline-now-playing 20210831.1442: Segment for Doom Modeline to show playerctl information
 app-emacs/doom-themes 20230916.2032: an opinionated pack of modern color-themes
 app-emacs/dot-env 20230820.2014: Dotenv functionality
@@ -2184,7 +2184,7 @@ app-emacs/habitica 20220215.1758: Interface for habitica.com
 app-emacs/hack-mode 20230227.1950: Major mode for the Hack programming language
 app-emacs/hacker-typer 20170206.1520: Pretend to write code like a pro
 app-emacs/hackernews 20230127.1918: Hacker News Client for Emacs
-app-emacs/haki-theme 20230916.921: An elegant, high-contrast dark theme in modern sense
+app-emacs/haki-theme 20230918.1541: An elegant, high-contrast dark theme in modern sense
 app-emacs/hal-mode 20160704.1746: Major mode for editing HAL files
 app-emacs/ham-mode 20150811.1306: Html As Markdown. Transparently edit an html file using markdown
 app-emacs/hamburg-theme 20160123.740: Color Theme with a dark blue background.
@@ -2249,7 +2249,7 @@ app-emacs/helm-cider-history 20150719.2120: Helm interface for cider history
 app-emacs/helm-circe 20160207.652: helm circe buffer management.
 app-emacs/helm-clojuredocs 20160405.723: search for help in clojuredocs.org
 app-emacs/helm-codesearch 20221219.1219: helm interface for codesearch
-app-emacs/helm-comint 20230911.1725: Comint prompt navigation for helm
+app-emacs/helm-comint 20230918.537: Comint prompt navigation for helm
 app-emacs/helm-commandlinefu 20150611.545: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 20190812.1429: Helm interface for company-mode
 app-emacs/helm-core 20230916.1702: Development files for Helm
@@ -2961,7 +2961,7 @@ app-emacs/license-templates 20230311.11: Create LICENSE using GitHub API
 app-emacs/ligature 20220808.1225: Display typographical ligatures in major modes
 app-emacs/ligature-pragmatapro 20221127.2252: PragmataPro support for ligature.el
 app-emacs/light-soap-theme 20150607.1445: Emacs 24 theme with a light background.
-app-emacs/ligo-mode 20230918.1028: A major mode for editing LIGO source code
+app-emacs/ligo-mode 20230918.1358: A major mode for editing LIGO source code
 app-emacs/line-reminder 20230420.142: Line annotation for changed and saved lines
 app-emacs/line-up-words 20180219.1024: Align words in an intelligent way
 app-emacs/lines-at-once 20180422.247: Insert and edit multiple lines at once
@@ -3162,7 +3162,7 @@ app-emacs/marquee-header 20221230.1008: Code interface for displaying marquee in
 app-emacs/marshal 20201223.1853: eieio extension for automatic (un)marshalling
 app-emacs/maruo-macro-mode 20160616.1349: Major mode for editing Hidemaru/Maruo macro script
 app-emacs/masm-mode 20200308.1450: MASM x86 and x64 assembly major mode
-app-emacs/mastodon 20230831.1012: Client for fediverse services using the Mastodon API
+app-emacs/mastodon 20230918.1743: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 20210904.1226: A Theme based on the colors of the Google Material Design
 app-emacs/math-preview 20230425.1820: Preview TeX math equations inline
 app-emacs/math-symbol-lists 20220828.2047: Lists of Unicode math symbols and latex commands
@@ -5346,7 +5346,7 @@ app-emacs/wandbox 20170603.1231: Wandbox client
 app-emacs/wanderlust 20230818.1424: Yet Another Message Interface on Emacsen
 app-emacs/warm-night-theme 20161101.1428: Emacs 24 theme with a dark background.
 app-emacs/wasp-mode 20230424.1307: A major mode for the Wasp programming language
-app-emacs/wat-ts-mode 20230918.1008: Major mode for webassembly text format
+app-emacs/wat-ts-mode 20230918.1757: Major mode for webassembly text format
 app-emacs/watch-buffer 20120331.2044: run a shell command when saving a buffer
 app-emacs/wavedrom-mode 20230913.2246: WaveDrom Integration
 app-emacs/wavefront-obj-mode 20170808.1716: Major mode for Wavefront obj files
