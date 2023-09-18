@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-25.3:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
+DEPEND=app-emacs/org-mode app-emacs/dash app-emacs/s app-emacs/f app-emacs/htmlize app-emacs/hydra app-emacs/avy app-emacs/parsebib app-emacs/bibtex-completion app-emacs/citeproc-el app-emacs/ox-pandoc
+DESCRIPTION=citations, cross-references and bibliographies in org-mode
+EAPI=8
+HOMEPAGE=https://github.com/jkitchin/org-ref
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/org-mode app-emacs/dash app-emacs/s app-emacs/f app-emacs/htmlize app-emacs/hydra app-emacs/avy app-emacs/parsebib app-emacs/bibtex-completion app-emacs/citeproc-el app-emacs/ox-pandoc >=app-editors/emacs-25.3:*
+SLOT=0
+SRC_URI=https://melpa.org/packages/org-ref-20230917.1244.tar
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	b3b15bdbe800c721e93b69b70cce2b67	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
+_md5_=9fc7756c130edf2c00e5d267345cb4e6
