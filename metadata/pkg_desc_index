@@ -529,7 +529,7 @@ app-emacs/chinese-word-at-point 20170811.941: Add `chinese-word' thing to `thing
 app-emacs/chinese-yasdcv 20171015.144: Yet another StarDict frontend
 app-emacs/chocolate-theme 20210128.1647: A dark chocolaty theme
 app-emacs/choice-program 20230805.1641: Parameter based program
-app-emacs/chordpro-mode 20230821.750: Major mode for ChordPro lead sheet file format
+app-emacs/chordpro-mode 20230921.212: Major mode for ChordPro lead sheet file format
 app-emacs/chroma 20230503.1210: Color manipulation library
 app-emacs/chronometer 20190304.1528: a [not so] simple chronometer
 app-emacs/chronometrist 20230712.1532: Friendly and powerful personal time tracker and analyzer
@@ -809,7 +809,7 @@ app-emacs/counsel-tramp 20230714.936: Tramp ivy interface for ssh, docker, vagra
 app-emacs/counsel-web 20210609.2156: Search the Web using Ivy
 app-emacs/counsel-world-clock 20190709.2211: Display world clock using Ivy.
 app-emacs/countdown 20190626.244: Countdown using big LCD-like digits
-app-emacs/cov 20220727.31: Show coverage stats in the fringe.
+app-emacs/cov 20230920.2252: Show coverage stats in the fringe.
 app-emacs/coverage 20191113.1958: Code coverage line highlighting
 app-emacs/coverlay 20190414.940: Test coverage overlays
 app-emacs/cowsay 20210510.1540: Poorly drawn ASCII cartoons saying things
@@ -1070,7 +1070,7 @@ app-emacs/dna-mode 20191001.2108: a major mode for editing dna sequences
 app-emacs/doc-show-inline 20230808.1344: Show doc-strings found in external files
 app-emacs/docbook-snippets 20150714.1625: Yasnippets for DocBook
 app-emacs/docean 20180605.1744: Interact with DigitalOcean from Emacs.
-app-emacs/docker 20230910.1911: Interface to Docker
+app-emacs/docker 20230920.1906: Interface to Docker
 app-emacs/docker-api 20160525.720: Emacs interface to the Docker API
 app-emacs/docker-cli 20190524.1624: Running various commands in docker containers
 app-emacs/docker-compose-mode 20200830.1336: Major mode for editing docker-compose files
@@ -1085,7 +1085,7 @@ app-emacs/dokuwiki 20180102.59: Edit Remote DokuWiki Pages Using XML-RPC
 app-emacs/dokuwiki-mode 20170223.1301: Major mode for DokuWiki document
 app-emacs/dollaro 20151123.1302: simple text templates
 app-emacs/doom 20180301.2308: DOM implementation and manipulation library
-app-emacs/doom-modeline 20230918.1144: A minimal and modern mode-line
+app-emacs/doom-modeline 20230921.646: A minimal and modern mode-line
 app-emacs/doom-modeline-now-playing 20210831.1442: Segment for Doom Modeline to show playerctl information
 app-emacs/doom-themes 20230916.2032: an opinionated pack of modern color-themes
 app-emacs/dot-env 20230820.2014: Dotenv functionality
@@ -1100,7 +1100,7 @@ app-emacs/dpaste 20160303.2112: Emacs integration for dpaste.com
 app-emacs/dpaste_de 20131015.1225: Emacs mode to paste to dpaste.de
 app-emacs/dpkg-dev-el 20230220.1635: Emacs modes for debian packaging
 app-emacs/dr-racket-like-unicode 20220810.2000: DrRacket-style unicode input
-app-emacs/dracula-theme 20230904.933: Dracula Theme
+app-emacs/dracula-theme 20230921.825: Dracula Theme
 app-emacs/draft-mode 20160106.859: Rough drafting for Emacs.
 app-emacs/drag-stuff 20161108.749: Drag stuff (lines, words, region, etc...) around
 app-emacs/drawille 20160418.1838: Drawille implementation in elisp
@@ -1231,8 +1231,8 @@ app-emacs/elbank 20180316.1343: Personal finances reporting application
 app-emacs/elcontext 20210109.1238: Create context specific actions
 app-emacs/elcord 20230627.1213: Allows you to integrate Rich Presence from Discord
 app-emacs/elcouch 20230903.750: View and manipulate CouchDB databases
-app-emacs/eldev 20230912.1955: Elisp development tool
-app-emacs/eldoc-box 20230810.503: Display documentation in childframe
+app-emacs/eldev 20230920.2021: Elisp development tool
+app-emacs/eldoc-box 20230921.401: Display documentation in childframe
 app-emacs/eldoc-cmake 20190419.2244: Eldoc support for CMake
 app-emacs/eldoc-eval 20220106.1951: Enable eldoc support when minibuffer is in use.
 app-emacs/eldoc-overlay 20230406.959: Display eldoc with contextual documentation overlay
@@ -2160,7 +2160,7 @@ app-emacs/groovy-mode 20230318.533: Major mode for Groovy source files
 app-emacs/gruber-darker-theme 20221122.1143: Gruber Darker color theme for Emacs 24.
 app-emacs/grugru 20230121.1825: Rotate text at point
 app-emacs/grunt 20160316.1528: Some glue to stick Emacs and Gruntfiles together
-app-emacs/gruvbox-theme 20230607.21: A retro-groove colour theme for Emacs
+app-emacs/gruvbox-theme 20230921.120: A retro-groove colour theme for Emacs
 app-emacs/gs-mode 20151202.1006: Major mode for editing GrADS script files
 app-emacs/gscholar-bibtex 20190130.555: Retrieve BibTeX from Google Scholar and other online sources(ACM, IEEE, DBLP)
 app-emacs/gsettings 20210407.2045: GSettings (Gnome) helpers
@@ -2504,7 +2504,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20230920.601: P2P filesystem
+app-emacs/hyperdrive 20230920.2159: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -2783,7 +2783,7 @@ app-emacs/julia-mode 20230712.1524: Major mode for editing Julia source code
 app-emacs/julia-repl 20230529.943: A minor mode for a Julia REPL
 app-emacs/julia-shell 20161125.1910: Major mode for an inferior Julia shell
 app-emacs/julia-snail 20230829.546: Julia Snail
-app-emacs/julia-ts-mode 20230920.1231: Major mode for Julia source code using tree-sitter
+app-emacs/julia-ts-mode 20230920.2011: Major mode for Julia source code using tree-sitter
 app-emacs/julia-vterm 20230815.2318: A mode for Julia REPL using vterm
 app-emacs/jumblr 20170727.2043: an anagram game for emacs
 app-emacs/jump 20210110.2237: build functions which contextually jump between files
@@ -3352,7 +3352,7 @@ app-emacs/multicolumn 20150202.2251: Creating and managing multiple side-by-side
 app-emacs/multifiles 20130615.2133: View and edit parts of multiple files in one buffer
 app-emacs/multiple-cursors 20230728.518: Multiple cursors for Emacs.
 app-emacs/multistate 20210124.2014: Multistate mode
-app-emacs/multitran 20230919.706: Interface to multitran
+app-emacs/multitran 20230920.2009: Interface to multitran
 app-emacs/musicbrainz 20230530.749: MusicBrainz API interface
 app-emacs/mustache 20230713.514: Mustache templating library in emacs lisp
 app-emacs/mustache-mode 20141024.1432: A major mode for editing Mustache files.
@@ -4706,7 +4706,7 @@ app-emacs/slime-docker 20210426.1422: Integration of SLIME with Docker container
 app-emacs/slime-repl-ansi-color 20230214.1453: Turn on ANSI colors in REPL output;
 app-emacs/slime-theme 20170808.1322: an Emacs 24 theme based on Slime (tmTheme)
 app-emacs/slime-volleyball 20190701.1624: An SVG Slime Volleyball Game
-app-emacs/slint-mode 20230918.1141: Major-mode for the Slint UI language
+app-emacs/slint-mode 20230921.844: Major-mode for the Slint UI language
 app-emacs/slirm 20160201.1425: Systematic Literature Review Mode for Emacs.
 app-emacs/slovak-holidays 20211018.1754: Adds a list of slovak holidays to Emacs calendar
 app-emacs/slow-keys 20220807.1425: Slow keys mode to avoid RSI
@@ -4811,7 +4811,7 @@ app-emacs/spark 20230406.2307: sparkline generation
 app-emacs/sparkline 20150101.1319: Make sparkline images from a list of numbers
 app-emacs/sparql-mode 20230104.1113: Edit and interactively evaluate SPARQL queries.
 app-emacs/spatial-navigate 20230115.633: Directional navigation between white-space blocks
-app-emacs/spdx 20230920.59: Insert SPDX license and copyright headers
+app-emacs/spdx 20230921.58: Insert SPDX license and copyright headers
 app-emacs/speech-tagger 20170728.1829: tag parts of speech using coreNLP
 app-emacs/speechd-el 20220608.1422: Client to speech synthesizers and Braille displays.
 app-emacs/speed-type 20230206.1330: Practice touch and speed typing
@@ -5130,7 +5130,7 @@ app-emacs/tree-sitter 20220212.1632: Incremental parsing system
 app-emacs/tree-sitter-ess-r 20221012.855: R with tree-sitter
 app-emacs/tree-sitter-indent 20220411.1439: Provide indentation with a Tree-sitter backend
 app-emacs/tree-sitter-ispell 20230205.533: Run ispell on tree-sitter text nodes
-app-emacs/tree-sitter-langs 20230910.547: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 20230921.304: Grammar bundle for tree-sitter
 app-emacs/treebundel 20230917.1933: Bundle related git-worktrees together
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
 app-emacs/treemacs 20230912.1707: A tree style file explorer package
@@ -5330,7 +5330,7 @@ app-emacs/vunit-mode 20230913.1754: VUnit Runner Interface
 app-emacs/vyper-mode 20180707.1935: Major mode for the Vyper programming language
 app-emacs/w32-browser 20170101.1954: Run Windows application associated with a file.
 app-emacs/w32-ime 20201107.143: Windows IME UI/UX controler
-app-emacs/w3m 20230920.110: an Emacs interface to w3m
+app-emacs/w3m 20230921.25: an Emacs interface to w3m
 app-emacs/wacspace 20180311.2350: The WACky WorkSPACE manager for emACS
 app-emacs/waf-mode 20170403.1940: Waf integration for Emacs
 app-emacs/waher-theme 20141115.1230: Emacs 24 theme based on waher for st2 by dduckster
@@ -5498,7 +5498,7 @@ app-emacs/yalinum 20130217.1043: yet another display line numbers.
 app-emacs/yaml 20230907.1302: YAML parser for Elisp
 app-emacs/yaml-imenu 20220406.1703: Enhancement of the imenu support in yaml-mode.
 app-emacs/yaml-mode 20230714.440: Major mode for editing YAML files
-app-emacs/yaml-pro 20230315.320: Parser-aided YAML editing features
+app-emacs/yaml-pro 20230921.39: Parser-aided YAML editing features
 app-emacs/yaml-tomato 20151123.753: copy or show the yaml path currently under cursor.
 app-emacs/yang-mode 20190507.724: major mode for editing YANG files
 app-emacs/yankpad 20220201.2104: Paste snippets from an org-mode file
