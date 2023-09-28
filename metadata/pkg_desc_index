@@ -208,7 +208,7 @@ app-emacs/auth-source-xoauth2 20220804.2219: Integrate auth-source with XOAUTH2
 app-emacs/auto-async-byte-compile 20160916.454: Automatically byte-compile when saved
 app-emacs/auto-auto-indent 20131106.1903: Indents code as you type
 app-emacs/auto-compile 20230901.1232: Automatically compile Emacs Lisp libraries
-app-emacs/auto-complete 20221231.1633: Auto Completion for GNU Emacs
+app-emacs/auto-complete 20230927.1851: Auto Completion for GNU Emacs
 app-emacs/auto-complete-auctex 20140223.1758: auto-completion for auctex
 app-emacs/auto-complete-c-headers 20150912.323: An auto-complete source for C/C++ header files
 app-emacs/auto-complete-chunk 20140225.946: Auto-completion for dot.separated.words.
@@ -541,7 +541,7 @@ app-emacs/chronometrist-spark 20230629.1039: Show sparklines in Chronometrist bu
 app-emacs/chronos 20230804.1712: Multiple simultaneous countdown / countup timers
 app-emacs/chruby 20180114.1652: Emacs integration for chruby
 app-emacs/chyla-theme 20230907.1019: chyla.org - green color theme.
-app-emacs/cider 20230926.1139: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 20230927.1218: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-decompile 20151122.537: decompilation extension for cider
 app-emacs/cider-eval-sexp-fu 20190311.2152: Briefly highlights an evaluated sexp.
 app-emacs/cider-hydra 20190816.1121: Hydras for CIDER.
@@ -1149,10 +1149,10 @@ app-emacs/e2wm-sww 20200805.1339: Plugin of e2wm.el to switch plugin quickly
 app-emacs/e2wm-term 20200322.729: Perspective of e2wm.el for work in terminal
 app-emacs/eacl 20220526.1434: Auto-complete lines by grepping project
 app-emacs/earthfile-mode 20230809.2250: Major mode for editing Earthly file
-app-emacs/eask 20230920.313: Core Eask APIs, for Eask CLI development
+app-emacs/eask 20230927.2314: Core Eask APIs, for Eask CLI development
 app-emacs/easy-after-load 20170817.1231: eval-after-load for all files in a directory
 app-emacs/easy-escape 20210917.1254: Improve readability of escape characters in regular expressions
-app-emacs/easy-hugo 20230314.2338: Write blogs made with hugo by markdown or org-mode
+app-emacs/easy-hugo 20230928.134: Write blogs made with hugo by markdown or org-mode
 app-emacs/easy-jekyll 20211217.2311: Major mode managing jekyll blogs
 app-emacs/easy-kill 20220511.557: kill & mark things easily
 app-emacs/easy-kill-extras 20230829.526: Extra functions for easy-kill.
@@ -1189,7 +1189,7 @@ app-emacs/editorconfig-domain-specific 20180505.924: Apply brace style and other
 app-emacs/editorconfig-generate 20190513.433: Generate .editorconfig
 app-emacs/edn 20160215.1219: Support for reading and writing the edn data format from elisp
 app-emacs/ednc 20230604.1643: Emacs Desktop Notification Center
-app-emacs/edts 20230926.906: Erlang Development Tool Suite
+app-emacs/edts 20230926.2146: Erlang Development Tool Suite
 app-emacs/edwina 20221206.1610: Dynamic window manager
 app-emacs/efar 20230216.1213: FAR-like file manager
 app-emacs/eff 20230613.958: Show symbols in Executable File Formats
@@ -1233,7 +1233,7 @@ app-emacs/elbank 20180316.1343: Personal finances reporting application
 app-emacs/elcontext 20210109.1238: Create context specific actions
 app-emacs/elcord 20230627.1213: Allows you to integrate Rich Presence from Discord
 app-emacs/elcouch 20230903.750: View and manipulate CouchDB databases
-app-emacs/eldev 20230922.1901: Elisp development tool
+app-emacs/eldev 20230926.1800: Elisp development tool
 app-emacs/eldoc-box 20230921.401: Display documentation in childframe
 app-emacs/eldoc-cmake 20190419.2244: Eldoc support for CMake
 app-emacs/eldoc-eval 20220106.1951: Enable eldoc support when minibuffer is in use.
@@ -1330,7 +1330,7 @@ app-emacs/emacsshot 20191206.944: Snapshot a frame or window from within
 app-emacs/emamux 20200315.1220: Interact with tmux
 app-emacs/emamux-ruby-test 20130812.1639: Ruby test with emamux
 app-emacs/emaps 20200508.1759: Utilities for working with keymaps
-app-emacs/embark 20230926.622: Conveniently act on minibuffer completions
+app-emacs/embark 20230927.1241: Conveniently act on minibuffer completions
 app-emacs/embark-consult 20230919.1907: Consult integration for Embark
 app-emacs/embark-vc 20230212.1920: Embark actions for various version control integrations
 app-emacs/ember-mode 20200208.1423: Ember navigation mode for emacs
@@ -1474,7 +1474,7 @@ app-emacs/evil-anzu 20220911.1939: anzu for evil-mode
 app-emacs/evil-args 20220125.1626: Motions and text objects for delimited arguments in Evil.
 app-emacs/evil-avy 20150908.748: set-based completion
 app-emacs/evil-better-visual-line 20200123.2045: gj and gk visual line mode fix
-app-emacs/evil-cleverparens 20230529.2117: Evil friendly minor-mode for editing lisp.
+app-emacs/evil-cleverparens 20230927.840: Evil friendly minor-mode for editing lisp.
 app-emacs/evil-colemak-basics 20221230.1443: Basic Colemak key bindings for evil-mode
 app-emacs/evil-colemak-minimal 20171006.1317: Minimal Colemak key bindings for evil-mode
 app-emacs/evil-collection 20230922.1411: A set of keybindings for Evil mode
@@ -1493,7 +1493,7 @@ app-emacs/evil-fringe-mark 20190320.453: Display evil-mode marks in the fringe
 app-emacs/evil-god-state 20141117.255: use god-mode keybindings in evil-mode
 app-emacs/evil-goggles 20230630.754: Add a visual hint to evil operations
 app-emacs/evil-iedit-state 20220219.1432: Evil states to interface iedit mode.
-app-emacs/evil-indent-plus 20220106.931: Evil textobjects based on indentation
+app-emacs/evil-indent-plus 20230927.1513: Evil textobjects based on indentation
 app-emacs/evil-indent-textobject 20130831.2219: evil textobjects based on indentation
 app-emacs/evil-leader 20140606.1243: let there be <leader>
 app-emacs/evil-ledger 20180802.1612: Make `ledger-mode' more `evil'.
@@ -1599,7 +1599,7 @@ app-emacs/fancy-dabbrev 20220211.633: Like dabbrev-expand with preview and popup
 app-emacs/fancy-narrow 20171031.16: narrow-to-region with more eye candy.
 app-emacs/fantom-mode 20221227.218: A major mode for the Fantom programming language
 app-emacs/fantom-theme 20200328.604: Dark theme based on Phantom Code for VSCode
-app-emacs/fanyi 20230619.1600: Not only English-Chinese translator
+app-emacs/fanyi 20230926.1849: Not only English-Chinese translator
 app-emacs/farmhouse-themes 20221025.2054: Farmhouse Themes, dark and light versions
 app-emacs/fasd 20210104.738: Emacs integration for the command-line productivity booster `fasd'
 app-emacs/fast-scroll 20191016.327: Some utilities for faster scrolling over large buffers.
@@ -2121,7 +2121,7 @@ app-emacs/goto-chg 20220107.1733: Go to last change
 app-emacs/goto-last-change 20150109.1823: Move point through buffer-undo-list positions
 app-emacs/goto-last-point 20230406.1822: Record and jump to the last point in the buffer
 app-emacs/goto-line-preview 20230111.1531: Preview line when executing `goto-line` command
-app-emacs/govc 20230925.1912: Interface to govc for managing VMware ESXi and vCenter
+app-emacs/govc 20230927.1905: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/govet 20170808.1724: linter/problem finder for the Go source code
 app-emacs/gpastel 20181229.1404: Integrates GPaste with the kill-ring
 app-emacs/gpr-ts-mode 20230813.1727: Major mode for GNAT project files using Tree-Sitter
@@ -2193,7 +2193,7 @@ app-emacs/hamburg-theme 20160123.740: Color Theme with a dark blue background.
 app-emacs/hamburger-menu 20220509.1341: Mode line hamburger menu
 app-emacs/haml-mode 20230608.1833: Major mode for editing Haml files
 app-emacs/hamlet-mode 20131208.724: Hamlet editing mode
-app-emacs/hammy 20230925.1945: Programmable, interactive interval timers
+app-emacs/hammy 20230927.530: Programmable, interactive interval timers
 app-emacs/handle 20191029.856: A handle for major-mode generic functions.
 app-emacs/handlebars-mode 20150211.1749: A major mode for editing Handlebars files.
 app-emacs/handlebars-sgml-mode 20130623.2333: Add Handlebars contextual indenting support to sgml-mode
@@ -2220,12 +2220,12 @@ app-emacs/hcl-mode 20230302.1029: Major mode for Hashicorp
 app-emacs/headlong 20150417.1526: reckless completion
 app-emacs/heaven-and-hell 20190713.1830: easy toggle light/dark themes
 app-emacs/heex-ts-mode 20230316.553: Major mode for Heex with tree-sitter support
-app-emacs/helm 20230925.652: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20230926.1817: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: helm-sources and some utilities for GNU R.
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: helm source for Active Directory
 app-emacs/helm-ag 20221017.1528: The silver searcher with helm interface
-app-emacs/helm-apt 20230905.1109: Helm interface for Debian/Ubuntu packages (apt-*)
+app-emacs/helm-apt 20230926.1818: Helm interface for Debian/Ubuntu packages (apt-*)
 app-emacs/helm-atoms 20201013.1723: Reverse variable lookup using Helm
 app-emacs/helm-aws 20180514.1032: Manage AWS EC2 server instances directly from Emacs
 app-emacs/helm-backup 20180911.614: Backup each file change using git
@@ -2254,7 +2254,7 @@ app-emacs/helm-codesearch 20221219.1219: helm interface for codesearch
 app-emacs/helm-comint 20230918.537: Comint prompt navigation for helm
 app-emacs/helm-commandlinefu 20150611.545: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 20190812.1429: Helm interface for company-mode
-app-emacs/helm-core 20230923.345: Development files for Helm
+app-emacs/helm-core 20230927.646: Development files for Helm
 app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el.
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
@@ -2336,7 +2336,7 @@ app-emacs/helm-notmuch 20190320.1048: Search emails with Notmuch and Helm
 app-emacs/helm-open-github 20220721.415: Utilities of Opening Github Page
 app-emacs/helm-org 20210324.1927: Helm for org headlines and keywords completion
 app-emacs/helm-org-multi-wiki 20210228.1853: Helm interface to org-multi-wiki
-app-emacs/helm-org-ql 20230906.2357: Helm support for org-ql
+app-emacs/helm-org-ql 20230927.521: Helm support for org-ql
 app-emacs/helm-org-recent-headings 20211011.1519: Helm source for org-recent-headings
 app-emacs/helm-org-rifle 20230821.1927: Rifle through your Org files
 app-emacs/helm-orgcard 20220721.756: browse the orgcard by helm
@@ -2506,7 +2506,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20230925.2257: P2P filesystem
+app-emacs/hyperdrive 20230928.101: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -2517,7 +2517,7 @@ app-emacs/i3wm 20170822.1438: i3wm integration library
 app-emacs/i3wm-config-mode 20220913.1121: Better syntax highlighting for i3wm's config file
 app-emacs/ialign 20220629.1241: visual align-regexp
 app-emacs/iasm-mode 20171023.1422: interactive assembly major mode.
-app-emacs/ibrowse 20230813.2116: Interact with your browser
+app-emacs/ibrowse 20230926.2056: Interact with your browser
 app-emacs/ibuffer-git 20110508.731: show git status in ibuffer column
 app-emacs/ibuffer-project 20220321.1312: Group ibuffer's list by project or any function
 app-emacs/ibuffer-projectile 20230817.610: Group ibuffer's list by projectile root
@@ -2844,7 +2844,7 @@ app-emacs/keyword-search 20180424.1102: browser keyword search from Emacs
 app-emacs/kfg 20140909.538: an emacs configuration system
 app-emacs/khalel 20230606.1909: Import, edit and create calendar events through khal
 app-emacs/khardel 20230903.917: Integrate with khard
-app-emacs/khoj 20230829.1844: AI personal assistant for your digital brain
+app-emacs/khoj 20230926.1859: AI personal assistant for your digital brain
 app-emacs/kibit-helper 20150508.1533: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-file-path 20230306.1041: Copy file name into kill ring
 app-emacs/kill-or-bury-alive 20230606.1503: Precise control over buffer killing
@@ -2867,7 +2867,7 @@ app-emacs/kooten-theme 20161023.905: Dark color theme
 app-emacs/korean-holidays 20190102.1558: Korean holidays for calendar.
 app-emacs/kosmos-theme 20170502.1850: Black and lightgray theme with not so much syntax highlighting.
 app-emacs/kotlin-mode 20230123.1859: Major mode for kotlin
-app-emacs/kotlin-ts-mode 20230913.1227: A mode for editing Kotlin files based on tree-sitter
+app-emacs/kotlin-ts-mode 20230927.1314: A mode for editing Kotlin files based on tree-sitter
 app-emacs/kpm-list 20170924.1352: An emacs buffer list that tries to intelligently group together buffers.
 app-emacs/kroman 20150827.2340: Korean hangul romanization
 app-emacs/ksp-cfg-mode 20190414.2348: major mode for editing KSP CFG files
@@ -2963,7 +2963,7 @@ app-emacs/license-templates 20230311.11: Create LICENSE using GitHub API
 app-emacs/ligature 20220808.1225: Display typographical ligatures in major modes
 app-emacs/ligature-pragmatapro 20221127.2252: PragmataPro support for ligature.el
 app-emacs/light-soap-theme 20150607.1445: Emacs 24 theme with a light background.
-app-emacs/ligo-mode 20230925.1550: A major mode for editing LIGO source code
+app-emacs/ligo-mode 20230927.1841: A major mode for editing LIGO source code
 app-emacs/line-reminder 20230420.142: Line annotation for changed and saved lines
 app-emacs/line-up-words 20180219.1024: Align words in an intelligent way
 app-emacs/lines-at-once 20180422.247: Insert and edit multiple lines at once
@@ -3164,7 +3164,7 @@ app-emacs/marquee-header 20221230.1008: Code interface for displaying marquee in
 app-emacs/marshal 20201223.1853: eieio extension for automatic (un)marshalling
 app-emacs/maruo-macro-mode 20160616.1349: Major mode for editing Hidemaru/Maruo macro script
 app-emacs/masm-mode 20200308.1450: MASM x86 and x64 assembly major mode
-app-emacs/mastodon 20230920.947: Client for fediverse services using the Mastodon API
+app-emacs/mastodon 20230927.1230: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 20210904.1226: A Theme based on the colors of the Google Material Design
 app-emacs/math-preview 20230425.1820: Preview TeX math equations inline
 app-emacs/math-symbol-lists 20220828.2047: Lists of Unicode math symbols and latex commands
@@ -3250,7 +3250,7 @@ app-emacs/minsk-theme 20200306.1220: Minsk, a theme in deep muted greens
 app-emacs/mint-mode 20221031.411: Major mode for the Mint programming language
 app-emacs/mip-mode 20151127.617: virtual projects for emacs.
 app-emacs/mips-mode 20220608.1204: Major-mode for MIPS assembly
-app-emacs/mistty 20230925.940: Shell/Comint alternative based on term.el
+app-emacs/mistty 20230927.1936: Shell/Comint alternative based on term.el
 app-emacs/mix 20210605.1015: Mix Major Mode. Build Elixir using Mix
 app-emacs/mixed-pitch 20210304.1900: Use a variable pitch, keeping fixed pitch where it's sensible
 app-emacs/mkdown 20140517.1418: Pretty Markdown previews based on mkdown.com
@@ -3276,7 +3276,7 @@ app-emacs/modern-fringes 20220401.202: Replaces default fringe bitmaps with bett
 app-emacs/modern-sh 20211101.1001: Minor mode for editing shell script
 app-emacs/modtime-skip-mode 20140128.2201: Minor mode for disabling modtime and supersession checks on files.
 app-emacs/modular-config 20210726.1614: Organize your config into small and loadable modules
-app-emacs/modus-themes 20230922.531: Elegant, highly legible and customizable themes
+app-emacs/modus-themes 20230926.1524: Elegant, highly legible and customizable themes
 app-emacs/moe-theme 20230818.554: A colorful eye-candy theme. Moe, moe, kyun!
 app-emacs/molar-mass 20220922.1752: Calculates molar mass of a molecule
 app-emacs/molecule 20180527.743: Simple wrapper for molecule
@@ -3760,7 +3760,7 @@ app-emacs/org-project-capture 20230830.1733: Repository todo capture and managem
 app-emacs/org-projectile 20230817.851: Repository todo capture and management for org-mode with projectile
 app-emacs/org-projectile-helm 20230817.801: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 20170328.1639: Jekyll's handler for org-protocol
-app-emacs/org-ql 20230914.1310: Org Query Language, search command, and agenda-like view
+app-emacs/org-ql 20230927.2003: Org Query Language, search command, and agenda-like view
 app-emacs/org-radiobutton 20210519.1225: Radiobutton for org-mode lists.
 app-emacs/org-rainbow-tags 20230921.2038: Colorize org tags automatically
 app-emacs/org-random-todo 20190214.2057: show a random TODO (with alert) every so often
@@ -3779,7 +3779,7 @@ app-emacs/org-review 20230119.1706: schedule reviews for Org entries
 app-emacs/org-rich-yank 20230605.824: Paste with org-mode markup and link to source
 app-emacs/org-roam 20230307.1721: A database abstraction layer for Org-mode
 app-emacs/org-roam-bibtex 20230628.2036: Org Roam meets BibTeX
-app-emacs/org-roam-ql 20230902.613: Interface to query and view results from org-roam
+app-emacs/org-roam-ql 20230927.100: Interface to query and view results from org-roam
 app-emacs/org-roam-ql-ql 20230902.613: Intgrating org-roam and org-ql
 app-emacs/org-roam-timestamps 20221104.1544: Keep track of modification times for org-roam
 app-emacs/org-roam-ui 20221105.1040: User Interface for Org-roam
@@ -4221,8 +4221,8 @@ app-emacs/projectile-sift 20160107.1015: Run a sift with Projectile
 app-emacs/projectile-speedbar 20190807.2010: projectile integration for speedbar
 app-emacs/projectile-trailblazer 20170928.1624: Minor mode for Rails projects using trailblazer
 app-emacs/projectile-variable 20230916.441: Store project local variables.
-app-emacs/projection 20230919.1924: Project type support for `project'
-app-emacs/projection-multi 20230918.1933: Projection integration for `compile-multi'
+app-emacs/projection 20230927.2019: Project type support for `project'
+app-emacs/projection-multi 20230927.1806: Projection integration for `compile-multi'
 app-emacs/projector 20211112.1514: Lightweight library for managing project-aware shell and command buffers
 app-emacs/projekt 20150324.848: some kind of staging for CVS
 app-emacs/projmake-mode 20161031.1715: Project oriented automatic builder and error highlighter, flymake for projects
@@ -4326,7 +4326,7 @@ app-emacs/quelpa-use-package 20201022.746: quelpa handler for use-package
 app-emacs/quick-buffer-switch 20221220.1142: Quick switch to file or dir buffers.
 app-emacs/quick-peek 20200130.2059: Inline quick-peek windows
 app-emacs/quick-preview 20191017.1920: quick preview using GNOME sushi, gloobus or quick look
-app-emacs/quick-shell-keybind 20171023.613: Interactively bind a key to shell commands
+app-emacs/quick-shell-keybind 20230927.1036: Interactively bind a key to shell commands
 app-emacs/quickref 20170817.1232: Display relevant notes-to-self in the echo area
 app-emacs/quickrun 20221215.828: Run commands quickly
 app-emacs/quiet 20230530.859: Disconnect from the online world for a while
@@ -4371,7 +4371,7 @@ app-emacs/read-only-cfg 20210717.205: Make files read-only based on user config
 app-emacs/readable-numbers 20220711.911: Visually separate long integers
 app-emacs/readline-complete 20150708.1437: offers completions in shell mode
 app-emacs/real-auto-save 20200505.1537: Automatically save your buffers/files at regular intervals
-app-emacs/realgud 20230619.1158: A modular front-end for interacting with external debuggers
+app-emacs/realgud 20230927.2311: A modular front-end for interacting with external debuggers
 app-emacs/realgud-byebug 20190520.1140: Realgud front-end to the Ruby byebug debugger
 app-emacs/realgud-ipdb 20200722.1116: Realgud front-end to ipdb
 app-emacs/realgud-jdb 20200722.1120: Realgud front-end to Java's jdb debugger"
@@ -4702,7 +4702,7 @@ app-emacs/sl 20161217.1404: An Emacs clone of sl(1)
 app-emacs/slack 20211129.310: Slack client for Emacs
 app-emacs/slideview 20150324.2240: File slideshow
 app-emacs/slim-mode 20170728.1348: Major mode for editing Slim files
-app-emacs/slime 20230730.1734: Superior Lisp Interaction Mode for Emacs
+app-emacs/slime 20230927.2318: Superior Lisp Interaction Mode for Emacs
 app-emacs/slime-company 20210124.1627: slime completion backend for company mode
 app-emacs/slime-docker 20210426.1422: Integration of SLIME with Docker containers
 app-emacs/slime-repl-ansi-color 20230214.1453: Turn on ANSI colors in REPL output;
@@ -4813,7 +4813,7 @@ app-emacs/spark 20230406.2307: sparkline generation
 app-emacs/sparkline 20150101.1319: Make sparkline images from a list of numbers
 app-emacs/sparql-mode 20230104.1113: Edit and interactively evaluate SPARQL queries.
 app-emacs/spatial-navigate 20230115.633: Directional navigation between white-space blocks
-app-emacs/spdx 20230926.100: Insert SPDX license and copyright headers
+app-emacs/spdx 20230928.59: Insert SPDX license and copyright headers
 app-emacs/speech-tagger 20170728.1829: tag parts of speech using coreNLP
 app-emacs/speechd-el 20220608.1422: Client to speech synthesizers and Braille displays.
 app-emacs/speed-type 20230926.838: Practice touch and speed typing
@@ -5135,7 +5135,7 @@ app-emacs/tree-sitter-ispell 20230205.533: Run ispell on tree-sitter text nodes
 app-emacs/tree-sitter-langs 20230921.304: Grammar bundle for tree-sitter
 app-emacs/treebundel 20230917.1933: Bundle related git-worktrees together
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
-app-emacs/treemacs 20230925.1347: A tree style file explorer package
+app-emacs/treemacs 20230927.1355: A tree style file explorer package
 app-emacs/treemacs-all-the-icons 20230408.1109: all-the-icons integration for treemacs
 app-emacs/treemacs-evil 20230822.2039: Evil mode integration for treemacs
 app-emacs/treemacs-icons-dired 20230408.1109: Treemacs icons for dired
@@ -5204,7 +5204,7 @@ app-emacs/unicad 20230903.1356: An elisp port of Mozilla Universal Charset Auto 
 app-emacs/unicode-emoticons 20150204.1108: Shortcuts for common unicode emoticons
 app-emacs/unicode-enbox 20140508.2041: Surround a string with box-drawing characters
 app-emacs/unicode-escape 20230109.1222: Escape/Unescape unicode notations
-app-emacs/unicode-fonts 20220713.1837: Configure Unicode fonts
+app-emacs/unicode-fonts 20230926.1502: Configure Unicode fonts
 app-emacs/unicode-math-input 20220302.1231: Insert Unicode math symbols using TeX notation
 app-emacs/unicode-progress-reporter 20140508.2041: Progress-reporter with fancy characters
 app-emacs/unicode-troll-stopper 20190209.411: Minor mode for Highlighting Unicode homoglyphs
@@ -5291,7 +5291,7 @@ app-emacs/vertigo 20211224.1256: Jump across lines using the home row.
 app-emacs/vhdl-capf 20160221.1734: Completion at point function (capf) for vhdl-mode.
 app-emacs/vhdl-ext 20230921.2242: VHDL Extensions
 app-emacs/vhdl-tools 20200330.1819: Utilities for navigating vhdl sources
-app-emacs/vhdl-ts-mode 20230921.2224: VHDL Tree-sitter major mode
+app-emacs/vhdl-ts-mode 20230926.2026: VHDL Tree-sitter major mode
 app-emacs/vi-tilde-fringe 20141028.242: Displays tildes in the fringe on empty lines a la Vi.
 app-emacs/viewer 20170107.202: View-mode extension
 app-emacs/viking-mode 20160705.2027: kill first, ask later
@@ -5402,8 +5402,8 @@ app-emacs/wiki-nav 20230304.2212: Simple file navigation using [[WikiStrings]]
 app-emacs/wiki-summary 20181010.1824: View Wikipedia summaries in Emacs easily.
 app-emacs/wikinfo 20220906.1709: Scrape Wikipedia Infoboxes
 app-emacs/wikinforg 20230630.116: Org-mode wikinfo integration
-app-emacs/wildcharm-light-theme 20230914.2328: Port of vim-wildcharm (light) colorscheme
-app-emacs/wildcharm-theme 20230914.2328: Port of vim-wildcharm colorscheme
+app-emacs/wildcharm-light-theme 20230926.2256: Port of vim-wildcharm (light) colorscheme
+app-emacs/wildcharm-theme 20230926.2256: Port of vim-wildcharm colorscheme
 app-emacs/wilt 20180220.854: An extensions for calculating WILT in a buffer.
 app-emacs/win-switch 20161009.1627: fast, dynamic bindings for window-switching/resizing
 app-emacs/windata 20090830.1040: convert window configuration to list
@@ -5442,7 +5442,7 @@ app-emacs/wordsmith-mode 20210715.1517: Syntax analysis and NLP text-processing 
 app-emacs/worf 20220102.835: A warrior does not press so many keys! (in org-mode)
 app-emacs/workgroups 20110726.1641: workgroups for windows (for Emacs)
 app-emacs/workgroups2 20230328.1331: save&load multiple named workspaces (or "workgroups")
-app-emacs/workroom 20230123.1630: Named rooms for work without irrelevant distracting buffers
+app-emacs/workroom 20230926.1631: Named rooms for work without irrelevant distracting buffers
 app-emacs/world-time-mode 20140627.807: show whole days of world-time diffs
 app-emacs/wotd 20170328.1948: Fetch word-of-the-day from multiple online sources
 app-emacs/wrap-region 20140117.720: Wrap text with punctation or tag
@@ -5497,7 +5497,7 @@ app-emacs/yafolding 20200119.1353: Folding code blocks based on indentation
 app-emacs/yagist 20160418.508: Yet Another Emacs integration for gist.github.com
 app-emacs/yahtzee 20220221.803: The yahtzee game
 app-emacs/yalinum 20130217.1043: yet another display line numbers.
-app-emacs/yaml 20230907.1302: YAML parser for Elisp
+app-emacs/yaml 20230928.103: YAML parser for Elisp
 app-emacs/yaml-imenu 20220406.1703: Enhancement of the imenu support in yaml-mode.
 app-emacs/yaml-mode 20230714.440: Major mode for editing YAML files
 app-emacs/yaml-pro 20230921.39: Parser-aided YAML editing features
@@ -5520,7 +5520,7 @@ app-emacs/yaxception 20150105.1540: Provide framework about exception like Java 
 app-emacs/ycm 20150822.1836: Emacs client for the YouCompleteMe auto-completion server.
 app-emacs/ycmd 20190416.807: emacs bindings to the ycmd completion server
 app-emacs/ydk-mode 20170114.223: Language support for Yu-Gi-Oh! deck files
-app-emacs/yeetube 20230831.1426: YouTube & Invidious Front End
+app-emacs/yeetube 20230928.337: YouTube Front End
 app-emacs/yequake 20200219.2323: Drop-down frames, like Yakuake
 app-emacs/yesql-ghosts 20150220.1237: Display ghostly yesql defqueries inline
 app-emacs/yesterbox 20200327.52: Count number of inbox messages by day
@@ -5555,7 +5555,7 @@ app-emacs/zetteldesk-remark 20230517.2020: Org-Remark integration for zetteldesk
 app-emacs/zettelkasten 20230108.1724: Helper functions to organise notes in a Zettelkasten style
 app-emacs/zetz-mode 20200823.536: A major mode for the ZetZ programming language
 app-emacs/zig-mode 20230815.2033: A major mode for the Zig programming language
-app-emacs/zim-wiki-mode 20230211.1650: Zim Desktop Wiki edit mode
+app-emacs/zim-wiki-mode 20230927.1410: Zim Desktop Wiki edit mode
 app-emacs/zimports 20211011.2059: Reformat python imports with zimports
 app-emacs/zk 20230821.2127: Functions for working with Zettelkasten-style linked notes
 app-emacs/zk-desktop 20230712.1103: Desktop environment for zk
