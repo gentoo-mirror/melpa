@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Library to use Zotero translators"
+DESCRIPTION="Import bibliographic data from (almost) everywhere"
 
 HOMEPAGE="https://github.com/mpedramfar/zotra"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
