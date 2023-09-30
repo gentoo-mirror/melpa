@@ -149,7 +149,7 @@ app-emacs/aozora-view 20140310.1317: Aozora Bunko text Emacs viewer.
 app-emacs/apache-mode 20210519.1931: Major mode for editing Apache httpd configuration files
 app-emacs/apdl-mode 20211023.1831: Major mode for the APDL programming language.
 app-emacs/apel 20220720.1308: A Portable Emacs Library provides support for portable Emacs Lisp programs
-app-emacs/apheleia 20230909.2313: Reformat buffer stably
+app-emacs/apheleia 20230930.832: Reformat buffer stably
 app-emacs/apib-mode 20200101.1017: Major mode for API Blueprint files
 app-emacs/apiwrap 20180602.2231: api-wrapping macros
 app-emacs/apparmor-mode 20230912.248: Major mode for editing AppArmor policy files
@@ -348,7 +348,7 @@ app-emacs/blackboard-theme 20161216.656: TextMate Blackboard Theme
 app-emacs/blacken 20230821.1738: Reformat python buffers using the "black" formatter
 app-emacs/blackjack 20230821.41: The game of Blackjack
 app-emacs/blackout 20220509.2350: Better mode lighter overriding
-app-emacs/blamer 20230519.2152: Show git blame info about current line
+app-emacs/blamer 20230930.1047: Show git blame info about current line
 app-emacs/blgrep 20150401.1416: Block grep
 app-emacs/blimp 20180903.2240: Bustling Image Manipulation Package
 app-emacs/bliss-theme 20170808.1307: an Emacs 24 theme based on Bliss (tmTheme)
@@ -541,7 +541,7 @@ app-emacs/chronometrist-spark 20230629.1039: Show sparklines in Chronometrist bu
 app-emacs/chronos 20230804.1712: Multiple simultaneous countdown / countup timers
 app-emacs/chruby 20180114.1652: Emacs integration for chruby
 app-emacs/chyla-theme 20230907.1019: chyla.org - green color theme.
-app-emacs/cider 20230930.737: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 20230930.751: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-decompile 20151122.537: decompilation extension for cider
 app-emacs/cider-eval-sexp-fu 20190311.2152: Briefly highlights an evaluated sexp.
 app-emacs/cider-hydra 20190816.1121: Hydras for CIDER.
@@ -2810,7 +2810,7 @@ app-emacs/kana 20210531.1427: Learn Japanese hiragana and katakana
 app-emacs/kanban 20230210.1505: Parse org-todo headlines to use org-tables as Kanban tables
 app-emacs/kanji-mode 20230928.1113: View stroke order for kanji characters at cursor
 app-emacs/kaocha-runner 20230511.934: A package for running Kaocha tests via CIDER.
-app-emacs/kaolin-themes 20230930.741: A set of eye pleasing themes
+app-emacs/kaolin-themes 20230930.1102: A set of eye pleasing themes
 app-emacs/kaomoji 20220721.441: Input kaomoji superb easily
 app-emacs/kapacitor 20190414.1908: Main file for kapacitor-mode
 app-emacs/karma 20160220.1245: Karma Test Runner Emacs Integration
@@ -3054,7 +3054,7 @@ app-emacs/lsp-jedi 20230824.1908: Lsp client plugin for Python Jedi Language Ser
 app-emacs/lsp-julia 20230915.654: Julia support for lsp-mode
 app-emacs/lsp-latex 20230717.1707: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20230416.1826: LSP Clients for LTEX
-app-emacs/lsp-metals 20230929.1105: Scala Client settings
+app-emacs/lsp-metals 20230930.904: Scala Client settings
 app-emacs/lsp-mode 20230928.1235: LSP mode
 app-emacs/lsp-mssql 20230510.1124: MSSQL LSP bindings
 app-emacs/lsp-origami 20230815.704: origami.el support for lsp-mode
@@ -4039,7 +4039,7 @@ app-emacs/perspeen 20171203.1021: An package for multi-workspace
 app-emacs/pest-mode 20221231.15: Major mode for editing Pest files
 app-emacs/pet 20230906.46: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 20220913.1401: a simple wrapper around asynchronous processes
-app-emacs/pg 20230907.1549: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
+app-emacs/pg 20230930.1251: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
 app-emacs/pgdevenv 20150105.2236: Manage your PostgreSQL development envs
 app-emacs/ph 20161029.1522: A global minor mode for managing multiple projects.
 app-emacs/phabricator 20160510.1425: Phabricator/Arcanist helpers for Emacs.
@@ -4426,7 +4426,7 @@ app-emacs/renpy 20200607.135: silly walks for Renpy
 app-emacs/repeat-help 20230118.24: Display keybindings for repeat-mode
 app-emacs/repeatable-motion 20170620.1848: Make repeatable versions of motions
 app-emacs/repeater 20180418.1212: Repeat recent repeated commands
-app-emacs/repl-driven-development 20230929.940: Send arbitrary code to a REPL in the background
+app-emacs/repl-driven-development 20230930.1020: Send arbitrary code to a REPL in the background
 app-emacs/repl-toggle 20220920.752: Switch to/from repl buffer for current major-mode
 app-emacs/replace-from-region 20170227.2316: Replace commands whose query is from region
 app-emacs/replace-pairs 20160207.1251: Query-replace pairs of things
@@ -4926,7 +4926,7 @@ app-emacs/sway-lang-mode 20230320.507: Major mode for sway
 app-emacs/sweet-theme 20200708.1202: Sweet-looking theme
 app-emacs/sweetgreen 20180605.335: Order Salads from sweetgreen.com
 app-emacs/swift-helpful 20220707.846: Show documentation for Swift programs.
-app-emacs/swift-mode 20230831.832: Major-mode for Apple's Swift programming language
+app-emacs/swift-mode 20230930.903: Major-mode for Apple's Swift programming language
 app-emacs/swift3-mode 20160918.1250: Major-mode for Apple's Swift programming language.
 app-emacs/swiper 20230410.1815: Isearch with an overview. Oh, man!
 app-emacs/swiper-helm 20180131.1744: Helm version of Swiper.
@@ -5135,10 +5135,10 @@ app-emacs/tree-sitter-ispell 20230205.533: Run ispell on tree-sitter text nodes
 app-emacs/tree-sitter-langs 20230921.304: Grammar bundle for tree-sitter
 app-emacs/treebundel 20230917.1933: Bundle related git-worktrees together
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
-app-emacs/treemacs 20230927.1355: A tree style file explorer package
+app-emacs/treemacs 20230930.1221: A tree style file explorer package
 app-emacs/treemacs-all-the-icons 20230408.1109: all-the-icons integration for treemacs
 app-emacs/treemacs-evil 20230822.2039: Evil mode integration for treemacs
-app-emacs/treemacs-icons-dired 20230408.1109: Treemacs icons for dired
+app-emacs/treemacs-icons-dired 20230930.1141: Treemacs icons for dired
 app-emacs/treemacs-magit 20230830.1936: Magit integration for treemacs
 app-emacs/treemacs-nerd-icons 20230828.544: Emacs Nerd Font Icons theme for treemacs
 app-emacs/treemacs-persp 20230703.1929: Persp-mode integration for treemacs
