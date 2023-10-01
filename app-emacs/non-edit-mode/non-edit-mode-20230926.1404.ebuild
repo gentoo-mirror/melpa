@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="nummm-mode"
+REALNAME="non-edit-mode"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Display the number of minor modes instead of their names"
+DESCRIPTION="Minor mode that disables editing"
 
-HOMEPAGE="http://github.com/agpchil/nummm-mode"
+HOMEPAGE="https://gitlab.com/aragaer/non-edit-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
