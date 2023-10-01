@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="mu4e-maildirs-extension"
+REALNAME="awk-ts-mode"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Show mu4e maildirs summary in mu4e-main-view"
+DESCRIPTION="Major mode for awk"
 
-HOMEPAGE="http://github.com/agpchil/mu4e-maildirs-extension"
+HOMEPAGE="https://github.com/nverno/awk-ts-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/dash"
-RDEPEND="app-emacs/dash"
+DEPEND=""
+RDEPEND=""
