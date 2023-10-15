@@ -659,7 +659,7 @@ app-emacs/commentary-theme 20210714.1757: A minimal theme with contrasting comme
 app-emacs/commenter 20160219.1627: multiline-comment support package
 app-emacs/commify 20230616.1042: Toggle grouping commas in numbers
 app-emacs/common-lisp-snippets 20180226.1523: Yasnippets for Common Lisp
-app-emacs/company 20231013.2347: Modular text completion framework
+app-emacs/company 20231015.122: Modular text completion framework
 app-emacs/company-anaconda 20230821.2126: Anaconda backend for company-mode
 app-emacs/company-ansible 20200306.1441: A company back-end for ansible
 app-emacs/company-arduino 20160306.1739: company-mode for Arduino
@@ -1498,7 +1498,7 @@ app-emacs/evil-extra-operator 20210225.1239: Evil operator for evaluating codes,
 app-emacs/evil-find-char-pinyin 20160514.2041: Evil's f/F/t/T/evil-snipe commands with Pinyin support
 app-emacs/evil-fringe-mark 20190320.453: Display evil-mode marks in the fringe
 app-emacs/evil-god-state 20141117.255: use god-mode keybindings in evil-mode
-app-emacs/evil-goggles 20230630.754: Add a visual hint to evil operations
+app-emacs/evil-goggles 20231015.603: Add a visual hint to evil operations
 app-emacs/evil-iedit-state 20220219.1432: Evil states to interface iedit mode.
 app-emacs/evil-indent-plus 20230927.1513: Evil textobjects based on indentation
 app-emacs/evil-indent-textobject 20130831.2219: evil textobjects based on indentation
@@ -2230,7 +2230,7 @@ app-emacs/hcl-mode 20230302.1029: Major mode for Hashicorp
 app-emacs/headlong 20150417.1526: reckless completion
 app-emacs/heaven-and-hell 20190713.1830: easy toggle light/dark themes
 app-emacs/heex-ts-mode 20231007.725: Major mode for Heex with tree-sitter support
-app-emacs/helm 20231014.733: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20231015.546: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: helm-sources and some utilities for GNU R.
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: helm source for Active Directory
@@ -2517,7 +2517,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20231014.432: P2P filesystem
+app-emacs/hyperdrive 20231014.2228: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -2595,7 +2595,7 @@ app-emacs/import-js 20220215.1948: Import Javascript dependencies
 app-emacs/import-popwin 20170218.1407: popwin buffer near by import statements with popwin
 app-emacs/importmagic 20180520.303: Fix Python imports using importmagic.
 app-emacs/impostman 20230111.2012: Import Postman collections
-app-emacs/indent-control 20230831.957: Management for indentation level
+app-emacs/indent-control 20231015.616: Management for indentation level
 app-emacs/indent-guide 20210115.400: show vertical lines to guide indentation
 app-emacs/indent-info 20210111.745: Show indentation information in status bar
 app-emacs/indent-lint 20230822.46: Async indentation checker
@@ -2916,7 +2916,7 @@ app-emacs/lastfm 20211018.838: Last.fm API for Emacs Lisp
 app-emacs/lastpass 20201229.2109: LastPass command wrapper
 app-emacs/latex-change-env 20230810.542: Change in and out of LaTeX environments
 app-emacs/latex-extra 20220817.5: Adds several useful functionalities to LaTeX-mode.
-app-emacs/latex-labeler 20231008.2346: Simplify equation labeling in LaTeX
+app-emacs/latex-labeler 20231014.2110: Simplify equation labeling in LaTeX
 app-emacs/latex-math-preview 20211228.641: preview LaTeX mathematical expressions.
 app-emacs/latex-pretty-symbols 20151112.1044: Display many latex symbols as their unicode counterparts
 app-emacs/latex-preview-pane 20181008.1822: Makes LaTeX editing less painful by providing a updatable preview pane
@@ -3022,7 +3022,7 @@ app-emacs/livescript-mode 20221015.1316: Major mode for editing LiveScript files
 app-emacs/livid-mode 20131116.1344: Live browser eval of JavaScript every time a buffer changes
 app-emacs/ll-debug 20211002.1031: Low level debug tools
 app-emacs/llama 20230831.2227: Compact syntax for short lambda
-app-emacs/llama-cpp 20231007.756: A client for llama-cpp server
+app-emacs/llama-cpp 20231015.717: A client for llama-cpp server
 app-emacs/lms 20210820.2200: Squeezebox / Logitech Media Server frontend
 app-emacs/load-bash-alias 20230310.1657: Convert bash aliases into eshell ones
 app-emacs/load-env-vars 20180511.2210: Load environment variables from files
@@ -3040,7 +3040,7 @@ app-emacs/logms 20220704.654: Log message with clickable links to context
 app-emacs/lognav-mode 20220410.1344: Navigate Log Error Messages
 app-emacs/logpad 20201113.917: Simulate Windows Notepad for logging.
 app-emacs/logstash-conf 20210123.1949: basic mode for editing logstash configuration
-app-emacs/logview 20230921.1903: Major mode for viewing log files
+app-emacs/logview 20231014.1840: Major mode for viewing log files
 app-emacs/lol-data-dragon 20200705.1822: Browse Champions of League of Legends on Data Dragon
 app-emacs/lolcat 20190527.1145: Rainbows and unicorns!
 app-emacs/lolcode-mode 20111002.847: Major mode for editing LOLCODE
@@ -5424,8 +5424,8 @@ app-emacs/wiki-nav 20230304.2212: Simple file navigation using [[WikiStrings]]
 app-emacs/wiki-summary 20181010.1824: View Wikipedia summaries in Emacs easily.
 app-emacs/wikinfo 20220906.1709: Scrape Wikipedia Infoboxes
 app-emacs/wikinforg 20230630.116: Org-mode wikinfo integration
-app-emacs/wildcharm-light-theme 20231013.528: Port of vim-wildcharm (light) colorscheme
-app-emacs/wildcharm-theme 20231013.528: Port of vim-wildcharm colorscheme
+app-emacs/wildcharm-light-theme 20231015.30: Port of vim-wildcharm (light) colorscheme
+app-emacs/wildcharm-theme 20231015.30: Port of vim-wildcharm colorscheme
 app-emacs/wilt 20180220.854: An extensions for calculating WILT in a buffer.
 app-emacs/win-switch 20161009.1627: fast, dynamic bindings for window-switching/resizing
 app-emacs/windata 20090830.1040: convert window configuration to list
@@ -5597,7 +5597,7 @@ app-emacs/zoom-window 20221228.407: Zoom window like tmux
 app-emacs/zop-to-char 20160212.1554: A replacement of zap-to-char.
 app-emacs/zotelo 20160602.949: Manage Zotero collections from emacs
 app-emacs/zotero 20211008.2207: Library for the Zotero API
-app-emacs/zotra 20231012.2322: Import bibliographic data from (almost) everywhere
+app-emacs/zotra 20231014.2139: Import bibliographic data from (almost) everywhere
 app-emacs/zotxt 20210908.402: Tools to integrate emacs with Zotero via the zotxt plugin.
 app-emacs/zoutline 20220102.835: Simple outline library.
 app-emacs/zoxide 20230912.2359: Find file by zoxide
