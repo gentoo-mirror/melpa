@@ -19,6 +19,7 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/s
+	app-emacs/f
 	app-emacs/lf
 	app-emacs/dash
 	app-emacs/eros
@@ -30,6 +31,7 @@ DEPEND="app-emacs/s
 	app-emacs/hierarchy
 	app-emacs/json-navigator"
 RDEPEND="app-emacs/s
+	app-emacs/f
 	app-emacs/lf
 	app-emacs/dash
 	app-emacs/eros
