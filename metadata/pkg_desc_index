@@ -151,7 +151,7 @@ app-emacs/aozora-view 20140310.1317: Aozora Bunko text Emacs viewer.
 app-emacs/apache-mode 20210519.1931: Major mode for editing Apache httpd configuration files
 app-emacs/apdl-mode 20211023.1831: Major mode for the APDL programming language.
 app-emacs/apel 20220720.1308: A Portable Emacs Library provides support for portable Emacs Lisp programs
-app-emacs/apheleia 20231017.2020: Reformat buffer stably
+app-emacs/apheleia 20231018.1901: Reformat buffer stably
 app-emacs/apib-mode 20200101.1017: Major mode for API Blueprint files
 app-emacs/apiwrap 20180602.2231: api-wrapping macros
 app-emacs/apparmor-mode 20230912.248: Major mode for editing AppArmor policy files
@@ -1287,7 +1287,7 @@ app-emacs/elisp-slime-nav 20210510.528: Make M-. and M-, work in elisp like they
 app-emacs/elixir-mode 20230626.1738: Major mode for editing Elixir files
 app-emacs/elixir-ts-mode 20231007.1031: Major mode for Elixir with tree-sitter support
 app-emacs/elixir-yasnippets 20150417.1239: Yasnippets for Elixir
-app-emacs/ellama 20231016.932: Ollama client for calling local LLMs
+app-emacs/ellama 20231018.2055: Ollama client for calling local LLMs
 app-emacs/ellocate 20200112.1931: The locate command reimplemented in Emacs Lisp
 app-emacs/elm-mode 20230315.1122: Major mode for Elm
 app-emacs/elm-test-runner 20230905.331: Enhanced support for running elm-test
@@ -1682,7 +1682,7 @@ app-emacs/fleetish-theme 20230407.1438: A take on the JetBrains Fleet theme
 app-emacs/flex-autopair 20120809.1218: Automatically insert pair braces and quotes, insertion conditions & actions are highly customizable.
 app-emacs/flex-compile 20230808.1453: Run, evaluate and compile across many languages
 app-emacs/flex-isearch 20170308.2010: Flex matching (like ido) in isearch.
-app-emacs/flexoki-themes 20231017.501: An inky color scheme for prose and code
+app-emacs/flexoki-themes 20231019.722: An inky color scheme for prose and code
 app-emacs/flim 20230808.1153: A library to provide basic features about message representation or encoding.
 app-emacs/flimenu 20200810.1510: Flatten imenu automatically
 app-emacs/fliptext 20171124.2056: Input method for flipping characters upside down
@@ -1820,7 +1820,7 @@ app-emacs/flymake-diagnostic-at-point 20180815.1004: Display flymake diagnostics
 app-emacs/flymake-easy 20141022.1828: Helpers for easily building flymake checkers
 app-emacs/flymake-elisp-config 20230711.1833: Setup load-path for flymake on Emacs Lisp mode
 app-emacs/flymake-elixir 20130810.1417: A flymake handler for elixir-mode .ex files.
-app-emacs/flymake-eslint 20231011.1349: A Flymake backend for Javascript using eslint
+app-emacs/flymake-eslint 20231018.1900: A Flymake backend for Javascript using eslint
 app-emacs/flymake-flycheck 20230826.749: Use flycheck checkers as flymake backends
 app-emacs/flymake-gjshint 20130327.1232: A flymake handler for javascript using both jshint and gjslint
 app-emacs/flymake-go 20150714.733: A flymake handler for go-mode files
@@ -2661,7 +2661,7 @@ app-emacs/ipython-shell-send 20190220.2246: Send code (including magics) to ipyt
 app-emacs/iqa 20200520.1137: Init file(and directory) Quick Access
 app-emacs/ir-black-theme 20130303.755: Port of ir-black theme
 app-emacs/iregister 20150515.2107: Interactive register commands for Emacs.
-app-emacs/irony 20230928.826: C/C++ minor mode powered by libclang
+app-emacs/irony 20231018.1915: C/C++ minor mode powered by libclang
 app-emacs/irony-eldoc 20200622.2214: irony-mode support for eldoc-mode
 app-emacs/iscroll 20220612.310: Smooth scrolling over images
 app-emacs/isearch-dabbrev 20141224.622: Use dabbrev in isearch
@@ -2800,7 +2800,7 @@ app-emacs/julia-formatter 20230525.1742: Use JuliaFormatter.jl for julia code
 app-emacs/julia-mode 20230712.1524: Major mode for editing Julia source code
 app-emacs/julia-repl 20230529.943: A minor mode for a Julia REPL
 app-emacs/julia-shell 20161125.1910: Major mode for an inferior Julia shell
-app-emacs/julia-snail 20230829.546: Julia Snail
+app-emacs/julia-snail 20231019.455: Julia Snail
 app-emacs/julia-ts-mode 20230921.1433: Major mode for Julia source code using tree-sitter
 app-emacs/julia-vterm 20230815.2318: A mode for Julia REPL using vterm
 app-emacs/jumblr 20170727.2043: an anagram game for emacs
@@ -2889,7 +2889,7 @@ app-emacs/kroman 20150827.2340: Korean hangul romanization
 app-emacs/ksp-cfg-mode 20190414.2348: major mode for editing KSP CFG files
 app-emacs/ksp-mode 20221220.1136: Major mode for editing ksp files
 app-emacs/kubectx-mode 20230914.553: Change kubectl context/namespace and show in mode line
-app-emacs/kubedoc 20230513.2014: Kubernetes API Documentation
+app-emacs/kubedoc 20231018.1913: Kubernetes API Documentation
 app-emacs/kubel 20231013.1753: Control Kubernetes with limited permissions
 app-emacs/kubel-evil 20220909.2028: extension for kubel to provide evil keybindings
 app-emacs/kubernetes 20221229.1519: Magit-like porcelain for Kubernetes
@@ -3843,7 +3843,7 @@ app-emacs/org-treescope 20200503.1609: Time scoping sparse trees within org
 app-emacs/org-treeusage 20221011.1301: Examine the usage of org headings in a tree-like manner
 app-emacs/org-trello 20210314.1901: Minor mode to synchronize org-mode buffer and trello board
 app-emacs/org-unique-id 20220907.821: Create unique IDs for org headers
-app-emacs/org-upcoming-modeline 20230905.717: Show next org event in mode line
+app-emacs/org-upcoming-modeline 20231019.735: Show next org event in mode line
 app-emacs/org-variable-pitch 20220220.1757: Minor mode for variable pitch text in org mode.
 app-emacs/org-vcard 20221111.328: org-mode support for vCard export and import.
 app-emacs/org-view-mode 20221208.327: Read-only viewer with less markup clutter in org mode files
@@ -4995,8 +4995,8 @@ app-emacs/tabbar 20180726.1735: Display a tab bar in the header line
 app-emacs/tabbar-ruler 20160802.307: Pretty tabbar, autohide, use both tabbar/ruler
 app-emacs/tabgo 20230425.907: Jump to tabs, avy style
 app-emacs/tablist 20230321.705: Extended tabulated-list-mode
-app-emacs/tabnine 20231018.956: An unofficial TabNine package with TabNine Chat supported
-app-emacs/tabspaces 20231016.13: Leverage tab-bar and project for buffer-isolated workspaces
+app-emacs/tabnine 20231019.632: An unofficial TabNine package with TabNine Chat supported
+app-emacs/tabspaces 20231018.1932: Leverage tab-bar and project for buffer-isolated workspaces
 app-emacs/tabula-rasa 20141216.547: Distraction free writing mode
 app-emacs/tagedit 20161121.855: Some paredit-like features for html-mode
 app-emacs/take-off 20140531.917: Emacs remote web access
