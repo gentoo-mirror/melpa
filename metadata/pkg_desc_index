@@ -1287,7 +1287,7 @@ app-emacs/elisp-slime-nav 20210510.528: Make M-. and M-, work in elisp like they
 app-emacs/elixir-mode 20230626.1738: Major mode for editing Elixir files
 app-emacs/elixir-ts-mode 20231007.1031: Major mode for Elixir with tree-sitter support
 app-emacs/elixir-yasnippets 20150417.1239: Yasnippets for Elixir
-app-emacs/ellama 20231018.2055: Ollama client for calling local LLMs
+app-emacs/ellama 20231019.905: Ollama client for calling local LLMs
 app-emacs/ellocate 20200112.1931: The locate command reimplemented in Emacs Lisp
 app-emacs/elm-mode 20230315.1122: Major mode for Elm
 app-emacs/elm-test-runner 20230905.331: Enhanced support for running elm-test
@@ -1436,7 +1436,7 @@ app-emacs/eshell-fringe-status 20170117.2316: Show last status in fringe
 app-emacs/eshell-git-prompt 20220830.2000: Some Eshell prompt for Git users
 app-emacs/eshell-info-banner 20220728.1006: System information as your Eshell banner
 app-emacs/eshell-outline 20201121.620: Enhanced outline-mode for Eshell
-app-emacs/eshell-prompt-extras 20230924.139: Display extra information for your eshell prompt.
+app-emacs/eshell-prompt-extras 20231019.1405: Display extra information for your eshell prompt.
 app-emacs/eshell-syntax-highlighting 20230601.246: Highlight eshell commands
 app-emacs/eshell-toggle 20220718.729: Show/hide eshell under active window.
 app-emacs/eshell-up 20170425.1737: Quickly go to a specific parent directory in eshell
@@ -1487,7 +1487,7 @@ app-emacs/evil-better-visual-line 20200123.2045: gj and gk visual line mode fix
 app-emacs/evil-cleverparens 20231001.1423: Evil friendly minor-mode for editing lisp.
 app-emacs/evil-colemak-basics 20221230.1443: Basic Colemak key bindings for evil-mode
 app-emacs/evil-colemak-minimal 20171006.1317: Minimal Colemak key bindings for evil-mode
-app-emacs/evil-collection 20231005.1721: A set of keybindings for Evil mode
+app-emacs/evil-collection 20231019.1228: A set of keybindings for Evil mode
 app-emacs/evil-commentary 20230610.1006: Comment stuff out. A port of vim-commentary.
 app-emacs/evil-dvorak 20160416.1841: evil keybindings for that work with dvorak mode
 app-emacs/evil-easymotion 20200424.135: A port of vim's easymotion to emacs
@@ -1682,7 +1682,7 @@ app-emacs/fleetish-theme 20230407.1438: A take on the JetBrains Fleet theme
 app-emacs/flex-autopair 20120809.1218: Automatically insert pair braces and quotes, insertion conditions & actions are highly customizable.
 app-emacs/flex-compile 20230808.1453: Run, evaluate and compile across many languages
 app-emacs/flex-isearch 20170308.2010: Flex matching (like ido) in isearch.
-app-emacs/flexoki-themes 20231019.722: An inky color scheme for prose and code
+app-emacs/flexoki-themes 20231019.851: An inky color scheme for prose and code
 app-emacs/flim 20230808.1153: A library to provide basic features about message representation or encoding.
 app-emacs/flimenu 20200810.1510: Flatten imenu automatically
 app-emacs/fliptext 20171124.2056: Input method for flipping characters upside down
@@ -3165,7 +3165,7 @@ app-emacs/map-regexp 20190128.18: map over matches of a regular expression
 app-emacs/marcopolo 20160421.1004: Emacs client to the Docker HUB/Registry API
 app-emacs/marginalia 20230925.1627: Enrich existing commands with completion annotations
 app-emacs/mark-multiple 20121118.1554: Sorta lets you mark several regions at once.
-app-emacs/mark-thing-at 20230805.1701: Mark a pattern at the current point
+app-emacs/mark-thing-at 20231019.1111: Mark a pattern at the current point
 app-emacs/mark-tools 20130614.1025: Some simple tools to access the mark-ring in Emacs
 app-emacs/markdown-changelog 20230805.1720: Maintain changelog entries
 app-emacs/markdown-mode 20231018.126: Major mode for Markdown-formatted text
@@ -4928,7 +4928,7 @@ app-emacs/sudo-utils 20210119.1930: Sudo utilities
 app-emacs/sudoku 20191015.1315: Simple sudoku game, can download puzzles
 app-emacs/suggest 20231003.404: suggest elisp functions that give the output requested
 app-emacs/suggestion-box 20170830.807: show tooltip on the cursor
-app-emacs/sumibi 20230916.1505: Japanese input method powered by ChatGPT API
+app-emacs/sumibi 20231019.1246: Japanese input method powered by ChatGPT API
 app-emacs/sunburn-theme 20201216.1539: A low contrast color theme
 app-emacs/sunny-day-theme 20140413.2125: Emacs24 theme with a light background.
 app-emacs/sunshine 20200306.1711: Provide weather and forecast information.
@@ -4994,7 +4994,7 @@ app-emacs/tab-jump-out 20151006.130: Use tab to jump out of delimiter pairs.
 app-emacs/tabbar 20180726.1735: Display a tab bar in the header line
 app-emacs/tabbar-ruler 20160802.307: Pretty tabbar, autohide, use both tabbar/ruler
 app-emacs/tabgo 20230425.907: Jump to tabs, avy style
-app-emacs/tablist 20230321.705: Extended tabulated-list-mode
+app-emacs/tablist 20231019.1126: Extended tabulated-list-mode
 app-emacs/tabnine 20231019.632: An unofficial TabNine package with TabNine Chat supported
 app-emacs/tabspaces 20231018.1932: Leverage tab-bar and project for buffer-isolated workspaces
 app-emacs/tabula-rasa 20141216.547: Distraction free writing mode
@@ -5114,7 +5114,7 @@ app-emacs/togetherly 20170426.616: allow multiple clients to edit a single buffe
 app-emacs/toggle-quotes 20140710.926: Toggle between single and double quoted string
 app-emacs/toggle-test 20140723.537: Toggle between source and test files in various programming languages
 app-emacs/toggle-window 20141207.1548: toggle current window size between half and full
-app-emacs/tok-theme 20231017.1935: Minimal monochromatic theme for Emacs in the spirit of Zmacs and Smalltalk-80.
+app-emacs/tok-theme 20231019.947: Minimal monochromatic theme for Emacs in the spirit of Zmacs and Smalltalk-80.
 app-emacs/tokei 20220823.2058: Display codebase statistics
 app-emacs/tomatinho 20180621.1748: Simple and beautiful pomodoro timer
 app-emacs/toml 20230411.1449: TOML (Tom's Obvious, Minimal Language) parser
