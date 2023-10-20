@@ -338,7 +338,7 @@ app-emacs/bind-key 20230203.2004: A simple way to manage personal keybindings
 app-emacs/bind-map 20220108.228: Bind personal keymaps in multiple locations
 app-emacs/binder 20230729.350: Global minor mode to facilitate multi-file writing projects
 app-emacs/bing-dict 20200216.110: Minimalists' English-Chinese Bing dictionary
-app-emacs/binky 20231020.1213: Jump between points like a rabbit
+app-emacs/binky 20231020.1830: Jump between points like a rabbit
 app-emacs/biome 20231015.1930: Bountiful Interface to Open Meteo for Emacs
 app-emacs/birds-of-paradise-plus-theme 20130419.2129: A brown/orange light-on-dark theme for Emacs 24 (deftheme).
 app-emacs/bison-mode 20210527.717: Major mode for editing bison, yacc and lex files.
@@ -747,7 +747,7 @@ app-emacs/conkeror-minor-mode 20150114.1604: Mode for editing conkeror javascrip
 app-emacs/conllu-mode 20200501.2328: editing mode for CoNLL-U files
 app-emacs/connection 20191111.446: TCP-based client connection
 app-emacs/constant-theme 20180921.1012: A calm, dark, almost monochrome color theme.
-app-emacs/consult 20231019.1759: Consulting completing-read
+app-emacs/consult 20231020.1932: Consulting completing-read
 app-emacs/consult-ag 20230227.406: The silver searcher integration using Consult
 app-emacs/consult-codesearch 20230315.1424: Consult interface for codesearch
 app-emacs/consult-company 20230606.1824: Consult frontend for company
@@ -1736,7 +1736,7 @@ app-emacs/flycheck-eldev 20230905.1754: Eldev support in Flycheck
 app-emacs/flycheck-elixir 20210413.612: Support Elixir in flycheck
 app-emacs/flycheck-elm 20181107.146: Flycheck support for the elm language
 app-emacs/flycheck-elsa 20230217.1640: Flycheck for Elsa
-app-emacs/flycheck-falco-rules 20230302.2340: On-the-fly syntax checking for falco rules files
+app-emacs/flycheck-falco-rules 20231020.1534: On-the-fly syntax checking for falco rules files
 app-emacs/flycheck-flawfinder 20211214.647: Integrate flawfinder with flycheck
 app-emacs/flycheck-flow 20190304.1459: Support Flow in flycheck
 app-emacs/flycheck-ghcmod 20150114.632: A flycheck checker for Haskell using ghcmod
@@ -1899,13 +1899,13 @@ app-emacs/forest-blue-theme 20160627.842: Emacs theme with a dark background.
 app-emacs/forge 20231011.2149: Access Git forges from Magit.
 app-emacs/form-feed 20210508.1627: Display ^L glyphs as horizontal lines
 app-emacs/form-feed-st 20231002.2211: Display ^L glyphs as full-width horizontal lines
-app-emacs/format-all 20231018.954: Auto-format C, C++, JS, Python, Ruby and 50 other languages
+app-emacs/format-all 20231020.1907: Auto-format C, C++, JS, Python, Ruby and 50 other languages
 app-emacs/format-sql 20150422.1333: Use format-sql to make your SQL readable in directly Emacs.
 app-emacs/format-table 20181223.1616: Parse and reformat tabular data.
 app-emacs/forth-mode 20231016.640: Programming language mode for Forth
 app-emacs/fortpy 20150715.2032: a Fortran auto-completion for Emacs
 app-emacs/fortune-cookie 20181223.842: Print a fortune in your scratch buffer.
-app-emacs/fountain-mode 20231020.1143: Major mode for screenwriting in Fountain markup
+app-emacs/fountain-mode 20231020.1310: Major mode for screenwriting in Fountain markup
 app-emacs/fpga 20230913.2241: FPGA & ASIC Utils
 app-emacs/fraktur-mode 20160815.227: Easily insert Unicode mathematical Fraktur characters
 app-emacs/frame-local 20180330.940: Variables local to a frame
@@ -2809,7 +2809,7 @@ app-emacs/jump-char 20180601.1348: navigation by char
 app-emacs/jump-to-line 20130122.1653: Jump to line number at point.
 app-emacs/jump-tree 20171014.1551: Treat position history as a tree
 app-emacs/jumplist 20151120.345: Jump like vim jumplist or ex jumplist
-app-emacs/jupyter 20231016.146: Jupyter
+app-emacs/jupyter 20231020.1901: Jupyter
 app-emacs/just-mode 20230303.2255: Justfile editing mode
 app-emacs/justl 20230913.232: Major mode for driving just files
 app-emacs/jvm-mode 20150422.708: Monitor and manage your JVMs
@@ -4767,7 +4767,7 @@ app-emacs/smart-shift 20150203.725: Smart shift text left/right.
 app-emacs/smart-tab 20210530.1743: Intelligent tab completion and indentation
 app-emacs/smart-tabs-mode 20200907.2025: Intelligently indent with tabs, align with spaces!
 app-emacs/smart-window 20160717.130: vim-like window controlling plugin
-app-emacs/smartparens 20230529.1017: Automatic insertion, wrapping and paredit-like navigation with user defined pairs.
+app-emacs/smartparens 20231020.1628: Automatic insertion, wrapping and paredit-like navigation with user defined pairs.
 app-emacs/smartrep 20150509.230: Support sequential operation which omitted prefix keys.
 app-emacs/smartscan 20170211.2033: Jumps between other symbols found at point
 app-emacs/smarty-mode 20100703.1158: major mode for editing smarty templates
@@ -5024,7 +5024,7 @@ app-emacs/teleport 20230915.1703: Integration for tsh (goteleport.com)
 app-emacs/teletext 20211203.1111: Teletext broadcast viewer
 app-emacs/teletext-yle 20210927.825: Teletext provider for Finnish national network YLE
 app-emacs/tempel 20230810.2303: Tempo templates/snippets with in-buffer field editing
-app-emacs/tempel-collection 20230918.814: Collection of templates for Tempel
+app-emacs/tempel-collection 20231020.1531: Collection of templates for Tempel
 app-emacs/template-overlays 20180706.1132: Display template regions using overlays
 app-emacs/templatel 20210902.228: Templating language;
 app-emacs/temporary-persistent 20230115.1425: Keep temp notes buffers persistent
@@ -5310,7 +5310,7 @@ app-emacs/vegetative-theme 20220822.353: A Theme based on green CRT terminals
 app-emacs/verb 20230825.2151: Organize and send HTTP requests
 app-emacs/veri-kompass 20200213.934: verilog codebase navigation facility
 app-emacs/verify-url 20160426.1228: find out invalid urls in the buffer or region
-app-emacs/verilog-ext 20231018.1106: SystemVerilog Extensions
+app-emacs/verilog-ext 20231020.1553: SystemVerilog Extensions
 app-emacs/verilog-ts-mode 20231016.1204: Verilog Tree-sitter major mode
 app-emacs/verona-mode 20200823.536: A major mode for the Verona programming language
 app-emacs/versuri 20211104.1301: The lyrics package
@@ -5320,7 +5320,7 @@ app-emacs/vertico 20230930.1918: VERTical Interactive COmpletion
 app-emacs/vertico-prescient 20230221.1257: prescient.el + Vertico
 app-emacs/vertigo 20211224.1256: Jump across lines using the home row.
 app-emacs/vhdl-capf 20160221.1734: Completion at point function (capf) for vhdl-mode.
-app-emacs/vhdl-ext 20231018.1126: VHDL Extensions
+app-emacs/vhdl-ext 20231020.1600: VHDL Extensions
 app-emacs/vhdl-tools 20200330.1819: Utilities for navigating vhdl sources
 app-emacs/vhdl-ts-mode 20231010.1133: VHDL Tree-sitter major mode
 app-emacs/vi-tilde-fringe 20141028.242: Displays tildes in the fringe on empty lines a la Vi.
