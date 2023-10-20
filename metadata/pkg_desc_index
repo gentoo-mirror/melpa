@@ -338,7 +338,7 @@ app-emacs/bind-key 20230203.2004: A simple way to manage personal keybindings
 app-emacs/bind-map 20220108.228: Bind personal keymaps in multiple locations
 app-emacs/binder 20230729.350: Global minor mode to facilitate multi-file writing projects
 app-emacs/bing-dict 20200216.110: Minimalists' English-Chinese Bing dictionary
-app-emacs/binky 20231020.744: Jump between points like a rabbit
+app-emacs/binky 20231020.1213: Jump between points like a rabbit
 app-emacs/biome 20231015.1930: Bountiful Interface to Open Meteo for Emacs
 app-emacs/birds-of-paradise-plus-theme 20130419.2129: A brown/orange light-on-dark theme for Emacs 24 (deftheme).
 app-emacs/bison-mode 20210527.717: Major mode for editing bison, yacc and lex files.
@@ -1573,7 +1573,7 @@ app-emacs/exercism 20231007.1253: Unofficial https://exercism.org integration
 app-emacs/exiftool 20190520.1106: Elisp wrapper around ExifTool
 app-emacs/exotica-theme 20180212.2329: A dark theme with vibrant colors
 app-emacs/expand-line 20151006.207: Expand selection by line
-app-emacs/expand-region 20231016.51: Increase selected region by semantic units.
+app-emacs/expand-region 20231020.620: Increase selected region by semantic units.
 app-emacs/expenses 20230903.306: Record and view expenses
 app-emacs/express 20140508.2041: Alternatives to `message'
 app-emacs/exsqlaim-mode 20170607.1003: Use variables inside sql queries
@@ -1682,7 +1682,7 @@ app-emacs/fleetish-theme 20230407.1438: A take on the JetBrains Fleet theme
 app-emacs/flex-autopair 20120809.1218: Automatically insert pair braces and quotes, insertion conditions & actions are highly customizable.
 app-emacs/flex-compile 20230808.1453: Run, evaluate and compile across many languages
 app-emacs/flex-isearch 20170308.2010: Flex matching (like ido) in isearch.
-app-emacs/flexoki-themes 20231019.851: An inky color scheme for prose and code
+app-emacs/flexoki-themes 20231020.623: An inky color scheme for prose and code
 app-emacs/flim 20230808.1153: A library to provide basic features about message representation or encoding.
 app-emacs/flimenu 20200810.1510: Flatten imenu automatically
 app-emacs/fliptext 20171124.2056: Input method for flipping characters upside down
@@ -1905,7 +1905,7 @@ app-emacs/format-table 20181223.1616: Parse and reformat tabular data.
 app-emacs/forth-mode 20231016.640: Programming language mode for Forth
 app-emacs/fortpy 20150715.2032: a Fortran auto-completion for Emacs
 app-emacs/fortune-cookie 20181223.842: Print a fortune in your scratch buffer.
-app-emacs/fountain-mode 20231009.242: Major mode for screenwriting in Fountain markup
+app-emacs/fountain-mode 20231020.1143: Major mode for screenwriting in Fountain markup
 app-emacs/fpga 20230913.2241: FPGA & ASIC Utils
 app-emacs/fraktur-mode 20160815.227: Easily insert Unicode mathematical Fraktur characters
 app-emacs/frame-local 20180330.940: Variables local to a frame
@@ -3627,7 +3627,7 @@ app-emacs/ol-tmsu 20230207.1457: Org-mode links to TMSU queries
 app-emacs/olc 20200818.1221: Open location code library
 app-emacs/old-norse-input 20170816.1842: An input method for Old Norse
 app-emacs/oldlace-theme 20150705.1300: Emacs 24 theme with an 'oldlace' background.
-app-emacs/olivetti 20230729.403: Minor mode for a nice writing environment
+app-emacs/olivetti 20230929.428: Minor mode for a nice writing environment
 app-emacs/om-mode 20140915.2110: Insert Om component template with life cycle.
 app-emacs/omni-kill 20171016.2140: Kill all the things
 app-emacs/omni-log 20200304.2229: Logging utilities
@@ -4451,7 +4451,7 @@ app-emacs/renpy 20200607.135: silly walks for Renpy
 app-emacs/repeat-help 20230118.24: Display keybindings for repeat-mode
 app-emacs/repeatable-motion 20170620.1848: Make repeatable versions of motions
 app-emacs/repeater 20180418.1212: Repeat recent repeated commands
-app-emacs/repl-driven-development 20231017.2353: Send arbitrary code to a REPL in the background
+app-emacs/repl-driven-development 20231020.1039: Send arbitrary code to a REPL in the background
 app-emacs/repl-toggle 20220920.752: Switch to/from repl buffer for current major-mode
 app-emacs/replace-from-region 20170227.2316: Replace commands whose query is from region
 app-emacs/replace-pairs 20160207.1251: Query-replace pairs of things
@@ -4668,7 +4668,7 @@ app-emacs/shenshou 20230226.320: Download&Extract subtitles from opensubtitles.o
 app-emacs/shfmt 20220602.1535: Reformat shell scripts using shfmt
 app-emacs/shift-number 20170301.1459: Increase/decrease the number at point
 app-emacs/shift-text 20130831.1655: Move the region in 4 directions, in a way similar to Eclipse's
-app-emacs/shimbun 20230922.52: interfacing with web newspapers
+app-emacs/shimbun 20231020.743: interfacing with web newspapers
 app-emacs/shm 20180327.57: Structured Haskell Mode
 app-emacs/shoulda 20140616.1833: Shoulda test support for ruby
 app-emacs/show-css 20160210.1408: Show the css of the html attribute the cursor is on
@@ -5331,7 +5331,7 @@ app-emacs/vim-region 20140329.1624: Select region as vim
 app-emacs/vimgolf 20200205.1420: VimGolf interface for the One True Editor
 app-emacs/vimish-fold 20201205.1156: Fold text like in Vim
 app-emacs/vimrc-mode 20181116.1919: Major mode for vimrc files
-app-emacs/vimscript-ts-mode 20231015.1956: Vim-script major mode using tree-sitter
+app-emacs/vimscript-ts-mode 20231020.1008: Vim-script major mode using tree-sitter
 app-emacs/virtual-auto-fill 20200906.2038: Readably display text without adding line breaks
 app-emacs/virtual-comment 20220921.221: Virtual Comments
 app-emacs/virtualenv 20140220.2301: Virtualenv for Python
