@@ -338,7 +338,7 @@ app-emacs/bind-key 20230203.2004: A simple way to manage personal keybindings
 app-emacs/bind-map 20220108.228: Bind personal keymaps in multiple locations
 app-emacs/binder 20230729.350: Global minor mode to facilitate multi-file writing projects
 app-emacs/bing-dict 20200216.110: Minimalists' English-Chinese Bing dictionary
-app-emacs/binky 20231017.1600: Jump between points like a rabbit
+app-emacs/binky 20231020.744: Jump between points like a rabbit
 app-emacs/biome 20231015.1930: Bountiful Interface to Open Meteo for Emacs
 app-emacs/birds-of-paradise-plus-theme 20130419.2129: A brown/orange light-on-dark theme for Emacs 24 (deftheme).
 app-emacs/bison-mode 20210527.717: Major mode for editing bison, yacc and lex files.
@@ -556,9 +556,9 @@ app-emacs/circadian 20221223.1734: Theme-switching based on daytime
 app-emacs/circe 20230910.1438: Client for IRC in Emacs
 app-emacs/circe-notifications 20180102.2318: Add desktop notifications to Circe.
 app-emacs/circleci-api 20210227.1607: Bindings for the CircleCI API
-app-emacs/citar 20230725.1020: Citation-related commands for org, latex, markdown
+app-emacs/citar 20231019.2047: Citation-related commands for org, latex, markdown
 app-emacs/citar-denote 20231014.421: Minor mode to integrate Citar and Denote
-app-emacs/citar-embark 20230323.1926: Citar/Embark integration
+app-emacs/citar-embark 20231019.2047: Citar/Embark integration
 app-emacs/citar-org-roam 20230404.1225: Citar/org-roam integration
 app-emacs/citeproc-el 20230228.1414: A CSL 1.0.2 Citation Processor
 app-emacs/citeproc-org 20200915.2009: Render org-mode references in CSL styles
@@ -747,7 +747,7 @@ app-emacs/conkeror-minor-mode 20150114.1604: Mode for editing conkeror javascrip
 app-emacs/conllu-mode 20200501.2328: editing mode for CoNLL-U files
 app-emacs/connection 20191111.446: TCP-based client connection
 app-emacs/constant-theme 20180921.1012: A calm, dark, almost monochrome color theme.
-app-emacs/consult 20231017.1953: Consulting completing-read
+app-emacs/consult 20231019.1759: Consulting completing-read
 app-emacs/consult-ag 20230227.406: The silver searcher integration using Consult
 app-emacs/consult-codesearch 20230315.1424: Consult interface for codesearch
 app-emacs/consult-company 20230606.1824: Consult frontend for company
@@ -2522,7 +2522,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20231016.2321: P2P filesystem
+app-emacs/hyperdrive 20231019.2244: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -2751,7 +2751,7 @@ app-emacs/jetbrains 20180301.502: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default JetBrains Darcula theme
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file.
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
-app-emacs/jinx 20231016.1338: Enchanted Spell Checker
+app-emacs/jinx 20231019.1708: Enchanted Spell Checker
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jist 20161229.1721: Gist integration
@@ -3430,7 +3430,7 @@ app-emacs/neon-mode 20180406.1156: Simple major mode for editing neon files
 app-emacs/neotree 20230815.219: A tree plugin like NerdTree for Vim
 app-emacs/nerd-icons 20230925.235: Emacs Nerd Font Icons Library
 app-emacs/nerd-icons-completion 20230430.1611: Add icons to completion candidates
-app-emacs/nerd-icons-corfu 20231015.1731: Icons for Corfu via nerd-icons
+app-emacs/nerd-icons-corfu 20231019.1618: Icons for Corfu via nerd-icons
 app-emacs/nerd-icons-dired 20230917.210: Shows icons for each file in dired mode
 app-emacs/nerd-icons-ibuffer 20230417.1549: Display nerd icons in ibuffer
 app-emacs/nerd-icons-ivy-rich 20230721.357: Excellent experience with nerd icons for ivy/counsel
@@ -3584,7 +3584,7 @@ app-emacs/ob-powershell 20221227.1106: Run Powershell from org mode source block
 app-emacs/ob-prolog 20190410.2130: org-babel functions for prolog evaluation.
 app-emacs/ob-raku 20221013.1938: Provides raku support for org-babel
 app-emacs/ob-redis 20220221.1249: Execute Redis queries within org-mode blocks.
-app-emacs/ob-restclient 20230301.1951: org-babel functions for restclient-mode
+app-emacs/ob-restclient 20231020.522: org-babel functions for restclient-mode
 app-emacs/ob-reticulate 20210214.2229: Babel Functions for reticulate
 app-emacs/ob-rust 20220824.1923: Org-babel functions for Rust
 app-emacs/ob-sagemath 20191106.828: org-babel functions for SageMath evaluation
@@ -3780,7 +3780,7 @@ app-emacs/org-project-capture 20230830.1733: Repository todo capture and managem
 app-emacs/org-projectile 20230817.851: Repository todo capture and management for org-mode with projectile
 app-emacs/org-projectile-helm 20230817.801: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 20170328.1639: Jekyll's handler for org-protocol
-app-emacs/org-ql 20231003.352: Org Query Language, search command, and agenda-like view
+app-emacs/org-ql 20231020.244: Org Query Language, search command, and agenda-like view
 app-emacs/org-radiobutton 20210519.1225: Radiobutton for org-mode lists.
 app-emacs/org-rainbow-tags 20230921.2038: Colorize org tags automatically
 app-emacs/org-random-todo 20190214.2057: show a random TODO (with alert) every so often
@@ -4688,7 +4688,7 @@ app-emacs/sicp 20200512.1137: Structure and Interpretation of Computer Programs 
 app-emacs/side-hustle 20230814.1047: Hustle through Imenu in a side window
 app-emacs/side-notes 20230814.302: Easy access to a directory notes file
 app-emacs/sidecar-locals 20230518.1422: A flexible alternative to built-in dir-locals
-app-emacs/sideline 20230913.2149: Show information on the side
+app-emacs/sideline 20231020.621: Show information on the side
 app-emacs/sideline-blame 20231015.1917: Show blame messages with sideline
 app-emacs/sideline-flycheck 20230402.1816: Show flycheck errors with sideline
 app-emacs/sideline-flymake 20230402.1816: Show flymake errors with sideline
@@ -4794,7 +4794,7 @@ app-emacs/snap-indent 20230704.1833: Simple automatic indentation
 app-emacs/snapshot-timemachine 20161221.929: Step through (Btrfs, ZFS, ...) snapshots of files
 app-emacs/snapshot-timemachine-rsnapshot 20170324.1213: rsnapshot backend for snapshot-timemachine
 app-emacs/snazzy-theme 20170828.757: An elegant syntax theme with bright colors
-app-emacs/sniem 20231014.840: Hands-eased united editing method
+app-emacs/sniem 20231020.614: Hands-eased united editing method
 app-emacs/snitch 20210202.1730: An Emacs firewall
 app-emacs/snoopy 20171008.2004: minor mode for number row unshifted character insertion
 app-emacs/snow 20221226.2238: Let it snow in Emacs!
@@ -5139,7 +5139,7 @@ app-emacs/tramp-auto-auth 20191027.1419: TRAMP automatic authentication library
 app-emacs/tramp-hdfs 20210526.339: Tramp extension to access hadoop/hdfs file system in Emacs
 app-emacs/tramp-term 20220725.1441: Automatic setup of directory tracking in ssh sessions
 app-emacs/transfer-sh 20200601.1708: Simple interface for sending buffer contents to transfer.sh
-app-emacs/transient 20230919.2146: Transient commands
+app-emacs/transient 20231019.1421: Transient commands
 app-emacs/transient-dwim 20221225.1630: Useful preset transient commands
 app-emacs/transient-extras 20230721.839: Extra features for transient
 app-emacs/transient-extras-a2ps 20230303.1511: A transient interface to a2ps
@@ -5260,7 +5260,7 @@ app-emacs/upbo 20180422.822: Karma Test Runner Integration
 app-emacs/uptimes 20231015.1458: Track and display session uptimes
 app-emacs/url-shortener 20170805.242: shorten long url and expand tinyurl
 app-emacs/urlenc 20140116.1456: URL encoding/decoding utility for Emacs.
-app-emacs/ursa-ts-mode 20231018.1056: Major mode for Ursa, using tree-sitter
+app-emacs/ursa-ts-mode 20231019.2145: Major mode for Ursa, using tree-sitter
 app-emacs/urscript-mode 20190219.1604: major mode for editing URScript.
 app-emacs/usage-memo 20170926.37: integration of Emacs help system and memo
 app-emacs/use-package 20230426.2324: A configuration macro for simplifying your .emacs
@@ -5275,7 +5275,7 @@ app-emacs/utimeclock 20230601.25: Simple utility for manual time tracking
 app-emacs/utop 20230707.1535: Universal toplevel for OCaml
 app-emacs/uuid 20120910.851: UUID's for EmacsLisp
 app-emacs/uuidgen 20220405.1345: Provides various UUID generating functions
-app-emacs/uwu-theme 20231015.1750: An awesome dark color scheme
+app-emacs/uwu-theme 20231020.154: An awesome dark color scheme
 app-emacs/uxntal-mode 20231010.438: Major mode for Uxntal assembly
 app-emacs/v-mode 20221007.635: A major mode for the V programming language
 app-emacs/v2ex-mode 20160720.345: Major mode for visit http://v2ex.com/ site.
@@ -5348,8 +5348,8 @@ app-emacs/vmd-mode 20210524.27: Fast Github-flavored Markdown preview using a vm
 app-emacs/voca-builder 20161101.1645: Helps you build up your vocabulary
 app-emacs/volatile-highlights 20230301.1402: Minor mode for visual feedback on some operations.
 app-emacs/volume 20220904.1727: tweak your sound card volume from Emacs
-app-emacs/vs-dark-theme 20230910.334: Visual Studio IDE dark theme
-app-emacs/vs-light-theme 20230929.2331: Visual Studio IDE light theme
+app-emacs/vs-dark-theme 20231020.542: Visual Studio IDE dark theme
+app-emacs/vs-light-theme 20231020.542: Visual Studio IDE light theme
 app-emacs/vscdark-theme 20191212.107: VS Code Dark+ like theme
 app-emacs/vscode-dark-plus-theme 20230725.1703: Default Visual Studio Code Dark+ theme
 app-emacs/vscode-icon 20230330.2206: Utility package to provide Vscode style icons
