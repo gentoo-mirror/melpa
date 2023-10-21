@@ -187,7 +187,7 @@ app-emacs/async-await 20220827.437: Async/Await
 app-emacs/async-backup 20220131.1438: Backup on each save without freezing Emacs
 app-emacs/async-job-queue 20230427.2122: Dispatch queue of async jobs to a fixed number of slots
 app-emacs/async-status 20230821.204: A package for indicator support
-app-emacs/asyncloop 20230924.2023: Non-blocking series of functions
+app-emacs/asyncloop 20231020.2144: Non-blocking series of functions
 app-emacs/atcoder-tools 20200109.1236: An atcoder-tools client
 app-emacs/atl-long-lines 20220704.644: Turn off truncate-lines when the line is long
 app-emacs/atl-markup 20220704.644: Automatically truncate lines for markup languages
@@ -338,7 +338,7 @@ app-emacs/bind-key 20230203.2004: A simple way to manage personal keybindings
 app-emacs/bind-map 20220108.228: Bind personal keymaps in multiple locations
 app-emacs/binder 20230729.350: Global minor mode to facilitate multi-file writing projects
 app-emacs/bing-dict 20200216.110: Minimalists' English-Chinese Bing dictionary
-app-emacs/binky 20231020.1830: Jump between points like a rabbit
+app-emacs/binky 20231020.2113: Jump between points like a rabbit
 app-emacs/biome 20231015.1930: Bountiful Interface to Open Meteo for Emacs
 app-emacs/birds-of-paradise-plus-theme 20130419.2129: A brown/orange light-on-dark theme for Emacs 24 (deftheme).
 app-emacs/bison-mode 20210527.717: Major mode for editing bison, yacc and lex files.
@@ -892,7 +892,7 @@ app-emacs/dakrone-theme 20170801.1933: dakrone's custom dark theme
 app-emacs/dall-e-shell 20230807.1640: Interaction mode for DALL-E
 app-emacs/danneskjold-theme 20221121.634: Beautiful high-contrast Emacs theme.
 app-emacs/dante 20230808.658: Development mode for Haskell
-app-emacs/dap-mode 20230918.1618: Debug Adapter Protocol mode
+app-emacs/dap-mode 20231021.532: Debug Adapter Protocol mode
 app-emacs/darcsum 20190316.2215: a pcl-cvs like interface for managing darcs patches
 app-emacs/darcula-theme 20171227.1845: Inspired by IntelliJ's Darcula theme
 app-emacs/dark-krystal-theme 20170808.1300: an Emacs 24 theme based on Dark Krystal (tmTheme)
@@ -1905,7 +1905,7 @@ app-emacs/format-table 20181223.1616: Parse and reformat tabular data.
 app-emacs/forth-mode 20231016.640: Programming language mode for Forth
 app-emacs/fortpy 20150715.2032: a Fortran auto-completion for Emacs
 app-emacs/fortune-cookie 20181223.842: Print a fortune in your scratch buffer.
-app-emacs/fountain-mode 20231020.1310: Major mode for screenwriting in Fountain markup
+app-emacs/fountain-mode 20231021.314: Major mode for screenwriting in Fountain markup
 app-emacs/fpga 20230913.2241: FPGA & ASIC Utils
 app-emacs/fraktur-mode 20160815.227: Easily insert Unicode mathematical Fraktur characters
 app-emacs/frame-local 20180330.940: Variables local to a frame
@@ -2522,7 +2522,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20231019.2244: P2P filesystem
+app-emacs/hyperdrive 20231021.15: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -3073,7 +3073,7 @@ app-emacs/lsp-julia 20230915.654: Julia support for lsp-mode
 app-emacs/lsp-latex 20230717.1707: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20230416.1826: LSP Clients for LTEX
 app-emacs/lsp-metals 20231017.911: Scala Client settings
-app-emacs/lsp-mode 20231018.1322: LSP mode
+app-emacs/lsp-mode 20231021.455: LSP mode
 app-emacs/lsp-mssql 20230510.1124: MSSQL LSP bindings
 app-emacs/lsp-origami 20230815.704: origami.el support for lsp-mode
 app-emacs/lsp-p4 20190127.1049: P4 support for lsp-mode
@@ -3354,7 +3354,7 @@ app-emacs/mu4e-column-faces 20221213.2206: Faces for individual mu4e columns
 app-emacs/mu4e-conversation 20190609.812: Show a complete thread in a single buffer
 app-emacs/mu4e-jump-to-list 20221202.1023: mu4e jump-to-list extension
 app-emacs/mu4e-marker-icons 20230423.1039: Display icons for mu4e markers
-app-emacs/mu4e-overview 20230922.805: Show overview of maildir
+app-emacs/mu4e-overview 20231021.46: Show overview of maildir
 app-emacs/mu4e-query-fragments 20211030.2307: mu4e query fragments extension
 app-emacs/mu4e-views 20230105.1443: View emails in mu4e using xwidget-webkit
 app-emacs/mu4easy 20230629.1721: Packages + configs for using mu4e with multiple accounts
@@ -4396,7 +4396,7 @@ app-emacs/read-only-cfg 20210717.205: Make files read-only based on user config
 app-emacs/readable-numbers 20220711.911: Visually separate long integers
 app-emacs/readline-complete 20150708.1437: offers completions in shell mode
 app-emacs/real-auto-save 20200505.1537: Automatically save your buffers/files at regular intervals
-app-emacs/realgud 20230927.2311: A modular front-end for interacting with external debuggers
+app-emacs/realgud 20231021.227: A modular front-end for interacting with external debuggers
 app-emacs/realgud-byebug 20190520.1140: Realgud front-end to the Ruby byebug debugger
 app-emacs/realgud-ipdb 20200722.1116: Realgud front-end to ipdb
 app-emacs/realgud-jdb 20200722.1120: Realgud front-end to Java's jdb debugger"
@@ -4500,7 +4500,7 @@ app-emacs/riscv-mode 20220916.206: Major-mode for RISC V assembly
 app-emacs/rivet-mode 20201013.1905: A minor mode for editing Apache Rivet files
 app-emacs/rjsx-mode 20200224.2149: Real support for JSX
 app-emacs/rmsbolt 20231011.525: A compiler output viewer
-app-emacs/robe 20230327.113: Code navigation, documentation lookup and completion for Ruby
+app-emacs/robe 20231021.48: Code navigation, documentation lookup and completion for Ruby
 app-emacs/robot-log 20220719.1301: Major mode for viewing RobotFramework debug log files
 app-emacs/robot-mode 20221109.1630: Major-mode for Robot Framework files
 app-emacs/robots-txt-mode 20190812.1858: Major mode for editing robots.txt
