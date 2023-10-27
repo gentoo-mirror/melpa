@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Ollama client for calling local LLMs"
+DESCRIPTION="Tool for interacting with LLMs"
 
 HOMEPAGE="http://github.com/s-kostyaev/ellama"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
@@ -18,5 +18,7 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/spinner"
-RDEPEND="app-emacs/spinner"
+DEPEND="app-emacs/llm
+	app-emacs/spinner"
+RDEPEND="app-emacs/llm
+	app-emacs/spinner"
