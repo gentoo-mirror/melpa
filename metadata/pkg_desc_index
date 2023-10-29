@@ -462,7 +462,7 @@ app-emacs/calmer-forest-theme 20230302.2149: Darkish theme with green/orange tin
 app-emacs/camcorder 20190317.2138: Record screencasts in gif or other formats.
 app-emacs/caml 20231011.328: Caml mode for GNU Emacs
 app-emacs/cangjie 20230219.1150: Retrieve cangjie code for han characters
-app-emacs/cape 20231022.1157: Completion At Point Extensions
+app-emacs/cape 20231029.1004: Completion At Point Extensions
 app-emacs/capnp-mode 20210707.2310: Major mode for editing Capn' Proto Files
 app-emacs/capture 20130828.1644: screencasting with "avconv" or "ffmpeg"
 app-emacs/carbon-now-sh 20220701.332: https://carbon.now.sh integration.
@@ -1242,7 +1242,7 @@ app-emacs/elbank 20180316.1343: Personal finances reporting application
 app-emacs/elcontext 20210109.1238: Create context specific actions
 app-emacs/elcord 20230627.1213: Allows you to integrate Rich Presence from Discord
 app-emacs/elcouch 20230903.750: View and manipulate CouchDB databases
-app-emacs/eldev 20231027.1758: Elisp development tool
+app-emacs/eldev 20231028.2106: Elisp development tool
 app-emacs/eldoc-box 20231008.2250: Display documentation in childframe
 app-emacs/eldoc-cmake 20190419.2244: Eldoc support for CMake
 app-emacs/eldoc-eask 20230906.611: Eldoc support for Eask-file
@@ -1908,7 +1908,7 @@ app-emacs/format-table 20181223.1616: Parse and reformat tabular data.
 app-emacs/forth-mode 20231016.640: Programming language mode for Forth
 app-emacs/fortpy 20150715.2032: a Fortran auto-completion for Emacs
 app-emacs/fortune-cookie 20181223.842: Print a fortune in your scratch buffer.
-app-emacs/fountain-mode 20231027.359: Major mode for screenwriting in Fountain markup
+app-emacs/fountain-mode 20231029.920: Major mode for screenwriting in Fountain markup
 app-emacs/fpga 20230913.2241: FPGA & ASIC Utils
 app-emacs/fraktur-mode 20160815.227: Easily insert Unicode mathematical Fraktur characters
 app-emacs/frame-local 20180330.940: Variables local to a frame
@@ -2146,7 +2146,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20230502.2319: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20230530.1853: Integrate with the OpenAI API
-app-emacs/gptel 20231024.2326: A simple ChatGPT client
+app-emacs/gptel 20231029.734: A simple multi-LLM client
 app-emacs/grab-mac-link 20210511.1303: Grab link from Mac Apps and insert it into Emacs
 app-emacs/grab-x-link 20191113.848: Grab links from X11 apps and insert into Emacs
 app-emacs/gradle-mode 20150313.1905: Gradle integration with Emacs' compile
@@ -3061,7 +3061,7 @@ app-emacs/lorem-ipsum 20221214.1857: Insert dummy pseudo Latin text
 app-emacs/lox-mode 20200619.1700: Major mode for the Lox programming language
 app-emacs/lpy 20231026.1525: A lispy interface to Python
 app-emacs/lsp-cfn 20230701.1533: LSP integration for cfn-lsp-extra
-app-emacs/lsp-dart 20230516.52: Dart support lsp-mode
+app-emacs/lsp-dart 20231028.2340: Dart support lsp-mode
 app-emacs/lsp-docker 20230824.947: LSP Docker integration
 app-emacs/lsp-focus 20200906.1917: focus.el support for lsp-mode
 app-emacs/lsp-grammarly 20230814.1827: LSP Clients for Grammarly
@@ -3742,7 +3742,7 @@ app-emacs/org-journal-tags 20230704.2026: Tagging and querying system for org-jo
 app-emacs/org-kanban 20220723.1216: kanban dynamic block for org-mode.
 app-emacs/org-kindle 20220210.1408: Send org link file to ebook reader.
 app-emacs/org-latex-impatient 20221111.623: Preview org-latex Fragments Instantly via MathJax
-app-emacs/org-link-beautify 20230929.546: Beautify Org Links
+app-emacs/org-link-beautify 20231029.1004: Beautify Org Links
 app-emacs/org-link-travis 20140405.2327: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 20200112.2235: Org-mode link selector
 app-emacs/org-listcruncher 20210706.1741: Planning tool - Parse Org mode lists into table
@@ -3851,7 +3851,7 @@ app-emacs/org-vcard 20221111.328: org-mode support for vCard export and import.
 app-emacs/org-view-mode 20221208.327: Read-only viewer with less markup clutter in org mode files
 app-emacs/org-visibility 20220929.1415: Persistent org tree visibility
 app-emacs/org-wc 20200731.2244: Count words in org mode trees.
-app-emacs/org-web-tools 20230904.107: Display and capture web content with Org-mode
+app-emacs/org-web-tools 20231029.453: Display and capture web content with Org-mode
 app-emacs/org-wild-notifier 20230831.2035: Customizable org-agenda notifications
 app-emacs/org-working-set 20230803.1640: Manage and visit a small and changing set of org-nodes that you work on
 app-emacs/org-wunderlist 20191017.1917: Org sync with Wunderlist
@@ -5143,7 +5143,7 @@ app-emacs/tramp-auto-auth 20191027.1419: TRAMP automatic authentication library
 app-emacs/tramp-hdfs 20210526.339: Tramp extension to access hadoop/hdfs file system in Emacs
 app-emacs/tramp-term 20220725.1441: Automatic setup of directory tracking in ssh sessions
 app-emacs/transfer-sh 20200601.1708: Simple interface for sending buffer contents to transfer.sh
-app-emacs/transient 20231027.2121: Transient commands
+app-emacs/transient 20231028.1849: Transient commands
 app-emacs/transient-dwim 20221225.1630: Useful preset transient commands
 app-emacs/transient-extras 20230721.839: Extra features for transient
 app-emacs/transient-extras-a2ps 20230303.1511: A transient interface to a2ps
