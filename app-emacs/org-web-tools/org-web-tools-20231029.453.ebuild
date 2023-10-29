@@ -19,12 +19,16 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/org-mode
+	app-emacs/compat
 	app-emacs/dash
 	app-emacs/esxml
 	app-emacs/s
+	app-emacs/plz
 	app-emacs/request"
 RDEPEND="app-emacs/org-mode
+	app-emacs/compat
 	app-emacs/dash
 	app-emacs/esxml
 	app-emacs/s
+	app-emacs/plz
 	app-emacs/request"
