@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A simple ChatGPT client"
+DESCRIPTION="A simple multi-LLM client"
 
 HOMEPAGE="https://github.com/karthink/gptel"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
