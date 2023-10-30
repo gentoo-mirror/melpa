@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="gpastel"
+REALNAME="tab-jump-out"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Integrates GPaste with the kill-ring"
+DESCRIPTION="Use tab to jump out of delimiter pairs"
 
-HOMEPAGE="https://gitlab.petton.fr/DamienCassou/desktop-environment"
+HOMEPAGE="https://github.com/mkleehammer/tab-jump-out"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
