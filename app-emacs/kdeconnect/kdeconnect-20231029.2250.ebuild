@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An interface for KDE Connect"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/carldotac/kdeconnect.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
