@@ -505,7 +505,7 @@ app-emacs/cfengine-code-style 20171111.1027: C code style for CFEngine project.
 app-emacs/cff 20160118.2018: Search of the C/C++ file header by the source and vice versa
 app-emacs/cfml-mode 20190617.1130: Emacs mode for editing CFML files
 app-emacs/cfn-mode 20231030.1008: AWS cloudformation mode
-app-emacs/cframe 20231014.1347: Customize a frame and fast switch size and positions
+app-emacs/cframe 20231101.1742: Customize a frame and fast switch size and positions
 app-emacs/cfrs 20220129.1149: Child-frame based read-string
 app-emacs/cg 20230920.1245: Major mode for editing Constraint Grammar files
 app-emacs/challenger-deep-theme 20210120.941: challenger-deep Theme
@@ -2012,7 +2012,7 @@ app-emacs/git-auto-commit-mode 20200828.653: Emacs Minor mode to automatically c
 app-emacs/git-backup 20191209.2144: Backup each file change using git
 app-emacs/git-backup-ivy 20231030.2155: An ivy interface to git-backup
 app-emacs/git-blamed 20161028.1926: Minor mode for incremental blame for Git
-app-emacs/git-cliff 20231020.1845: Generate and update changelog using git-cliff
+app-emacs/git-cliff 20231101.1256: Generate and update changelog using git-cliff
 app-emacs/git-command 20191028.333: A Git Command-Line interface
 app-emacs/git-commit 20231030.2243: Edit Git commit messages.
 app-emacs/git-commit-insert-issue 20230512.1416: Get issues list when typing "Fixes #"
@@ -2205,7 +2205,7 @@ app-emacs/habitica 20220215.1758: Interface for habitica.com
 app-emacs/hack-mode 20230227.1950: Major mode for the Hack programming language
 app-emacs/hacker-typer 20170206.1520: Pretend to write code like a pro
 app-emacs/hackernews 20230127.1918: Hacker News Client for Emacs
-app-emacs/haki-theme 20231029.1557: An elegant, high-contrast dark theme in modern sense
+app-emacs/haki-theme 20231101.1620: An elegant, high-contrast dark theme in modern sense
 app-emacs/hal-mode 20160704.1746: Major mode for editing HAL files
 app-emacs/halloweenie-theme 20231011.1252: Dark and spooky Halloween color theme
 app-emacs/ham-mode 20150811.1306: Html As Markdown. Transparently edit an html file using markdown
@@ -3078,7 +3078,7 @@ app-emacs/lsp-julia 20230915.654: Julia support for lsp-mode
 app-emacs/lsp-latex 20230717.1707: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20230416.1826: LSP Clients for LTEX
 app-emacs/lsp-metals 20231017.911: Scala Client settings
-app-emacs/lsp-mode 20231031.1319: LSP mode
+app-emacs/lsp-mode 20231101.1732: LSP mode
 app-emacs/lsp-mssql 20230510.1124: MSSQL LSP bindings
 app-emacs/lsp-origami 20230815.704: origami.el support for lsp-mode
 app-emacs/lsp-p4 20190127.1049: P4 support for lsp-mode
@@ -3256,7 +3256,7 @@ app-emacs/mimetypes 20201115.1605: Guess a file's mimetype by extension
 app-emacs/mindre-theme 20220827.1031: Minimal, light theme
 app-emacs/minesweeper 20200416.2342: play minesweeper in Emacs
 app-emacs/mingus 20230518.1726: MPD Interface
-app-emacs/mini-echo 20231101.1029: Echo buffer status in minibuffer window
+app-emacs/mini-echo 20231101.1542: Echo buffer status in minibuffer window
 app-emacs/mini-frame 20220627.2041: Show minibuffer in child frame on read-from-minibuffer
 app-emacs/mini-header-line 20170621.1221: a minimal header-line
 app-emacs/mini-modeline 20230306.1521: Display modeline in minibuffer
@@ -3460,7 +3460,7 @@ app-emacs/niconama 20170910.1501: Tools for Niconico Live Broadcast
 app-emacs/night-owl-theme 20200622.1943: A color theme for the night owls out there
 app-emacs/nikki 20210228.428: A simple diary mode
 app-emacs/nikola 20170703.2021: Simple wrapper for nikola
-app-emacs/nim-mode 20231013.1142: A major mode for the Nim programming language
+app-emacs/nim-mode 20231101.1342: A major mode for the Nim programming language
 app-emacs/nimbus-theme 20230611.1619: Nimbus dark theme
 app-emacs/ninja-mode 20230421.1748: Major mode for editing .ninja files
 app-emacs/nix-buffer 20180212.1518: Set up buffer environments with nix
@@ -3838,7 +3838,7 @@ app-emacs/org-tfl 20170923.1218: Transport for London meets Orgmode
 app-emacs/org-themis 20160122.404: Experimental project management mode for org-mode
 app-emacs/org-tidy 20231011.37: A minor mode to tidy org-mode buffers
 app-emacs/org-time-budgets 20200715.1016: Define time budgets and display clocked time.
-app-emacs/org-timeblock 20231101.8: Interactive SVG calendar for orgmode tasks
+app-emacs/org-timeblock 20231101.1242: Interactive SVG calendar for orgmode tasks
 app-emacs/org-timeline 20211110.1952: Add graphical view of agenda to agenda buffer.
 app-emacs/org-toodledo 20150301.1113: Toodledo integration for Emacs Org mode
 app-emacs/org-tracktable 20161118.1329: Track your writing progress in an org-table
@@ -5025,7 +5025,7 @@ app-emacs/tco 20191129.2040: Tail-call optimisation for Emacs lisp
 app-emacs/tea-time 20120331.820: Simple timer package, useful to make perfect tea.
 app-emacs/teacode-expand 20181231.640: Expansion of text by TeaCode program.
 app-emacs/teco 20200707.2309: Teco interpreter
-app-emacs/telega 20231031.1554: Telegram client (unofficial)
+app-emacs/telega 20231101.1544: Telegram client (unofficial)
 app-emacs/telepathy 20131209.1258: Access Telepathy from Emacs
 app-emacs/telephone-line 20230322.442: Rewrite of Powerline
 app-emacs/teleport 20230915.1703: Integration for tsh (goteleport.com)
@@ -5149,7 +5149,7 @@ app-emacs/tramp-auto-auth 20191027.1419: TRAMP automatic authentication library
 app-emacs/tramp-hdfs 20210526.339: Tramp extension to access hadoop/hdfs file system in Emacs
 app-emacs/tramp-term 20220725.1441: Automatic setup of directory tracking in ssh sessions
 app-emacs/transfer-sh 20200601.1708: Simple interface for sending buffer contents to transfer.sh
-app-emacs/transient 20231030.1943: Transient commands
+app-emacs/transient 20231031.1300: Transient commands
 app-emacs/transient-dwim 20221225.1630: Useful preset transient commands
 app-emacs/transient-extras 20230721.839: Extra features for transient
 app-emacs/transient-extras-a2ps 20230303.1511: A transient interface to a2ps
@@ -5172,7 +5172,7 @@ app-emacs/tree-sitter-ispell 20230205.533: Run ispell on tree-sitter text nodes
 app-emacs/tree-sitter-langs 20231101.53: Grammar bundle for tree-sitter
 app-emacs/treebundel 20231007.1424: Bundle related git-worktrees together
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
-app-emacs/treemacs 20231024.1919: A tree style file explorer package
+app-emacs/treemacs 20231101.1150: A tree style file explorer package
 app-emacs/treemacs-all-the-icons 20230408.1109: all-the-icons integration for treemacs
 app-emacs/treemacs-evil 20230822.2039: Evil mode integration for treemacs
 app-emacs/treemacs-icons-dired 20230930.1141: Treemacs icons for dired
