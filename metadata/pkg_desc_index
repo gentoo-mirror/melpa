@@ -395,7 +395,7 @@ app-emacs/brf 20230803.2022: Brf-mode provides features from the legendary edito
 app-emacs/brightscript-mode 20220906.827: Major mode for editing Brightscript files
 app-emacs/broadcast 20151205.212: Links buffers together for simultaneous editing.
 app-emacs/browse-at-remote 20230223.554: Open github/gitlab/bitbucket/stash/gist/phab/sourcehut page from Emacs
-app-emacs/browse-kill-ring 20220410.1509: interactively insert items from kill-ring
+app-emacs/browse-kill-ring 20231104.1450: interactively insert items from kill-ring
 app-emacs/browse-url-dwim 20140731.1922: Context-sensitive external browse URL or Internet search
 app-emacs/brutalist-theme 20230914.2107: Brutalist theme
 app-emacs/bshell 20230805.1646: Manage and track multiple inferior shells
@@ -749,7 +749,7 @@ app-emacs/conkeror-minor-mode 20150114.1604: Mode for editing conkeror javascrip
 app-emacs/conllu-mode 20200501.2328: editing mode for CoNLL-U files
 app-emacs/connection 20191111.446: TCP-based client connection
 app-emacs/constant-theme 20180921.1012: A calm, dark, almost monochrome color theme.
-app-emacs/consult 20231030.438: Consulting completing-read
+app-emacs/consult 20231104.1427: Consulting completing-read
 app-emacs/consult-ag 20230227.406: The silver searcher integration using Consult
 app-emacs/consult-codesearch 20230315.1424: Consult interface for codesearch
 app-emacs/consult-company 20230606.1824: Consult frontend for company
@@ -1812,7 +1812,7 @@ app-emacs/flycheck-xcode 20180122.651: Flycheck extension for Apple's Xcode.
 app-emacs/flycheck-yamllint 20170326.1309: Flycheck integration for YAMLLint
 app-emacs/flycheck-yang 20180312.1831: YANG flycheck checker
 app-emacs/flycheck-ycmd 20181016.618: flycheck integration for ycmd
-app-emacs/flymake-actionlint 20230731.753: A Flymake handler for actionlint
+app-emacs/flymake-actionlint 20231104.239: A Flymake handler for actionlint
 app-emacs/flymake-aspell 20230408.957: Aspell checker for flymake
 app-emacs/flymake-clippy 20231102.1616: Flymake backend for Clippy
 app-emacs/flymake-coffee 20170723.146: A flymake handler for coffee script
@@ -1910,7 +1910,7 @@ app-emacs/format-table 20181223.1616: Parse and reformat tabular data.
 app-emacs/forth-mode 20231016.640: Programming language mode for Forth
 app-emacs/fortpy 20150715.2032: a Fortran auto-completion for Emacs
 app-emacs/fortune-cookie 20181223.842: Print a fortune in your scratch buffer.
-app-emacs/fountain-mode 20231103.502: Major mode for screenwriting in Fountain markup
+app-emacs/fountain-mode 20231104.453: Major mode for screenwriting in Fountain markup
 app-emacs/fpga 20230913.2241: FPGA & ASIC Utils
 app-emacs/fraktur-mode 20160815.227: Easily insert Unicode mathematical Fraktur characters
 app-emacs/frame-local 20180330.940: Variables local to a frame
@@ -2527,7 +2527,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20231031.711: P2P filesystem
+app-emacs/hyperdrive 20231104.653: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -2670,7 +2670,7 @@ app-emacs/irony 20231018.1915: C/C++ minor mode powered by libclang
 app-emacs/irony-eldoc 20200622.2214: irony-mode support for eldoc-mode
 app-emacs/iscroll 20220612.310: Smooth scrolling over images
 app-emacs/isearch-dabbrev 20141224.622: Use dabbrev in isearch
-app-emacs/isearch-project 20231103.1007: Incremental search through the whole project
+app-emacs/isearch-project 20231104.855: Incremental search through the whole project
 app-emacs/isearch-symbol-at-point 20130728.2221: Use isearch to search for the symbol at point
 app-emacs/isend-mode 20210106.1506: Interactively send parts of an Emacs buffer to an interpreter
 app-emacs/isgd 20150414.936: Shorten URLs using the isgd.com shortener service
@@ -2756,7 +2756,7 @@ app-emacs/jetbrains 20180301.502: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default JetBrains Darcula theme
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file.
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
-app-emacs/jinx 20231019.1708: Enchanted Spell Checker
+app-emacs/jinx 20231104.1427: Enchanted Spell Checker
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jist 20161229.1721: Gist integration
@@ -3075,7 +3075,7 @@ app-emacs/lsp-java 20230922.1154: Java support for lsp-mode
 app-emacs/lsp-javacomp 20190124.1755: Provide Java IDE features powered by JavaComp.
 app-emacs/lsp-jedi 20230824.1908: Lsp client plugin for Python Jedi Language Server
 app-emacs/lsp-julia 20230915.654: Julia support for lsp-mode
-app-emacs/lsp-latex 20230717.1707: LSP-mode client for LaTeX, on texlab
+app-emacs/lsp-latex 20231104.313: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20230416.1826: LSP Clients for LTEX
 app-emacs/lsp-metals 20231017.911: Scala Client settings
 app-emacs/lsp-mode 20231103.1522: LSP mode
@@ -3108,7 +3108,7 @@ app-emacs/lyrics-fetcher 20220717.1716: Fetch song lyrics and album covers
 app-emacs/m-buffer 20220719.1850: List-Oriented, Functional Buffer Manipulation
 app-emacs/mac-pseudo-daemon 20200215.513: Daemon mode that plays nice with Mac OS.
 app-emacs/maces-game 20170903.1551: another anagram game.
-app-emacs/macports 20230814.1525: A porcelain for MacPorts
+app-emacs/macports 20231104.139: A porcelain for MacPorts
 app-emacs/macro-math 20130328.1604: in-buffer mathematical operations
 app-emacs/macrostep 20230813.2123: Interactive macro expander
 app-emacs/macrostep-geiser 20210717.801: Macrostep for `geiser'
@@ -3256,7 +3256,7 @@ app-emacs/mimetypes 20201115.1605: Guess a file's mimetype by extension
 app-emacs/mindre-theme 20220827.1031: Minimal, light theme
 app-emacs/minesweeper 20200416.2342: play minesweeper in Emacs
 app-emacs/mingus 20230518.1726: MPD Interface
-app-emacs/mini-echo 20231101.1542: Echo buffer status in minibuffer window
+app-emacs/mini-echo 20231103.2258: Echo buffer status in minibuffer window
 app-emacs/mini-frame 20220627.2041: Show minibuffer in child frame on read-from-minibuffer
 app-emacs/mini-header-line 20170621.1221: a minimal header-line
 app-emacs/mini-modeline 20230306.1521: Display modeline in minibuffer
@@ -3633,7 +3633,7 @@ app-emacs/ol-tmsu 20230207.1457: Org-mode links to TMSU queries
 app-emacs/olc 20200818.1221: Open location code library
 app-emacs/old-norse-input 20170816.1842: An input method for Old Norse
 app-emacs/oldlace-theme 20150705.1300: Emacs 24 theme with an 'oldlace' background.
-app-emacs/olivetti 20230929.428: Minor mode for a nice writing environment
+app-emacs/olivetti 20231104.538: Minor mode for a nice writing environment
 app-emacs/om-mode 20140915.2110: Insert Om component template with life cycle.
 app-emacs/omni-kill 20171016.2140: Kill all the things
 app-emacs/omni-log 20200304.2229: Logging utilities
@@ -3667,7 +3667,7 @@ app-emacs/ordinal 20210519.1442: Convert number to ordinal number notation
 app-emacs/org-ac 20170401.1307: Some auto-complete sources for org-mode
 app-emacs/org-agenda-property 20140626.2116: Display org properties in the agenda buffer.
 app-emacs/org-ai 20230910.1314: Use ChatGPT and other LLMs in org-mode and beyond
-app-emacs/org-alert 20230520.1449: Notify org deadlines via notify-send
+app-emacs/org-alert 20231104.1236: Notify org deadlines via notify-send
 app-emacs/org-analyzer 20191001.1717: org-analyzer is a tool that extracts time tracking data from org files.
 app-emacs/org-anki 20230804.1244: Synchronize org-mode entries to Anki
 app-emacs/org-appear 20220617.2355: Auto-toggle Org elements
@@ -3831,14 +3831,14 @@ app-emacs/org-sync-snippets 20210111.1726: Export snippets to org-mode and vice 
 app-emacs/org-table-color 20220311.1927: Add color to your org-mode table cells
 app-emacs/org-table-comment 20120209.1851: Org table comment modes.
 app-emacs/org-table-sticky-header 20190924.506: Sticky header for org-mode tables
-app-emacs/org-tag-beautify 20231102.511: Beautify Org mode tags
+app-emacs/org-tag-beautify 20231104.222: Beautify Org mode tags
 app-emacs/org-tagged 20220926.2048: Dynamic block for tagged org-mode todos
 app-emacs/org-tanglesync 20200127.1616: Syncing org src blocks with tangled external files
 app-emacs/org-tfl 20170923.1218: Transport for London meets Orgmode
 app-emacs/org-themis 20160122.404: Experimental project management mode for org-mode
 app-emacs/org-tidy 20231011.37: A minor mode to tidy org-mode buffers
 app-emacs/org-time-budgets 20200715.1016: Define time budgets and display clocked time.
-app-emacs/org-timeblock 20231103.813: Interactive SVG calendar for orgmode tasks
+app-emacs/org-timeblock 20231104.925: Interactive SVG calendar for orgmode tasks
 app-emacs/org-timeline 20211110.1952: Add graphical view of agenda to agenda buffer.
 app-emacs/org-toodledo 20150301.1113: Toodledo integration for Emacs Org mode
 app-emacs/org-tracktable 20161118.1329: Track your writing progress in an org-table
@@ -4801,7 +4801,7 @@ app-emacs/snap-indent 20230704.1833: Simple automatic indentation
 app-emacs/snapshot-timemachine 20161221.929: Step through (Btrfs, ZFS, ...) snapshots of files
 app-emacs/snapshot-timemachine-rsnapshot 20170324.1213: rsnapshot backend for snapshot-timemachine
 app-emacs/snazzy-theme 20170828.757: An elegant syntax theme with bright colors
-app-emacs/sniem 20231102.730: Hands-eased united editing method
+app-emacs/sniem 20231104.727: Hands-eased united editing method
 app-emacs/snitch 20210202.1730: An Emacs firewall
 app-emacs/snoopy 20171008.2004: minor mode for number row unshifted character insertion
 app-emacs/snow 20221226.2238: Let it snow in Emacs!
@@ -5058,7 +5058,7 @@ app-emacs/terraform-mode 20230607.1923: Major mode for terraform configuration f
 app-emacs/tesouro 20221003.1303: Brazilian Portuguese synonym search in dicio.com.br
 app-emacs/test-c 20180423.1720: quickly test c code
 app-emacs/test-case-mode 20130525.1434: unit test front-end
-app-emacs/test-cockpit 20231027.1842: A command center to run tests of a software project
+app-emacs/test-cockpit 20231103.2037: A command center to run tests of a software project
 app-emacs/test-kitchen 20171129.2035: Run test-kitchen inside of emacs
 app-emacs/test-simple 20230916.1634: Simple Unit Test Framework for Emacs Lisp
 app-emacs/tex-smart-umlauts 20230416.2051: Smart umlaut conversion for TeX.
@@ -5149,7 +5149,7 @@ app-emacs/tramp-auto-auth 20191027.1419: TRAMP automatic authentication library
 app-emacs/tramp-hdfs 20210526.339: Tramp extension to access hadoop/hdfs file system in Emacs
 app-emacs/tramp-term 20220725.1441: Automatic setup of directory tracking in ssh sessions
 app-emacs/transfer-sh 20200601.1708: Simple interface for sending buffer contents to transfer.sh
-app-emacs/transient 20231102.1552: Transient commands
+app-emacs/transient 20231103.2312: Transient commands
 app-emacs/transient-dwim 20221225.1630: Useful preset transient commands
 app-emacs/transient-extras 20230721.839: Extra features for transient
 app-emacs/transient-extras-a2ps 20230303.1511: A transient interface to a2ps
@@ -5183,7 +5183,7 @@ app-emacs/treemacs-perspective 20230703.1929: Perspective integration for treema
 app-emacs/treemacs-projectile 20230703.1929: Projectile integration for treemacs
 app-emacs/treemacs-tab-bar 20230703.1929: Tab bar integration for treemacs
 app-emacs/treepy 20230715.2154: Generic tree traversal tools
-app-emacs/treesit-auto 20231102.1716: Automatically use tree-sitter enhanced major modes
+app-emacs/treesit-auto 20231103.2141: Automatically use tree-sitter enhanced major modes
 app-emacs/treeview 20230728.2343: A generic tree navigation library
 app-emacs/trident-mode 20190410.2036: Live Parenscript interaction
 app-emacs/trinary 20230301.2044: Trinary logic
