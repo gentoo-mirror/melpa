@@ -20,7 +20,9 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/memoize
 	app-emacs/request
-	app-emacs/s"
+	app-emacs/s
+	app-emacs/f"
 RDEPEND="app-emacs/memoize
 	app-emacs/request
-	app-emacs/s"
+	app-emacs/s
+	app-emacs/f"
