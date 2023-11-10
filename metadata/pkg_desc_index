@@ -187,7 +187,7 @@ app-emacs/async-await 20220827.437: Async/Await
 app-emacs/async-backup 20220131.1438: Backup on each save without freezing Emacs
 app-emacs/async-job-queue 20230427.2122: Dispatch queue of async jobs to a fixed number of slots
 app-emacs/async-status 20230821.204: A package for indicator support
-app-emacs/asyncloop 20231028.1257: Non-blocking series of functions
+app-emacs/asyncloop 20231110.1334: Non-blocking series of functions
 app-emacs/atcoder-tools 20200109.1236: An atcoder-tools client
 app-emacs/atl-long-lines 20220704.644: Turn off truncate-lines when the line is long
 app-emacs/atl-markup 20220704.644: Automatically truncate lines for markup languages
@@ -1265,7 +1265,7 @@ app-emacs/elescope 20210312.1147: Seach and clone projects from the minibuffer
 app-emacs/elf-mode 20161009.748: Show symbols in binaries
 app-emacs/elfeed 20221108.755: an Emacs Atom/RSS feed reader
 app-emacs/elfeed-autotag 20210607.637: Easy auto-tagging for elfeed
-app-emacs/elfeed-curate 20231001.1926: Elfeed entry curation
+app-emacs/elfeed-curate 20231110.1642: Elfeed entry curation
 app-emacs/elfeed-dashboard 20210727.603: An extensible frontend for elfeed using org-mode
 app-emacs/elfeed-goodies 20221003.1406: Elfeed goodies
 app-emacs/elfeed-org 20231009.1125: Configure elfeed with one or more org-mode files
@@ -1426,7 +1426,7 @@ app-emacs/ert-async 20200105.1031: Async support for ERT
 app-emacs/ert-expectations 20121009.734: The simplest unit test framework in the world
 app-emacs/ert-junit 20190802.2232: JUnit XML reports from ert results
 app-emacs/ert-modeline 20140115.1015: displays ert test results in the modeline.
-app-emacs/ert-runner 20220513.1142: Opinionated Ert testing workflow
+app-emacs/ert-runner 20231110.1358: Opinionated Ert testing workflow
 app-emacs/es-lib 20141111.1830: A collection of emacs utilities
 app-emacs/es-mode 20221026.1103: A major mode for editing and executing Elasticsearch queries
 app-emacs/es-windows 20140211.904: Window-management utilities
@@ -3665,7 +3665,7 @@ app-emacs/openwith 20120531.2136: Open files with external programs
 app-emacs/operate-on-number 20150707.623: Operate on number at point with arithmetic functions
 app-emacs/orangey-bits-theme 20220822.324: A Theme with smashing orangey bits
 app-emacs/orca 20220828.4: Org Capture
-app-emacs/orderless 20231107.2103: Completion style for matching regexps in any order
+app-emacs/orderless 20231110.1448: Completion style for matching regexps in any order
 app-emacs/ordinal 20210519.1442: Convert number to ordinal number notation
 app-emacs/org-ac 20170401.1307: Some auto-complete sources for org-mode
 app-emacs/org-agenda-property 20140626.2116: Display org properties in the agenda buffer.
@@ -3970,7 +3970,7 @@ app-emacs/pack 20191017.456: Pack and unpack archive files
 app-emacs/package+ 20230805.2115: Extensions for the package library.
 app-emacs/package-build 20231002.1121: Tools for assembling a package archive
 app-emacs/package-filter 20161122.719: package archive whitelist and blacklist
-app-emacs/package-lint 20231103.1810: A linting library for elisp package authors
+app-emacs/package-lint 20231110.1025: A linting library for elisp package authors
 app-emacs/package-lint-flymake 20231103.1810: A package-lint Flymake backend
 app-emacs/package-loading-notifier 20230809.446: Notify a package is being loaded
 app-emacs/package-safe-delete 20150116.1607: Safely delete package.el packages
@@ -4369,7 +4369,7 @@ app-emacs/quilt 20190828.506: Minor mode for working with files in quilt
 app-emacs/quiz 20190525.1206: Multiple choice quiz game
 app-emacs/r-autoyas 20140101.1510: Provides automatically created yasnippets for R function argument lists.
 app-emacs/racer 20210307.243: code completion, goto-definition and docs browsing for Rust via racer
-app-emacs/racket-mode 20231109.1607: Racket editing, REPL, and more
+app-emacs/racket-mode 20231110.1508: Racket editing, REPL, and more
 app-emacs/rails-i18n 20220126.1643: Seach and insert i18n on ruby code
 app-emacs/rails-log-mode 20140408.425: Major mode for viewing Rails log files
 app-emacs/rails-routes 20220126.1631: Search for and insert rails routes
@@ -4723,7 +4723,7 @@ app-emacs/simplenote2 20190321.933: Interact with app.simplenote.com
 app-emacs/simplezen 20130421.1000: A simple subset of zencoding-mode for Emacs.
 app-emacs/simplicity-theme 20221016.1444: A minimalist dark theme
 app-emacs/siri-shortcuts 20211229.1833: Interact with Siri Shortcuts
-app-emacs/sis 20231028.925: Less manual switch for native or OS input source (input method).
+app-emacs/sis 20231110.1642: Less manual switch for native or OS input source (input method).
 app-emacs/sisyphus 20230901.1236: Create releases of Emacs packages
 app-emacs/sixcolors-mode 20230406.1031: A customizable horizontal scrollbar
 app-emacs/skeletor 20210129.239: Provides project skeletons for Emacs
@@ -5321,7 +5321,7 @@ app-emacs/vdm-snippets 20190313.1122: YASnippets for VDM mode
 app-emacs/vector-utils 20140508.2041: Vector-manipulation utility functions
 app-emacs/vega-view 20210401.1115: Vega visualization viewer
 app-emacs/vegetative-theme 20220822.353: A Theme based on green CRT terminals
-app-emacs/verb 20230825.2151: Organize and send HTTP requests
+app-emacs/verb 20231110.1915: Organize and send HTTP requests
 app-emacs/veri-kompass 20200213.934: verilog codebase navigation facility
 app-emacs/verify-url 20160426.1228: find out invalid urls in the buffer or region
 app-emacs/verilog-ext 20231020.1553: SystemVerilog Extensions
@@ -5330,7 +5330,7 @@ app-emacs/verona-mode 20200823.536: A major mode for the Verona programming lang
 app-emacs/versuri 20211104.1301: The lyrics package
 app-emacs/vertica 20131217.1511: Vertica SQL mode extension
 app-emacs/vertica-snippets 20231010.1104: Yasnippets for Vertica
-app-emacs/vertico 20231110.927: VERTical Interactive COmpletion
+app-emacs/vertico 20231110.1937: VERTical Interactive COmpletion
 app-emacs/vertico-prescient 20230221.1257: prescient.el + Vertico
 app-emacs/vertigo 20211224.1256: Jump across lines using the home row.
 app-emacs/vhdl-capf 20160221.1734: Completion at point function (capf) for vhdl-mode.
