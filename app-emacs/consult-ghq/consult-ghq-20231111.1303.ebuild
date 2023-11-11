@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="oblivion-theme"
+REALNAME="consult-ghq"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A port of GEdit oblivion theme"
+DESCRIPTION="Ghq interface using consult"
 
-HOMEPAGE="https://codeberg.org/ideasman42/emacs-oblivion-theme"
+HOMEPAGE="https://github.com/tomoya/consult-ghq"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/consult"
+RDEPEND="app-emacs/consult"
