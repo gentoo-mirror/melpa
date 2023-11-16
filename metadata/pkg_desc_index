@@ -187,7 +187,7 @@ app-emacs/async-await 20220827.437: Async/Await
 app-emacs/async-backup 20220131.1438: Backup on each save without freezing Emacs
 app-emacs/async-job-queue 20230427.2122: Dispatch queue of async jobs to a fixed number of slots
 app-emacs/async-status 20230821.204: A package for indicator support
-app-emacs/asyncloop 20231113.1711: Non-blocking series of functions
+app-emacs/asyncloop 20231115.2156: Non-blocking series of functions
 app-emacs/atcoder-tools 20200109.1236: An atcoder-tools client
 app-emacs/atl-long-lines 20220704.644: Turn off truncate-lines when the line is long
 app-emacs/atl-markup 20220704.644: Automatically truncate lines for markup languages
@@ -585,7 +585,7 @@ app-emacs/clippy 20230822.1348: Show tooltip with function documentation at poin
 app-emacs/clips-mode 20170909.823: Major mode for editing CLIPS code and REPL
 app-emacs/clj-decompiler 20220103.1746: Clojure Java decompiler expansion
 app-emacs/clj-deps-new 20230413.1833: Create clojure projects from templates
-app-emacs/clj-refactor 20231009.1104: A collection of commands for refactoring Clojure code
+app-emacs/clj-refactor 20231116.525: A collection of commands for refactoring Clojure code
 app-emacs/cljr-helm 20220721.824: Wraps clojure refactor commands with helm
 app-emacs/cljr-ivy 20200602.1607: Access clojure refactor with ivy completion
 app-emacs/cljsbuild-mode 20160402.1700: A minor mode for the ClojureScript 'lein cljsbuild' command
@@ -660,7 +660,7 @@ app-emacs/commentary-theme 20210714.1757: A minimal theme with contrasting comme
 app-emacs/commenter 20160219.1627: multiline-comment support package
 app-emacs/commify 20230616.1042: Toggle grouping commas in numbers
 app-emacs/common-lisp-snippets 20180226.1523: Yasnippets for Common Lisp
-app-emacs/company 20231115.1828: Modular text completion framework
+app-emacs/company 20231115.2254: Modular text completion framework
 app-emacs/company-anaconda 20230821.2126: Anaconda backend for company-mode
 app-emacs/company-ansible 20200306.1441: A company back-end for ansible
 app-emacs/company-arduino 20160306.1739: company-mode for Arduino
@@ -1291,7 +1291,7 @@ app-emacs/elisp-refs 20230920.201: find callers of elisp functions or macros
 app-emacs/elisp-sandbox 20131116.1842: Evaluate EmacsLisp expressions in a sandbox
 app-emacs/elisp-slime-nav 20210510.528: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 20230626.1738: Major mode for editing Elixir files
-app-emacs/elixir-ts-mode 20231115.1750: Major mode for Elixir with tree-sitter support
+app-emacs/elixir-ts-mode 20231115.1851: Major mode for Elixir with tree-sitter support
 app-emacs/elixir-yasnippets 20150417.1239: Yasnippets for Elixir
 app-emacs/ellama 20231105.1147: Tool for interacting with LLMs
 app-emacs/ellocate 20200112.1931: The locate command reimplemented in Emacs Lisp
@@ -2778,7 +2778,7 @@ app-emacs/jquery-doc 20150812.758: jQuery api documentation interface for emacs
 app-emacs/js-auto-beautify 20161031.509: auto format you js/jsx file
 app-emacs/js-auto-format-mode 20180807.1352: Minor mode for auto-formatting JavaScript code
 app-emacs/js-codemod 20190921.941: Run js-codemod on current sentence or selected region
-app-emacs/js-comint 20230311.230: JavaScript interpreter in window.
+app-emacs/js-comint 20231116.943: JavaScript interpreter in window.
 app-emacs/js-doc 20160715.434: Insert JsDoc style comment easily
 app-emacs/js-format 20170119.102: Format or transform code style using NodeJS server with different javascript formatter
 app-emacs/js-import 20230131.1900: Import Javascript files from your current project or dependencies
@@ -3440,7 +3440,7 @@ app-emacs/neil 20231113.1036: companion for Babashka Neil
 app-emacs/nemerle 20161029.2023: major mode for editing nemerle programs
 app-emacs/neon-mode 20180406.1156: Simple major mode for editing neon files
 app-emacs/neotree 20230815.219: A tree plugin like NerdTree for Vim
-app-emacs/nerd-icons 20231105.653: Emacs Nerd Font Icons Library
+app-emacs/nerd-icons 20231115.1110: Emacs Nerd Font Icons Library
 app-emacs/nerd-icons-completion 20230430.1611: Add icons to completion candidates
 app-emacs/nerd-icons-corfu 20231019.1618: Icons for Corfu via nerd-icons
 app-emacs/nerd-icons-dired 20230917.210: Shows icons for each file in dired mode
@@ -3488,7 +3488,7 @@ app-emacs/nnreddit 20230705.1328: Gnus Backend For Reddit
 app-emacs/nntwitter 20230705.1110: Gnus Backend For Twitter
 app-emacs/no-clown-fiesta-theme 20230220.1019: Not-so-colorful-theme
 app-emacs/no-emoji 20180515.1837: Show :emoji-name: instead of emoji characters
-app-emacs/no-littering 20231024.854: Help keeping ~/.config/emacs clean
+app-emacs/no-littering 20231116.1216: Help keeping ~/.config/emacs clean
 app-emacs/no-spam 20190724.1854: Add repeat delays to commands
 app-emacs/noaa 20230904.1815: Get NOAA weather data
 app-emacs/noccur 20191015.719: Run multi-occur on project/dired files
@@ -4273,7 +4273,7 @@ app-emacs/prop-menu 20150728.1118: Create and display a context menu based on te
 app-emacs/propfont-mixed 20150113.2211: Use proportional fonts with space-based indentation.
 app-emacs/proportional 20221205.1417: use a proportional font everywhere
 app-emacs/prosjekt 20151127.1416: a software project tool for emacs
-app-emacs/protobuf-mode 20231101.2003: major mode for editing protocol buffers.
+app-emacs/protobuf-mode 20230506.330: major mode for editing protocol buffers.
 app-emacs/protobuf-ts-mode 20230728.1747: Tree sitter support for Protocol Buffers (proto3 only)
 app-emacs/protocols 20170802.1132: Protocol database access functions.
 app-emacs/proxy-mode 20230303.706: A minor mode to toggle proxy.
@@ -5032,7 +5032,7 @@ app-emacs/tco 20191129.2040: Tail-call optimisation for Emacs lisp
 app-emacs/tea-time 20120331.820: Simple timer package, useful to make perfect tea.
 app-emacs/teacode-expand 20181231.640: Expansion of text by TeaCode program.
 app-emacs/teco 20200707.2309: Teco interpreter
-app-emacs/telega 20231115.1148: Telegram client (unofficial)
+app-emacs/telega 20231116.1: Telegram client (unofficial)
 app-emacs/telepathy 20131209.1258: Access Telepathy from Emacs
 app-emacs/telephone-line 20230322.442: Rewrite of Powerline
 app-emacs/teleport 20230915.1703: Integration for tsh (goteleport.com)
