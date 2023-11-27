@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/macrostep
-DESCRIPTION=Superior Lisp Interaction Mode for Emacs
+DESCRIPTION=mode for working with FIRRTL files
 EAPI=8
-HOMEPAGE=https://github.com/slime/slime
+HOMEPAGE=https://github.com/ibm/firrtl-mode
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/macrostep >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/slime-20231112.2019.tar
+SRC_URI=https://melpa.org/packages/firrtl-mode-20231127.1237.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	b3b15bdbe800c721e93b69b70cce2b67	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=24957782208e22c5e68d81a09d045a8c
+_md5_=192e5654f4fc75636c892b3fbd880d20
