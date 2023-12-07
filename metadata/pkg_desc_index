@@ -101,7 +101,7 @@ app-emacs/align-cljlet 20160112.2101: Space align various Clojure forms
 app-emacs/all-ext 20200315.1443: M-x all with helm-swoop/anything/multiple-cursors/line-number
 app-emacs/all-the-icons 20230909.2053: A library for inserting Developer icons
 app-emacs/all-the-icons-completion 20230617.1206: Add icons to completion candidates
-app-emacs/all-the-icons-dired 20231007.2324: Shows icons for each file in dired mode
+app-emacs/all-the-icons-dired 20231207.1324: Shows icons for each file in dired mode
 app-emacs/all-the-icons-gnus 20180511.654: Shows icons for in Gnus
 app-emacs/all-the-icons-ibuffer 20230503.1625: Display icons for all buffers in ibuffer
 app-emacs/all-the-icons-ivy 20190508.1803: Shows icons while using ivy and counsel
@@ -463,7 +463,7 @@ app-emacs/calmer-forest-theme 20230302.2149: Darkish theme with green/orange tin
 app-emacs/camcorder 20190317.2138: Record screencasts in gif or other formats.
 app-emacs/caml 20231011.328: Caml mode for GNU Emacs
 app-emacs/cangjie 20230219.1150: Retrieve cangjie code for han characters
-app-emacs/cape 20231130.2353: Completion At Point Extensions
+app-emacs/cape 20231207.1604: Completion At Point Extensions
 app-emacs/capnp-mode 20210707.2310: Major mode for editing Capn' Proto Files
 app-emacs/capture 20130828.1644: screencasting with "avconv" or "ffmpeg"
 app-emacs/carbon-now-sh 20220701.332: https://carbon.now.sh integration.
@@ -661,7 +661,7 @@ app-emacs/commentary-theme 20210714.1757: A minimal theme with contrasting comme
 app-emacs/commenter 20160219.1627: multiline-comment support package
 app-emacs/commify 20230616.1042: Toggle grouping commas in numbers
 app-emacs/common-lisp-snippets 20180226.1523: Yasnippets for Common Lisp
-app-emacs/company 20231205.2353: Modular text completion framework
+app-emacs/company 20231207.1344: Modular text completion framework
 app-emacs/company-anaconda 20230821.2126: Anaconda backend for company-mode
 app-emacs/company-ansible 20200306.1441: A company back-end for ansible
 app-emacs/company-arduino 20160306.1739: company-mode for Arduino
@@ -786,7 +786,7 @@ app-emacs/copy-file-on-save 20230402.1829: Copy file on save, automatic deployme
 app-emacs/copyit 20190919.1258: Copy it, yank anything!
 app-emacs/copyit-pandoc 20190919.1258: Copy it, yank anything!
 app-emacs/coq-commenter 20170822.2309: Coq commenting minor mode for proof
-app-emacs/corfu 20231207.1052: COmpletion in Region FUnction
+app-emacs/corfu 20231207.1552: COmpletion in Region FUnction
 app-emacs/corfu-candidate-overlay 20230814.1537: Show first candidate in an overlay while typing
 app-emacs/corfu-prescient 20231123.2208: prescient.el + Corfu
 app-emacs/corral 20160502.948: Quickly surround text with delimiters
@@ -904,7 +904,7 @@ app-emacs/darcula-theme 20171227.1845: Inspired by IntelliJ's Darcula theme
 app-emacs/dark-krystal-theme 20170808.1300: an Emacs 24 theme based on Dark Krystal (tmTheme)
 app-emacs/dark-mint-theme 20160302.642: dark & minty fresh theme
 app-emacs/dark-souls 20140314.1128: Prepare to die
-app-emacs/darkman 20231124.1554: Seamless integration with Darkman
+app-emacs/darkman 20231207.1604: Seamless integration with Darkman
 app-emacs/darkmine-theme 20160406.624: Yet another emacs dark color theme.
 app-emacs/darkokai-theme 20200614.1452: A darker variant on Monokai.
 app-emacs/darktooth-theme 20231011.427: From the darkness... it watches
@@ -3522,7 +3522,7 @@ app-emacs/notmuch-addr 20230511.2057: An alternative to notmuch-address.el
 app-emacs/notmuch-bookmarks 20230727.1504: Add bookmark handling for notmuch buffers
 app-emacs/notmuch-labeler 20131230.1719: Improve notmuch way of displaying labels
 app-emacs/notmuch-maildir 20230511.2056: Visualize maildirs as a tree
-app-emacs/notmuch-transient 20230917.1004: Command dispatchers for Notmuch
+app-emacs/notmuch-transient 20231207.1855: Command dispatchers for Notmuch
 app-emacs/nov 20230715.1434: Featureful EPUB reader mode
 app-emacs/nova-theme 20230906.1542: A dark, pastel color theme
 app-emacs/noxml-fold 20170823.1357: Fold away XML things.
@@ -4063,7 +4063,7 @@ app-emacs/peertube 20210101.1007: Query and download PeerTube videos
 app-emacs/pelican-mode 20190124.2336: Minor mode for editing Pelican sites
 app-emacs/pepita 20200228.2257: Run Splunk search commands, export results to CSV/HTML/JSON
 app-emacs/per-buffer-theme 20221002.2219: Change theme and font according to buffer name or major mode.
-app-emacs/perfect-margin 20231206.423: Auto center windows, works with line numbers
+app-emacs/perfect-margin 20231207.1638: Auto center windows, works with line numbers
 app-emacs/perject 20230605.841: Session-persistent project management
 app-emacs/perlbrew 20230823.1652: A perlbrew wrapper for Emacs
 app-emacs/persist-state 20230728.714: Regularly persist bookmarks, history, recent files and more
@@ -4380,7 +4380,7 @@ app-emacs/quilt 20190828.506: Minor mode for working with files in quilt
 app-emacs/quiz 20190525.1206: Multiple choice quiz game
 app-emacs/r-autoyas 20140101.1510: Provides automatically created yasnippets for R function argument lists.
 app-emacs/racer 20210307.243: code completion, goto-definition and docs browsing for Rust via racer
-app-emacs/racket-mode 20231206.1807: Racket editing, REPL, and more
+app-emacs/racket-mode 20231207.1950: Racket editing, REPL, and more
 app-emacs/rails-i18n 20220126.1643: Seach and insert i18n on ruby code
 app-emacs/rails-log-mode 20140408.425: Major mode for viewing Rails log files
 app-emacs/rails-routes 20220126.1631: Search for and insert rails routes
@@ -5046,7 +5046,7 @@ app-emacs/teco 20200707.2309: Teco interpreter
 app-emacs/telega 20231206.1402: Telegram client (unofficial)
 app-emacs/telepathy 20131209.1258: Access Telepathy from Emacs
 app-emacs/telephone-line 20230322.442: Rewrite of Powerline
-app-emacs/teleport 20231203.1535: Integration for tsh (goteleport.com)
+app-emacs/teleport 20231207.1413: Integration for tsh (goteleport.com)
 app-emacs/teletext 20211203.1111: Teletext broadcast viewer
 app-emacs/teletext-yle 20210927.825: Teletext provider for Finnish national network YLE
 app-emacs/tempel 20231130.2348: Tempo templates/snippets with in-buffer field editing
@@ -5181,7 +5181,7 @@ app-emacs/transpose-mark 20150405.716: Transpose data using the Emacs mark
 app-emacs/transwin 20220921.831: Make window/frame transparent
 app-emacs/trashed 20230811.157: Viewing/editing system trash can
 app-emacs/travis 20150825.1138: Emacs client for Travis
-app-emacs/tray 20230917.1002: Various transient menus
+app-emacs/tray 20231207.1856: Various transient menus
 app-emacs/tree-edit 20231124.1712: A library for structural refactoring and editing
 app-emacs/tree-mode 20151104.1331: A mode to manage tree widgets
 app-emacs/tree-sitter 20220212.1632: Incremental parsing system
