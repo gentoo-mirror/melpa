@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="kanagawa-theme"
+REALNAME="dpkg-dev-el"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="An elegant theme inspired by The Great Wave off Kanagawa by Katsushika Hokusa"
+DESCRIPTION="startup file for the elpa-dpkg-dev-el package"
 
-HOMEPAGE="https://github.com/Meritamen/kanagawa-theme"
+HOMEPAGE="https://melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="dpkg-dev-el"
+REALNAME="kanagawa-theme"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs modes for debian packaging"
+DESCRIPTION="An elegant theme inspired by The Great Wave off Kanagawa by Katsushika Hokusa"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/Meritamen/emacs-kanagawa-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/debian-el"
-RDEPEND="app-emacs/debian-el"
+DEPEND=""
+RDEPEND=""
