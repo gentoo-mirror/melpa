@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/compat app-emacs/embark app-emacs/consult
-DESCRIPTION=Consult integration for Embark
+DEPEND=app-emacs/simple-httpd app-emacs/request app-emacs/oauth2
+DESCRIPTION=Control the Spotify app
 EAPI=8
-HOMEPAGE=https://github.com/oantolin/embark
+HOMEPAGE=https://github.com/danielfm/smudge
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/compat app-emacs/embark app-emacs/consult >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/simple-httpd app-emacs/request app-emacs/oauth2 >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/embark-consult-20231206.1621.tar
+SRC_URI=https://melpa.org/packages/smudge-20231207.2023.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	b3b15bdbe800c721e93b69b70cce2b67	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=2cc5600c3c607d8490bef388f657bff1
+_md5_=0ed3d08d0e7eb3e437a6c70720191cbc
