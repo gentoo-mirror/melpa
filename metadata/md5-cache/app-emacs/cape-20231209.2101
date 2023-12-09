@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Minor mode for running Node.js tests using jest
+DEPEND=app-emacs/compat
+DESCRIPTION=Completion At Point Extensions
 EAPI=8
-HOMEPAGE=https://github.com/rymndhng/jest-test-mode.el
+HOMEPAGE=https://github.com/minad/cape
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/compat >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/jest-test-mode-20231209.618.tar
+SRC_URI=https://melpa.org/packages/cape-20231209.2101.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=bd3fc879eac7208cfda45d9983089062
+_md5_=9c080c28b03b0d8a24bb9ce2fea03729
