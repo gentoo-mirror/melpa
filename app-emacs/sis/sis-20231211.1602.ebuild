@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="orgnote"
+REALNAME="sis"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Sync org roam notes with OrgNote app"
+DESCRIPTION="Less manual switch for native or OS input source (input method)."
 
-HOMEPAGE="https://github.com/Artawower/orgnote.el"
+HOMEPAGE="https://github.com/laishulu/emacs-smart-input-source"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
