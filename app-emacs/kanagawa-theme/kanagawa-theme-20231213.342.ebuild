@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An elegant theme inspired by The Great Wave off Kanagawa by Katsushika Hokusa"
 
-HOMEPAGE="https://github.com/Meritamen/emacs-kanagawa-theme"
+HOMEPAGE="https://github.com/meritamen/emacs-kanagawa-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
