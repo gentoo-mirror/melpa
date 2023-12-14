@@ -351,7 +351,7 @@ app-emacs/blackboard-theme 20161216.656: TextMate Blackboard Theme
 app-emacs/blacken 20231129.654: Reformat python buffers using the "black" formatter
 app-emacs/blackjack 20230821.41: The game of Blackjack
 app-emacs/blackout 20220509.2350: Better mode lighter overriding
-app-emacs/blamer 20231213.1917: Show git blame info about current line
+app-emacs/blamer 20231213.2124: Show git blame info about current line
 app-emacs/blgrep 20150401.1416: Block grep
 app-emacs/blimp 20180903.2240: Bustling Image Manipulation Package
 app-emacs/bliss-theme 20170808.1307: an Emacs 24 theme based on Bliss (tmTheme)
@@ -562,7 +562,7 @@ app-emacs/citar 20231112.1605: Citation-related commands for org, latex, markdow
 app-emacs/citar-denote 20231014.421: Minor mode to integrate Citar and Denote
 app-emacs/citar-embark 20231122.1548: Citar/Embark integration
 app-emacs/citar-org-roam 20230404.1225: Citar/org-roam integration
-app-emacs/citeproc-el 20231212.1538: A CSL 1.0.2 Citation Processor
+app-emacs/citeproc-el 20231213.2254: A CSL 1.0.2 Citation Processor
 app-emacs/citeproc-org 20200915.2009: Render org-mode references in CSL styles
 app-emacs/citre 20230630.1536: Ctags IDE on the True Editor
 app-emacs/cl-format 20230818.1726: CL format routine.
@@ -605,7 +605,7 @@ app-emacs/clojure-quick-repls 20150814.736: Quickly create Clojure and ClojureSc
 app-emacs/clojure-snippets 20220914.950: Yasnippets for clojure
 app-emacs/clojure-ts-mode 20230925.320: Major mode for Clojure code
 app-emacs/clomacs 20220415.1035: Simplifies Emacs Lisp interaction with Clojure.
-app-emacs/closql 20230914.1250: Store EIEIO objects using EmacSQL
+app-emacs/closql 20231116.1502: Store EIEIO objects using EmacSQL
 app-emacs/closure-lint-mode 20101118.2124: minor mode for the Closure Linter
 app-emacs/cloud-theme 20220205.1336: A light colored theme
 app-emacs/cloud-to-butt-erc 20130627.2308: Replace 'the cloud' with 'my butt'
@@ -613,7 +613,7 @@ app-emacs/clues-theme 20161213.1127: an Emacs 24 theme which may well be fully a
 app-emacs/cm-mode 20170203.2107: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 20230304.2223: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 20210610.1525: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 20231206.1357: major-mode for editing CMake sources
+app-emacs/cmake-mode 20231214.1547: major-mode for editing CMake sources
 app-emacs/cmake-project 20171121.1115: Integrates CMake build process with Emacs
 app-emacs/cmd-to-echo 20161203.2133: Show the output of long-running commands in the echo area
 app-emacs/cmm-mode 20150225.746: Major mode for C-- source code
@@ -1488,7 +1488,7 @@ app-emacs/evalator 20160213.128: Package for interactive transformation of data 
 app-emacs/evalator-clojure 20160208.2148: Clojure evaluation context for evalator via CIDER.
 app-emacs/eve-mode 20170822.2231: Major mode for editing Eve documents.
 app-emacs/everlasting-scratch 20230105.507: The *scratch* that lasts forever
-app-emacs/evil 20231212.2217: Extensible Vi layer for Emacs.
+app-emacs/evil 20231213.2256: Extensible Vi layer for Emacs.
 app-emacs/evil-anzu 20220911.1939: anzu for evil-mode
 app-emacs/evil-args 20220125.1626: Motions and text objects for delimited arguments in Evil.
 app-emacs/evil-avy 20150908.748: set-based completion
@@ -2639,7 +2639,7 @@ app-emacs/inherit-local 20170409.1649: Inherited buffer-local variables
 app-emacs/inheritenv 20230804.651: Make temp buffers inherit buffer-local environment variables
 app-emacs/ini 20220827.2009: Converting between INI files and association lists
 app-emacs/ini-mode 20230211.1512: Major mode for Windows-style ini files.
-app-emacs/init-dir 20231212.1718: Init directory instead of just a single file
+app-emacs/init-dir 20231214.1740: Init directory instead of just a single file
 app-emacs/init-loader 20210703.902: Loader for configuration files
 app-emacs/init-open-recentf 20220220.2004: Invoke a command immediately after startup
 app-emacs/initsplit 20160919.1818: code to split customizations into different files
@@ -2767,7 +2767,7 @@ app-emacs/jetbrains 20180301.502: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default JetBrains Darcula theme
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file.
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
-app-emacs/jinx 20231213.1934: Enchanted Spell Checker
+app-emacs/jinx 20231214.1302: Enchanted Spell Checker
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jist 20161229.1721: Gist integration
@@ -3131,7 +3131,7 @@ app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20230916.441: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-mode 20230817.1258: mode for editing Magik + some utils.
-app-emacs/magit 20231213.48: A Git porcelain inside Emacs.
+app-emacs/magit 20231213.2338: A Git porcelain inside Emacs.
 app-emacs/magit-annex 20231210.2140: Control git-annex from Magit
 app-emacs/magit-commit-mark 20230420.304: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3317,7 +3317,7 @@ app-emacs/modern-fringes 20220401.202: Replaces default fringe bitmaps with bett
 app-emacs/modern-sh 20211101.1001: Minor mode for editing shell script
 app-emacs/modtime-skip-mode 20140128.2201: Minor mode for disabling modtime and supersession checks on files.
 app-emacs/modular-config 20210726.1614: Organize your config into small and loadable modules
-app-emacs/modus-themes 20231213.739: Elegant, highly legible and customizable themes
+app-emacs/modus-themes 20231214.553: Elegant, highly legible and customizable themes
 app-emacs/moe-theme 20231006.639: A colorful eye-candy theme. Moe, moe, kyun!
 app-emacs/molar-mass 20220922.1752: Calculates molar mass of a molecule
 app-emacs/molecule 20180527.743: Simple wrapper for molecule
@@ -3446,7 +3446,7 @@ app-emacs/naysayer-theme 20230720.2056: The naysayer color theme
 app-emacs/ncl-mode 20180129.703: Major Mode for editing NCL scripts and other goodies
 app-emacs/nclip 20130617.2015: Network (HTTP) Clipboard
 app-emacs/neato-graph-bar 20181130.1649: Neat-o graph bars CPU/memory etc.
-app-emacs/neil 20231117.905: companion for Babashka Neil
+app-emacs/neil 20231214.736: companion for Babashka Neil
 app-emacs/nemerle 20161029.2023: major mode for editing nemerle programs
 app-emacs/neon-mode 20180406.1156: Simple major mode for editing neon files
 app-emacs/neotree 20230815.219: A tree plugin like NerdTree for Vim
@@ -4067,7 +4067,7 @@ app-emacs/peertube 20210101.1007: Query and download PeerTube videos
 app-emacs/pelican-mode 20190124.2336: Minor mode for editing Pelican sites
 app-emacs/pepita 20200228.2257: Run Splunk search commands, export results to CSV/HTML/JSON
 app-emacs/per-buffer-theme 20221002.2219: Change theme and font according to buffer name or major mode.
-app-emacs/perfect-margin 20231213.1227: Auto center windows, works with line numbers
+app-emacs/perfect-margin 20231214.1011: Auto center windows, works with line numbers
 app-emacs/perject 20230605.841: Session-persistent project management
 app-emacs/perlbrew 20230823.1652: A perlbrew wrapper for Emacs
 app-emacs/persist-state 20230728.714: Regularly persist bookmarks, history, recent files and more
@@ -4086,7 +4086,7 @@ app-emacs/perspeen 20171203.1021: An package for multi-workspace
 app-emacs/pest-mode 20221231.15: Major mode for editing Pest files
 app-emacs/pet 20230906.46: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 20220913.1401: a simple wrapper around asynchronous processes
-app-emacs/pg 20231126.1333: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
+app-emacs/pg 20231214.1514: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
 app-emacs/pgdevenv 20150105.2236: Manage your PostgreSQL development envs
 app-emacs/ph 20161029.1522: A global minor mode for managing multiple projects.
 app-emacs/phabricator 20160510.1425: Phabricator/Arcanist helpers for Emacs.
@@ -4677,7 +4677,7 @@ app-emacs/shampoo 20230522.1722: A remote Smalltalk development mode
 app-emacs/shanty-themes 20230123.2111: The themes for digital workers
 app-emacs/share2computer 20200316.31: Elisp helper of android ShareToComputer
 app-emacs/sharper 20230129.1827: A dotnet CLI wrapper, using Transient
-app-emacs/shell-command-x 20231106.1958: Extensions for shell commands
+app-emacs/shell-command-x 20231214.1: Extensions for shell commands
 app-emacs/shell-current-directory 20140101.2354: create new shell based on buffer directory
 app-emacs/shell-here 20220102.1703: Open a shell relative to the working directory
 app-emacs/shell-history 20100505.839: integration with shell history
@@ -4815,7 +4815,7 @@ app-emacs/smooth-scroll 20130322.414: Minor mode for smooth scrolling and in-pla
 app-emacs/smooth-scrolling 20161002.1949: Make emacs scroll smoothly
 app-emacs/smotitah 20150218.1030: Modular emacs configuration framework
 app-emacs/smtpmail-multi 20160218.2349: Use different smtp servers for sending mail
-app-emacs/smudge 20231213.2105: Control the Spotify app
+app-emacs/smudge 20231214.1430: Control the Spotify app
 app-emacs/smyx-theme 20141127.828: smyx Color Theme
 app-emacs/snakemake-mode 20231210.2008: Major mode for editing Snakemake files
 app-emacs/snap-indent 20230704.1833: Simple automatic indentation
@@ -5155,7 +5155,7 @@ app-emacs/toml-mode 20161107.1800: Major mode for editing TOML files
 app-emacs/tommyh-theme 20131004.2330: A bright, bold-colored theme for emacs
 app-emacs/tongbu 20200414.507: A web server to share text or files between two devices
 app-emacs/topspace 20220824.134: Recenter line 1 with scrollable upper margin/padding
-app-emacs/topsy 20230414.1738: Simple sticky header
+app-emacs/topsy 20231214.843: Simple sticky header
 app-emacs/tornado-template-mode 20141128.1008: A major mode for editing tornado templates
 app-emacs/torus 20190325.753: A buffer groups manager
 app-emacs/total-lines 20171227.1239: Keep track of a buffer's total number of lines
