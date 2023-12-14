@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/simple-httpd app-emacs/request app-emacs/oauth2
-DESCRIPTION=Control the Spotify app
+DEPEND=app-emacs/compat app-emacs/emacsql
+DESCRIPTION=Store EIEIO objects using EmacSQL
 EAPI=8
-HOMEPAGE=https://github.com/danielfm/smudge
+HOMEPAGE=https://github.com/emacscollective/closql
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/simple-httpd app-emacs/request app-emacs/oauth2 >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/compat app-emacs/emacsql >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/smudge-20231213.2105.tar
+SRC_URI=https://melpa.org/packages/closql-20231116.1502.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=0ed3d08d0e7eb3e437a6c70720191cbc
+_md5_=c2f2de5e67198ac77c8ca1fbd11006ad
