@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Display a buffer's project in its mode line
+DEPEND=app-emacs/transient
+DESCRIPTION=A simple multi-LLM client
 EAPI=8
-HOMEPAGE=https://github.com/fritzgrabo/project-mode-line-tag
+HOMEPAGE=https://github.com/karthink/gptel
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/transient >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/project-mode-line-tag-20220720.2110.tar
+SRC_URI=https://melpa.org/packages/gptel-20231215.422.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=f7755abc82cbd1ea0d6a6ee4f79638e2
+_md5_=1d1d9fbf1e3b0155f0001a1e3dde8925
