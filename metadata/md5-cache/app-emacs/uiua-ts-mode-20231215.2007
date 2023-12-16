@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Interface for the himalaya email client
+DEPEND=app-emacs/uiua-mode
+DESCRIPTION=Uiua treesiter mode
 EAPI=8
-HOMEPAGE=https://github.com/dantecatalfamo/himalaya-emacs
+HOMEPAGE=https://github.com/crmsnbleyd/uiua-ts-mode
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/uiua-mode >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/himalaya-20230711.925.tar
+SRC_URI=https://melpa.org/packages/uiua-ts-mode-20231215.2007.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=4f2e82463faf0f510fac2bb0ddf97e51
+_md5_=877c6ada74f20d7c31038634bfeb0edc
