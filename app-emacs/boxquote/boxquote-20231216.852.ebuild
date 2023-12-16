@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="csv"
+REALNAME="boxquote"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Functions for reading and parsing CSV files."
+DESCRIPTION="Quote text with a semi-box"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/davep/boxquote.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
