@@ -1604,7 +1604,7 @@ app-emacs/eyebrowse-restore 20230312.1821: Persistent Eyebrowse for all frames
 app-emacs/eyuml 20141028.2227: Write textual uml diagram from emacs using yuml.me
 app-emacs/ez-query-replace 20210724.2247: a smarter context-sensitive query-replace that can be reapplied
 app-emacs/eziam-themes 20230820.917: The mostly monochrome Eziam theme family.
-app-emacs/f 20231212.1323: Modern API for working with files and directories
+app-emacs/f 20231219.750: Modern API for working with files and directories
 app-emacs/f3 20180130.1158: a helm interface to find
 app-emacs/fabric 20171116.656: Launch Fabric using Emacs
 app-emacs/face-explorer 20190517.1857: Library and tools for faces and text properties
@@ -2817,7 +2817,7 @@ app-emacs/julia-formatter 20231130.1512: Use JuliaFormatter.jl for julia code
 app-emacs/julia-mode 20230712.1524: Major mode for editing Julia source code
 app-emacs/julia-repl 20231026.1005: A minor mode for a Julia REPL
 app-emacs/julia-shell 20161125.1910: Major mode for an inferior Julia shell
-app-emacs/julia-snail 20231215.1419: Julia Snail
+app-emacs/julia-snail 20231219.417: Julia Snail
 app-emacs/julia-ts-mode 20230921.1433: Major mode for Julia source code using tree-sitter
 app-emacs/julia-vterm 20230815.2318: A mode for Julia REPL using vterm
 app-emacs/jumblr 20170727.2043: an anagram game for emacs
@@ -3037,14 +3037,14 @@ app-emacs/literate-elisp 20220626.932: Load Emacs Lisp code blocks from Org file
 app-emacs/litex-mode 20221107.147: Minor mode for converting lisp to LaTeX
 app-emacs/live-code-talks 20180907.1647: Support for slides with live code in them
 app-emacs/live-preview 20231215.1612: Live preview by any shell command while editing
-app-emacs/live-py-mode 20231216.1538: Live Coding in Python
+app-emacs/live-py-mode 20231219.314: Live Coding in Python
 app-emacs/lively 20171005.754: interactively updating text
 app-emacs/livereload 20170629.650: Livereload server
 app-emacs/livescript-mode 20221015.1316: Major mode for editing LiveScript files
 app-emacs/livid-mode 20131116.1344: Live browser eval of JavaScript every time a buffer changes
 app-emacs/ll-debug 20211002.1031: Low level debug tools
 app-emacs/llama 20231215.1612: Compact syntax for short lambda
-app-emacs/llama-cpp 20231208.426: A client for llama-cpp server
+app-emacs/llama-cpp 20231219.1355: A client for llama-cpp server
 app-emacs/llvm-ts-mode 20231120.1251: LLVM major mode using tree-sitter
 app-emacs/lms 20210820.2200: Squeezebox / Logitech Media Server frontend
 app-emacs/load-bash-alias 20230310.1657: Convert bash aliases into eshell ones
@@ -3872,7 +3872,7 @@ app-emacs/org-vcard 20221111.328: org-mode support for vCard export and import.
 app-emacs/org-view-mode 20221208.327: Read-only viewer with less markup clutter in org mode files
 app-emacs/org-visibility 20220929.1415: Persistent org tree visibility
 app-emacs/org-wc 20200731.2244: Count words in org mode trees.
-app-emacs/org-web-tools 20231213.53: Display and capture web content with Org-mode
+app-emacs/org-web-tools 20231219.624: Display and capture web content with Org-mode
 app-emacs/org-wild-notifier 20230831.2035: Customizable org-agenda notifications
 app-emacs/org-working-set 20230803.1640: Manage and visit a small and changing set of org-nodes that you work on
 app-emacs/org-wunderlist 20191017.1917: Org sync with Wunderlist
@@ -4168,7 +4168,7 @@ app-emacs/pocket-reader 20230904.539: Client for Pocket reading list
 app-emacs/podcaster 20200607.1054: Podcast client
 app-emacs/poe-lootfilter-mode 20190330.1117: Major mode for editing Path of Exile lootfilters
 app-emacs/poet-theme 20200606.2343: A theme for prose
-app-emacs/poetry 20230304.1540: Interface to Poetry
+app-emacs/poetry 20231219.1221: Interface to Poetry
 app-emacs/point-pos 20170421.1632: Save and restore point positions
 app-emacs/point-stack 20200427.107: Back and forward navigation through buffer locations
 app-emacs/poke-line 20201023.247: Minor mode to show position in a buffer using a Pokemon
@@ -4290,8 +4290,8 @@ app-emacs/protobuf-ts-mode 20230728.1747: Tree sitter support for Protocol Buffe
 app-emacs/protocols 20170802.1132: Protocol database access functions.
 app-emacs/proxy-mode 20230303.706: A minor mode to toggle proxy.
 app-emacs/psalm 20230914.1925: Interface to Psalm
-app-emacs/psc-ide 20210219.2247: Minor mode for PureScript's IDE server.
-app-emacs/psci 20231217.1105: Major mode for purescript repl psci
+app-emacs/psc-ide 20231219.49: Minor mode for PureScript's IDE server.
+app-emacs/psci 20231219.52: Major mode for purescript repl psci
 app-emacs/psession 20231117.1648: Persistent save of elisp objects.
 app-emacs/psysh 20230815.730: PsySH, PHP interactive shell (REPL)
 app-emacs/pt 20161226.1959: A front-end for pt, The Platinum Searcher.
@@ -4562,7 +4562,7 @@ app-emacs/rufo 20170718.1416: use rufo to automatically format ruby files
 app-emacs/ruled-switch-buffer 20211205.636: Rule based buffer switching
 app-emacs/rum-mode 20180127.22: Major mode for Rum programming language
 app-emacs/run-command 20230317.2004: Run an external command from a context-dependent list
-app-emacs/run-command-recipes 20231003.1823: This is collection of recipes to `run-command'
+app-emacs/run-command-recipes 20231219.1331: This is collection of recipes to `run-command'
 app-emacs/run-stuff 20230601.19: Context based command execution
 app-emacs/runner 20160524.1048: Improved "open with" suggestions for dired
 app-emacs/runtests 20150807.831: Run unit tests from Emacs
@@ -4754,7 +4754,7 @@ app-emacs/sl 20161217.1404: An Emacs clone of sl(1)
 app-emacs/slack 20211129.310: Slack client for Emacs
 app-emacs/slideview 20150324.2240: File slideshow
 app-emacs/slim-mode 20170728.1348: Major mode for editing Slim files
-app-emacs/slime 20231215.1307: Superior Lisp Interaction Mode for Emacs
+app-emacs/slime 20231218.2206: Superior Lisp Interaction Mode for Emacs
 app-emacs/slime-company 20210124.1627: slime completion backend for company mode
 app-emacs/slime-docker 20210426.1422: Integration of SLIME with Docker containers
 app-emacs/slime-repl-ansi-color 20230214.1453: Turn on ANSI colors in REPL output;
@@ -5346,7 +5346,7 @@ app-emacs/vegetative-theme 20220822.353: A Theme based on green CRT terminals
 app-emacs/verb 20231120.1806: Organize and send HTTP requests
 app-emacs/veri-kompass 20200213.934: verilog codebase navigation facility
 app-emacs/verify-url 20160426.1228: find out invalid urls in the buffer or region
-app-emacs/verilog-ext 20231020.1553: SystemVerilog Extensions
+app-emacs/verilog-ext 20231219.1431: SystemVerilog Extensions
 app-emacs/verilog-ts-mode 20231016.1204: Verilog Tree-sitter major mode
 app-emacs/verona-mode 20200823.536: A major mode for the Verona programming language
 app-emacs/versuri 20211104.1301: The lyrics package
@@ -5394,7 +5394,7 @@ app-emacs/vterm-toggle 20230912.246: Toggles between the vterm buffer and other 
 app-emacs/vtm 20200921.338: Manages vterm buffers with configuration files
 app-emacs/vue-html-mode 20180428.2035: Major mode for editing Vue.js templates
 app-emacs/vue-mode 20190415.231: Major mode for vue component based on mmm-mode
-app-emacs/vuiet 20220218.1024: The music player and explorer for Emacs
+app-emacs/vuiet 20231219.859: The music player and explorer for Emacs
 app-emacs/vulpea 20231113.717: A collection of org-roam note-taking functions
 app-emacs/vunit-mode 20230913.1754: VUnit Runner Interface
 app-emacs/vyper-mode 20180707.1935: Major mode for the Vyper programming language
@@ -5581,7 +5581,7 @@ app-emacs/yascroll 20220212.1742: Yet Another Scroll Bar Mode
 app-emacs/yasnippet 20230914.1400: Yet another snippet extension for Emacs
 app-emacs/yasnippet-capf 20231024.1604: Yasnippet Completion At Point Function
 app-emacs/yasnippet-lean 20220105.2251: Collection of snippets for the Lean prover
-app-emacs/yasnippet-snippets 20230815.820: Collection of yasnippet snippets
+app-emacs/yasnippet-snippets 20231219.1505: Collection of yasnippet snippets
 app-emacs/yatemplate 20211115.1208: File templates with yasnippet
 app-emacs/yatex 20221225.512: Yet Another tex-mode for emacs //野鳥//
 app-emacs/yaxception 20150105.1540: Provide framework about exception like Java for Elisp
