@@ -22,9 +22,11 @@ DEPEND="app-emacs/lastfm
 	app-emacs/versuri
 	app-emacs/s
 	app-emacs/bind-key
-	app-emacs/mpv"
+	app-emacs/mpv
+	app-emacs/ivy"
 RDEPEND="app-emacs/lastfm
 	app-emacs/versuri
 	app-emacs/s
 	app-emacs/bind-key
-	app-emacs/mpv"
+	app-emacs/mpv
+	app-emacs/ivy"
