@@ -23,10 +23,12 @@ DEPEND="app-emacs/dash
 	app-emacs/s
 	app-emacs/flycheck
 	app-emacs/let-alist
-	app-emacs/seq"
+	app-emacs/seq
+	app-emacs/inheritenv"
 RDEPEND="app-emacs/dash
 	app-emacs/company
 	app-emacs/s
 	app-emacs/flycheck
 	app-emacs/let-alist
-	app-emacs/seq"
+	app-emacs/seq
+	app-emacs/inheritenv"
