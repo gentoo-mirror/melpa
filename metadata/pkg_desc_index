@@ -417,7 +417,7 @@ app-emacs/buffer-utils 20140512.1400: Buffer-manipulation utility functions
 app-emacs/buffer-watcher 20170913.839: Easily run shell scripts per filetype/directory when a buffer is saved
 app-emacs/buffer-wrap 20220704.646: Wrap the beginning and the end of buffer
 app-emacs/bufferbin 20230706.110: Quick mouse access to buffers
-app-emacs/bufler 20231202.1240: Group buffers into workspaces with programmable rules
+app-emacs/bufler 20231220.1307: Group buffers into workspaces with programmable rules
 app-emacs/bufshow 20130726.1838: A simple presentation tool for Emacs.
 app-emacs/bug-reference-github 20200206.2158: Set `bug-reference-url-format' in Github repos
 app-emacs/bui 20210108.1141: Buffer interface library
@@ -545,7 +545,7 @@ app-emacs/chronometrist-key-values 20230629.1039: add key-values to Chronometris
 app-emacs/chronometrist-spark 20230629.1039: Show sparklines in Chronometrist buffers
 app-emacs/chronos 20230804.1712: Multiple simultaneous countdown / countup timers
 app-emacs/chruby 20180114.1652: Emacs integration for chruby
-app-emacs/chyla-theme 20230907.1019: chyla.org - green color theme.
+app-emacs/chyla-theme 20231220.1545: chyla.org - green color theme.
 app-emacs/cider 20231204.843: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-decompile 20151122.537: decompilation extension for cider
 app-emacs/cider-eval-sexp-fu 20190311.2152: Briefly highlights an evaluated sexp.
@@ -2970,7 +2970,7 @@ app-emacs/ledger-mode 20231216.818: Helper code for use with the "ledger" comman
 app-emacs/leerzeichen 20220626.835: Minor mode to display whitespace characters.
 app-emacs/leetcode 20230524.1851: An leetcode client
 app-emacs/legalese 20200119.2248: Add legalese to your program files
-app-emacs/lem 20231217.1701: A basic lemmy client
+app-emacs/lem 20231220.1453: A basic lemmy client
 app-emacs/lemon-mode 20130216.1304: A major mode for editing lemon grammar files
 app-emacs/lentic 20221201.47: One buffer as a view of another
 app-emacs/lentic-server 20160717.2052: Web Server for Emacs Literate Source
@@ -3744,7 +3744,7 @@ app-emacs/org-gcal 20221212.1817: Org sync with Google Calendar
 app-emacs/org-generate 20200815.736: Generate template files/folders from org document
 app-emacs/org-gnome 20150614.1457: Orgmode integration with the GNOME desktop
 app-emacs/org-grep 20230821.2356: Kind of M-x rgrep adapted for Org mode
-app-emacs/org-gtd 20230718.54: An implementation of GTD.
+app-emacs/org-gtd 20231220.1339: An implementation of GTD.
 app-emacs/org-habit-stats 20230412.515: Display info about habits
 app-emacs/org-hyperscheduler 20220704.2140: UI (web) representation of org-agenda
 app-emacs/org-id-cleanup 20230922.1258: Interactively find, present and maybe delete unused IDs of org-id
@@ -3832,7 +3832,7 @@ app-emacs/org-runbook 20230503.319: Org mode for runbooks
 app-emacs/org-scrum 20200131.1129: org mode extensions for scrum planning and reporting
 app-emacs/org-seek 20161217.502: Searching Org-mode files with search tools.
 app-emacs/org-shoplist 20210629.2157: Eat the world
-app-emacs/org-side-tree 20231212.729: Navigate Org outlines in side window tree
+app-emacs/org-side-tree 20231220.1636: Navigate Org outlines in side window tree
 app-emacs/org-sidebar 20210912.1321: Helpful sidebar for Org buffers
 app-emacs/org-snooze 20181229.1424: Snooze your code, doc and feed
 app-emacs/org-special-block-extras 20230721.43: 30 new custom blocks & 34 link types for Org-mode
@@ -3872,7 +3872,7 @@ app-emacs/org-vcard 20221111.328: org-mode support for vCard export and import.
 app-emacs/org-view-mode 20221208.327: Read-only viewer with less markup clutter in org mode files
 app-emacs/org-visibility 20220929.1415: Persistent org tree visibility
 app-emacs/org-wc 20200731.2244: Count words in org mode trees.
-app-emacs/org-web-tools 20231219.624: Display and capture web content with Org-mode
+app-emacs/org-web-tools 20231220.1515: Display and capture web content with Org-mode
 app-emacs/org-wild-notifier 20230831.2035: Customizable org-agenda notifications
 app-emacs/org-working-set 20230803.1640: Manage and visit a small and changing set of org-nodes that you work on
 app-emacs/org-wunderlist 20191017.1917: Org sync with Wunderlist
@@ -3959,7 +3959,7 @@ app-emacs/ox-nikola 20151114.1116: Export Nikola articles using org-mode.
 app-emacs/ox-pandoc 20230627.643: An Org-mode exporter using pandoc
 app-emacs/ox-pukiwiki 20150124.1716: Pukiwiki Back-End for Org Export Engine
 app-emacs/ox-qmd 20230325.1315: Qiita Markdown Back-End for Org Export Engine
-app-emacs/ox-report 20230712.1639: Export your org file to minutes report PDF file
+app-emacs/ox-report 20231220.1625: Export your org file to minutes report PDF file
 app-emacs/ox-reveal 20221127.814: reveal.js Presentation Back-End for Org Export Engine
 app-emacs/ox-review 20220619.724: Re:VIEW Back-End for Org Export Engine
 app-emacs/ox-rfc 20230619.338: RFC Back-End for Org Export Engine
@@ -5346,8 +5346,8 @@ app-emacs/vegetative-theme 20220822.353: A Theme based on green CRT terminals
 app-emacs/verb 20231120.1806: Organize and send HTTP requests
 app-emacs/veri-kompass 20200213.934: verilog codebase navigation facility
 app-emacs/verify-url 20160426.1228: find out invalid urls in the buffer or region
-app-emacs/verilog-ext 20231219.2042: SystemVerilog Extensions
-app-emacs/verilog-ts-mode 20231016.1204: Verilog Tree-sitter major mode
+app-emacs/verilog-ext 20231220.1340: SystemVerilog Extensions
+app-emacs/verilog-ts-mode 20231220.1855: Verilog Tree-sitter major mode
 app-emacs/verona-mode 20200823.536: A major mode for the Verona programming language
 app-emacs/versuri 20211104.1301: The lyrics package
 app-emacs/vertica 20131217.1511: Vertica SQL mode extension
@@ -5356,9 +5356,9 @@ app-emacs/vertico 20231207.2029: VERTical Interactive COmpletion
 app-emacs/vertico-prescient 20231123.2208: prescient.el + Vertico
 app-emacs/vertigo 20211224.1256: Jump across lines using the home row.
 app-emacs/vhdl-capf 20160221.1734: Completion at point function (capf) for vhdl-mode.
-app-emacs/vhdl-ext 20231219.2048: VHDL Extensions
+app-emacs/vhdl-ext 20231220.1323: VHDL Extensions
 app-emacs/vhdl-tools 20200330.1819: Utilities for navigating vhdl sources
-app-emacs/vhdl-ts-mode 20231031.748: VHDL Tree-sitter major mode
+app-emacs/vhdl-ts-mode 20231220.1858: VHDL Tree-sitter major mode
 app-emacs/vi-tilde-fringe 20141028.242: Displays tildes in the fringe on empty lines a la Vi.
 app-emacs/viewer 20170107.202: View-mode extension
 app-emacs/viking-mode 20160705.2027: kill first, ask later
