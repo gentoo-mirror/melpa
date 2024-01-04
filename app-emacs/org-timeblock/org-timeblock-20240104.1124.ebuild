@@ -19,12 +19,10 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/compat
-	app-emacs/org-ql
 	app-emacs/org-mode
 	app-emacs/svg
 	app-emacs/persist"
 RDEPEND="app-emacs/compat
-	app-emacs/org-ql
 	app-emacs/org-mode
 	app-emacs/svg
 	app-emacs/persist"

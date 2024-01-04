@@ -19,6 +19,8 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/prescient
-	app-emacs/vertico"
+	app-emacs/vertico
+	app-emacs/compat"
 RDEPEND="app-emacs/prescient
-	app-emacs/vertico"
+	app-emacs/vertico
+	app-emacs/compat"
