@@ -1,12 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=helper for emacsc(1)
+DESCRIPTION=A deep blue theme with cool autumnal colors
 EAPI=8
-HOMEPAGE=https://github.com/knu/emacsc
+HOMEPAGE=https://github.com/inj0h/kuronami
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/emacsc-20240103.1926.tar
+SRC_URI=https://melpa.org/packages/kuronami-theme-20240104.1541.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=cce2aed8d5ed4b1f24e29bfc407e81b4
+_md5_=5ac5f13d0fc33359f5ab84c405ea5e29
