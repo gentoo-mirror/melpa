@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Freeze Time for testing"
 
-HOMEPAGE="https://github.com/zonuexe/emacs-datetime"
+HOMEPAGE="https://github.com/emacs-php/emacs-datetime"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
