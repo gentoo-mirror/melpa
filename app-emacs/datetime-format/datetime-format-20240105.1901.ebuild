@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="yaxception"
+REALNAME="datetime-format"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Provide framework about exception like Java for Elisp"
+DESCRIPTION="Datetime functions"
 
-HOMEPAGE="https://github.com/aki2o/yaxception"
+HOMEPAGE="https://github.com/emacs-php/emacs-datetime"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
