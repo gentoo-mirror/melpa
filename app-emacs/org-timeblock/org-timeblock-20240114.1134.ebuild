@@ -20,9 +20,7 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/compat
 	app-emacs/org-mode
-	app-emacs/svg
-	app-emacs/persist"
+	app-emacs/svg"
 RDEPEND="app-emacs/compat
 	app-emacs/org-mode
-	app-emacs/svg
-	app-emacs/persist"
+	app-emacs/svg"
