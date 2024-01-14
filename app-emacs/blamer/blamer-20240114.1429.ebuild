@@ -18,5 +18,7 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/posframe"
-RDEPEND="app-emacs/posframe"
+DEPEND="app-emacs/posframe
+	app-emacs/async"
+RDEPEND="app-emacs/posframe
+	app-emacs/async"
