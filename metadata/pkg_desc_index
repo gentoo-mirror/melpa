@@ -237,7 +237,7 @@ app-emacs/auto-save-buffers-enhanced 20161109.710: Automatically save buffers in
 app-emacs/auto-shell-command 20180817.1502: Run the shell command asynchronously that you specified when you save the file.
 app-emacs/auto-sort-mode 20230827.2124: Automatically sort lines between two delimiters
 app-emacs/auto-sudoedit 20230907.724: Auto sudo edit by tramp
-app-emacs/auto-virtualenv 20220712.1612: Auto activate python virtualenvs
+app-emacs/auto-virtualenv 20240115.1548: Auto activate python virtualenvs
 app-emacs/auto-virtualenvwrapper 20230317.1313: Lightweight auto activate python virtualenvs
 app-emacs/auto-yasnippet 20230208.331: Quickly create disposable yasnippets
 app-emacs/autobookmarks 20220509.1712: Save recently visited files and buffers
@@ -568,7 +568,7 @@ app-emacs/citre 20240114.712: Ctags IDE on the True Editor
 app-emacs/cl-format 20230818.1726: CL format routine.
 app-emacs/cl-libify 20181130.230: Update elisp code to use cl-lib instead of cl
 app-emacs/clang-capf 20221030.1830: Completion-at-point backend for c/c++ using clang
-app-emacs/clang-format 20230809.2200: Format code using clang-format
+app-emacs/clang-format 20240115.1750: Format code using clang-format
 app-emacs/clang-format+ 20190824.2216: Minor mode for automatic clang-format application
 app-emacs/clause 20230405.1235: Functions to move, mark, kill by clause
 app-emacs/clean-aindent-mode 20171017.2043: Simple indent and unindent, trims indent white-space
@@ -1041,7 +1041,7 @@ app-emacs/dired-subtree 20230512.1107: Insert subdirectories in a tree-like fash
 app-emacs/dired-toggle 20190616.303: Show dired as sidebar and will not create new buffers when changing dir
 app-emacs/dired-toggle-sudo 20211216.102: Browse directory with sudo privileges.
 app-emacs/dired-view-data 20220129.339: View data from dired via ESS and R
-app-emacs/diredc 20220113.332: Extensions for dired
+app-emacs/diredc 20240115.1433: Extensions for dired
 app-emacs/diredfl 20230224.1302: Extra font lock rules for a more colourful dired
 app-emacs/diredful 20160529.2017: colorful file names in dired buffers
 app-emacs/direnv 20230721.714: direnv integration
@@ -1285,7 +1285,7 @@ app-emacs/elgrep 20230814.1215: Searching files for regular expressions
 app-emacs/elhome 20161025.2042: A framework for a "home" Emacs configuration
 app-emacs/elisp-autofmt 20231207.1018: Emacs lisp auto-format
 app-emacs/elisp-def 20230901.2308: macro-aware go-to-definition for elisp
-app-emacs/elisp-demos 20230726.2059: Elisp API Demos
+app-emacs/elisp-demos 20240115.1734: Elisp API Demos
 app-emacs/elisp-depend 20190325.1114: Parse depend libraries of elisp file.
 app-emacs/elisp-depmap 20220223.1131: Generate an elisp dependency map in graphviz
 app-emacs/elisp-docstring-mode 20170304.1615: Major mode for editing elisp docstrings.
@@ -1430,6 +1430,7 @@ app-emacs/ert-async 20200105.1031: Async support for ERT
 app-emacs/ert-expectations 20121009.734: The simplest unit test framework in the world
 app-emacs/ert-junit 20190802.2232: JUnit XML reports from ert results
 app-emacs/ert-modeline 20140115.1015: displays ert test results in the modeline.
+app-emacs/ert-results 20240108.1358: Filter ERT test results display
 app-emacs/ert-runner 20231110.1358: Opinionated Ert testing workflow
 app-emacs/es-lib 20141111.1830: A collection of emacs utilities
 app-emacs/es-mode 20221026.1103: A major mode for editing and executing Elasticsearch queries
@@ -1974,7 +1975,7 @@ app-emacs/gdscript-mode 20231024.1150: Major mode for Godot's GDScript language
 app-emacs/geben 20220827.105: DBGp protocol frontend, a script debugger
 app-emacs/geben-helm-projectile 20170524.334: Integrate helm-projectile with geben
 app-emacs/geeknote 20220213.612: Use Evernote in Emacs through geeknote
-app-emacs/geiser 20240113.2047: GNU Emacs and Scheme talk to each other
+app-emacs/geiser 20240115.1854: GNU Emacs and Scheme talk to each other
 app-emacs/geiser-chez 20230707.1334: Chez and Geiser talk to each other
 app-emacs/geiser-chibi 20211204.1938: Chibi Scheme's implementation of the geiser protocols
 app-emacs/geiser-chicken 20220717.1130: Chicken's implementation of the geiser protocols
@@ -2776,13 +2777,13 @@ app-emacs/jirascope 20240111.1954: A Jira client
 app-emacs/jist 20161229.1721: Gist integration
 app-emacs/jit-lock-stealth-progress 20230808.1342: JIT lock stealth mode-line progress
 app-emacs/jknav 20121006.2025: Automatically enable j/k keys for line-based navigation
-app-emacs/jmespath 20240113.2153: Query JSON using jmespath
+app-emacs/jmespath 20240115.1310: Query JSON using jmespath
 app-emacs/jmt-mode 20230519.1523: Java Mode Tamed
 app-emacs/jonprl-mode 20160819.59: A major mode for editing JonPRL files
-app-emacs/journalctl-mode 20231206.1549: Sample major mode for viewing output journalctl
+app-emacs/journalctl-mode 20240115.1650: Sample major mode for viewing output journalctl
 app-emacs/jpop 20170410.1250: Lightweight project caching and navigation framework
 app-emacs/jq-format 20190428.1434: Reformat JSON and JSONLines using jq
-app-emacs/jq-mode 20230823.1003: Edit jq scripts.
+app-emacs/jq-mode 20240115.1512: Edit jq scripts.
 app-emacs/jq-ts-mode 20231111.208: Tree-sitter support for jq buffers
 app-emacs/jquery-doc 20150812.758: jQuery api documentation interface for emacs
 app-emacs/js-auto-beautify 20161031.509: auto format you js/jsx file
@@ -2839,7 +2840,7 @@ app-emacs/kaesar 20230626.2314: AES algorithm encrypt/decrypt
 app-emacs/kaesar-file 20230614.332: AES encrypt/decrypt file
 app-emacs/kaesar-mode 20230626.401: AES encrypt/decrypt buffer
 app-emacs/kaesar-pbkdf2 20230626.2314: PBKDF2 extension for kaesar.el
-app-emacs/kagi 20240114.706: Kagi API integration
+app-emacs/kagi 20240115.1535: Kagi API integration
 app-emacs/kakapo-mode 20171004.451: TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment.
 app-emacs/kakoune 20230206.2037: A simulation, but not emulation, of kakoune
 app-emacs/kaleidoscope 20170808.817: Controlling Kaleidoscope-powered devices.
@@ -3065,7 +3066,7 @@ app-emacs/log4j-mode 20230826.1331: Major mode for viewing log files
 app-emacs/logalimacs 20131021.1829: Front-end to logaling-command for Ruby gems
 app-emacs/logito 20201226.534: logging library for Emacs
 app-emacs/logms 20240101.942: Log message with clickable links to context
-app-emacs/lognav-mode 20231226.1630: Navigate Log Error Messages
+app-emacs/lognav-mode 20240115.1637: Navigate Log Error Messages
 app-emacs/logpad 20201113.917: Simulate Windows Notepad for logging.
 app-emacs/logstash-conf 20210123.1949: basic mode for editing logstash configuration
 app-emacs/logview 20231014.1840: Major mode for viewing log files
@@ -3154,7 +3155,7 @@ app-emacs/magit-patch-changelog 20221209.123: Generate a patch according to emac
 app-emacs/magit-popup 20200719.1015: Define prefix-infix-suffix command combos
 app-emacs/magit-rbr 20181009.2016: Support for git rbr in Magit
 app-emacs/magit-reviewboard 20200727.1748: Show open Reviewboard reviews in Magit
-app-emacs/magit-section 20240113.1545: Sections for read-only buffers.
+app-emacs/magit-section 20240114.13: Sections for read-only buffers.
 app-emacs/magit-stats 20230223.1819: Generates GIT Repo Statistics Report
 app-emacs/magit-stgit 20231226.1514: StGit extension for Magit
 app-emacs/magit-svn 20220314.1451: Git-Svn extension for Magit
@@ -3391,7 +3392,7 @@ app-emacs/mugur 20231024.755: Configurator for QMK compatible keyboards
 app-emacs/multi 20131013.1544: Clojure-style multi-methods for emacs lisp
 app-emacs/multi-compile 20211113.2119: Multi target interface to compile.
 app-emacs/multi-line 20230721.1814: multi-line statements
-app-emacs/multi-project 20231226.1630: Find files, compile, and search for multiple projects
+app-emacs/multi-project 20240115.1635: Find files, compile, and search in multiple projects
 app-emacs/multi-run 20210108.336: Efficiently manage multiple remote nodes
 app-emacs/multi-term 20200514.428: Managing multiple terminal buffers in Emacs.
 app-emacs/multi-vterm 20221031.610: Like multi-term.el but for vterm
@@ -3719,7 +3720,7 @@ app-emacs/org-capture-pop-frame 20230516.236: Run org-capture in a new pop frame
 app-emacs/org-category-capture 20230830.1733: Contextualy capture of org-mode TODOs.
 app-emacs/org-change 20231026.2216: Annotate changes in org-mode files
 app-emacs/org-chef 20231127.1601: Cookbook and recipe management with org-mode.
-app-emacs/org-cite-sidecar 20240114.1810: Sidecar to show references in Org Mode
+app-emacs/org-cite-sidecar 20240115.1727: Sidecar to show references in Org Mode
 app-emacs/org-cliplink 20201126.1020: insert org-mode links from the clipboard
 app-emacs/org-clock-convenience 20230424.2101: Convenience functions for org time tracking
 app-emacs/org-clock-csv 20201222.1506: Export `org-mode' clock entries to CSV format.
@@ -3825,7 +3826,7 @@ app-emacs/org-re-reveal-ref 20211029.551: Citations and bibliography for org-re-
 app-emacs/org-recent-headings 20211011.1519: Jump to recently used Org headings
 app-emacs/org-recur 20230124.1532: Recurring org-mode tasks
 app-emacs/org-redmine 20160711.1114: Redmine tools using Emacs OrgMode
-app-emacs/org-ref 20240113.2201: citations, cross-references and bibliographies in org-mode
+app-emacs/org-ref 20240115.1849: citations, cross-references and bibliographies in org-mode
 app-emacs/org-ref-prettify 20220507.649: Prettify org-ref citation links
 app-emacs/org-repo-todo 20171228.119: Simple repository todo management with org-mode
 app-emacs/org-reverse-datetree 20221203.259: Create reverse date trees in org-mode
@@ -3859,7 +3860,7 @@ app-emacs/org-sync-snippets 20210111.1726: Export snippets to org-mode and vice 
 app-emacs/org-table-color 20220311.1927: Add color to your org-mode table cells
 app-emacs/org-table-comment 20120209.1851: Org table comment modes.
 app-emacs/org-table-sticky-header 20190924.506: Sticky header for org-mode tables
-app-emacs/org-tag-beautify 20240104.226: Beautify Org mode tags
+app-emacs/org-tag-beautify 20240115.1306: Beautify Org mode tags
 app-emacs/org-tagged 20220926.2048: Dynamic block for tagged org-mode todos
 app-emacs/org-tanglesync 20200127.1616: Syncing org src blocks with tangled external files
 app-emacs/org-tfl 20170923.1218: Transport for London meets Orgmode
@@ -5119,7 +5120,7 @@ app-emacs/thinks 20170802.1128: Insert text in a think bubble.
 app-emacs/third-time 20231023.316: Third Time: A Better Way to Work
 app-emacs/thread-dump 20170816.1850: Java thread dump viewer
 app-emacs/threes 20160820.1242: A clone of Threes (a tiny puzzle game)
-app-emacs/thrift 20240108.1302: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 20240114.1732: major mode for fbthrift and Apache Thrift files
 app-emacs/thumb-through 20120119.534: Plain text reader of HTML documents
 app-emacs/tickscript-mode 20171219.203: A major mode for Tickscript files
 app-emacs/tidal 20230312.1245: Interact with TidalCycles for live coding patterns
@@ -5297,10 +5298,10 @@ app-emacs/unison-mode 20160513.1501: Syntax highlighting for unison file synchro
 app-emacs/unisonlang-mode 20200803.808: Simple major mode for editing Unison
 app-emacs/units-mode 20221027.303: Mode for conversion between different units
 app-emacs/universal-emotions-emoticons 20180729.1941: Emoticons For The Six Universal Expressions
-app-emacs/universal-sidecar 20240114.1810: A universal sidecar buffer
-app-emacs/universal-sidecar-elfeed-related 20240114.1810: Related Papers Sidecar Section for Elfeed
-app-emacs/universal-sidecar-elfeed-score 20240114.1810: Show Elfeed Score information in sidecar
-app-emacs/universal-sidecar-roam 20240114.1810: Integrate universal-sidecar and org-roam
+app-emacs/universal-sidecar 20240115.1727: A universal sidecar buffer
+app-emacs/universal-sidecar-elfeed-related 20240115.1727: Related Papers Sidecar Section for Elfeed
+app-emacs/universal-sidecar-elfeed-score 20240115.1727: Show Elfeed Score information in sidecar
+app-emacs/universal-sidecar-roam 20240115.1727: Integrate universal-sidecar and org-roam
 app-emacs/unkillable-scratch 20221015.1323: Disallow the \*scratch\* buffer from being killed
 app-emacs/unmodified-buffer 20220129.2022: Auto revert modified buffer state
 app-emacs/unobtrusive-magit-theme 20200411.1349: An unobtrusive Magit theme
