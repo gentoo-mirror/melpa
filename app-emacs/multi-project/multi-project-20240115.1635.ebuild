@@ -10,9 +10,9 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Find files, compile, and search for multiple projects"
+DESCRIPTION="Find files, compile, and search in multiple projects"
 
-HOMEPAGE="https://hg.osdn.net/view/multi-project/multi-project"
+HOMEPAGE="https://github.com/ellisvelo/multi-project.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

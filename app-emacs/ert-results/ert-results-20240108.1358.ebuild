@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="lognav-mode"
+REALNAME="ert-results"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Navigate Log Error Messages"
+DESCRIPTION="Filter ERT test results display"
 
-HOMEPAGE="https://hg.osdn.net/view/lognav-mode/lognav-mode"
+HOMEPAGE="https://github.com/rswgnu/ert-results"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
