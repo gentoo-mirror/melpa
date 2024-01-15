@@ -39,7 +39,7 @@ app-emacs/ac-math 20141116.2127: Auto-complete sources for input of mathematical
 app-emacs/ac-mozc 20150227.1619: auto-complete sources for Japanese input using Mozc
 app-emacs/ac-octave 20180406.334: An auto-complete source for Octave
 app-emacs/ac-php 20230529.1404: Auto Completion source for PHP.
-app-emacs/ac-php-core 20240108.824: The core library of the ac-php
+app-emacs/ac-php-core 20240115.530: The core library of the ac-php
 app-emacs/ac-racer 20170114.809: auto-complete source of racer
 app-emacs/ac-rtags 20191222.920: auto-complete back-end for RTags
 app-emacs/ac-skk 20141230.119: auto-complete-mode source for DDSKK a.k.a Japanese input method
@@ -470,7 +470,7 @@ app-emacs/carbon-now-sh 20220701.332: https://carbon.now.sh integration.
 app-emacs/cardano-tx 20230606.1150: Cardano transaction editor
 app-emacs/cardano-wallet 20230606.1150: Interact with cardano wallet
 app-emacs/cargo 20231229.915: Emacs Minor Mode for Cargo, Rust's Package Manager.
-app-emacs/cargo-mode 20231106.1948: Cargo Major Mode. Cargo is the Rust package manager
+app-emacs/cargo-mode 20240115.753: Cargo Major Mode. Cargo is the Rust package manager
 app-emacs/cargo-transient 20230512.131: A transient UI for Cargo, Rust's package manager
 app-emacs/caroline-theme 20160318.520: A trip down to New Orleans...
 app-emacs/cascading-dir-locals 20211013.1955: Apply all (!) .dir-locals.el from root to current directory
@@ -546,7 +546,7 @@ app-emacs/chronometrist-spark 20230629.1039: Show sparklines in Chronometrist bu
 app-emacs/chronos 20230804.1712: Multiple simultaneous countdown / countup timers
 app-emacs/chruby 20180114.1652: Emacs integration for chruby
 app-emacs/chyla-theme 20231220.1545: chyla.org - green color theme.
-app-emacs/cider 20240102.1938: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 20240114.2321: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-decompile 20151122.537: decompilation extension for cider
 app-emacs/cider-eval-sexp-fu 20190311.2152: Briefly highlights an evaluated sexp.
 app-emacs/cider-hydra 20190816.1121: Hydras for CIDER.
@@ -768,7 +768,7 @@ app-emacs/consult-ls-git 20230924.810: Consult integration for git
 app-emacs/consult-lsp 20230209.714: LSP-mode Consult integration
 app-emacs/consult-notes 20231130.1423: Manage notes with consult
 app-emacs/consult-notmuch 20221216.1701: Notmuch search using consult
-app-emacs/consult-org-roam 20240107.1017: Consult integration for org-roam
+app-emacs/consult-org-roam 20240115.1145: Consult integration for org-roam
 app-emacs/consult-project-extra 20231221.1857: Consult integration for project.el
 app-emacs/consult-projectile 20230821.406: Consult integration for projectile
 app-emacs/consult-recoll 20231211.1221: Recoll queries using consult
@@ -3096,7 +3096,7 @@ app-emacs/lsp-julia 20230915.654: Julia support for lsp-mode
 app-emacs/lsp-latex 20231104.313: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20240101.851: LSP Clients for LTEX
 app-emacs/lsp-metals 20231017.911: Scala Client settings
-app-emacs/lsp-mode 20240108.1526: LSP mode
+app-emacs/lsp-mode 20240115.1204: LSP mode
 app-emacs/lsp-mssql 20230510.1124: MSSQL LSP bindings
 app-emacs/lsp-origami 20230815.704: origami.el support for lsp-mode
 app-emacs/lsp-p4 20190127.1049: P4 support for lsp-mode
@@ -4270,7 +4270,7 @@ app-emacs/project-shells 20231005.641: Manage the shell buffers of each project
 app-emacs/project-tab-groups 20231215.755: Support a "one tab group per project" workflow
 app-emacs/project-tasks 20230808.314: Efficient task management for your project
 app-emacs/project-treemacs 20230529.1207: Simple treemacs backend for project.el
-app-emacs/projectile 20231130.1934: Manage and navigate projects in Emacs easily
+app-emacs/projectile 20240115.937: Manage and navigate projects in Emacs easily
 app-emacs/projectile-codesearch 20180508.1522: Integration of codesearch into projectile
 app-emacs/projectile-git-autofetch 20200820.2028: automatically fetch git repositories
 app-emacs/projectile-rails 20221231.1643: Minor mode for Rails projects based on projectile-mode
@@ -4834,7 +4834,7 @@ app-emacs/snap-indent 20230704.1833: Simple automatic indentation
 app-emacs/snapshot-timemachine 20161221.929: Step through (Btrfs, ZFS, ...) snapshots of files
 app-emacs/snapshot-timemachine-rsnapshot 20170324.1213: rsnapshot backend for snapshot-timemachine
 app-emacs/snazzy-theme 20170828.757: An elegant syntax theme with bright colors
-app-emacs/sniem 20240109.1611: Hands-eased united editing method
+app-emacs/sniem 20240115.1246: Hands-eased united editing method
 app-emacs/snitch 20210202.1730: An Emacs firewall
 app-emacs/snoopy 20171008.2004: minor mode for number row unshifted character insertion
 app-emacs/snow 20221226.2238: Let it snow in Emacs!
@@ -5592,10 +5592,10 @@ app-emacs/yard-mode 20230505.1950: Minor mode for Ruby YARD comments
 app-emacs/yari 20151128.739: Yet Another RI interface for Emacs
 app-emacs/yarn-mode 20200208.2332: Major mode for yarn.lock files.
 app-emacs/yascroll 20220212.1742: Yet Another Scroll Bar Mode
-app-emacs/yasnippet 20240114.534: Yet another snippet extension for Emacs
+app-emacs/yasnippet 20240115.553: Yet another snippet extension for Emacs
 app-emacs/yasnippet-capf 20231024.1604: Yasnippet Completion At Point Function
 app-emacs/yasnippet-lean 20220105.2251: Collection of snippets for the Lean prover
-app-emacs/yasnippet-snippets 20240105.1144: Collection of yasnippet snippets
+app-emacs/yasnippet-snippets 20240115.1138: Collection of yasnippet snippets
 app-emacs/yatemplate 20211115.1208: File templates with yasnippet
 app-emacs/yatex 20221225.512: Yet Another tex-mode for emacs //野鳥//
 app-emacs/yaxception 20240107.504: Provide framework about exception like Java for Elisp
