@@ -351,7 +351,7 @@ app-emacs/blackboard-theme 20161216.656: TextMate Blackboard Theme
 app-emacs/blacken 20231129.654: Reformat python buffers using the "black" formatter
 app-emacs/blackjack 20230821.41: The game of Blackjack
 app-emacs/blackout 20220509.2350: Better mode lighter overriding
-app-emacs/blamer 20240114.1429: Show git blame info about current line
+app-emacs/blamer 20240117.2200: Show git blame info about current line
 app-emacs/blgrep 20150401.1416: Block grep
 app-emacs/blimp 20180903.2240: Bustling Image Manipulation Package
 app-emacs/bliss-theme 20170808.1307: an Emacs 24 theme based on Bliss (tmTheme)
@@ -1498,7 +1498,7 @@ app-emacs/evil-better-visual-line 20200123.2045: gj and gk visual line mode fix
 app-emacs/evil-cleverparens 20240103.926: Evil friendly minor-mode for editing lisp.
 app-emacs/evil-colemak-basics 20221230.1443: Basic Colemak key bindings for evil-mode
 app-emacs/evil-colemak-minimal 20171006.1317: Minimal Colemak key bindings for evil-mode
-app-emacs/evil-collection 20240104.1622: A set of keybindings for Evil mode
+app-emacs/evil-collection 20240118.856: A set of keybindings for Evil mode
 app-emacs/evil-commentary 20230610.1006: Comment stuff out. A port of vim-commentary.
 app-emacs/evil-dvorak 20160416.1841: evil keybindings for that work with dvorak mode
 app-emacs/evil-easymotion 20200424.135: A port of vim's easymotion to emacs
@@ -2284,7 +2284,7 @@ app-emacs/helm-codesearch 20221219.1219: helm interface for codesearch
 app-emacs/helm-comint 20231102.2029: Comint prompt navigation for helm
 app-emacs/helm-commandlinefu 20150611.545: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 20231113.701: Helm interface for company-mode
-app-emacs/helm-core 20240117.1514: Development files for Helm
+app-emacs/helm-core 20240118.757: Development files for Helm
 app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el.
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
@@ -2770,7 +2770,7 @@ app-emacs/jetbrains 20180301.502: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default JetBrains Darcula theme
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file.
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
-app-emacs/jinx 20240109.1806: Enchanted Spell Checker
+app-emacs/jinx 20240117.2211: Enchanted Spell Checker
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jirascope 20240111.1954: A Jira client
@@ -2884,7 +2884,7 @@ app-emacs/keyword-search 20180424.1102: browser keyword search from Emacs
 app-emacs/kfg 20140909.538: an emacs configuration system
 app-emacs/khalel 20230606.1909: Import, edit and create calendar events through khal
 app-emacs/khardel 20231126.1502: Integrate with khard
-app-emacs/khoj 20240116.1929: AI copilot for your Second Brain
+app-emacs/khoj 20240118.612: AI copilot for your Second Brain
 app-emacs/kibit-helper 20150508.1533: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-file-path 20230306.1041: Copy file name into kill ring
 app-emacs/kill-or-bury-alive 20230606.1503: Precise control over buffer killing
@@ -4508,7 +4508,7 @@ app-emacs/restclient-jq 20220426.1734: Support for setting restclient vars from 
 app-emacs/restclient-test 20210422.1815: Run tests with restclient.el
 app-emacs/retrie 20200519.551: Refactoring Haskell code with retrie
 app-emacs/revbufs 20200907.2223: Reverts all out-of-date buffers safely
-app-emacs/reveal-in-folder 20240101.928: Reveal current file in folder
+app-emacs/reveal-in-folder 20240118.611: Reveal current file/directory in folder
 app-emacs/reveal-in-osx-finder 20150802.1657: Reveal file associated with buffer in OS X Finder
 app-emacs/reverse-im 20230125.1846: Reverse mapping for non-default system layouts
 app-emacs/reverse-theme 20141205.145: Reverse theme for Emacs
@@ -4536,7 +4536,7 @@ app-emacs/riscv-mode 20220916.206: Major-mode for RISC V assembly
 app-emacs/rivet-mode 20201013.1905: A minor mode for editing Apache Rivet files
 app-emacs/rjsx-mode 20200224.2149: Real support for JSX
 app-emacs/rmsbolt 20240105.614: A compiler output viewer
-app-emacs/robe 20231023.2046: Code navigation, documentation lookup and completion for Ruby
+app-emacs/robe 20240118.348: Code navigation, documentation lookup and completion for Ruby
 app-emacs/robot-log 20220719.1301: Major mode for viewing RobotFramework debug log files
 app-emacs/robot-mode 20231118.826: Major-mode for Robot Framework files
 app-emacs/robots-txt-mode 20190812.1858: Major mode for editing robots.txt
@@ -4879,7 +4879,7 @@ app-emacs/spark 20230406.2307: sparkline generation
 app-emacs/sparkline 20150101.1319: Make sparkline images from a list of numbers
 app-emacs/sparql-mode 20230104.1113: Edit and interactively evaluate SPARQL queries.
 app-emacs/spatial-navigate 20230115.633: Directional navigation between white-space blocks
-app-emacs/spdx 20240116.1635: Insert SPDX license and copyright headers
+app-emacs/spdx 20240118.103: Insert SPDX license and copyright headers
 app-emacs/speech-tagger 20170728.1829: tag parts of speech using coreNLP
 app-emacs/speechd-el 20220608.1422: Client to speech synthesizers and Braille displays.
 app-emacs/speed-type 20230926.838: Practice touch and speed typing
@@ -5070,7 +5070,7 @@ app-emacs/teletext 20231215.1524: Teletext broadcast viewer
 app-emacs/teletext-yle 20231215.1609: Teletext provider for Finnish national network YLE
 app-emacs/tempel 20240102.331: Tempo templates/snippets with in-buffer field editing
 app-emacs/tempel-collection 20231021.2032: Collection of templates for Tempel
-app-emacs/templ-ts-mode 20240108.506: Major mode for editing Templ files
+app-emacs/templ-ts-mode 20240118.338: Major mode for editing Templ files
 app-emacs/template-overlays 20180706.1132: Display template regions using overlays
 app-emacs/templatel 20210902.228: Templating language;
 app-emacs/temporary-persistent 20230115.1425: Keep temp notes buffers persistent
@@ -5222,7 +5222,7 @@ app-emacs/treemacs-perspective 20230703.1929: Perspective integration for treema
 app-emacs/treemacs-projectile 20230703.1929: Projectile integration for treemacs
 app-emacs/treemacs-tab-bar 20230703.1929: Tab bar integration for treemacs
 app-emacs/treepy 20230715.2154: Generic tree traversal tools
-app-emacs/treesit-auto 20231211.1229: Automatically use tree-sitter enhanced major modes
+app-emacs/treesit-auto 20240118.124: Automatically use tree-sitter enhanced major modes
 app-emacs/treeview 20230728.2343: A generic tree navigation library
 app-emacs/trident-mode 20190410.2036: Live Parenscript interaction
 app-emacs/trinary 20230301.2044: Trinary logic
