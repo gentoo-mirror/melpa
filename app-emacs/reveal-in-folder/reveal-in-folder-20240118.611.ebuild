@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Reveal current file in folder"
+DESCRIPTION="Reveal current file/directory in folder"
 
 HOMEPAGE="https://github.com/jcs-elpa/reveal-in-folder"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
