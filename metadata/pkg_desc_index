@@ -63,7 +63,7 @@ app-emacs/ack-menu 20150504.2022: A menu-based front-end for ack
 app-emacs/acme-theme 20210430.302: A color theme based on Acme & Sam from Plan 9
 app-emacs/actionscript-mode 20180527.1701: A simple mode for editing Actionscript 3 files
 app-emacs/activity-watch-mode 20230731.802: Automatic time tracking extension.
-app-emacs/ada-ts-mode 20231015.1449: Major mode for Ada using Tree-sitter
+app-emacs/ada-ts-mode 20240117.1356: Major mode for Ada using Tree-sitter
 app-emacs/adafruit-wisdom 20200217.306: Get/display adafruit.com quotes
 app-emacs/add-hooks 20171217.123: Functions for setting multiple hooks
 app-emacs/add-node-modules-path 20230307.655: Add node_modules to your exec-path
@@ -154,7 +154,7 @@ app-emacs/apel 20220720.1308: A Portable Emacs Library provides support for port
 app-emacs/apheleia 20240112.1923: Reformat buffer stably
 app-emacs/apib-mode 20200101.1017: Major mode for API Blueprint files
 app-emacs/apiwrap 20180602.2231: api-wrapping macros
-app-emacs/apparmor-mode 20240109.2234: Major mode for editing AppArmor policy files
+app-emacs/apparmor-mode 20240119.542: Major mode for editing AppArmor policy files
 app-emacs/apples-mode 20110121.418: Major mode for editing and executing AppleScript code
 app-emacs/applescript-mode 20210802.1715: major mode for editing AppleScript source
 app-emacs/aproject 20220410.541: Basic project framework for Emacs
@@ -463,7 +463,7 @@ app-emacs/calmer-forest-theme 20230302.2149: Darkish theme with green/orange tin
 app-emacs/camcorder 20190317.2138: Record screencasts in gif or other formats.
 app-emacs/caml 20231011.328: Caml mode for GNU Emacs
 app-emacs/cangjie 20230219.1150: Retrieve cangjie code for han characters
-app-emacs/cape 20240114.1039: Completion At Point Extensions
+app-emacs/cape 20240119.629: Completion At Point Extensions
 app-emacs/capnp-mode 20210707.2310: Major mode for editing Capn' Proto Files
 app-emacs/capture 20130828.1644: screencasting with "avconv" or "ffmpeg"
 app-emacs/carbon-now-sh 20220701.332: https://carbon.now.sh integration.
@@ -1250,7 +1250,7 @@ app-emacs/elbank 20180316.1343: Personal finances reporting application
 app-emacs/elcontext 20210109.1238: Create context specific actions
 app-emacs/elcord 20230627.1213: Allows you to integrate Rich Presence from Discord
 app-emacs/elcouch 20230903.750: View and manipulate CouchDB databases
-app-emacs/eldev 20231116.1642: Elisp development tool
+app-emacs/eldev 20240118.2139: Elisp development tool
 app-emacs/eldoc-box 20231115.519: Display documentation in childframe
 app-emacs/eldoc-cmake 20190419.2244: Eldoc support for CMake
 app-emacs/eldoc-eask 20240101.819: Eldoc support for Eask-file
@@ -1358,7 +1358,7 @@ app-emacs/ember-yasnippets 20160526.1658: Snippets for Ember.js development
 app-emacs/embrace 20231027.419: Add/Change/Delete pairs based on `expand-region'
 app-emacs/emidje 20190209.1726: Test runner and report viewer for Midje
 app-emacs/emmet-mode 20221111.329: Unofficial Emmet's support for emacs
-app-emacs/emms 20240114.2024: The Emacs Multimedia System
+app-emacs/emms 20240118.2132: The Emacs Multimedia System
 app-emacs/emms-info-mediainfo 20131223.1300: Info-method for EMMS using medianfo
 app-emacs/emms-mark-ext 20130529.327: Extra functions for emms-mark-mode and emms-tag-edit-mode
 app-emacs/emms-mode-line-cycle 20160221.1120: Display the emms mode line as a ticker
@@ -1584,7 +1584,7 @@ app-emacs/exercism 20231007.1253: Unofficial https://exercism.org integration
 app-emacs/exiftool 20190520.1106: Elisp wrapper around ExifTool
 app-emacs/exotica-theme 20180212.2329: A dark theme with vibrant colors
 app-emacs/expand-line 20151006.207: Expand selection by line
-app-emacs/expand-region 20240104.1721: Increase selected region by semantic units.
+app-emacs/expand-region 20240119.1039: Increase selected region by semantic units.
 app-emacs/expenses 20230903.306: Record and view expenses
 app-emacs/express 20140508.2041: Alternatives to `message'
 app-emacs/exsqlaim-mode 20170607.1003: Use variables inside sql queries
@@ -2158,7 +2158,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20231112.2012: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20230530.1853: Integrate with the OpenAI API
-app-emacs/gptel 20240117.1745: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20240119.142: Interact with ChatGPT or other LLMs
 app-emacs/grab-mac-link 20210511.1303: Grab link from Mac Apps and insert it into Emacs
 app-emacs/grab-x-link 20191113.848: Grab links from X11 apps and insert into Emacs
 app-emacs/gradle-mode 20150313.1905: Gradle integration with Emacs' compile
@@ -2840,7 +2840,7 @@ app-emacs/kaesar 20230626.2314: AES algorithm encrypt/decrypt
 app-emacs/kaesar-file 20230614.332: AES encrypt/decrypt file
 app-emacs/kaesar-mode 20230626.401: AES encrypt/decrypt buffer
 app-emacs/kaesar-pbkdf2 20230626.2314: PBKDF2 extension for kaesar.el
-app-emacs/kagi 20240116.530: Kagi API integration
+app-emacs/kagi 20240118.1944: Kagi API integration
 app-emacs/kakapo-mode 20171004.451: TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment.
 app-emacs/kakoune 20230206.2037: A simulation, but not emulation, of kakoune
 app-emacs/kaleidoscope 20170808.817: Controlling Kaleidoscope-powered devices.
@@ -4493,7 +4493,7 @@ app-emacs/replace-from-region 20170227.2316: Replace commands whose query is fro
 app-emacs/replace-pairs 20160207.1251: Query-replace pairs of things
 app-emacs/replace-symbol 20160518.12: Rename symbols in expressions or buffers
 app-emacs/replace-with-inflections 20180831.635: Inflection aware `query-replace'
-app-emacs/repo 20230821.1032: Running repo from Emacs
+app-emacs/repo 20240119.859: Running repo from Emacs
 app-emacs/req-package 20180605.1141: A use-package wrapper for package runtime dependencies management
 app-emacs/request 20230127.417: Compatible layer for URL request
 app-emacs/request-deferred 20220614.1604: Wrap request.el by deferred
@@ -4663,7 +4663,7 @@ app-emacs/sensitive 20170818.1251: A dead simple way to load sensitive informati
 app-emacs/sentence-navigation 20220522.1137: Commands to navigate one-spaced sentences.
 app-emacs/sentex 20230411.1650: Regex-based sentence navigation rules
 app-emacs/seoul256-theme 20180505.757: Low-contrast color scheme based on Seoul Colors.
-app-emacs/separedit 20230513.306: Edit comment/string/docstring/code block in separate buffer
+app-emacs/separedit 20240119.633: Edit comment/string/docstring/code block in separate buffer
 app-emacs/sequed 20220115.743: Major mode for FASTA format DNA alignments
 app-emacs/sequences 20170818.1252: Ports of some Clojure sequence functions.
 app-emacs/sequential-command 20170926.40: Many commands into one command
@@ -4879,7 +4879,7 @@ app-emacs/spark 20230406.2307: sparkline generation
 app-emacs/sparkline 20150101.1319: Make sparkline images from a list of numbers
 app-emacs/sparql-mode 20230104.1113: Edit and interactively evaluate SPARQL queries.
 app-emacs/spatial-navigate 20230115.633: Directional navigation between white-space blocks
-app-emacs/spdx 20240118.103: Insert SPDX license and copyright headers
+app-emacs/spdx 20240119.104: Insert SPDX license and copyright headers
 app-emacs/speech-tagger 20170728.1829: tag parts of speech using coreNLP
 app-emacs/speechd-el 20220608.1422: Client to speech synthesizers and Braille displays.
 app-emacs/speed-type 20230926.838: Practice touch and speed typing
@@ -5062,7 +5062,7 @@ app-emacs/tco 20191129.2040: Tail-call optimisation for Emacs lisp
 app-emacs/tea-time 20120331.820: Simple timer package, useful to make perfect tea.
 app-emacs/teacode-expand 20181231.640: Expansion of text by TeaCode program.
 app-emacs/teco 20200707.2309: Teco interpreter
-app-emacs/telega 20240117.910: Telegram client (unofficial)
+app-emacs/telega 20240119.1056: Telegram client (unofficial)
 app-emacs/telepathy 20131209.1258: Access Telepathy from Emacs
 app-emacs/telephone-line 20240109.2021: Rewrite of Powerline
 app-emacs/teleport 20240101.1358: Integration for tsh (goteleport.com)
@@ -5603,7 +5603,7 @@ app-emacs/yaxception 20240107.504: Provide framework about exception like Java f
 app-emacs/ycm 20150822.1836: Emacs client for the YouCompleteMe auto-completion server.
 app-emacs/ycmd 20190416.807: emacs bindings to the ycmd completion server
 app-emacs/ydk-mode 20170114.223: Language support for Yu-Gi-Oh! deck files
-app-emacs/yeetube 20240110.658: YouTube Front End
+app-emacs/yeetube 20240119.1138: YouTube Front End
 app-emacs/yequake 20200219.2323: Drop-down frames, like Yakuake
 app-emacs/yesql-ghosts 20150220.1237: Display ghostly yesql defqueries inline
 app-emacs/yesterbox 20200327.52: Count number of inbox messages by day
