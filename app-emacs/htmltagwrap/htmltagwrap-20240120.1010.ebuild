@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="auto-rename-tag"
+REALNAME="htmltagwrap"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Automatically rename paired HTML/XML tag"
+DESCRIPTION="Wraps a chunk of HTML code in tags"
 
-HOMEPAGE="https://github.com/jcs-elpa/auto-rename-tag"
+HOMEPAGE="https://github.com/emacs-vs/htmltagwrap"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
