@@ -1297,7 +1297,7 @@ app-emacs/elisp-slime-nav 20210510.528: Make M-. and M-, work in elisp like they
 app-emacs/elixir-mode 20230626.1738: Major mode for editing Elixir files
 app-emacs/elixir-ts-mode 20240116.645: Major mode for Elixir with tree-sitter support
 app-emacs/elixir-yasnippets 20150417.1239: Yasnippets for Elixir
-app-emacs/ellama 20240118.1822: Tool for interacting with LLMs
+app-emacs/ellama 20240119.2148: Tool for interacting with LLMs
 app-emacs/ellocate 20200112.1931: The locate command reimplemented in Emacs Lisp
 app-emacs/elm-mode 20230315.1122: Major mode for Elm
 app-emacs/elm-test-runner 20230905.331: Enhanced support for running elm-test
@@ -1339,13 +1339,13 @@ app-emacs/emacs-everywhere 20230706.1152: System-wide popup windows for quick ed
 app-emacs/emacs-websearch 20230705.1639: Query search engines
 app-emacs/emacsc 20240104.634: helper for emacsc(1)
 app-emacs/emacsist-view 20160426.1223: Mode for viewing emacsist.com
-app-emacs/emacsql 20230417.1448: High-level SQL database front-end
-app-emacs/emacsql-mysql 20230225.2205: EmacSQL back-end for MySQL
+app-emacs/emacsql 20240119.2314: High-level SQL database front-end
+app-emacs/emacsql-mysql 20240119.2314: EmacSQL back-end for MySQL
 app-emacs/emacsql-pg 20230224.1201: EmacSQL back-end for PostgreSQL via pg
-app-emacs/emacsql-psql 20230225.2205: EmacSQL back-end for PostgreSQL via psql
-app-emacs/emacsql-sqlite 20230225.2205: EmacSQL back-end for SQLite
-app-emacs/emacsql-sqlite-builtin 20230409.1847: EmacSQL back-end for SQLite using builtin support
-app-emacs/emacsql-sqlite-module 20230409.1847: EmacSQL back-end for SQLite using a module
+app-emacs/emacsql-psql 20240119.2314: EmacSQL back-end for PostgreSQL via psql
+app-emacs/emacsql-sqlite 20240119.2314: EmacSQL back-end for SQLite
+app-emacs/emacsql-sqlite-builtin 20240119.2314: EmacSQL back-end for SQLite using builtin support
+app-emacs/emacsql-sqlite-module 20240119.2314: EmacSQL back-end for SQLite using a module
 app-emacs/emacsshot 20191206.944: Snapshot a frame or window from within
 app-emacs/emamux 20200315.1220: Interact with tmux
 app-emacs/emamux-ruby-test 20130812.1639: Ruby test with emamux
@@ -2158,7 +2158,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20231112.2012: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20230530.1853: Integrate with the OpenAI API
-app-emacs/gptel 20240119.142: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20240119.2245: Interact with ChatGPT or other LLMs
 app-emacs/grab-mac-link 20210511.1303: Grab link from Mac Apps and insert it into Emacs
 app-emacs/grab-x-link 20191113.848: Grab links from X11 apps and insert into Emacs
 app-emacs/gradle-mode 20150313.1905: Gradle integration with Emacs' compile
@@ -2537,7 +2537,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperdrive 20240106.1342: P2P filesystem
+app-emacs/hyperdrive 20240120.552: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -2846,7 +2846,7 @@ app-emacs/kakoune 20230206.2037: A simulation, but not emulation, of kakoune
 app-emacs/kaleidoscope 20170808.817: Controlling Kaleidoscope-powered devices.
 app-emacs/kaleidoscope-evil-state-flash 20170728.1020: Flash keyboard LEDs when changing Evil state
 app-emacs/kana 20210531.1427: Learn Japanese hiragana and katakana
-app-emacs/kanagawa-theme 20240119.1320: An elegant theme inspired by The Great Wave off Kanagawa by Katsushika Hokusa
+app-emacs/kanagawa-theme 20240120.647: An elegant theme inspired by The Great Wave off Kanagawa by Katsushika Hokusa
 app-emacs/kanban 20230210.1505: Parse org-todo headlines to use org-tables as Kanban tables
 app-emacs/kanji-mode 20230928.1113: View stroke order for kanji characters at cursor
 app-emacs/kaocha-runner 20230511.934: A package for running Kaocha tests via CIDER.
@@ -3301,7 +3301,7 @@ app-emacs/mistty 20231122.2029: Shell/Comint alternative based on term.el
 app-emacs/mix 20231106.1926: Mix Major Mode. Build Elixir using Mix
 app-emacs/mixed-pitch 20210304.1900: Use a variable pitch, keeping fixed pitch where it's sensible
 app-emacs/mkdown 20140517.1418: Pretty Markdown previews based on mkdown.com
-app-emacs/mlscroll 20231212.1936: A scroll bar for the modeline
+app-emacs/mlscroll 20240119.2149: A scroll bar for the modeline
 app-emacs/mmm-jinja2 20170313.1420: MMM submode class for Jinja2 Templates
 app-emacs/mmm-mode 20230917.28: Allow Multiple Major Modes in a buffer
 app-emacs/mmt 20230606.1513: Missing macro tools for Emacs Lisp
@@ -3380,7 +3380,7 @@ app-emacs/mu2tex 20200512.704: Convert plain text molecule names and units to Te
 app-emacs/mu4e-alert 20230722.1746: Desktop notification for mu4e
 app-emacs/mu4e-column-faces 20221213.2206: Faces for individual mu4e columns
 app-emacs/mu4e-conversation 20190609.812: Show a complete thread in a single buffer
-app-emacs/mu4e-crypto 20240102.233: Encrypt and decrypt emails for mu4e with GnuPG
+app-emacs/mu4e-crypto 20240120.646: Encrypt and decrypt emails for mu4e with GnuPG
 app-emacs/mu4e-jump-to-list 20221202.1023: mu4e jump-to-list extension
 app-emacs/mu4e-marker-icons 20230423.1039: Display icons for mu4e markers
 app-emacs/mu4e-overview 20231027.1038: Show overview of maildir
@@ -4414,7 +4414,7 @@ app-emacs/ranger 20210125.330: Make dired more like ranger
 app-emacs/rase 20120928.2045: Run At Sun Event daemon
 app-emacs/rats 20170818.1013: Rapid testing suite for Go
 app-emacs/raycast-mode 20230607.2107: Develop Raycast Extensions
-app-emacs/rbenv 20240102.1708: Emacs integration for rbenv
+app-emacs/rbenv 20240120.6: Emacs integration for rbenv
 app-emacs/rbs-mode 20210430.135: A major mode for RBS
 app-emacs/rbt 20170202.2302: Integrate reviewboard with emacs.
 app-emacs/rbtagger 20211026.2318: Ruby tagging tools
@@ -4835,7 +4835,7 @@ app-emacs/snap-indent 20230704.1833: Simple automatic indentation
 app-emacs/snapshot-timemachine 20161221.929: Step through (Btrfs, ZFS, ...) snapshots of files
 app-emacs/snapshot-timemachine-rsnapshot 20170324.1213: rsnapshot backend for snapshot-timemachine
 app-emacs/snazzy-theme 20170828.757: An elegant syntax theme with bright colors
-app-emacs/sniem 20240115.1246: Hands-eased united editing method
+app-emacs/sniem 20240120.654: Hands-eased united editing method
 app-emacs/snitch 20210202.1730: An Emacs firewall
 app-emacs/snoopy 20171008.2004: minor mode for number row unshifted character insertion
 app-emacs/snow 20221226.2238: Let it snow in Emacs!
