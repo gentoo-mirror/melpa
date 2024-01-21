@@ -120,7 +120,7 @@ app-emacs/amsreftex 20220115.1838: Add amsrefs bibliography support for reftex
 app-emacs/amx 20230413.1210: Alternative M-x with extra features.
 app-emacs/anaconda-mode 20231123.1806: Code navigation, documentation lookup and completion for Python
 app-emacs/anakondo 20210221.1727: Adds clj-kondo based Clojure[Script] editing facilities
-app-emacs/anaphora 20180618.2200: anaphoric macros providing implicit temp variables
+app-emacs/anaphora 20240120.1744: anaphoric macros providing implicit temp variables
 app-emacs/ancient-one-dark-theme 20211030.1358: A color theme based off uetchy's Ancient One Dark Theme
 app-emacs/android-env 20220810.1449: Helper functions for working in android
 app-emacs/android-mode 20190903.811: Minor mode for Android application development
@@ -282,7 +282,7 @@ app-emacs/banner-comment 20190606.1809: For producing banner comments.
 app-emacs/bap-mode 20200128.1354: Major-mode for BAP's IR
 app-emacs/bar-cursor 20201204.2244: package used to switch block cursor to a bar
 app-emacs/bart-mode 20190601.1004: Real time BART departures info.
-app-emacs/base16-theme 20240114.104: Collection of themes built on combinations of 16 base colors
+app-emacs/base16-theme 20240121.104: Collection of themes built on combinations of 16 base colors
 app-emacs/bash-completion 20230612.1103: Bash completion for the shell buffer
 app-emacs/basic-c-compile 20170302.1112: Quickly create a Makefile, compile and run C.
 app-emacs/basic-ide 20230118.1040: BASIC IDE c64
@@ -981,7 +981,7 @@ app-emacs/dictionary 20201001.1727: Client for rfc2229 dictionary servers
 app-emacs/didyoumean 20200905.1843: Did you mean to open another file?
 app-emacs/diff-ansi 20231221.57: Display diff's using alternative diffing tools
 app-emacs/diff-at-point 20230320.2355: Diff navigation
-app-emacs/diff-hl 20231207.32: Highlight uncommitted changes using VC
+app-emacs/diff-hl 20240121.439: Highlight uncommitted changes using VC
 app-emacs/diffed 20230208.1546: Diffed is for recursive diff like Dired is for ls
 app-emacs/difflib 20210224.2242: Helpers for computing deltas between sequences.
 app-emacs/diffpdf 20210626.1447: Transient diffpdf
@@ -2250,7 +2250,7 @@ app-emacs/hcl-mode 20230302.1029: Major mode for Hashicorp
 app-emacs/headlong 20150417.1526: reckless completion
 app-emacs/heaven-and-hell 20190713.1830: easy toggle light/dark themes
 app-emacs/heex-ts-mode 20240113.1104: Major mode for Heex with tree-sitter support
-app-emacs/helm 20240117.1631: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20240121.728: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: helm-sources and some utilities for GNU R.
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: helm source for Active Directory
@@ -2773,7 +2773,7 @@ app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
 app-emacs/jinx 20240117.2211: Enchanted Spell Checker
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
-app-emacs/jirascope 20240111.1954: A Jira client
+app-emacs/jirascope 20240120.2102: A Jira client
 app-emacs/jist 20161229.1721: Gist integration
 app-emacs/jit-lock-stealth-progress 20230808.1342: JIT lock stealth mode-line progress
 app-emacs/jknav 20121006.2025: Automatically enable j/k keys for line-based navigation
@@ -2897,7 +2897,7 @@ app-emacs/kiwix 20220316.847: Searching offline Wikipedia through Kiwix.
 app-emacs/kixtart-mode 20150611.1604: major mode for Kixtart scripting files
 app-emacs/kkp 20231227.2145: Enable support for the Kitty Keyboard Protocol
 app-emacs/klere-theme 20240110.336: A dark theme with lambent color highlights and incremental grays
-app-emacs/klondike 20240106.2235: Klondike
+app-emacs/klondike 20240121.508: Klondike
 app-emacs/kmacro-x 20230502.1253: Keyboard macro helpers and extensions
 app-emacs/know-your-http-well 20160208.2305: Look up the meaning of HTTP headers, methods, relations, status codes
 app-emacs/kodi-remote 20190622.1325: Remote Control for Kodi
@@ -2976,7 +2976,7 @@ app-emacs/ledger-mode 20240117.1230: Helper code for use with the "ledger" comma
 app-emacs/leerzeichen 20220626.835: Minor mode to display whitespace characters.
 app-emacs/leetcode 20230524.1851: An leetcode client
 app-emacs/legalese 20200119.2248: Add legalese to your program files
-app-emacs/lem 20240106.1022: A basic lemmy client
+app-emacs/lem 20240120.1623: A basic lemmy client
 app-emacs/lemon-mode 20130216.1304: A major mode for editing lemon grammar files
 app-emacs/lentic 20221201.47: One buffer as a view of another
 app-emacs/lentic-server 20160717.2052: Web Server for Emacs Literate Source
@@ -3298,7 +3298,7 @@ app-emacs/mint-mode 20221031.411: Major mode for the Mint programming language
 app-emacs/mip-mode 20151127.617: virtual projects for emacs.
 app-emacs/mips-mode 20220608.1204: Major-mode for MIPS assembly
 app-emacs/mistty 20231122.2029: Shell/Comint alternative based on term.el
-app-emacs/mix 20231106.1926: Mix Major Mode. Build Elixir using Mix
+app-emacs/mix 20240120.1817: Mix Major Mode. Build Elixir using Mix
 app-emacs/mixed-pitch 20210304.1900: Use a variable pitch, keeping fixed pitch where it's sensible
 app-emacs/mkdown 20140517.1418: Pretty Markdown previews based on mkdown.com
 app-emacs/mlscroll 20240119.2149: A scroll bar for the modeline
@@ -3767,7 +3767,7 @@ app-emacs/org-inline-anim 20230610.1504: Inline playback of animated GIF/PNG for
 app-emacs/org-inline-pdf 20230826.1220: Inline PDF previewing for Org
 app-emacs/org-iv 20171001.1022: a tool used to view html (in browser) generated by org-file once the org-file changes
 app-emacs/org-ivy-search 20231213.857: Full text search for org files powered by ivy
-app-emacs/org-jami-bot 20240114.1845: Capture GNU Jami messages as notes and todos in Org mode
+app-emacs/org-jami-bot 20240120.1445: Capture GNU Jami messages as notes and todos in Org mode
 app-emacs/org-jira 20230915.57: Syncing between Jira and Org-mode.
 app-emacs/org-journal 20240107.1922: a simple org-mode based journaling mode
 app-emacs/org-journal-list 20190221.2052: Org mode Journal List
@@ -3867,7 +3867,7 @@ app-emacs/org-tfl 20170923.1218: Transport for London meets Orgmode
 app-emacs/org-themis 20160122.404: Experimental project management mode for org-mode
 app-emacs/org-tidy 20240110.114: A minor mode to tidy org-mode buffers
 app-emacs/org-time-budgets 20200715.1016: Define time budgets and display clocked time.
-app-emacs/org-timeblock 20240117.2202: Interactive SVG calendar for orgmode tasks
+app-emacs/org-timeblock 20240120.2253: Interactive SVG calendar for orgmode tasks
 app-emacs/org-timeline 20211110.1952: Add graphical view of agenda to agenda buffer.
 app-emacs/org-toodledo 20150301.1113: Toodledo integration for Emacs Org mode
 app-emacs/org-tracktable 20161118.1329: Track your writing progress in an org-table
@@ -4355,7 +4355,7 @@ app-emacs/pyramid 20230114.1049: Minor mode for working with pyramid projects
 app-emacs/pytest 20230810.1218: Easy Python test running in Emacs
 app-emacs/pytest-pdb-break 20200804.848: A pytest PDB launcher
 app-emacs/python-black 20230313.1037: Reformat Python using python-black
-app-emacs/python-cell 20230911.1630: Support for MATLAB-like cells in python mode
+app-emacs/python-cell 20240121.150: Support for MATLAB-like cells in python mode
 app-emacs/python-coverage 20211224.1420: Show Python coverage via overlays or Flycheck
 app-emacs/python-django 20150822.404: A Jazzy package for managing Django projects
 app-emacs/python-docstring 20231203.2036: Smart Python docstring formatting
@@ -5188,7 +5188,7 @@ app-emacs/tramp-hdfs 20210526.339: Tramp extension to access hadoop/hdfs file sy
 app-emacs/tramp-term 20220725.1441: Automatic setup of directory tracking in ssh sessions
 app-emacs/transducers 20231224.2358: Ergonomic, efficient data processing
 app-emacs/transfer-sh 20200601.1708: Simple interface for sending buffer contents to transfer.sh
-app-emacs/transient 20240114.1722: Transient commands
+app-emacs/transient 20240120.1944: Transient commands
 app-emacs/transient-dwim 20221225.1630: Useful preset transient commands
 app-emacs/transient-extras 20230721.839: Extra features for transient
 app-emacs/transient-extras-a2ps 20230303.1511: A transient interface to a2ps
@@ -5222,7 +5222,7 @@ app-emacs/treemacs-perspective 20230703.1929: Perspective integration for treema
 app-emacs/treemacs-projectile 20230703.1929: Projectile integration for treemacs
 app-emacs/treemacs-tab-bar 20230703.1929: Tab bar integration for treemacs
 app-emacs/treepy 20230715.2154: Generic tree traversal tools
-app-emacs/treesit-auto 20240118.124: Automatically use tree-sitter enhanced major modes
+app-emacs/treesit-auto 20240120.1531: Automatically use tree-sitter enhanced major modes
 app-emacs/treeview 20230728.2343: A generic tree navigation library
 app-emacs/trident-mode 20190410.2036: Live Parenscript interaction
 app-emacs/trinary 20230301.2044: Trinary logic
