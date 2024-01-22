@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Completion at point for bibtex --- *- lexical-binding: t -*-"
+DESCRIPTION="Completion at point for bibtex"
 
 HOMEPAGE="https://github.com/mclear-tools/bibtex-capf"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
