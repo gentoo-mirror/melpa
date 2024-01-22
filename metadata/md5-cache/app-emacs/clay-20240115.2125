@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Mix Major Mode. Build Elixir using Mix
+DEPEND=app-emacs/cider
+DESCRIPTION=Emacs commands Clay - literate in Clojure
 EAPI=8
-HOMEPAGE=https://github.com/ayrat555/mix.el
+HOMEPAGE=https://github.com/scicloj/clay.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/cider >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/mix-20240120.1817.tar
+SRC_URI=https://melpa.org/packages/clay-20240115.2125.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=974d0080a8d34776bcfa252ff2ae1f4e
+_md5_=4504643b39fe38ddcfaba55456e2b3e6
