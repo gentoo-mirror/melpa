@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Extensions for dired"
+DESCRIPTION="Midnight Commander features (plus) for dired"
 
 HOMEPAGE="https://github.com/Boruch-Baum/emacs-diredc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
