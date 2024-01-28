@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="package-safe-delete"
+REALNAME="eask"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Safely delete package.el packages"
+DESCRIPTION="Core Eask APIs, for Eask CLI development"
 
-HOMEPAGE="https://github.com/Fanael/package-safe-delete"
+HOMEPAGE="https://github.com/emacs-eask/eask"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/epl"
-RDEPEND="app-emacs/epl"
+DEPEND=""
+RDEPEND=""
