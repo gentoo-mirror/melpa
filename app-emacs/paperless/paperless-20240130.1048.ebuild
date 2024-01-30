@@ -10,9 +10,9 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A major mode for sorting and filing PDF documents."
+DESCRIPTION="A major mode for sorting and filing PDF documents"
 
-HOMEPAGE="http://github.com/atgreen/paperless"
+HOMEPAGE="https://github.com/atgreen/paperless"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
