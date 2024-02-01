@@ -707,7 +707,7 @@ app-emacs/company-nginx 20220210.1411: company-mode keywords support for nginx-m
 app-emacs/company-ngram 20170129.1913: N-gram based completion
 app-emacs/company-nixos-options 20160215.857: Company Backend for nixos-options
 app-emacs/company-org-block 20230115.1202: Org blocks company backend
-app-emacs/company-php 20230529.1404: A company back-end for PHP.
+app-emacs/company-php 20240201.843: A company back-end for PHP.
 app-emacs/company-phpactor 20221023.608: A company-mode backend for Phpactor
 app-emacs/company-plisp 20200531.1927: Company mode backend for PicoLisp language
 app-emacs/company-plsense 20180118.58: Company backend for Perl
@@ -1220,7 +1220,7 @@ app-emacs/egg 20181126.500: Emacs Got Git - Emacs interface to Git
 app-emacs/egg-timer 20200217.1650: Commonly used intervals for setting timers while working
 app-emacs/egison-mode 20211218.1115: Egison editing mode
 app-emacs/eglot-fsharp 20230324.1942: fsharp-mode eglot integration
-app-emacs/eglot-java 20240128.2231: Java extension for the eglot LSP client
+app-emacs/eglot-java 20240201.451: Java extension for the eglot LSP client
 app-emacs/eglot-jl 20230601.1335: Julia support for eglot
 app-emacs/eglot-tempel 20230626.1004: Use eglot as inline template expander
 app-emacs/ego 20200803.1101: a static site generator based on org mode, forked from org-page.
@@ -1474,7 +1474,7 @@ app-emacs/ess-r-insert-obj 20220610.1406: Insert objects in ESS-R
 app-emacs/ess-smart-equals 20210411.1333: flexible, context-sensitive assignment key for R/S
 app-emacs/ess-smart-underscore 20190309.101: Ess Smart Underscore
 app-emacs/ess-view 20181001.1730: View R dataframes in a spreadsheet software
-app-emacs/ess-view-data 20230503.643: View Data
+app-emacs/ess-view-data 20240127.1701: View Data
 app-emacs/esup 20220202.2335: The Emacs StartUp Profiler (ESUP)
 app-emacs/esxml 20230308.2254: Library for working with xml via esxml and sxml
 app-emacs/eta 20210115.1655: standard and multi dispatch key bind
@@ -2825,7 +2825,7 @@ app-emacs/julia-formatter 20231130.1512: Use JuliaFormatter.jl for julia code
 app-emacs/julia-mode 20230712.1524: Major mode for editing Julia source code
 app-emacs/julia-repl 20231026.1005: A minor mode for a Julia REPL
 app-emacs/julia-shell 20161125.1910: Major mode for an inferior Julia shell
-app-emacs/julia-snail 20240117.1952: Julia Snail
+app-emacs/julia-snail 20240201.637: Julia Snail
 app-emacs/julia-ts-mode 20230921.1433: Major mode for Julia source code using tree-sitter
 app-emacs/julia-vterm 20230815.2318: A mode for Julia REPL using vterm
 app-emacs/jumblr 20170727.2043: an anagram game for emacs
@@ -2979,7 +2979,7 @@ app-emacs/ledger-mode 20240117.1230: Helper code for use with the "ledger" comma
 app-emacs/leerzeichen 20220626.835: Minor mode to display whitespace characters.
 app-emacs/leetcode 20230524.1851: An leetcode client
 app-emacs/legalese 20200119.2248: Add legalese to your program files
-app-emacs/lem 20240120.1623: A basic lemmy client
+app-emacs/lem 20240201.1457: A lemmy client
 app-emacs/lemon-mode 20130216.1304: A major mode for editing lemon grammar files
 app-emacs/lentic 20221201.47: One buffer as a view of another
 app-emacs/lentic-server 20160717.2052: Web Server for Emacs Literate Source
@@ -3211,7 +3211,7 @@ app-emacs/marquee-header 20240101.930: Code interface for displaying marquee in 
 app-emacs/marshal 20201223.1853: eieio extension for automatic (un)marshalling
 app-emacs/maruo-macro-mode 20160616.1349: Major mode for editing Hidemaru/Maruo macro script
 app-emacs/masm-mode 20200308.1450: MASM x86 and x64 assembly major mode
-app-emacs/mastodon 20231030.1922: Client for fediverse services using the Mastodon API
+app-emacs/mastodon 20240201.1500: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 20210904.1226: A Theme based on the colors of the Google Material Design
 app-emacs/math-preview 20230425.1820: Preview TeX math equations inline
 app-emacs/math-symbol-lists 20220828.2047: Lists of Unicode math symbols and latex commands
@@ -3281,7 +3281,7 @@ app-emacs/mimetypes 20201115.1605: Guess a file's mimetype by extension
 app-emacs/mindre-theme 20220827.1031: Minimal, light theme
 app-emacs/minesweeper 20200416.2342: play minesweeper in Emacs
 app-emacs/mingus 20230518.1726: MPD Interface
-app-emacs/mini-echo 20240107.2156: Echo buffer status in minibuffer window
+app-emacs/mini-echo 20240201.301: Echo buffer status in minibuffer window
 app-emacs/mini-frame 20220627.2041: Show minibuffer in child frame on read-from-minibuffer
 app-emacs/mini-header-line 20170621.1221: a minimal header-line
 app-emacs/mini-modeline 20230306.1521: Display modeline in minibuffer
@@ -3829,12 +3829,12 @@ app-emacs/org-re-reveal-ref 20211029.551: Citations and bibliography for org-re-
 app-emacs/org-recent-headings 20211011.1519: Jump to recently used Org headings
 app-emacs/org-recur 20230124.1532: Recurring org-mode tasks
 app-emacs/org-redmine 20160711.1114: Redmine tools using Emacs OrgMode
-app-emacs/org-ref 20240129.1719: citations, cross-references and bibliographies in org-mode
+app-emacs/org-ref 20240201.1224: citations, cross-references and bibliographies in org-mode
 app-emacs/org-ref-prettify 20220507.649: Prettify org-ref citation links
 app-emacs/org-repo-todo 20171228.119: Simple repository todo management with org-mode
 app-emacs/org-reverse-datetree 20221203.259: Create reverse date trees in org-mode
 app-emacs/org-review 20230119.1706: schedule reviews for Org entries
-app-emacs/org-rich-yank 20231215.2100: Paste with org-mode markup and link to source
+app-emacs/org-rich-yank 20240201.921: Paste with org-mode markup and link to source
 app-emacs/org-roam 20240114.1941: A database abstraction layer for Org-mode
 app-emacs/org-roam-bibtex 20230628.2036: Org Roam meets BibTeX
 app-emacs/org-roam-ql 20231220.503: Interface to query and view results from org-roam
@@ -5191,7 +5191,7 @@ app-emacs/tramp-hdfs 20210526.339: Tramp extension to access hadoop/hdfs file sy
 app-emacs/tramp-term 20220725.1441: Automatic setup of directory tracking in ssh sessions
 app-emacs/transducers 20231224.2358: Ergonomic, efficient data processing
 app-emacs/transfer-sh 20200601.1708: Simple interface for sending buffer contents to transfer.sh
-app-emacs/transient 20240131.1612: Transient commands
+app-emacs/transient 20240201.1100: Transient commands
 app-emacs/transient-dwim 20221225.1630: Useful preset transient commands
 app-emacs/transient-extras 20230721.839: Extra features for transient
 app-emacs/transient-extras-a2ps 20230303.1511: A transient interface to a2ps
@@ -5607,7 +5607,7 @@ app-emacs/yaxception 20240107.504: Provide framework about exception like Java f
 app-emacs/ycm 20150822.1836: Emacs client for the YouCompleteMe auto-completion server.
 app-emacs/ycmd 20190416.807: emacs bindings to the ycmd completion server
 app-emacs/ydk-mode 20170114.223: Language support for Yu-Gi-Oh! deck files
-app-emacs/yeetube 20240119.1138: YouTube Front End
+app-emacs/yeetube 20240201.227: YouTube Front End
 app-emacs/yequake 20200219.2323: Drop-down frames, like Yakuake
 app-emacs/yesql-ghosts 20150220.1237: Display ghostly yesql defqueries inline
 app-emacs/yesterbox 20200327.52: Count number of inbox messages by day
