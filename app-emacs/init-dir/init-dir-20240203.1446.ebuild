@@ -5,20 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="org-cite-sidecar"
+REALNAME="init-dir"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Sidecar to show references in Org Mode"
+DESCRIPTION="Init directory instead of just a single file"
 
-HOMEPAGE="https://git.sr.ht/~swflint/emacs-universal-sidecar"
+HOMEPAGE="http://github.com/chaosemer/init-dir"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/citeproc-el
-	app-emacs/universal-sidecar"
-RDEPEND="app-emacs/citeproc-el
-	app-emacs/universal-sidecar"
+DEPEND="app-emacs/benchmark-init"
+RDEPEND="app-emacs/benchmark-init"
