@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="init-dir"
+REALNAME="asyncloop"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Init directory instead of just a single file"
+DESCRIPTION="Non-blocking series of functions"
 
-HOMEPAGE="http://github.com/chaosemer/init-dir"
+HOMEPAGE="https://github.com/meedstrom/asyncloop"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
