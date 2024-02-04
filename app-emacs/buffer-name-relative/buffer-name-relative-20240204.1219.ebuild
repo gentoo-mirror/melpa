@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="undo-fu-session"
+REALNAME="buffer-name-relative"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Persistent undo, available between sessions"
+DESCRIPTION="Relative buffer names"
 
-HOMEPAGE="https://codeberg.com/ideasman42/emacs-undo-fu-session"
+HOMEPAGE="https://codeberg.org/ideasman42/emacs-buffer-name-relative"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

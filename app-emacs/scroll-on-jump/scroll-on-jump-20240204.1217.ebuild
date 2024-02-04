@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Scroll when jumping to a new point"
 
-HOMEPAGE="https://codeberg.com/ideasman42/emacs-scroll-on-jump"
+HOMEPAGE="https://codeberg.org/ideasman42/emacs-scroll-on-jump"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
