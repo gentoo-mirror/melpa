@@ -308,7 +308,7 @@ app-emacs/beef-mode 20221227.203: A major mode for the Beef programming language
 app-emacs/beeminder 20201227.2024: Emacs interface for Beeminder
 app-emacs/beginend 20230902.1458: Redefine M-< and M-> for some modes
 app-emacs/belarus-holidays 20190102.1343: Belarus holidays whith transfers
-app-emacs/benchmark-init 20240202.748: Benchmarks for require and load calls
+app-emacs/benchmark-init 20240207.1224: Benchmarks for require and load calls
 app-emacs/benchstat 20171014.312: proper benchmarking made simple
 app-emacs/bencode 20190317.2010: Bencode encoding / decoding
 app-emacs/bencoding 20200331.1102: Bencoding decoding and encoding
@@ -2846,7 +2846,7 @@ app-emacs/kaesar 20230626.2314: AES algorithm encrypt/decrypt
 app-emacs/kaesar-file 20230614.332: AES encrypt/decrypt file
 app-emacs/kaesar-mode 20230626.401: AES encrypt/decrypt buffer
 app-emacs/kaesar-pbkdf2 20230626.2314: PBKDF2 extension for kaesar.el
-app-emacs/kagi 20240204.732: Kagi API integration
+app-emacs/kagi 20240207.1712: Kagi API integration
 app-emacs/kakapo-mode 20171004.451: TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment.
 app-emacs/kakoune 20230206.2037: A simulation, but not emulation, of kakoune
 app-emacs/kaleidoscope 20170808.817: Controlling Kaleidoscope-powered devices.
@@ -3142,7 +3142,7 @@ app-emacs/madhat2r-theme 20170203.30: dark color theme that is easy on the eyes
 app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
-app-emacs/magik-mode 20240203.1805: mode for editing Magik + some utils.
+app-emacs/magik-mode 20240207.1244: mode for editing Magik + some utils.
 app-emacs/magit 20240206.2256: A Git porcelain inside Emacs.
 app-emacs/magit-annex 20231210.2140: Control git-annex from Magit
 app-emacs/magit-commit-mark 20230420.304: Support marking commits as read
@@ -4510,7 +4510,7 @@ app-emacs/restart-emacs 20201127.1425: Restart emacs from within emacs
 app-emacs/restclient 20231010.1327: An interactive HTTP client for Emacs
 app-emacs/restclient-helm 20170314.1554: helm interface for restclient.el
 app-emacs/restclient-jq 20220426.1734: Support for setting restclient vars from jq expressions
-app-emacs/restclient-test 20210422.1815: Run tests with restclient.el
+app-emacs/restclient-test 20240207.1415: Run tests with restclient.el
 app-emacs/retrie 20200519.551: Refactoring Haskell code with retrie
 app-emacs/revbufs 20200907.2223: Reverts all out-of-date buffers safely
 app-emacs/reveal-in-folder 20240118.611: Reveal current file/directory in folder
@@ -4934,7 +4934,7 @@ app-emacs/stan-snippets 20211129.2051: Yasnippets for Stan
 app-emacs/standard-dirs 20200621.1603: Platform-specific paths for config, cache, and other data
 app-emacs/standoff-mode 20210810.1814: Create stand-off markup, also called external markup.
 app-emacs/starhugger 20231202.235: Hugging Face/AI-powered text & code completion client
-app-emacs/starlit-theme 20230324.1636: Deep blue dark theme with bright colors from the starlit sky
+app-emacs/starlit-theme 20240207.1445: Deep blue dark theme with bright colors from the starlit sky
 app-emacs/start-menu 20160426.1225: start-menu for executing external program like in windows
 app-emacs/stash 20151117.1427: lightweight persistent caching
 app-emacs/state 20200727.1227: Quick navigation between workspaces
@@ -5069,7 +5069,7 @@ app-emacs/tco 20191129.2040: Tail-call optimisation for Emacs lisp
 app-emacs/tea-time 20120331.820: Simple timer package, useful to make perfect tea.
 app-emacs/teacode-expand 20181231.640: Expansion of text by TeaCode program.
 app-emacs/teco 20200707.2309: Teco interpreter
-app-emacs/telega 20240205.1120: Telegram client (unofficial)
+app-emacs/telega 20240207.1818: Telegram client (unofficial)
 app-emacs/telepathy 20131209.1258: Access Telepathy from Emacs
 app-emacs/telephone-line 20240109.2021: Rewrite of Powerline
 app-emacs/teleport 20240101.1358: Integration for tsh (goteleport.com)
@@ -5109,7 +5109,7 @@ app-emacs/test-simple 20230916.1634: Simple Unit Test Framework for Emacs Lisp
 app-emacs/tex-smart-umlauts 20230416.2051: Smart umlaut conversion for TeX.
 app-emacs/texfrag 20230117.1746: preview LaTeX fragments in alien major modes
 app-emacs/text-categories 20230425.1154: Assign text categories to a buffer for mass deletion
-app-emacs/textile-mode 20230112.1030: Textile markup editing major mode
+app-emacs/textile-mode 20240207.1550: Textile markup editing major mode
 app-emacs/textmate 20110816.2146: TextMate minor mode for Emacs
 app-emacs/textmate-to-yas 20160409.1708: Import Textmate macros into yasnippet syntax
 app-emacs/textsize 20231005.1335: Configure frame text size automatically
@@ -5452,7 +5452,7 @@ app-emacs/weather-metno 20230129.1540: Weather data from met.no in Emacs
 app-emacs/web 20141231.2001: useful HTTP client
 app-emacs/web-beautify 20161115.2247: Format HTML, CSS and JavaScript/JSON
 app-emacs/web-completion-data 20160318.848: Shared completion data for ac-html and company-web
-app-emacs/web-mode 20231225.1458: major mode for editing web templates
+app-emacs/web-mode 20240207.1231: major mode for editing web templates
 app-emacs/web-mode-edit-element 20190531.852: Helper-functions for attribute- and element-handling
 app-emacs/web-narrow-mode 20170407.210: quick narrow code block in web-mode
 app-emacs/web-search 20190620.602: Open a web search
@@ -5620,7 +5620,7 @@ app-emacs/ynab 20200607.2008: Major mode for YNAB (you need a budget)
 app-emacs/yoficator 20190509.1620: Interactively yoficate Russian texts
 app-emacs/yoshi-theme 20230801.1741: Theme named after my cat
 app-emacs/youdao-dictionary 20231005.1920: Youdao Dictionary interface for Emacs
-app-emacs/youdotcom 20240114.2127: You.com search package
+app-emacs/youdotcom 20240207.1853: You.com search package
 app-emacs/youtube-sub-extractor 20221116.653: Extract YouTube video subtitles
 app-emacs/ytdious 20210228.2111: Query / Preview YouTube via Invidious
 app-emacs/ytdl 20230331.1804: Emacs Interface for youtube-dl
