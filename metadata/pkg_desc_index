@@ -69,7 +69,7 @@ app-emacs/add-hooks 20171217.123: Functions for setting multiple hooks
 app-emacs/add-node-modules-path 20230307.655: Add node_modules to your exec-path
 app-emacs/addressbook-bookmark 20230602.1034: An address book based on Standard Emacs bookmarks.
 app-emacs/ado-mode 20240103.1856: Major mode for editing Stata-related files
-app-emacs/adoc-mode 20240208.819: a major-mode for editing AsciiDoc files
+app-emacs/adoc-mode 20240208.1244: a major-mode for editing AsciiDoc files
 app-emacs/adwaita-dark-theme 20231209.1033: A dark color scheme inspired by Adwaita
 app-emacs/aes 20211204.2348: Implementation of AES
 app-emacs/affe 20240102.331: Asynchronous Fuzzy Finder for Emacs
@@ -560,7 +560,7 @@ app-emacs/circe 20231119.1420: Client for IRC in Emacs
 app-emacs/circe-notifications 20180102.2318: Add desktop notifications to Circe.
 app-emacs/circleci-api 20210227.1607: Bindings for the CircleCI API
 app-emacs/citar 20231226.1453: Citation-related commands for org, latex, markdown
-app-emacs/citar-denote 20231229.531: Minor mode integrating Citar and Denote
+app-emacs/citar-denote 20240208.1246: Minor mode integrating Citar and Denote
 app-emacs/citar-embark 20231122.1548: Citar/Embark integration
 app-emacs/citar-org-roam 20230404.1225: Citar/org-roam integration
 app-emacs/citeproc-el 20231230.1309: A CSL 1.0.2 Citation Processor
@@ -1309,7 +1309,7 @@ app-emacs/elm-test-runner 20230905.331: Enhanced support for running elm-test
 app-emacs/elm-yasnippets 20160401.524: Yasnippets for Elm
 app-emacs/elmacro 20210716.639: Convert keyboard macros to emacs lisp
 app-emacs/elmine 20200520.1237: Redmine API access via elisp.
-app-emacs/elmpd 20210904.1340: A tight, ergonomic, async client library for mpd
+app-emacs/elmpd 20240208.1457: A tight, ergonomic, async client library for mpd
 app-emacs/elnode 20190702.1509: The Emacs webserver.
 app-emacs/elog 20221207.643: logging library extended from logito
 app-emacs/elogcat 20230121.459: logcat interface
@@ -2823,7 +2823,7 @@ app-emacs/jsonnet-mode 20220121.2109: Major mode for editing jsonnet files
 app-emacs/jss 20130508.1423: An emacs interface to webkit and mozilla debuggers
 app-emacs/jst 20150604.1138: JS test mode
 app-emacs/jtags 20160211.2029: enhanced tags functionality for Java development
-app-emacs/jtsx 20240122.1601: Extends default support for JSX/TSX
+app-emacs/jtsx 20240208.1810: Extends default support for JSX/TSX
 app-emacs/julia-formatter 20231130.1512: Use JuliaFormatter.jl for julia code
 app-emacs/julia-mode 20230712.1524: Major mode for editing Julia source code
 app-emacs/julia-repl 20231026.1005: A minor mode for a Julia REPL
@@ -3142,7 +3142,7 @@ app-emacs/madhat2r-theme 20170203.30: dark color theme that is easy on the eyes
 app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
-app-emacs/magik-mode 20240208.1034: mode for editing Magik + some utils.
+app-emacs/magik-mode 20240208.1636: mode for editing Magik + some utils.
 app-emacs/magit 20240206.2256: A Git porcelain inside Emacs.
 app-emacs/magit-annex 20231210.2140: Control git-annex from Magit
 app-emacs/magit-commit-mark 20230420.304: Support marking commits as read
@@ -3832,7 +3832,7 @@ app-emacs/org-re-reveal-ref 20211029.551: Citations and bibliography for org-re-
 app-emacs/org-recent-headings 20211011.1519: Jump to recently used Org headings
 app-emacs/org-recur 20230124.1532: Recurring org-mode tasks
 app-emacs/org-redmine 20160711.1114: Redmine tools using Emacs OrgMode
-app-emacs/org-ref 20240201.1224: citations, cross-references and bibliographies in org-mode
+app-emacs/org-ref 20240208.1801: citations, cross-references and bibliographies in org-mode
 app-emacs/org-ref-prettify 20220507.649: Prettify org-ref citation links
 app-emacs/org-repo-todo 20171228.119: Simple repository todo management with org-mode
 app-emacs/org-reverse-datetree 20221203.259: Create reverse date trees in org-mode
@@ -4546,7 +4546,7 @@ app-emacs/robot-log 20220719.1301: Major mode for viewing RobotFramework debug l
 app-emacs/robot-mode 20231118.826: Major-mode for Robot Framework files
 app-emacs/robots-txt-mode 20190812.1858: Major mode for editing robots.txt
 app-emacs/roguel-ike 20160120.302: A coffee-break roguelike
-app-emacs/rom-party 20240205.2047: Rendition of jklm.fun's "Bomb Party" game
+app-emacs/rom-party 20240208.1338: Rendition of jklm.fun's "Bomb Party" game
 app-emacs/ron-mode 20200830.1554: Rusty Object Notation mode
 app-emacs/rope-read-mode 20211228.1126: Rearrange lines to read text smoothly
 app-emacs/ropgadget 20230107.1225: Display and filter ROP gadgets of a binary
@@ -4655,7 +4655,7 @@ app-emacs/sekka 20170803.1247: A client for Sekka IME server
 app-emacs/selcand 20230628.733: Select a candidate from a tree of hint characters
 app-emacs/select-themes 20160221.106: Color theme selection with completing-read
 app-emacs/selected 20230219.1328: Keymap for when region is active
-app-emacs/selected-window-accent-mode 20240206.2132: Accent Selected Window
+app-emacs/selected-window-accent-mode 20240208.1639: Accent Selected Window
 app-emacs/selectric-mode 20200209.2107: IBM Selectric mode for Emacs
 app-emacs/selectrum 20220513.2106: Easily select item from list
 app-emacs/selectrum-prescient 20231205.137: prescient.el + Selectrum
