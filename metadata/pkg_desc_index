@@ -69,7 +69,7 @@ app-emacs/add-hooks 20171217.123: Functions for setting multiple hooks
 app-emacs/add-node-modules-path 20230307.655: Add node_modules to your exec-path
 app-emacs/addressbook-bookmark 20230602.1034: An address book based on Standard Emacs bookmarks.
 app-emacs/ado-mode 20240103.1856: Major mode for editing Stata-related files
-app-emacs/adoc-mode 20240201.2055: a major-mode for editing AsciiDoc files
+app-emacs/adoc-mode 20240208.819: a major-mode for editing AsciiDoc files
 app-emacs/adwaita-dark-theme 20231209.1033: A dark color scheme inspired by Adwaita
 app-emacs/aes 20211204.2348: Implementation of AES
 app-emacs/affe 20240102.331: Asynchronous Fuzzy Finder for Emacs
@@ -605,7 +605,7 @@ app-emacs/clojure-mode 20231124.1721: Major mode for Clojure code
 app-emacs/clojure-mode-extra-font-locking 20231124.732: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 20150814.736: Quickly create Clojure and ClojureScript repls for a project.
 app-emacs/clojure-snippets 20220914.950: Yasnippets for clojure
-app-emacs/clojure-ts-mode 20230925.320: Major mode for Clojure code
+app-emacs/clojure-ts-mode 20240207.1912: Major mode for Clojure code
 app-emacs/clomacs 20220415.1035: Simplifies Emacs Lisp interaction with Clojure.
 app-emacs/closql 20240125.1741: Store EIEIO objects using EmacSQL
 app-emacs/closure-lint-mode 20101118.2124: minor mode for the Closure Linter
@@ -1980,7 +1980,7 @@ app-emacs/gdscript-mode 20231024.1150: Major mode for Godot's GDScript language
 app-emacs/geben 20220827.105: DBGp protocol frontend, a script debugger
 app-emacs/geben-helm-projectile 20170524.334: Integrate helm-projectile with geben
 app-emacs/geeknote 20220213.612: Use Evernote in Emacs through geeknote
-app-emacs/geiser 20240115.1854: GNU Emacs and Scheme talk to each other
+app-emacs/geiser 20240208.26: GNU Emacs and Scheme talk to each other
 app-emacs/geiser-chez 20230707.1334: Chez and Geiser talk to each other
 app-emacs/geiser-chibi 20211204.1938: Chibi Scheme's implementation of the geiser protocols
 app-emacs/geiser-chicken 20220717.1130: Chicken's implementation of the geiser protocols
@@ -2163,7 +2163,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20231112.2012: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20230530.1853: Integrate with the OpenAI API
-app-emacs/gptel 20240205.623: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20240208.303: Interact with ChatGPT or other LLMs
 app-emacs/grab-mac-link 20210511.1303: Grab link from Mac Apps and insert it into Emacs
 app-emacs/grab-x-link 20191113.848: Grab links from X11 apps and insert into Emacs
 app-emacs/gradle-mode 20150313.1905: Gradle integration with Emacs' compile
@@ -2233,7 +2233,7 @@ app-emacs/handle 20191029.856: A handle for major-mode generic functions.
 app-emacs/handlebars-mode 20150211.1749: A major mode for editing Handlebars files.
 app-emacs/handlebars-sgml-mode 20130623.2333: Add Handlebars contextual indenting support to sgml-mode
 app-emacs/handoff 20150917.600: Get your hand off that mouse, damn it!
-app-emacs/haproxy-mode 20240204.1948: Major mode for editing HAProxy config files
+app-emacs/haproxy-mode 20240207.2010: Major mode for editing HAProxy config files
 app-emacs/hardcore-mode 20151114.701: Disable arrow keys + optionally backspace and return
 app-emacs/hardhat 20210515.1422: Protect against clobbering user-writable files
 app-emacs/harpoon 20231219.1609: Bookmarks on steroids
@@ -3142,7 +3142,7 @@ app-emacs/madhat2r-theme 20170203.30: dark color theme that is easy on the eyes
 app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
-app-emacs/magik-mode 20240207.1244: mode for editing Magik + some utils.
+app-emacs/magik-mode 20240208.1034: mode for editing Magik + some utils.
 app-emacs/magit 20240206.2256: A Git porcelain inside Emacs.
 app-emacs/magit-annex 20231210.2140: Control git-annex from Magit
 app-emacs/magit-commit-mark 20230420.304: Support marking commits as read
@@ -3763,7 +3763,7 @@ app-emacs/org-generate 20200815.736: Generate template files/folders from org do
 app-emacs/org-gnome 20150614.1457: Orgmode integration with the GNOME desktop
 app-emacs/org-grep 20230821.2356: Kind of M-x rgrep adapted for Org mode
 app-emacs/org-gtd 20231224.1639: An implementation of GTD.
-app-emacs/org-habit-stats 20230412.515: Display info about habits
+app-emacs/org-habit-stats 20240208.323: Display info about habits
 app-emacs/org-hyperscheduler 20220704.2140: UI (web) representation of org-agenda
 app-emacs/org-id-cleanup 20230922.1258: Interactively find, present and maybe delete unused IDs of org-id
 app-emacs/org-if 20150920.1513: Interactive Fiction Authoring System for Org-Mode.
@@ -3800,7 +3800,7 @@ app-emacs/org-multi-wiki 20210324.1820: Multiple wikis based on Org mode
 app-emacs/org-multiple-keymap 20191017.1920: Set keymap to elements, such as timestamp and priority.
 app-emacs/org-newtab 20240206.412: Supercharge your browser's new tab page
 app-emacs/org-notebook 20170322.452: Ease the use of org-mode as a notebook
-app-emacs/org-noter 20231205.37: A synchronized, Org-mode, document annotator
+app-emacs/org-noter 20240207.2329: A synchronized, Org-mode, document annotator
 app-emacs/org-noter-pdftools 20230725.1433: Integration between org-pdftools and org-noter
 app-emacs/org-notifications 20210918.1827: Creates notifications for org-mode entries
 app-emacs/org-octopress 20170821.415: Compose octopress articles using org-mode.
@@ -3997,7 +3997,7 @@ app-emacs/ox-wk 20191231.2058: Wiki Back-End for Org Export Engine
 app-emacs/ox-yaow 20220629.1539: Generate html pages from org files
 app-emacs/ox-zenn 20200924.1607: Zenn flavored markdown backend for org export engine
 app-emacs/p4 20150721.1937: Simple Perforce-Emacs Integration
-app-emacs/pabbrev 20240206.1640: Predictive abbreviation expansion
+app-emacs/pabbrev 20240208.830: Predictive abbreviation expansion
 app-emacs/pacfiles-mode 20230503.1523: The pacnew and pacsave merging tool
 app-emacs/pack 20191017.456: Pack and unpack archive files
 app-emacs/package+ 20230805.2115: Extensions for the package library.
@@ -4233,7 +4233,7 @@ app-emacs/powerthesaurus 20230426.1719: Powerthesaurus integration
 app-emacs/ppcompile 20220619.1535: Ping-pong compile projects on remote machines
 app-emacs/ppd-sr-speedbar 20151108.1224: Sr Speedbar adaptor for project-persist-drawer.
 app-emacs/ppp 20220211.1529: Extended pretty printer for Emacs Lisp
-app-emacs/pr-review 20231117.714: Review github PR
+app-emacs/pr-review 20240206.414: Review github PR
 app-emacs/prassee-theme 20180709.1004: A high contrast color theme for Emacs.
 app-emacs/prefab 20220828.2015: Integration for project generation tools like cookiecutter
 app-emacs/preproc-font-lock 20151107.2018: Highlight C-style preprocessor directives.
@@ -4340,7 +4340,7 @@ app-emacs/py-snippets 20220918.952: Collection of advanced Python yasnippet snip
 app-emacs/py-test 20230714.517: A test runner for Python code.
 app-emacs/py-yapf 20160925.1122: Use yapf to beautify a Python buffer
 app-emacs/pycarddavel 20150831.1216: Integrate pycarddav
-app-emacs/pyconf 20231231.1842: Set up python execution configurations like dap-mode ones
+app-emacs/pyconf 20240207.2203: Set up python execution configurations like dap-mode ones
 app-emacs/pycoverage 20200513.2047: Support for coverage stats on Python 2.X and 3
 app-emacs/pydoc 20221222.1426: functional, syntax highlighted pydoc navigation
 app-emacs/pyenv-mode 20230821.1645: Integrate pyenv with python-mode
@@ -4612,7 +4612,7 @@ app-emacs/savekill 20140418.229: Save kill ring to disk
 app-emacs/saveplace-pdf-view 20230805.1359: Save place in pdf-view buffers
 app-emacs/say-what-im-doing 20160706.1931: dictate what you're doing with text to speech
 app-emacs/sayid 20220101.1357: sayid nREPL middleware client
-app-emacs/sbt-mode 20211203.1148: Interactive support for sbt projects
+app-emacs/sbt-mode 20240208.626: Interactive support for sbt projects
 app-emacs/scad-mode 20230315.1950: A major mode for editing OpenSCAD code
 app-emacs/scad-preview 20211212.1128: Preview SCAD models in real-time within Emacs
 app-emacs/scala-mode 20240113.1743: Major mode for editing Scala
@@ -4714,7 +4714,7 @@ app-emacs/shenshou 20230226.320: Download&Extract subtitles from opensubtitles.o
 app-emacs/shfmt 20240104.1218: Reformat shell scripts using shfmt
 app-emacs/shift-number 20170301.1459: Increase/decrease the number at point
 app-emacs/shift-text 20130831.1655: Move the region in 4 directions, in a way similar to Eclipse's
-app-emacs/shimbun 20240206.1124: interfacing with web newspapers
+app-emacs/shimbun 20240208.217: interfacing with web newspapers
 app-emacs/shm 20180327.57: Structured Haskell Mode
 app-emacs/shoulda 20140616.1833: Shoulda test support for ruby
 app-emacs/show-css 20160210.1408: Show the css of the html attribute the cursor is on
@@ -5217,7 +5217,7 @@ app-emacs/tree-sitter-ess-r 20221012.855: R with tree-sitter
 app-emacs/tree-sitter-indent 20220411.1439: Provide indentation with a Tree-sitter backend
 app-emacs/tree-sitter-ispell 20230205.533: Run ispell on tree-sitter text nodes
 app-emacs/tree-sitter-langs 20240107.149: Grammar bundle for tree-sitter
-app-emacs/treebundel 20240204.2136: Bundle related git-worktrees together
+app-emacs/treebundel 20240208.19: Bundle related git-worktrees together
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
 app-emacs/treemacs 20240126.642: A tree style file explorer package
 app-emacs/treemacs-all-the-icons 20230408.1109: all-the-icons integration for treemacs
@@ -5612,7 +5612,7 @@ app-emacs/yaxception 20240107.504: Provide framework about exception like Java f
 app-emacs/ycm 20150822.1836: Emacs client for the YouCompleteMe auto-completion server.
 app-emacs/ycmd 20190416.807: emacs bindings to the ycmd completion server
 app-emacs/ydk-mode 20170114.223: Language support for Yu-Gi-Oh! deck files
-app-emacs/yeetube 20240207.744: YouTube Front End
+app-emacs/yeetube 20240208.725: YouTube Front End
 app-emacs/yequake 20200219.2323: Drop-down frames, like Yakuake
 app-emacs/yesql-ghosts 20150220.1237: Display ghostly yesql defqueries inline
 app-emacs/yesterbox 20200327.52: Count number of inbox messages by day
