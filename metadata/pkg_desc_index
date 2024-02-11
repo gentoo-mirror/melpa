@@ -601,11 +601,11 @@ app-emacs/clockodo 20220604.2049: A small integration for the clockodo api
 app-emacs/clojars 20180825.1951: clojars.org search interface
 app-emacs/clojure-essential-ref 20221215.1427: Cider-doc to "Clojure, The Essential Reference"
 app-emacs/clojure-essential-ref-nov 20221215.1427: Cider-doc to "Clojure, The Essential Reference" (EPUB)
-app-emacs/clojure-mode 20231124.1721: Major mode for Clojure code
+app-emacs/clojure-mode 20240211.1946: Major mode for Clojure code
 app-emacs/clojure-mode-extra-font-locking 20231124.732: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 20150814.736: Quickly create Clojure and ClojureScript repls for a project.
 app-emacs/clojure-snippets 20220914.950: Yasnippets for clojure
-app-emacs/clojure-ts-mode 20240211.1032: Major mode for Clojure code
+app-emacs/clojure-ts-mode 20240211.1917: Major mode for Clojure code
 app-emacs/clomacs 20220415.1035: Simplifies Emacs Lisp interaction with Clojure.
 app-emacs/closql 20240125.1741: Store EIEIO objects using EmacSQL
 app-emacs/closure-lint-mode 20101118.2124: minor mode for the Closure Linter
@@ -1302,7 +1302,7 @@ app-emacs/elisp-slime-nav 20210510.528: Make M-. and M-, work in elisp like they
 app-emacs/elixir-mode 20230626.1738: Major mode for editing Elixir files
 app-emacs/elixir-ts-mode 20240116.645: Major mode for Elixir with tree-sitter support
 app-emacs/elixir-yasnippets 20150417.1239: Yasnippets for Elixir
-app-emacs/ellama 20240210.1031: Tool for interacting with LLMs
+app-emacs/ellama 20240211.1915: Tool for interacting with LLMs
 app-emacs/ellocate 20200112.1931: The locate command reimplemented in Emacs Lisp
 app-emacs/elm-mode 20230315.1122: Major mode for Elm
 app-emacs/elm-test-runner 20230905.331: Enhanced support for running elm-test
@@ -1712,7 +1712,7 @@ app-emacs/fluxus-mode 20210715.58: Major mode for interfacing with Fluxus
 app-emacs/flx 20240205.356: fuzzy matching with good sorting
 app-emacs/flx-ido 20240205.356: flx integration for ido
 app-emacs/flx-isearch 20191119.515: Fuzzy incremental searching for emacs
-app-emacs/flycheck 20240210.1102: On-the-fly syntax checking
+app-emacs/flycheck 20240211.1527: On-the-fly syntax checking
 app-emacs/flycheck-actionlint 20230802.913: Flycheck integration for actionlint
 app-emacs/flycheck-ameba 20191226.1011: Add support for Ameba to Flycheck
 app-emacs/flycheck-apertium 20181211.1038: Apertium checkers in flycheck
@@ -2295,7 +2295,7 @@ app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el.
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
 app-emacs/helm-dash 20190527.1118: Offline documentation browser for +150 APIs using Dash docsets.
-app-emacs/helm-descbinds 20240206.802: A convenient `describe-bindings' with `helm'
+app-emacs/helm-descbinds 20240211.1303: A convenient `describe-bindings' with `helm'
 app-emacs/helm-describe-modes 20160212.518: Helm interface to major and minor modes.
 app-emacs/helm-dictionary 20230922.1111: Helm source for looking up dictionaries
 app-emacs/helm-directory 20170709.1103: selecting directory before select the file
@@ -3143,7 +3143,7 @@ app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-mode 20240209.1442: mode for editing Magik + some utils.
-app-emacs/magit 20240206.2256: A Git porcelain inside Emacs.
+app-emacs/magit 20240211.1712: A Git porcelain inside Emacs.
 app-emacs/magit-annex 20231210.2140: Control git-annex from Magit
 app-emacs/magit-commit-mark 20230420.304: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3161,7 +3161,7 @@ app-emacs/magit-patch-changelog 20221209.123: Generate a patch according to emac
 app-emacs/magit-popup 20200719.1015: Define prefix-infix-suffix command combos
 app-emacs/magit-rbr 20181009.2016: Support for git rbr in Magit
 app-emacs/magit-reviewboard 20200727.1748: Show open Reviewboard reviews in Magit
-app-emacs/magit-section 20240114.13: Sections for read-only buffers.
+app-emacs/magit-section 20240211.1319: Sections for read-only buffers.
 app-emacs/magit-stats 20230223.1819: Generates GIT Repo Statistics Report
 app-emacs/magit-stgit 20231226.1514: StGit extension for Magit
 app-emacs/magit-svn 20220314.1451: Git-Svn extension for Magit
@@ -4285,8 +4285,8 @@ app-emacs/projectile-sift 20160107.1015: Run a sift with Projectile
 app-emacs/projectile-speedbar 20190807.2010: projectile integration for speedbar
 app-emacs/projectile-trailblazer 20170928.1624: Minor mode for Rails projects using trailblazer
 app-emacs/projectile-variable 20230916.441: Store project local variables.
-app-emacs/projection 20240106.1308: Project type support for `project'
-app-emacs/projection-multi 20231231.1416: Projection integration for `compile-multi'
+app-emacs/projection 20240211.1526: Project type support for `project'
+app-emacs/projection-multi 20240211.1526: Projection integration for `compile-multi'
 app-emacs/projection-multi-embark 20231008.937: Integration for `projection-multi' and `embark'
 app-emacs/projector 20211112.1514: Lightweight library for managing project-aware shell and command buffers
 app-emacs/projekt 20150324.848: some kind of staging for CVS
