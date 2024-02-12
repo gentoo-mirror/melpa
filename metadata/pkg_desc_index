@@ -222,7 +222,7 @@ app-emacs/auto-complete-nxml 20140221.458: do completion by auto-complete.el on 
 app-emacs/auto-complete-pcmp 20140303.255: Provide auto-complete sources using pcomplete results
 app-emacs/auto-complete-rst 20140225.944: Auto-complete extension for ReST and Sphinx
 app-emacs/auto-complete-sage 20160514.751: An auto-complete source for sage-shell-mode.
-app-emacs/auto-dark 20240130.1811: Automatically sets the dark-mode theme based on macOS/Linux/Windows status
+app-emacs/auto-dark 20240212.1446: Automatically sets the dark-mode theme based on macOS/Linux/Windows status
 app-emacs/auto-dictionary 20150410.1610: automatic dictionary switcher for flyspell
 app-emacs/auto-dim-other-buffers 20220209.2101: Makes windows without focus less prominent
 app-emacs/auto-highlight-symbol 20240101.905: Automatic highlighting current symbol minor mode
@@ -308,7 +308,7 @@ app-emacs/beef-mode 20221227.203: A major mode for the Beef programming language
 app-emacs/beeminder 20201227.2024: Emacs interface for Beeminder
 app-emacs/beginend 20230902.1458: Redefine M-< and M-> for some modes
 app-emacs/belarus-holidays 20190102.1343: Belarus holidays whith transfers
-app-emacs/benchmark-init 20240207.1224: Benchmarks for require and load calls
+app-emacs/benchmark-init 20240212.1303: Benchmarks for require and load calls
 app-emacs/benchstat 20171014.312: proper benchmarking made simple
 app-emacs/bencode 20190317.2010: Bencode encoding / decoding
 app-emacs/bencoding 20200331.1102: Bencoding decoding and encoding
@@ -464,7 +464,7 @@ app-emacs/calmer-forest-theme 20230302.2149: Darkish theme with green/orange tin
 app-emacs/camcorder 20190317.2138: Record screencasts in gif or other formats.
 app-emacs/caml 20231011.328: Caml mode for GNU Emacs
 app-emacs/cangjie 20230219.1150: Retrieve cangjie code for han characters
-app-emacs/cape 20240209.1911: Completion At Point Extensions
+app-emacs/cape 20240212.1823: Completion At Point Extensions
 app-emacs/capnp-mode 20210707.2310: Major mode for editing Capn' Proto Files
 app-emacs/capture 20130828.1644: screencasting with "avconv" or "ffmpeg"
 app-emacs/carbon-now-sh 20220701.332: https://carbon.now.sh integration.
@@ -1099,7 +1099,7 @@ app-emacs/docopt 20230216.957: A Docopt implementation in Elisp
 app-emacs/docsim 20230627.47: Search and compare notes with a local search engine
 app-emacs/docstr 20240101.901: A document string minor mode
 app-emacs/doct 20230622.1847: DOCT: Declarative Org capture templates
-app-emacs/doctest 20240206.42: Doctests for Emacs Lisp
+app-emacs/doctest 20240212.1801: Doctests for Emacs Lisp
 app-emacs/dogears 20231016.2356: Never lose your place again
 app-emacs/dokuwiki 20180102.59: Edit Remote DokuWiki Pages Using XML-RPC
 app-emacs/dokuwiki-mode 20170223.1301: Major mode for DokuWiki document
@@ -1397,7 +1397,7 @@ app-emacs/eopengrok 20230114.1413: opengrok interface for emacs
 app-emacs/epc 20140610.534: A RPC stack for the Emacs Lisp
 app-emacs/epic 20170210.23: Evernote Picker for Cocoa Emacs
 app-emacs/eping 20201027.2149: Ping websites to check internet connectivity
-app-emacs/epkg 20240116.1941: Browse the Emacsmirror package database
+app-emacs/epkg 20240212.1731: Browse the Emacsmirror package database
 app-emacs/epkg-marginalia 20240101.2215: Show Epkg information in completion annotations
 app-emacs/epl 20180205.2049: Emacs Package Library
 app-emacs/epm 20190509.443: Emacs Package Manager
@@ -5131,7 +5131,7 @@ app-emacs/thinks 20170802.1128: Insert text in a think bubble.
 app-emacs/third-time 20231023.316: Third Time: A Better Way to Work
 app-emacs/thread-dump 20170816.1850: Java thread dump viewer
 app-emacs/threes 20160820.1242: A clone of Threes (a tiny puzzle game)
-app-emacs/thrift 20240204.1733: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 20240211.1736: major mode for fbthrift and Apache Thrift files
 app-emacs/thumb-through 20120119.534: Plain text reader of HTML documents
 app-emacs/tickscript-mode 20171219.203: A major mode for Tickscript files
 app-emacs/tidal 20230312.1245: Interact with TidalCycles for live coding patterns
@@ -5606,7 +5606,7 @@ app-emacs/yard-mode 20230505.1950: Minor mode for Ruby YARD comments
 app-emacs/yari 20151128.739: Yet Another RI interface for Emacs
 app-emacs/yarn-mode 20200208.2332: Major mode for yarn.lock files.
 app-emacs/yascroll 20220212.1742: Yet Another Scroll Bar Mode
-app-emacs/yasnippet 20240124.258: Yet another snippet extension for Emacs
+app-emacs/yasnippet 20240212.1645: Yet another snippet extension for Emacs
 app-emacs/yasnippet-capf 20240116.1646: Yasnippet Completion At Point Function
 app-emacs/yasnippet-lean 20220105.2251: Collection of snippets for the Lean prover
 app-emacs/yasnippet-snippets 20240115.1138: Collection of yasnippet snippets
