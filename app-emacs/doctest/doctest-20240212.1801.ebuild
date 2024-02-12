@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Doctests for Emacs Lisp"
 
-HOMEPAGE="https://github.com/riscy/doctest"
+HOMEPAGE="https://github.com/ag91/doctest"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
