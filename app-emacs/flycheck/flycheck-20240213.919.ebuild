@@ -18,7 +18,5 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/pkg-info
-	app-emacs/seq"
-RDEPEND="app-emacs/pkg-info
-	app-emacs/seq"
+DEPEND="app-emacs/seq"
+RDEPEND="app-emacs/seq"
