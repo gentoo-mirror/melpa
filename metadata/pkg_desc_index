@@ -562,7 +562,7 @@ app-emacs/circleci-api 20210227.1607: Bindings for the CircleCI API
 app-emacs/citar 20231226.1453: Citation-related commands for org, latex, markdown
 app-emacs/citar-denote 20240208.1246: Minor mode integrating Citar and Denote
 app-emacs/citar-embark 20231122.1548: Citar/Embark integration
-app-emacs/citar-org-roam 20230404.1225: Citar/org-roam integration
+app-emacs/citar-org-roam 20240212.2159: Citar/org-roam integration
 app-emacs/citeproc-el 20231230.1309: A CSL 1.0.2 Citation Processor
 app-emacs/citeproc-org 20200915.2009: Render org-mode references in CSL styles
 app-emacs/citre 20240203.457: Ctags IDE on the True Editor
@@ -601,7 +601,7 @@ app-emacs/clockodo 20220604.2049: A small integration for the clockodo api
 app-emacs/clojars 20180825.1951: clojars.org search interface
 app-emacs/clojure-essential-ref 20221215.1427: Cider-doc to "Clojure, The Essential Reference"
 app-emacs/clojure-essential-ref-nov 20221215.1427: Cider-doc to "Clojure, The Essential Reference" (EPUB)
-app-emacs/clojure-mode 20240211.1946: Major mode for Clojure code
+app-emacs/clojure-mode 20240213.949: Major mode for Clojure code
 app-emacs/clojure-mode-extra-font-locking 20231124.732: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 20150814.736: Quickly create Clojure and ClojureScript repls for a project.
 app-emacs/clojure-snippets 20220914.950: Yasnippets for clojure
@@ -638,7 +638,7 @@ app-emacs/coffee-fof 20131012.1230: A coffee-mode configuration for `ff-find-oth
 app-emacs/coffee-mode 20200315.1133: Major mode for CoffeeScript code
 app-emacs/coin-ticker 20170611.727: Show a cryptocurrency price ticker
 app-emacs/colonoscopy-theme 20170808.1309: an Emacs 24 theme based on Colonoscopy (tmTheme)
-app-emacs/color-identifiers-mode 20230405.527: Color identifiers based on their names
+app-emacs/color-identifiers-mode 20240212.1855: Color identifiers based on their names
 app-emacs/color-moccur 20141223.35: multi-buffer occur (grep) mode
 app-emacs/color-theme 20190220.1115: An OBSOLETE color-theme implementation
 app-emacs/color-theme-approximate 20140228.436: Makes Emacs theme works on terminal transparently
@@ -918,7 +918,7 @@ app-emacs/dash-alfred 20191024.450: Search Dash documentation via Dash-Alfred-Wo
 app-emacs/dash-at-point 20211023.104: Search the word at point with Dash
 app-emacs/dash-docs 20210830.926: Offline documentation browser using Dash docsets.
 app-emacs/dash-functional 20210826.1149: Collection of useful combinators for Emacs Lisp
-app-emacs/dashboard 20240202.2350: A startup screen extracted from Spacemacs
+app-emacs/dashboard 20240213.854: A startup screen extracted from Spacemacs
 app-emacs/dashboard-hackernews 20220516.1809: Display Hacker News on dashboard
 app-emacs/dashboard-ls 20240101.841: Display files/directories in current directory on Dashboard
 app-emacs/dashboard-project-status 20190202.1354: Display a git project status in a dashboard widget.
@@ -1565,7 +1565,7 @@ app-emacs/evil-textobj-column 20170905.1905: Provides column text objects.
 app-emacs/evil-textobj-entire 20150422.1254: text object for entire lines of buffer for evil
 app-emacs/evil-textobj-line 20211101.1429: Line text object for Evil
 app-emacs/evil-textobj-syntax 20231119.1633: Provides syntax text objects.
-app-emacs/evil-textobj-tree-sitter 20231222.1559: Provides evil textobjects using tree-sitter
+app-emacs/evil-textobj-tree-sitter 20240213.522: Provides evil textobjects using tree-sitter
 app-emacs/evil-traces 20230820.2255: Visual hints for `evil-ex'
 app-emacs/evil-tree-edit 20231206.1836: Evil structural editing for any language!
 app-emacs/evil-tutor 20150103.653: Vimtutor adapted to Evil and wrapped in a major-mode
@@ -1713,7 +1713,7 @@ app-emacs/fluxus-mode 20210715.58: Major mode for interfacing with Fluxus
 app-emacs/flx 20240205.356: fuzzy matching with good sorting
 app-emacs/flx-ido 20240205.356: flx integration for ido
 app-emacs/flx-isearch 20191119.515: Fuzzy incremental searching for emacs
-app-emacs/flycheck 20240212.756: On-the-fly syntax checking
+app-emacs/flycheck 20240213.919: On-the-fly syntax checking
 app-emacs/flycheck-actionlint 20230802.913: Flycheck integration for actionlint
 app-emacs/flycheck-ameba 20191226.1011: Add support for Ameba to Flycheck
 app-emacs/flycheck-apertium 20181211.1038: Apertium checkers in flycheck
@@ -1916,7 +1916,7 @@ app-emacs/forecast 20191004.1850: Weather forecasts
 app-emacs/foreign-regexp 20200325.50: search and replace by foreign regexp.
 app-emacs/foreman-mode 20170725.1422: View and manage Procfile-based applications
 app-emacs/forest-blue-theme 20160627.842: Emacs theme with a dark background.
-app-emacs/forge 20240211.1000: Access Git forges from Magit.
+app-emacs/forge 20240212.1715: Access Git forges from Magit.
 app-emacs/form-feed 20210508.1627: Display ^L glyphs as horizontal lines
 app-emacs/form-feed-st 20231002.2211: Display ^L glyphs as full-width horizontal lines
 app-emacs/format-all 20240205.2153: Auto-format C, C++, JS, Python, Ruby and 50 other languages
@@ -2088,7 +2088,7 @@ app-emacs/gn-mode 20190428.1812: major mode for editing GN (generate ninja) file
 app-emacs/gnome-calendar 20161110.1256: Integration with the GNOME Shell calendar
 app-emacs/gnome-screencast 20210125.2001: Use Gnome screen recording functionality using elisp
 app-emacs/gnomenm 20150316.1918: Emacs interface to Gnome nmcli command
-app-emacs/gnosis 20240210.508: Spaced Repetition System For Note Taking & Self Testing
+app-emacs/gnosis 20240213.343: Spaced Repetition System For Note Taking & Self Testing
 app-emacs/gntp 20141025.250: Growl Notification Protocol for Emacs
 app-emacs/gnu-apl-mode 20220404.341: Integrate GNU APL with Emacs
 app-emacs/gnu-indent 20221127.2112: Indent your code with GNU Indent
@@ -3746,7 +3746,7 @@ app-emacs/org-doing 20161017.1620: Keep track of what you're doing
 app-emacs/org-dotemacs 20211126.2038: Store your emacs config as an org file, and choose which bits to load.
 app-emacs/org-download 20220906.1929: Image drag-and-drop for Org-mode.
 app-emacs/org-dp 20180311.923: Declarative Local Programming with Org Elements
-app-emacs/org-drawio 20240212.259: Convert and include drawio image to orgmode
+app-emacs/org-drawio 20240213.38: Convert and include drawio image to orgmode
 app-emacs/org-drill 20210427.2003: Self-testing using spaced repetition
 app-emacs/org-drill-table 20180115.1009: Generate drill cards from org tables
 app-emacs/org-dropbox 20150114.509: move Dropbox notes from phone into org-mode datetree
@@ -5113,7 +5113,7 @@ app-emacs/test-simple 20230916.1634: Simple Unit Test Framework for Emacs Lisp
 app-emacs/tex-smart-umlauts 20230416.2051: Smart umlaut conversion for TeX.
 app-emacs/texfrag 20230117.1746: preview LaTeX fragments in alien major modes
 app-emacs/text-categories 20230425.1154: Assign text categories to a buffer for mass deletion
-app-emacs/textile-mode 20240207.1550: Textile markup editing major mode
+app-emacs/textile-mode 20240212.1755: Textile markup editing major mode
 app-emacs/textmate 20110816.2146: TextMate minor mode for Emacs
 app-emacs/textmate-to-yas 20160409.1708: Import Textmate macros into yasnippet syntax
 app-emacs/textsize 20231005.1335: Configure frame text size automatically
@@ -5220,7 +5220,7 @@ app-emacs/tree-sitter 20220212.1632: Incremental parsing system
 app-emacs/tree-sitter-ess-r 20221012.855: R with tree-sitter
 app-emacs/tree-sitter-indent 20220411.1439: Provide indentation with a Tree-sitter backend
 app-emacs/tree-sitter-ispell 20230205.533: Run ispell on tree-sitter text nodes
-app-emacs/tree-sitter-langs 20240210.2155: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 20240212.1005: Grammar bundle for tree-sitter
 app-emacs/treebundel 20240210.343: Bundle related git-worktrees together
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
 app-emacs/treemacs 20240126.642: A tree style file explorer package
