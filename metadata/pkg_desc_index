@@ -392,7 +392,7 @@ app-emacs/bqn-mode 20231217.1203: Emacs mode for BQN
 app-emacs/bracketed-paste 20160407.2348: bracketed paste mode support within emacs -nw
 app-emacs/brainfuck-mode 20150113.842: Brainfuck mode for Emacs
 app-emacs/brazilian-holidays 20220828.2348: Brazilian holidays
-app-emacs/brec-mode 20240105.1218: A major mode for editing Breccian text
+app-emacs/brec-mode 20240213.1406: A major mode for editing Breccian text
 app-emacs/brf 20230803.2022: Brf-mode provides features from the legendary editor Brief
 app-emacs/brightscript-mode 20220906.827: Major mode for editing Brightscript files
 app-emacs/broadcast 20151205.212: Links buffers together for simultaneous editing.
@@ -517,7 +517,7 @@ app-emacs/chaos-mode 20221227.223: A major mode for the Chaos programming langua
 app-emacs/chapel-mode 20210513.457: A major mode for the Chapel programming language
 app-emacs/char-menu 20210321.1657: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 20200616.1418: Unicode table for Emacs
-app-emacs/chatgpt-shell 20240129.935: ChatGPT shell + buffer insert commands
+app-emacs/chatgpt-shell 20240213.1729: ChatGPT shell + buffer insert commands
 app-emacs/chatwork 20170511.442: ChatWork client for Emacs
 app-emacs/cheat-sh 20210607.1307: Interact with cheat.sh
 app-emacs/cheatsheet 20170126.2150: create your own cheatsheet
@@ -605,7 +605,7 @@ app-emacs/clojure-mode 20240213.949: Major mode for Clojure code
 app-emacs/clojure-mode-extra-font-locking 20231124.732: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 20150814.736: Quickly create Clojure and ClojureScript repls for a project.
 app-emacs/clojure-snippets 20220914.950: Yasnippets for clojure
-app-emacs/clojure-ts-mode 20240211.1917: Major mode for Clojure code
+app-emacs/clojure-ts-mode 20240213.1220: Major mode for Clojure code
 app-emacs/clomacs 20220415.1035: Simplifies Emacs Lisp interaction with Clojure.
 app-emacs/closql 20240125.1741: Store EIEIO objects using EmacSQL
 app-emacs/closure-lint-mode 20101118.2124: minor mode for the Closure Linter
@@ -1303,7 +1303,7 @@ app-emacs/elisp-slime-nav 20210510.528: Make M-. and M-, work in elisp like they
 app-emacs/elixir-mode 20230626.1738: Major mode for editing Elixir files
 app-emacs/elixir-ts-mode 20240116.645: Major mode for Elixir with tree-sitter support
 app-emacs/elixir-yasnippets 20150417.1239: Yasnippets for Elixir
-app-emacs/ellama 20240211.1915: Tool for interacting with LLMs
+app-emacs/ellama 20240213.1344: Tool for interacting with LLMs
 app-emacs/ellocate 20200112.1931: The locate command reimplemented in Emacs Lisp
 app-emacs/elm-mode 20230315.1122: Major mode for Elm
 app-emacs/elm-test-runner 20230905.331: Enhanced support for running elm-test
@@ -2786,7 +2786,7 @@ app-emacs/jist 20161229.1721: Gist integration
 app-emacs/jit-lock-stealth-progress 20230808.1342: JIT lock stealth mode-line progress
 app-emacs/jknav 20121006.2025: Automatically enable j/k keys for line-based navigation
 app-emacs/jmespath 20240115.1310: Query JSON using jmespath
-app-emacs/jmt-mode 20230519.1523: Java Mode Tamed
+app-emacs/jmt-mode 20240213.1405: Java Mode Tamed
 app-emacs/jonprl-mode 20160819.59: A major mode for editing JonPRL files
 app-emacs/journalctl-mode 20240115.1650: Sample major mode for viewing output journalctl
 app-emacs/jpop 20170410.1250: Lightweight project caching and navigation framework
@@ -3168,7 +3168,7 @@ app-emacs/magit-stats 20230223.1819: Generates GIT Repo Statistics Report
 app-emacs/magit-stgit 20231226.1514: StGit extension for Magit
 app-emacs/magit-svn 20220314.1451: Git-Svn extension for Magit
 app-emacs/magit-tbdiff 20220527.2213: Magit extension for range diffs
-app-emacs/magit-todos 20231216.1205: Show source file TODOs in Magit
+app-emacs/magit-todos 20240213.1759: Show source file TODOs in Magit
 app-emacs/magit-topgit 20161105.1623: TopGit extension for Magit
 app-emacs/magit-vcsh 20230402.1219: Magit vcsh integration
 app-emacs/magithub 20220315.117: Magit interfaces for GitHub
@@ -3407,7 +3407,7 @@ app-emacs/multi-vterm 20221031.610: Like multi-term.el but for vterm
 app-emacs/multi-web-mode 20130824.354: multiple major mode support for web editing
 app-emacs/multicolumn 20150202.2251: Creating and managing multiple side-by-side windows.
 app-emacs/multifiles 20130615.2133: View and edit parts of multiple files in one buffer
-app-emacs/multiple-cursors 20230728.518: Multiple cursors for Emacs.
+app-emacs/multiple-cursors 20240213.1734: Multiple cursors for Emacs.
 app-emacs/multistate 20210124.2014: Multistate mode
 app-emacs/multitran 20240206.1617: Interface to multitran
 app-emacs/musicbrainz 20230530.749: MusicBrainz API interface
@@ -3575,7 +3575,7 @@ app-emacs/ob-bitfield 20220401.600: Babel Functions for bitfield
 app-emacs/ob-blockdiag 20210412.1541: org-babel functions for blockdiag evaluation
 app-emacs/ob-browser 20170720.1918: Render HTML in org-mode blocks.
 app-emacs/ob-cfengine3 20230226.1954: Org Babel functions for CFEngine 3
-app-emacs/ob-chatgpt-shell 20240113.1737: Org babel functions for ChatGPT evaluation
+app-emacs/ob-chatgpt-shell 20240213.1729: Org babel functions for ChatGPT evaluation
 app-emacs/ob-clojurescript 20180406.1828: org-babel functions for ClojureScript evaluation
 app-emacs/ob-coffee 20170725.1424: org-babel functions for coffee-script evaluation
 app-emacs/ob-coffeescript 20180126.719: org-babel functions for coffee-script evaluation, and fully implementation!
@@ -4620,7 +4620,7 @@ app-emacs/sbt-mode 20240208.626: Interactive support for sbt projects
 app-emacs/scad-mode 20230315.1950: A major mode for editing OpenSCAD code
 app-emacs/scad-preview 20211212.1128: Preview SCAD models in real-time within Emacs
 app-emacs/scala-mode 20240113.1743: Major mode for editing Scala
-app-emacs/scala-ts-mode 20240205.849: Scala Tree-Sitter Mode
+app-emacs/scala-ts-mode 20240213.1734: Scala Tree-Sitter Mode
 app-emacs/scf-mode 20151122.248: shorten file-names in compilation type buffers
 app-emacs/scheme-complete 20201112.442: Smart auto completion for Scheme in Emacs
 app-emacs/scholar-import 20230412.1413: Import Bibtex & PDF from Google Scholar
