@@ -10,9 +10,9 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="mode for editing Magik + some utils."
+DESCRIPTION="Emacs major mode for Smallworld Magik files"
 
-HOMEPAGE="http://github.com/roadrunner1776/magik"
+HOMEPAGE="https://github.com/roadrunner1776/magik"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
