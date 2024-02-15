@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Flycheck support for eglot"
 
-HOMEPAGE="https://github.com/intramurz/flycheck-eglot"
+HOMEPAGE="https://github.com/flycheck/flycheck-eglot"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
