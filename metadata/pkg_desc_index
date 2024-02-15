@@ -370,7 +370,7 @@ app-emacs/bnf-mode 20221205.1451: Major mode for editing BNF grammars.
 app-emacs/bnfc 20160605.1927: Define context-free grammars for the BNFC tool
 app-emacs/boa-ide 20230813.2036: Mode for boa language files
 app-emacs/boa-mode 20230730.2216: Mode for boa language files
-app-emacs/bog 20230521.2122: Extensions for research notes in Org mode
+app-emacs/bog 20240215.27: Extensions for research notes in Org mode
 app-emacs/bolt-mode 20180310.810: Editing support for Bolt language
 app-emacs/bongo 20201002.1020: play music with Emacs
 app-emacs/bonjourmadame 20170919.1134: Say "Hello ma'am!"
@@ -605,7 +605,7 @@ app-emacs/clojure-mode 20240213.949: Major mode for Clojure code
 app-emacs/clojure-mode-extra-font-locking 20231124.732: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 20150814.736: Quickly create Clojure and ClojureScript repls for a project.
 app-emacs/clojure-snippets 20220914.950: Yasnippets for clojure
-app-emacs/clojure-ts-mode 20240214.852: Major mode for Clojure code
+app-emacs/clojure-ts-mode 20240215.543: Major mode for Clojure code
 app-emacs/clomacs 20220415.1035: Simplifies Emacs Lisp interaction with Clojure.
 app-emacs/closql 20240125.1741: Store EIEIO objects using EmacSQL
 app-emacs/closure-lint-mode 20101118.2124: minor mode for the Closure Linter
@@ -795,7 +795,7 @@ app-emacs/corfu-prescient 20240106.2017: prescient.el + Corfu
 app-emacs/corral 20160502.948: Quickly surround text with delimiters
 app-emacs/cort 20211020.18: Simplify extended unit test framework
 app-emacs/cosmo 20170922.744: Cosmological Calculator
-app-emacs/counsel 20231025.2311: Various completion functions using Ivy
+app-emacs/counsel 20240214.2118: Various completion functions using Ivy
 app-emacs/counsel-ag-popup 20210121.805: Interactive search with counsel-ag
 app-emacs/counsel-at-point 20230808.1344: Context sensitive project search
 app-emacs/counsel-bbdb 20220909.727: Quick search&input email from BBDB based on Emacs API `completing-read'
@@ -1570,7 +1570,7 @@ app-emacs/evil-traces 20230820.2255: Visual hints for `evil-ex'
 app-emacs/evil-tree-edit 20231206.1836: Evil structural editing for any language!
 app-emacs/evil-tutor 20150103.653: Vimtutor adapted to Evil and wrapped in a major-mode
 app-emacs/evil-tutor-ja 20160917.132: Japanese Vimtutor adapted to Evil and wrapped in a major-mode
-app-emacs/evil-tutor-sc 20230705.656: Simplified Chinese tutor for Evil
+app-emacs/evil-tutor-sc 20240215.5: Simplified Chinese tutor for Evil
 app-emacs/evil-vimish-fold 20200122.117: Integrate vimish-fold with evil
 app-emacs/evil-visual-mark-mode 20230202.318: Display evil marks on buffer
 app-emacs/evil-visual-replace 20171016.613: search/replace commands for evil visual state, inc. blocks
@@ -1748,7 +1748,7 @@ app-emacs/flycheck-dogma 20170125.721: flycheck checker for elixir dogma
 app-emacs/flycheck-drstring 20200210.1903: Doc linting for Swift using DrString
 app-emacs/flycheck-dtrace 20180903.1630: Flycheck: DTrace support
 app-emacs/flycheck-eask 20240101.833: Eask support in Flycheck
-app-emacs/flycheck-eglot 20230630.1803: Flycheck support for eglot
+app-emacs/flycheck-eglot 20240214.1937: Flycheck support for eglot
 app-emacs/flycheck-eldev 20230905.1754: Eldev support in Flycheck
 app-emacs/flycheck-elixir 20210413.612: Support Elixir in flycheck
 app-emacs/flycheck-elm 20181107.146: Flycheck support for the elm language
@@ -2704,8 +2704,8 @@ app-emacs/iter2 20221104.1938: Reimplementation of Elisp generators
 app-emacs/iterator 20210109.1859: A library to create and use elisp iterators objects.
 app-emacs/ivariants 20170823.224: Ideographic variants editor and browser
 app-emacs/ivs-edit 20170818.1441: IVS (Ideographic Variation Sequence) editing tool
-app-emacs/ivy 20231025.2311: Incremental Vertical completYon
-app-emacs/ivy-avy 20231025.2311: Avy integration for Ivy
+app-emacs/ivy 20240214.2118: Incremental Vertical completYon
+app-emacs/ivy-avy 20240214.2118: Avy integration for Ivy
 app-emacs/ivy-bibtex 20210927.1205: A bibliography manager based on Ivy
 app-emacs/ivy-clipmenu 20220202.2122: Ivy client for clipmenu
 app-emacs/ivy-clojuredocs 20201129.2355: Search for help in clojuredocs.org
@@ -2719,7 +2719,7 @@ app-emacs/ivy-fuz 20191222.946: Integration between fuz and ivy.
 app-emacs/ivy-gitlab 20181228.826: Ivy interface to Gitlab
 app-emacs/ivy-historian 20210714.56: Persistently store selected minibuffer candidates
 app-emacs/ivy-hoogle 20240102.908: Search Hoogle using ivy
-app-emacs/ivy-hydra 20231025.2311: Additional key bindings for Ivy
+app-emacs/ivy-hydra 20240214.2118: Additional key bindings for Ivy
 app-emacs/ivy-lobsters 20200818.1406: Browse lobste.rs stories with ivy.
 app-emacs/ivy-migemo 20230121.1934: Use migemo on ivy
 app-emacs/ivy-mpdel 20190428.920: Ivy interface to navigate MPD
@@ -3091,7 +3091,7 @@ app-emacs/lorem-ipsum 20221214.1857: Insert dummy pseudo Latin text
 app-emacs/lox-mode 20200619.1700: Major mode for the Lox programming language
 app-emacs/lpy 20231026.1525: A lispy interface to Python
 app-emacs/lsp-cfn 20240112.921: LSP integration for cfn-lsp-extra
-app-emacs/lsp-dart 20231028.2340: Dart support lsp-mode
+app-emacs/lsp-dart 20240215.14: Dart support lsp-mode
 app-emacs/lsp-docker 20231121.1644: LSP Docker integration
 app-emacs/lsp-focus 20200906.1917: focus.el support for lsp-mode
 app-emacs/lsp-grammarly 20240101.847: LSP Clients for Grammarly
@@ -3102,7 +3102,7 @@ app-emacs/lsp-java 20230922.1154: Java support for lsp-mode
 app-emacs/lsp-javacomp 20190124.1755: Provide Java IDE features powered by JavaComp.
 app-emacs/lsp-jedi 20230824.1908: Lsp client plugin for Python Jedi Language Server
 app-emacs/lsp-julia 20230915.654: Julia support for lsp-mode
-app-emacs/lsp-latex 20231104.313: LSP-mode client for LaTeX, on texlab
+app-emacs/lsp-latex 20240215.1159: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20240101.851: LSP Clients for LTEX
 app-emacs/lsp-metals 20231017.911: Scala Client settings
 app-emacs/lsp-mode 20240211.1128: LSP mode
@@ -3144,7 +3144,7 @@ app-emacs/madhat2r-theme 20170203.30: dark color theme that is easy on the eyes
 app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
-app-emacs/magik-mode 20240214.1048: Emacs major mode for Smallworld Magik files
+app-emacs/magik-mode 20240215.853: Emacs major mode for Smallworld Magik files
 app-emacs/magit 20240211.1712: A Git porcelain inside Emacs.
 app-emacs/magit-annex 20231210.2140: Control git-annex from Magit
 app-emacs/magit-commit-mark 20230420.304: Support marking commits as read
@@ -3205,7 +3205,7 @@ app-emacs/markdown-changelog 20230805.1720: Maintain changelog entries
 app-emacs/markdown-mode 20240107.831: Major mode for Markdown-formatted text
 app-emacs/markdown-preview-eww 20160111.1502: Realtime preview by eww
 app-emacs/markdown-preview-mode 20230707.803: markdown realtime preview minor mode.
-app-emacs/markdown-soma 20230819.340: Live preview for Markdown
+app-emacs/markdown-soma 20240215.228: Live preview for Markdown
 app-emacs/markdown-toc 20210905.738: A simple TOC generator for markdown file
 app-emacs/markdownfmt 20160609.1241: Format markdown using markdownfmt
 app-emacs/markless 20220702.1811: Major mode for Markless documents
@@ -4777,7 +4777,7 @@ app-emacs/sl 20161217.1404: An Emacs clone of sl(1)
 app-emacs/slack 20211129.310: Slack client for Emacs
 app-emacs/slideview 20150324.2240: File slideshow
 app-emacs/slim-mode 20170728.1348: Major mode for editing Slim files
-app-emacs/slime 20240210.2136: Superior Lisp Interaction Mode for Emacs
+app-emacs/slime 20240214.2218: Superior Lisp Interaction Mode for Emacs
 app-emacs/slime-company 20210124.1627: slime completion backend for company mode
 app-emacs/slime-docker 20210426.1422: Integration of SLIME with Docker containers
 app-emacs/slime-repl-ansi-color 20230214.1453: Turn on ANSI colors in REPL output;
@@ -5006,7 +5006,7 @@ app-emacs/sweetgreen 20180605.335: Order Salads from sweetgreen.com
 app-emacs/swift-helpful 20220707.846: Show documentation for Swift programs.
 app-emacs/swift-mode 20240104.952: Major-mode for Apple's Swift programming language
 app-emacs/swift3-mode 20160918.1250: Major-mode for Apple's Swift programming language.
-app-emacs/swiper 20231025.2311: Isearch with an overview. Oh, man!
+app-emacs/swiper 20240214.2118: Isearch with an overview. Oh, man!
 app-emacs/swiper-helm 20180131.1744: Helm version of Swiper.
 app-emacs/swiss-holidays 20200526.822: Swiss holidays for the calendar
 app-emacs/switch-buffer-functions 20200127.409: Hook run when current buffer changed
@@ -5220,19 +5220,19 @@ app-emacs/tree-sitter 20220212.1632: Incremental parsing system
 app-emacs/tree-sitter-ess-r 20221012.855: R with tree-sitter
 app-emacs/tree-sitter-indent 20220411.1439: Provide indentation with a Tree-sitter backend
 app-emacs/tree-sitter-ispell 20230205.533: Run ispell on tree-sitter text nodes
-app-emacs/tree-sitter-langs 20240212.1005: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 20240215.1016: Grammar bundle for tree-sitter
 app-emacs/treebundel 20240210.343: Bundle related git-worktrees together
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
-app-emacs/treemacs 20240126.642: A tree style file explorer package
-app-emacs/treemacs-all-the-icons 20230408.1109: all-the-icons integration for treemacs
-app-emacs/treemacs-evil 20230822.2039: Evil mode integration for treemacs
-app-emacs/treemacs-icons-dired 20230930.1141: Treemacs icons for dired
-app-emacs/treemacs-magit 20230830.1936: Magit integration for treemacs
+app-emacs/treemacs 20240214.2107: A tree style file explorer package
+app-emacs/treemacs-all-the-icons 20240131.2042: all-the-icons integration for treemacs
+app-emacs/treemacs-evil 20240131.2042: Evil mode integration for treemacs
+app-emacs/treemacs-icons-dired 20240131.2042: Treemacs icons for dired
+app-emacs/treemacs-magit 20240131.2042: Magit integration for treemacs
 app-emacs/treemacs-nerd-icons 20230828.544: Emacs Nerd Font Icons theme for treemacs
-app-emacs/treemacs-persp 20230703.1929: Persp-mode integration for treemacs
-app-emacs/treemacs-perspective 20230703.1929: Perspective integration for treemacs
-app-emacs/treemacs-projectile 20230703.1929: Projectile integration for treemacs
-app-emacs/treemacs-tab-bar 20230703.1929: Tab bar integration for treemacs
+app-emacs/treemacs-persp 20240131.2042: Persp-mode integration for treemacs
+app-emacs/treemacs-perspective 20240131.2042: Perspective integration for treemacs
+app-emacs/treemacs-projectile 20240131.2042: Projectile integration for treemacs
+app-emacs/treemacs-tab-bar 20240131.2042: Tab bar integration for treemacs
 app-emacs/treepy 20230715.2154: Generic tree traversal tools
 app-emacs/treesit-auto 20240131.1815: Automatically use tree-sitter enhanced major modes
 app-emacs/treeview 20230728.2343: A generic tree navigation library
