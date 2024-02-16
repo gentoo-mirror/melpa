@@ -605,9 +605,9 @@ app-emacs/clojure-mode 20240213.949: Major mode for Clojure code
 app-emacs/clojure-mode-extra-font-locking 20231124.732: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 20150814.736: Quickly create Clojure and ClojureScript repls for a project.
 app-emacs/clojure-snippets 20220914.950: Yasnippets for clojure
-app-emacs/clojure-ts-mode 20240215.543: Major mode for Clojure code
+app-emacs/clojure-ts-mode 20240216.1323: Major mode for Clojure code
 app-emacs/clomacs 20220415.1035: Simplifies Emacs Lisp interaction with Clojure.
-app-emacs/closql 20240125.1741: Store EIEIO objects using EmacSQL
+app-emacs/closql 20240216.1729: Store EIEIO objects using EmacSQL
 app-emacs/closure-lint-mode 20101118.2124: minor mode for the Closure Linter
 app-emacs/cloud-theme 20220205.1336: A light colored theme
 app-emacs/cloud-to-butt-erc 20130627.2308: Replace 'the cloud' with 'my butt'
@@ -1528,7 +1528,7 @@ app-emacs/evil-lion 20220317.1030: Evil align operator, port of vim-lion
 app-emacs/evil-lisp-state 20160404.248: An evil state to edit Lisp code
 app-emacs/evil-lispy 20190502.739: precision Lisp editing with Evil and Lispy
 app-emacs/evil-mark-replace 20200630.940: replace the thing in marked area
-app-emacs/evil-matchit 20231011.1119: Vim matchit ported to Evil
+app-emacs/evil-matchit 20240216.1304: Vim matchit ported to Evil
 app-emacs/evil-mc 20230529.210: Multiple cursors for evil-mode
 app-emacs/evil-mc-extras 20170202.1649: Extra functionality for evil-mc
 app-emacs/evil-mu4e 20180613.1039: evil-based key bindings for mu4e
@@ -1584,7 +1584,7 @@ app-emacs/ewal-spacemacs-themes 20230505.609: Ride the rainbow spaceship
 app-emacs/ewmctrl 20170922.217: Use `wmctrl' to manage desktop windows via EWMH/NetWM.
 app-emacs/eww-lnum 20150102.1512: Conkeror-like functionality for eww
 app-emacs/exato 20200524.1319: EXATO: Evil XML/HTML Attributes Text Object
-app-emacs/exec-path-from-shell 20230804.645: Get environment variables such as $PATH from the shell
+app-emacs/exec-path-from-shell 20240216.1606: Get environment variables such as $PATH from the shell
 app-emacs/execline 20190711.2010: Major mode for editing execline scripts
 app-emacs/exercism 20231007.1253: Unofficial https://exercism.org integration
 app-emacs/exiftool 20190520.1106: Elisp wrapper around ExifTool
@@ -2133,7 +2133,7 @@ app-emacs/gobgen 20161020.1523: Generate GObject descendants using a detailed fo
 app-emacs/god-mode 20221230.708: Minor mode for God-like command entering
 app-emacs/godoctor 20180710.2152: Frontend for godoctor
 app-emacs/gofmt-tag 20240111.2031: Format and align go struct tags
-app-emacs/goggles 20240102.332: Pulse modified regions
+app-emacs/goggles 20240216.1542: Pulse modified regions
 app-emacs/gold-mode 20140607.206: Major mode for editing .gold files
 app-emacs/golden-ratio 20230912.1825: Automatic resizing of Emacs windows to the golden ratio
 app-emacs/golden-ratio-scroll-screen 20221102.240: Scroll half screen down or up, and highlight current line
@@ -2297,7 +2297,7 @@ app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el.
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
 app-emacs/helm-dash 20190527.1118: Offline documentation browser for +150 APIs using Dash docsets.
-app-emacs/helm-descbinds 20240212.640: A convenient `describe-bindings' with `helm'
+app-emacs/helm-descbinds 20240216.1154: A convenient `describe-bindings' with `helm'
 app-emacs/helm-describe-modes 20160212.518: Helm interface to major and minor modes.
 app-emacs/helm-dictionary 20230922.1111: Helm source for looking up dictionaries
 app-emacs/helm-directory 20170709.1103: selecting directory before select the file
@@ -2649,7 +2649,7 @@ app-emacs/inherit-local 20170409.1649: Inherited buffer-local variables
 app-emacs/inheritenv 20230804.651: Make temp buffers inherit buffer-local environment variables
 app-emacs/ini 20220827.2009: Converting between INI files and association lists
 app-emacs/ini-mode 20230211.1512: Major mode for Windows-style ini files.
-app-emacs/init-dir 20240203.1446: Init directory instead of just a single file
+app-emacs/init-dir 20240216.1758: Init directory instead of just a single file
 app-emacs/init-loader 20210703.902: Loader for configuration files
 app-emacs/init-open-recentf 20220220.2004: Invoke a command immediately after startup
 app-emacs/initsplit 20160919.1818: code to split customizations into different files
@@ -4617,7 +4617,7 @@ app-emacs/saveplace-pdf-view 20240209.505: Save place in pdf-view buffers
 app-emacs/say-what-im-doing 20160706.1931: dictate what you're doing with text to speech
 app-emacs/sayid 20220101.1357: sayid nREPL middleware client
 app-emacs/sbt-mode 20240208.626: Interactive support for sbt projects
-app-emacs/scad-mode 20230315.1950: A major mode for editing OpenSCAD code
+app-emacs/scad-mode 20240216.1536: A major mode for editing OpenSCAD code
 app-emacs/scad-preview 20211212.1128: Preview SCAD models in real-time within Emacs
 app-emacs/scala-mode 20240113.1743: Major mode for editing Scala
 app-emacs/scala-ts-mode 20240213.1734: Scala Tree-Sitter Mode
@@ -5079,7 +5079,7 @@ app-emacs/telephone-line 20240109.2021: Rewrite of Powerline
 app-emacs/teleport 20240101.1358: Integration for tsh (goteleport.com)
 app-emacs/teletext 20231215.1524: Teletext broadcast viewer
 app-emacs/teletext-yle 20231215.1609: Teletext provider for Finnish national network YLE
-app-emacs/tempel 20240215.2332: Tempo templates/snippets with in-buffer field editing
+app-emacs/tempel 20240216.1543: Tempo templates/snippets with in-buffer field editing
 app-emacs/tempel-collection 20240216.1105: Collection of templates for Tempel
 app-emacs/templ-ts-mode 20240118.338: Major mode for editing Templ files
 app-emacs/template-overlays 20180706.1132: Display template regions using overlays
@@ -5220,7 +5220,7 @@ app-emacs/tree-sitter 20220212.1632: Incremental parsing system
 app-emacs/tree-sitter-ess-r 20221012.855: R with tree-sitter
 app-emacs/tree-sitter-indent 20220411.1439: Provide indentation with a Tree-sitter backend
 app-emacs/tree-sitter-ispell 20230205.533: Run ispell on tree-sitter text nodes
-app-emacs/tree-sitter-langs 20240216.252: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 20240216.1048: Grammar bundle for tree-sitter
 app-emacs/treebundel 20240210.343: Bundle related git-worktrees together
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
 app-emacs/treemacs 20240214.2107: A tree style file explorer package
