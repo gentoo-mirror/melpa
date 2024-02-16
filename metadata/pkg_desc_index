@@ -418,7 +418,7 @@ app-emacs/buffer-utils 20140512.1400: Buffer-manipulation utility functions
 app-emacs/buffer-watcher 20170913.839: Easily run shell scripts per filetype/directory when a buffer is saved
 app-emacs/buffer-wrap 20240101.935: Wrap the beginning and the end of buffer
 app-emacs/bufferbin 20230706.110: Quick mouse access to buffers
-app-emacs/bufler 20240206.1703: Group buffers into workspaces with programmable rules
+app-emacs/bufler 20240216.805: Group buffers into workspaces with programmable rules
 app-emacs/bufshow 20130726.1838: A simple presentation tool for Emacs.
 app-emacs/bug-reference-github 20200206.2158: Set `bug-reference-url-format' in Github repos
 app-emacs/bui 20210108.1141: Buffer interface library
@@ -768,7 +768,7 @@ app-emacs/consult-git-log-grep 20230204.1753: Consult integration for git log gr
 app-emacs/consult-hatena-bookmark 20221125.109: Consult commands for the Hatena Bookmark
 app-emacs/consult-ls-git 20230924.810: Consult integration for git
 app-emacs/consult-lsp 20230209.714: LSP-mode Consult integration
-app-emacs/consult-notes 20240122.41: Manage notes with consult
+app-emacs/consult-notes 20240216.311: Manage notes with consult
 app-emacs/consult-notmuch 20240127.406: Notmuch search using consult
 app-emacs/consult-org-roam 20240115.1145: Consult integration for org-roam
 app-emacs/consult-project-extra 20231221.1857: Consult integration for project.el
@@ -1256,7 +1256,7 @@ app-emacs/elbank 20180316.1343: Personal finances reporting application
 app-emacs/elcontext 20210109.1238: Create context specific actions
 app-emacs/elcord 20230627.1213: Allows you to integrate Rich Presence from Discord
 app-emacs/elcouch 20230903.750: View and manipulate CouchDB databases
-app-emacs/eldev 20240123.2127: Elisp development tool
+app-emacs/eldev 20240215.2009: Elisp development tool
 app-emacs/eldoc-box 20231115.519: Display documentation in childframe
 app-emacs/eldoc-cmake 20190419.2244: Eldoc support for CMake
 app-emacs/eldoc-eask 20240101.819: Eldoc support for Eask-file
@@ -1303,7 +1303,7 @@ app-emacs/elisp-slime-nav 20210510.528: Make M-. and M-, work in elisp like they
 app-emacs/elixir-mode 20230626.1738: Major mode for editing Elixir files
 app-emacs/elixir-ts-mode 20240116.645: Major mode for Elixir with tree-sitter support
 app-emacs/elixir-yasnippets 20150417.1239: Yasnippets for Elixir
-app-emacs/ellama 20240213.1344: Tool for interacting with LLMs
+app-emacs/ellama 20240215.1259: Tool for interacting with LLMs
 app-emacs/ellocate 20200112.1931: The locate command reimplemented in Emacs Lisp
 app-emacs/elm-mode 20230315.1122: Major mode for Elm
 app-emacs/elm-test-runner 20230905.331: Enhanced support for running elm-test
@@ -2088,7 +2088,7 @@ app-emacs/gn-mode 20190428.1812: major mode for editing GN (generate ninja) file
 app-emacs/gnome-calendar 20161110.1256: Integration with the GNOME Shell calendar
 app-emacs/gnome-screencast 20210125.2001: Use Gnome screen recording functionality using elisp
 app-emacs/gnomenm 20150316.1918: Emacs interface to Gnome nmcli command
-app-emacs/gnosis 20240214.903: Spaced Repetition System For Note Taking & Self Testing
+app-emacs/gnosis 20240215.2359: Spaced Repetition System For Note Taking & Self Testing
 app-emacs/gntp 20141025.250: Growl Notification Protocol for Emacs
 app-emacs/gnu-apl-mode 20220404.341: Integrate GNU APL with Emacs
 app-emacs/gnu-indent 20221127.2112: Indent your code with GNU Indent
@@ -3105,7 +3105,7 @@ app-emacs/lsp-julia 20230915.654: Julia support for lsp-mode
 app-emacs/lsp-latex 20240215.1159: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20240101.851: LSP Clients for LTEX
 app-emacs/lsp-metals 20231017.911: Scala Client settings
-app-emacs/lsp-mode 20240211.1128: LSP mode
+app-emacs/lsp-mode 20240215.1823: LSP mode
 app-emacs/lsp-mssql 20230510.1124: MSSQL LSP bindings
 app-emacs/lsp-origami 20230815.704: origami.el support for lsp-mode
 app-emacs/lsp-p4 20190127.1049: P4 support for lsp-mode
@@ -3144,7 +3144,7 @@ app-emacs/madhat2r-theme 20170203.30: dark color theme that is easy on the eyes
 app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
-app-emacs/magik-mode 20240215.853: Emacs major mode for Smallworld Magik files
+app-emacs/magik-mode 20240216.921: Emacs major mode for Smallworld Magik files
 app-emacs/magit 20240211.1712: A Git porcelain inside Emacs.
 app-emacs/magit-annex 20231210.2140: Control git-annex from Magit
 app-emacs/magit-commit-mark 20230420.304: Support marking commits as read
@@ -3431,7 +3431,7 @@ app-emacs/myrddin-mode 20191225.2120: Major mode for editing Myrddin source file
 app-emacs/mysql-to-org 20210622.447: Minor mode to output the results of mysql queries to org tables
 app-emacs/myterminal-controls 20210904.516: Quick toggle controls at a key-stroke
 app-emacs/n4js 20150714.231: Neo4j Shell
-app-emacs/naga-theme 20231208.719: Dark color theme with green foreground color
+app-emacs/naga-theme 20240215.2049: Dark color theme with green foreground color
 app-emacs/name-this-color 20151014.2030: Match RGB codes to names easily and precisely
 app-emacs/named-timer 20181120.2224: Simplified timer management for Emacs Lisp
 app-emacs/nameframe 20221023.957: Manage frames by name.
@@ -3696,7 +3696,7 @@ app-emacs/openwith 20120531.2136: Open files with external programs
 app-emacs/operate-on-number 20231114.1921: Operate on number at point with arithmetic functions
 app-emacs/orangey-bits-theme 20220822.324: A Theme with smashing orangey bits
 app-emacs/orca 20220828.4: Org Capture
-app-emacs/orderless 20231110.1448: Completion style for matching regexps in any order
+app-emacs/orderless 20240215.1821: Completion style for matching regexps in any order
 app-emacs/ordinal 20210519.1442: Convert number to ordinal number notation
 app-emacs/org-ac 20170401.1307: Some auto-complete sources for org-mode
 app-emacs/org-agenda-files-track 20231209.1529: Fine-track `org-agenda-files' to speed-up `org-agenda'
@@ -3870,7 +3870,7 @@ app-emacs/org-sync-snippets 20210111.1726: Export snippets to org-mode and vice 
 app-emacs/org-table-color 20220311.1927: Add color to your org-mode table cells
 app-emacs/org-table-comment 20120209.1851: Org table comment modes.
 app-emacs/org-table-sticky-header 20190924.506: Sticky header for org-mode tables
-app-emacs/org-tag-beautify 20240126.314: Beautify Org mode tags
+app-emacs/org-tag-beautify 20240216.939: Beautify Org mode tags
 app-emacs/org-tagged 20220926.2048: Dynamic block for tagged org-mode todos
 app-emacs/org-tanglesync 20200127.1616: Syncing org src blocks with tangled external files
 app-emacs/org-tfl 20170923.1218: Transport for London meets Orgmode
@@ -4001,7 +4001,7 @@ app-emacs/ox-wk 20191231.2058: Wiki Back-End for Org Export Engine
 app-emacs/ox-yaow 20220629.1539: Generate html pages from org files
 app-emacs/ox-zenn 20200924.1607: Zenn flavored markdown backend for org export engine
 app-emacs/p4 20150721.1937: Simple Perforce-Emacs Integration
-app-emacs/pabbrev 20240208.2116: Predictive abbreviation expansion
+app-emacs/pabbrev 20240216.439: Predictive abbreviation expansion
 app-emacs/pacfiles-mode 20230503.1523: The pacnew and pacsave merging tool
 app-emacs/pack 20191017.456: Pack and unpack archive files
 app-emacs/package+ 20230805.2115: Extensions for the package library.
@@ -5079,8 +5079,8 @@ app-emacs/telephone-line 20240109.2021: Rewrite of Powerline
 app-emacs/teleport 20240101.1358: Integration for tsh (goteleport.com)
 app-emacs/teletext 20231215.1524: Teletext broadcast viewer
 app-emacs/teletext-yle 20231215.1609: Teletext provider for Finnish national network YLE
-app-emacs/tempel 20240102.331: Tempo templates/snippets with in-buffer field editing
-app-emacs/tempel-collection 20240205.726: Collection of templates for Tempel
+app-emacs/tempel 20240215.2332: Tempo templates/snippets with in-buffer field editing
+app-emacs/tempel-collection 20240216.1105: Collection of templates for Tempel
 app-emacs/templ-ts-mode 20240118.338: Major mode for editing Templ files
 app-emacs/template-overlays 20180706.1132: Display template regions using overlays
 app-emacs/templatel 20210902.228: Templating language;
@@ -5220,7 +5220,7 @@ app-emacs/tree-sitter 20220212.1632: Incremental parsing system
 app-emacs/tree-sitter-ess-r 20221012.855: R with tree-sitter
 app-emacs/tree-sitter-indent 20220411.1439: Provide indentation with a Tree-sitter backend
 app-emacs/tree-sitter-ispell 20230205.533: Run ispell on tree-sitter text nodes
-app-emacs/tree-sitter-langs 20240215.1016: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 20240216.252: Grammar bundle for tree-sitter
 app-emacs/treebundel 20240210.343: Bundle related git-worktrees together
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
 app-emacs/treemacs 20240214.2107: A tree style file explorer package
@@ -5606,7 +5606,7 @@ app-emacs/yard-mode 20230505.1950: Minor mode for Ruby YARD comments
 app-emacs/yari 20151128.739: Yet Another RI interface for Emacs
 app-emacs/yarn-mode 20200208.2332: Major mode for yarn.lock files.
 app-emacs/yascroll 20220212.1742: Yet Another Scroll Bar Mode
-app-emacs/yasnippet 20240212.1645: Yet another snippet extension for Emacs
+app-emacs/yasnippet 20240215.1909: Yet another snippet extension for Emacs
 app-emacs/yasnippet-capf 20240116.1646: Yasnippet Completion At Point Function
 app-emacs/yasnippet-lean 20220105.2251: Collection of snippets for the Lean prover
 app-emacs/yasnippet-snippets 20240115.1138: Collection of yasnippet snippets
