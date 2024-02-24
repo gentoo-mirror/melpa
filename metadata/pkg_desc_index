@@ -754,7 +754,7 @@ app-emacs/conkeror-minor-mode 20150114.1604: Mode for editing conkeror javascrip
 app-emacs/conllu-mode 20200501.2328: editing mode for CoNLL-U files
 app-emacs/connection 20191111.446: TCP-based client connection
 app-emacs/constant-theme 20180921.1012: A calm, dark, almost monochrome color theme.
-app-emacs/consult 20240223.1314: Consulting completing-read
+app-emacs/consult 20240224.1029: Consulting completing-read
 app-emacs/consult-ag 20230227.406: The silver searcher integration using Consult
 app-emacs/consult-codesearch 20230315.1424: Consult interface for codesearch
 app-emacs/consult-company 20230606.1824: Consult frontend for company
@@ -1305,7 +1305,7 @@ app-emacs/elisp-slime-nav 20210510.528: Make M-. and M-, work in elisp like they
 app-emacs/elixir-mode 20230626.1738: Major mode for editing Elixir files
 app-emacs/elixir-ts-mode 20240116.645: Major mode for Elixir with tree-sitter support
 app-emacs/elixir-yasnippets 20150417.1239: Yasnippets for Elixir
-app-emacs/ellama 20240223.2012: Tool for interacting with LLMs
+app-emacs/ellama 20240224.918: Tool for interacting with LLMs
 app-emacs/ellocate 20200112.1931: The locate command reimplemented in Emacs Lisp
 app-emacs/elm-mode 20230315.1122: Major mode for Elm
 app-emacs/elm-test-runner 20230905.331: Enhanced support for running elm-test
@@ -1715,7 +1715,7 @@ app-emacs/fluxus-mode 20210715.58: Major mode for interfacing with Fluxus
 app-emacs/flx 20240205.356: fuzzy matching with good sorting
 app-emacs/flx-ido 20240205.356: flx integration for ido
 app-emacs/flx-isearch 20191119.515: Fuzzy incremental searching for emacs
-app-emacs/flycheck 20240224.703: On-the-fly syntax checking
+app-emacs/flycheck 20240224.712: On-the-fly syntax checking
 app-emacs/flycheck-actionlint 20230802.913: Flycheck integration for actionlint
 app-emacs/flycheck-ameba 20191226.1011: Add support for Ameba to Flycheck
 app-emacs/flycheck-apertium 20181211.1038: Apertium checkers in flycheck
@@ -3334,7 +3334,7 @@ app-emacs/modern-fringes 20220401.202: Replaces default fringe bitmaps with bett
 app-emacs/modern-sh 20211101.1001: Minor mode for editing shell script
 app-emacs/modtime-skip-mode 20140128.2201: Minor mode for disabling modtime and supersession checks on files.
 app-emacs/modular-config 20210726.1614: Organize your config into small and loadable modules
-app-emacs/modus-themes 20240223.712: Elegant, highly legible and customizable themes
+app-emacs/modus-themes 20240224.1007: Elegant, highly legible and customizable themes
 app-emacs/moe-theme 20231006.639: A colorful eye-candy theme. Moe, moe, kyun!
 app-emacs/molar-mass 20220922.1752: Calculates molar mass of a molecule
 app-emacs/molecule 20180527.743: Simple wrapper for molecule
@@ -3923,10 +3923,10 @@ app-emacs/orgmdb 20231003.2144: An OMDb API client with some convenience functio
 app-emacs/orgnav 20170608.1713: Org tree navigation using helm
 app-emacs/orgnote 20231211.2104: Sync org-roam notes with OrgNote app
 app-emacs/orgstrap 20230408.2232: Bootstrap an Org file using file local variables
-app-emacs/orgtbl-aggregate 20230806.1657: Create an aggregated Org table from another one
+app-emacs/orgtbl-aggregate 20240224.729: Create an aggregated Org table from another one
 app-emacs/orgtbl-ascii-plot 20230122.816: ascii-art bar plots in org-mode tables
 app-emacs/orgtbl-fit 20230110.1544: Regression-fit a column in an Org Mode table
-app-emacs/orgtbl-join 20230127.2133: Join columns from another Org Mode table
+app-emacs/orgtbl-join 20240224.749: Join columns from another Org Mode table
 app-emacs/orgtbl-show-header 20230903.903: Show the header of the current column in the minibuffer
 app-emacs/origami 20200331.1019: Flexible text folding
 app-emacs/origami-predef 20200615.1044: Apply folding when finding (opening) files
@@ -4597,7 +4597,7 @@ app-emacs/runtests 20150807.831: Run unit tests from Emacs
 app-emacs/russian-holidays 20170109.2140: Russian holidays for the calendar
 app-emacs/russian-techwriter 20221229.822: Input methods for Russian technical writers
 app-emacs/rust-auto-use 20200608.1359: Utility to automatically insert Rust use statements
-app-emacs/rust-mode 20240217.338: A major-mode for editing Rust source code
+app-emacs/rust-mode 20240224.1230: A major-mode for editing Rust source code
 app-emacs/rust-playground 20200116.1043: Local Rust playground for short code snippets.
 app-emacs/rustic 20230130.912: Rust development environment
 app-emacs/rutils 20220619.1421: R utilities with transient
@@ -4624,7 +4624,7 @@ app-emacs/saveplace-pdf-view 20240209.505: Save place in pdf-view buffers
 app-emacs/say-what-im-doing 20160706.1931: dictate what you're doing with text to speech
 app-emacs/sayid 20220101.1357: sayid nREPL middleware client
 app-emacs/sbt-mode 20240208.626: Interactive support for sbt projects
-app-emacs/scad-mode 20240216.1536: A major mode for editing OpenSCAD code
+app-emacs/scad-mode 20240224.1251: A major mode for editing OpenSCAD code
 app-emacs/scad-preview 20211212.1128: Preview SCAD models in real-time within Emacs
 app-emacs/scala-mode 20240113.1743: Major mode for editing Scala
 app-emacs/scala-ts-mode 20240213.1734: Scala Tree-Sitter Mode
@@ -5227,10 +5227,10 @@ app-emacs/tree-sitter 20220212.1632: Incremental parsing system
 app-emacs/tree-sitter-ess-r 20221012.855: R with tree-sitter
 app-emacs/tree-sitter-indent 20220411.1439: Provide indentation with a Tree-sitter backend
 app-emacs/tree-sitter-ispell 20230205.533: Run ispell on tree-sitter text nodes
-app-emacs/tree-sitter-langs 20240223.1000: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 20240224.1042: Grammar bundle for tree-sitter
 app-emacs/treebundel 20240210.343: Bundle related git-worktrees together
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
-app-emacs/treemacs 20240214.2107: A tree style file explorer package
+app-emacs/treemacs 20240224.1321: A tree style file explorer package
 app-emacs/treemacs-all-the-icons 20240131.2042: all-the-icons integration for treemacs
 app-emacs/treemacs-evil 20240131.2042: Evil mode integration for treemacs
 app-emacs/treemacs-icons-dired 20240131.2042: Treemacs icons for dired
