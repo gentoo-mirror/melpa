@@ -464,7 +464,7 @@ app-emacs/calmer-forest-theme 20230302.2149: Darkish theme with green/orange tin
 app-emacs/camcorder 20190317.2138: Record screencasts in gif or other formats.
 app-emacs/caml 20231011.328: Caml mode for GNU Emacs
 app-emacs/cangjie 20230219.1150: Retrieve cangjie code for han characters
-app-emacs/cape 20240214.1139: Completion At Point Extensions
+app-emacs/cape 20240224.1456: Completion At Point Extensions
 app-emacs/capnp-mode 20210707.2310: Major mode for editing Capn' Proto Files
 app-emacs/capture 20130828.1644: screencasting with "avconv" or "ffmpeg"
 app-emacs/carbon-now-sh 20220701.332: https://carbon.now.sh integration.
@@ -754,7 +754,7 @@ app-emacs/conkeror-minor-mode 20150114.1604: Mode for editing conkeror javascrip
 app-emacs/conllu-mode 20200501.2328: editing mode for CoNLL-U files
 app-emacs/connection 20191111.446: TCP-based client connection
 app-emacs/constant-theme 20180921.1012: A calm, dark, almost monochrome color theme.
-app-emacs/consult 20240224.1029: Consulting completing-read
+app-emacs/consult 20240224.2002: Consulting completing-read
 app-emacs/consult-ag 20230227.406: The silver searcher integration using Consult
 app-emacs/consult-codesearch 20230315.1424: Consult interface for codesearch
 app-emacs/consult-company 20230606.1824: Consult frontend for company
@@ -1039,7 +1039,7 @@ app-emacs/dired-rifle 20210316.1452: Call rifle(1) from dired
 app-emacs/dired-rmjunk 20191007.1232: A home directory cleanup utility for Dired.
 app-emacs/dired-rsync 20230822.1350: Allow rsync from dired buffers
 app-emacs/dired-rsync-transient 20230714.1459: Transient command for dired-rsync
-app-emacs/dired-sidebar 20230623.1655: Tree browser leveraging dired
+app-emacs/dired-sidebar 20240224.1640: Tree browser leveraging dired
 app-emacs/dired-single 20240131.1148: Reuse the current dired buffer
 app-emacs/dired-subtree 20230512.1107: Insert subdirectories in a tree-like fashion
 app-emacs/dired-toggle 20190616.303: Show dired as sidebar and will not create new buffers when changing dir
@@ -1464,7 +1464,7 @@ app-emacs/eshell-z 20191116.333: cd to frequent directory in eshell
 app-emacs/eslint-disable-rule 20230904.1821: Commands to add JS comments disabling eslint rules
 app-emacs/eslint-fix 20211005.221: Fix JavaScript files using ESLint
 app-emacs/eslint-rc 20220328.800: Use local rc rules with ESLint
-app-emacs/eslintd-fix 20210731.1649: use eslint_d to automatically fix js files
+app-emacs/eslintd-fix 20240224.1517: use eslint_d to automatically fix js files
 app-emacs/esmond-theme 20230526.124: Esmond dark theme
 app-emacs/esonify 20190110.1621: Sonify your code
 app-emacs/espotify 20220121.2057: Spotify access library
@@ -1641,7 +1641,7 @@ app-emacs/fcitx 20240121.1829: Make fcitx better in Emacs
 app-emacs/fcopy 20150304.1403: Funny Copy, set past point HERE then search copy text
 app-emacs/fd-dired 20210723.549: find-dired alternative using fd
 app-emacs/feature-mode 20220418.848: Major mode for editing Gherkin (i.e. Cucumber) user stories
-app-emacs/fedi 20240220.1434: Helper functions for fediverse clients
+app-emacs/fedi 20240224.1516: Helper functions for fediverse clients
 app-emacs/feebleline 20190822.1401: Replace modeline with a slimmer proxy
 app-emacs/feed-discovery 20200714.1118: Discover feed url by RSS/Atom autodiscovery
 app-emacs/feline 20230315.1821: A modeline with very little
@@ -1961,7 +1961,7 @@ app-emacs/fullframe 20210226.1057: Generalized automatic execution in a single f
 app-emacs/function-args 20220516.1226: C++ completion for GNU Emacs
 app-emacs/fuo 20190812.927: feeluown client.
 app-emacs/furl 20150509.316: Friendly URL retrieval
-app-emacs/fussy 20240103.159: Fuzzy completion style using `flx'
+app-emacs/fussy 20240224.1641: Fuzzy completion style using `flx'
 app-emacs/futhark-mode 20230511.1235: major mode for editing Futhark source files
 app-emacs/fuz 20200104.524: Fast and precise fuzzy scoring/matching utils
 app-emacs/fuzzy 20240101.830: Fuzzy Matching
@@ -2895,7 +2895,7 @@ app-emacs/keyword-search 20180424.1102: browser keyword search from Emacs
 app-emacs/kfg 20140909.538: an emacs configuration system
 app-emacs/khalel 20230606.1909: Import, edit and create calendar events through khal
 app-emacs/khardel 20231126.1502: Integrate with khard
-app-emacs/khoj 20240220.2212: AI copilot for your Second Brain
+app-emacs/khoj 20240224.1539: AI copilot for your Second Brain
 app-emacs/kibit-helper 20150508.1533: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-file-path 20230306.1041: Copy file name into kill ring
 app-emacs/kill-or-bury-alive 20230606.1503: Precise control over buffer killing
@@ -3800,7 +3800,7 @@ app-emacs/org-mime 20240129.2327: org html export for text/html MIME emails
 app-emacs/org-mind-map 20180826.2340: Creates a directed graph from org-mode files
 app-emacs/org-ml 20230410.30: Functional Org Mode API
 app-emacs/org-mobile-sync 20180606.524: automatically sync org-mobile on changes
-app-emacs/org-modern 20240102.329: Modern looks for Org
+app-emacs/org-modern 20240224.1614: Modern looks for Org
 app-emacs/org-movies 20210920.101: Manage watchlist with Org mode
 app-emacs/org-mpv-notes 20231210.628: Take notes in org mode while watching videos in mpv
 app-emacs/org-mru-clock 20230704.850: Clock in/out of tasks with completion and persistent history
@@ -5154,11 +5154,11 @@ app-emacs/timer-revert 20150122.2032: minor mode to revert buffer for a given ti
 app-emacs/timesheet 20221004.1702: Timesheet management add-on for org-mode
 app-emacs/timonier 20170411.800: Manage Kubernetes Applications
 app-emacs/timp 20160618.803: Multithreading library
-app-emacs/timu-caribbean-theme 20231022.1816: Color theme with cyan as a dominant color
+app-emacs/timu-caribbean-theme 20240224.2028: Color theme with cyan as a dominant color
 app-emacs/timu-line 20231002.1016: Custom and simple mode line
 app-emacs/timu-macos-theme 20240215.1822: Color theme inspired by the macOS UI
-app-emacs/timu-rouge-theme 20230911.2116: Color theme inspired by the Rouge Theme for VSCode
-app-emacs/timu-spacegrey-theme 20231010.2137: Color theme inspired by the Spacegray theme in Sublime Text
+app-emacs/timu-rouge-theme 20240224.2040: Color theme inspired by the Rouge Theme for VSCode
+app-emacs/timu-spacegrey-theme 20240224.2010: Color theme inspired by the Spacegray theme in Sublime Text
 app-emacs/tinkerer 20200914.1756: Elisp wrapper for Tinkerer Blogging Engine.
 app-emacs/tiny 20220910.1929: Quickly generate linear ranges in Emacs
 app-emacs/tiny-menu 20220725.1748: Display tiny menus.
