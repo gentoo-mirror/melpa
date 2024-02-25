@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Explore Denote files"
+DESCRIPTION="No description available."
 
 HOMEPAGE="https://github.com/pprevos/denote-extra/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
@@ -18,7 +18,7 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/dash
-	app-emacs/denote"
-RDEPEND="app-emacs/dash
-	app-emacs/denote"
+DEPEND="app-emacs/denote
+	app-emacs/dash"
+RDEPEND="app-emacs/denote
+	app-emacs/dash"
