@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Contacts management system for Org Mode"
+DESCRIPTION="Contacts management system for Org mode"
 
 HOMEPAGE="https://repo.or.cz/org-contacts.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
