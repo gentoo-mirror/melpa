@@ -283,7 +283,7 @@ app-emacs/bap-mode 20200128.1354: Major-mode for BAP's IR
 app-emacs/bar-cursor 20201204.2244: package used to switch block cursor to a bar
 app-emacs/bart-mode 20190601.1004: Real time BART departures info.
 app-emacs/base16-theme 20240218.58: Collection of themes built on combinations of 16 base colors
-app-emacs/base32 20240203.1945: Base32 support
+app-emacs/base32 20240227.1821: Base32 support
 app-emacs/bash-completion 20230612.1103: Bash completion for the shell buffer
 app-emacs/basic-c-compile 20170302.1112: Quickly create a Makefile, compile and run C.
 app-emacs/basic-ide 20230118.1040: BASIC IDE c64
@@ -341,7 +341,7 @@ app-emacs/bind-map 20220108.228: Bind personal keymaps in multiple locations
 app-emacs/binder 20230729.350: Global minor mode to facilitate multi-file writing projects
 app-emacs/bing-dict 20200216.110: Minimalists' English-Chinese Bing dictionary
 app-emacs/binky 20240107.2156: Jump between points like a rabbit
-app-emacs/biome 20240128.1235: Bountiful Interface to Open Meteo for Emacs
+app-emacs/biome 20240227.2212: Bountiful Interface to Open Meteo for Emacs
 app-emacs/birds-of-paradise-plus-theme 20130419.2129: A brown/orange light-on-dark theme for Emacs 24 (deftheme).
 app-emacs/bison-mode 20210527.717: Major mode for editing bison, yacc and lex files.
 app-emacs/bitbake 20220509.1236: Running bitbake from emacs
@@ -557,7 +557,7 @@ app-emacs/cil-mode 20160622.1431: Common Intermediate Language mode
 app-emacs/cilk-mode 20220807.1629: Minor mode for Cilk code editing
 app-emacs/cinspect 20150716.233: Use cinspect to look at the CPython source of builtins and other C objects!
 app-emacs/circadian 20231027.744: Theme-switching based on daytime
-app-emacs/circe 20240225.1112: Client for IRC in Emacs
+app-emacs/circe 20240227.2116: Client for IRC in Emacs
 app-emacs/circe-notifications 20180102.2318: Add desktop notifications to Circe.
 app-emacs/circleci-api 20210227.1607: Bindings for the CircleCI API
 app-emacs/citar 20231226.1453: Citation-related commands for org, latex, markdown
@@ -2833,7 +2833,7 @@ app-emacs/julia-formatter 20231130.1512: Use JuliaFormatter.jl for julia code
 app-emacs/julia-mode 20230712.1524: Major mode for editing Julia source code
 app-emacs/julia-repl 20231026.1005: A minor mode for a Julia REPL
 app-emacs/julia-shell 20161125.1910: Major mode for an inferior Julia shell
-app-emacs/julia-snail 20240205.2228: Julia Snail
+app-emacs/julia-snail 20240227.1914: Julia Snail
 app-emacs/julia-ts-mode 20230921.1433: Major mode for Julia source code using tree-sitter
 app-emacs/julia-vterm 20230815.2318: A mode for Julia REPL using vterm
 app-emacs/jumblr 20170727.2043: an anagram game for emacs
@@ -2990,7 +2990,7 @@ app-emacs/legalese 20200119.2248: Add legalese to your program files
 app-emacs/lem 20240226.1456: A lemmy client
 app-emacs/lemon-mode 20130216.1304: A major mode for editing lemon grammar files
 app-emacs/lentic 20240227.1618: One buffer as a view of another
-app-emacs/lentic-server 20160717.2052: Web Server for Emacs Literate Source
+app-emacs/lentic-server 20240227.1657: Web Server for Emacs Literate Source
 app-emacs/leo 20220111.1045: Interface for dict.leo.org
 app-emacs/lesim-mode 20230627.1350: Major mode for Learning Simulator scripts
 app-emacs/less-css-mode 20161001.453: Major mode for editing LESS CSS files (lesscss.org)
@@ -4711,7 +4711,7 @@ app-emacs/shell-command-x 20231214.1: Extensions for shell commands
 app-emacs/shell-current-directory 20140101.2354: create new shell based on buffer directory
 app-emacs/shell-here 20220102.1703: Open a shell relative to the working directory
 app-emacs/shell-history 20100505.839: integration with shell history
-app-emacs/shell-maker 20240112.1749: Interaction mode for making comint shells
+app-emacs/shell-maker 20240227.2310: Interaction mode for making comint shells
 app-emacs/shell-pop 20231228.612: helps you to use shell easily on Emacs. Only one key action to work.
 app-emacs/shell-split-string 20151224.1008: Split strings using shell-like syntax
 app-emacs/shell-switcher 20210509.1045: Provide fast switching between shell buffers.
@@ -5046,7 +5046,7 @@ app-emacs/system-specific-settings 20140818.1457: Apply settings only on certain
 app-emacs/systemd 20230201.302: Major mode for editing systemd units
 app-emacs/systemtap-mode 20151122.1940: A mode for SystemTap
 app-emacs/ta 20160619.1645: A tool to deal with Chinese homophonic characters
-app-emacs/tab-bar-buffers 20220722.1937: Use tab-bar-mode as a buffer manager
+app-emacs/tab-bar-buffers 20240227.2037: Use tab-bar-mode as a buffer manager
 app-emacs/tab-bar-echo-area 20221115.1953: Display tab names of the tab bar in the echo area
 app-emacs/tab-bar-groups 20211013.2012: Tab groups for the tab bar
 app-emacs/tab-bar-lost-commands 20211013.1945: The "lost commands" of the tab bar
@@ -5104,7 +5104,7 @@ app-emacs/term-projectile 20230727.2308: projectile terminal management
 app-emacs/term-run 20200128.702: Run arbitrary command in terminal buffer
 app-emacs/termbright-theme 20151031.235: a more usable theme for white-on-black terminals
 app-emacs/terminal-focus-reporting 20180830.719: Minor mode for terminal focus reporting.
-app-emacs/terminal-here 20240225.1752: Run an external terminal in current directory
+app-emacs/terminal-here 20240227.2236: Run an external terminal in current directory
 app-emacs/terminal-toggle 20190226.1510: simple pop-up terminal
 app-emacs/tern 20191227.950: Tern-powered JavaScript integration
 app-emacs/tern-auto-complete 20191227.950: Tern Completion by auto-complete.el
@@ -5194,7 +5194,7 @@ app-emacs/torus 20190325.753: A buffer groups manager
 app-emacs/total-lines 20171227.1239: Keep track of a buffer's total number of lines
 app-emacs/totd 20150519.1440: Display a random daily emacs command.
 app-emacs/totp 20240102.1721: Time-based One-time Password (TOTP)
-app-emacs/totp-auth 20240203.2152: RFC6238 TOTP
+app-emacs/totp-auth 20240227.1841: RFC6238 TOTP
 app-emacs/tox 20170404.1059: Launch current python test with tox
 app-emacs/toxi-theme 20160424.2126: A dark color theme by toxi
 app-emacs/tql-mode 20170724.254: TQL mode
@@ -5489,7 +5489,7 @@ app-emacs/wgrep-helm 20230202.315: Writable helm-grep-mode buffer
 app-emacs/wgrep-pt 20230207.1125: Writable pt buffer
 app-emacs/wgsl-mode 20231118.1944: Syntax highlighting for the WebGPU Shading Language
 app-emacs/what-the-commit 20150901.1316: Random commit message generator
-app-emacs/which-key 20240226.221: Display available keybindings in popup
+app-emacs/which-key 20240227.2008: Display available keybindings in popup
 app-emacs/which-key-posframe 20230313.1841: Using posframe to show which-key
 app-emacs/whiley-mode 20220501.2219: Major mode for Whiley language
 app-emacs/whitaker 20210203.1149: Comint interface for Whitaker's Words
