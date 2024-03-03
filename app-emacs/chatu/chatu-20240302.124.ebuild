@@ -5,18 +5,20 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="flymake-languagetool"
+REALNAME="chatu"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Flymake support for LanguageTool"
+DESCRIPTION="Convert and insert diagram to buffer"
 
-HOMEPAGE="https://github.com/emacs-languagetool/flymake-languagetool"
+HOMEPAGE="https://github.com/kimim/chatu"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/org-mode
+	app-emacs/plantuml-mode"
+RDEPEND="app-emacs/org-mode
+	app-emacs/plantuml-mode"
