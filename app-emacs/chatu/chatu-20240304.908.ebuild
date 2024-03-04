@@ -5,18 +5,20 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="yeetube"
+REALNAME="chatu"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="YouTube Front End | Interface for yt-dlp | mpv control |"
+DESCRIPTION="Convert and insert any images to org-mode or markdown buffer"
 
-HOMEPAGE="https://thanosapollo.org/projects/yeetube/"
+HOMEPAGE="https://github.com/kimim/chatu"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/compat"
-RDEPEND="app-emacs/compat"
+DEPEND="app-emacs/org-mode
+	app-emacs/plantuml-mode"
+RDEPEND="app-emacs/org-mode
+	app-emacs/plantuml-mode"
