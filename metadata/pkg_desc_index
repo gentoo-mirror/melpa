@@ -270,7 +270,7 @@ app-emacs/babel 20210612.640: interface to web translation services such as Babe
 app-emacs/babel-repl 20160504.2201: Run babel REPL
 app-emacs/back-button 20220827.1733: Visual navigation through mark rings
 app-emacs/backlight 20210513.129: backlight brightness adjustment on GNU/Linux
-app-emacs/backline 20240101.2210: Preserve appearance of outline headings
+app-emacs/backline 20240306.1822: Preserve appearance of outline headings
 app-emacs/backup-each-save 20180227.557: backup each savepoint of a file
 app-emacs/backup-walker 20130720.1516: quickly traverse all backups of a file
 app-emacs/backward-forward 20161229.550: navigation backwards and forwards across marks
@@ -550,7 +550,7 @@ app-emacs/chronometrist-spark 20230629.1039: Show sparklines in Chronometrist bu
 app-emacs/chronos 20230804.1712: Multiple simultaneous countdown / countup timers
 app-emacs/chruby 20180114.1652: Emacs integration for chruby
 app-emacs/chyla-theme 20231220.1545: chyla.org - green color theme.
-app-emacs/cider 20240306.425: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 20240307.1019: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-decompile 20151122.537: decompilation extension for cider
 app-emacs/cider-eval-sexp-fu 20190311.2152: Briefly highlights an evaluated sexp.
 app-emacs/cider-hydra 20190816.1121: Hydras for CIDER.
@@ -566,7 +566,7 @@ app-emacs/citar 20231226.1453: Citation-related commands for org, latex, markdow
 app-emacs/citar-denote 20240228.807: Minor mode integrating Citar and Denote
 app-emacs/citar-embark 20231122.1548: Citar/Embark integration
 app-emacs/citar-org-roam 20240212.2159: Citar/org-roam integration
-app-emacs/citeproc-el 20231230.1309: A CSL 1.0.2 Citation Processor
+app-emacs/citeproc-el 20240306.2332: A CSL 1.0.2 Citation Processor
 app-emacs/citeproc-org 20200915.2009: Render org-mode references in CSL styles
 app-emacs/citre 20240203.457: Ctags IDE on the True Editor
 app-emacs/cl-format 20230818.1726: CL format routine.
@@ -778,7 +778,7 @@ app-emacs/consult-project-extra 20231221.1857: Consult integration for project.e
 app-emacs/consult-projectile 20230821.406: Consult integration for projectile
 app-emacs/consult-recoll 20231211.1221: Recoll queries using consult
 app-emacs/consult-spotify 20211114.2258: Spotify queries using consult
-app-emacs/consult-tex 20240130.1536: Consult powered completion for tex
+app-emacs/consult-tex 20240307.1019: Consult powered completion for tex
 app-emacs/consult-todo 20231022.2059: Search hl-todo keywords in consult
 app-emacs/consult-yasnippet 20220724.1338: A consulting-read interface for yasnippet
 app-emacs/contextual 20180726.800: Contextual profile management system
@@ -921,7 +921,7 @@ app-emacs/dash-alfred 20191024.450: Search Dash documentation via Dash-Alfred-Wo
 app-emacs/dash-at-point 20211023.104: Search the word at point with Dash
 app-emacs/dash-docs 20210830.926: Offline documentation browser using Dash docsets.
 app-emacs/dash-functional 20210826.1149: Collection of useful combinators for Emacs Lisp
-app-emacs/dashboard 20240222.59: A startup screen extracted from Spacemacs
+app-emacs/dashboard 20240307.854: A startup screen extracted from Spacemacs
 app-emacs/dashboard-hackernews 20220516.1809: Display Hacker News on dashboard
 app-emacs/dashboard-ls 20240101.841: Display files/directories in current directory on Dashboard
 app-emacs/dashboard-project-status 20190202.1354: Display a git project status in a dashboard widget.
@@ -992,7 +992,7 @@ app-emacs/diffed 20230208.1546: Diffed is for recursive diff like Dired is for l
 app-emacs/difflib 20210224.2242: Helpers for computing deltas between sequences.
 app-emacs/diffpdf 20210626.1447: Transient diffpdf
 app-emacs/diffscuss-mode 20141014.2357: Major mode for diffscuss files.
-app-emacs/difftastic 20240223.1630: Wrapper for difftastic
+app-emacs/difftastic 20240307.727: Wrapper for difftastic
 app-emacs/diffview 20230224.1916: View diffs in side-by-side format
 app-emacs/digistar-mode 20240220.1600: major mode for Digistar scripts
 app-emacs/digit-groups 20200506.37: Highlight place-value positions in numbers
@@ -1108,7 +1108,7 @@ app-emacs/dokuwiki 20180102.59: Edit Remote DokuWiki Pages Using XML-RPC
 app-emacs/dokuwiki-mode 20170223.1301: Major mode for DokuWiki document
 app-emacs/dollaro 20151123.1302: simple text templates
 app-emacs/doom 20180301.2308: DOM implementation and manipulation library
-app-emacs/doom-modeline 20240221.817: A minimal and modern mode-line
+app-emacs/doom-modeline 20240307.717: A minimal and modern mode-line
 app-emacs/doom-modeline-now-playing 20210831.1442: Segment for Doom Modeline to show playerctl information
 app-emacs/doom-themes 20231208.2011: an opinionated pack of modern color-themes
 app-emacs/dot-env 20230820.2014: Dotenv functionality
@@ -1188,7 +1188,7 @@ app-emacs/ebib-sidecar 20240203.1945: Sidecar to show formatted reference of cur
 app-emacs/ebnf-mode 20231022.1759: Major mode for EBNF files
 app-emacs/ebuku 20231113.748: Interface to the buku Web bookmark manager
 app-emacs/ecb 20170728.1921: a code browser for Emacs
-app-emacs/echo-bar 20231121.1720: Turn the echo area into a custom status bar
+app-emacs/echo-bar 20240307.741: Turn the echo area into a custom status bar
 app-emacs/eclim 20181108.1134: An interface to the Eclipse IDE.
 app-emacs/eclipse-theme 20191113.1518: Theme based on Eclipse circa 2010
 app-emacs/ecukes 20230220.456: Cucumber for Emacs
@@ -1865,7 +1865,7 @@ app-emacs/flymake-jslint 20170723.146: A flymake handler for javascript using js
 app-emacs/flymake-json 20180511.911: A flymake handler for json using jsonlint
 app-emacs/flymake-kondor 20211026.501: Linter with clj-kondo
 app-emacs/flymake-ktlint 20180831.346: Flymake extension for Ktlint.
-app-emacs/flymake-languagetool 20240303.1942: Flymake support for LanguageTool
+app-emacs/flymake-languagetool 20240307.419: Flymake support for LanguageTool
 app-emacs/flymake-less 20151111.738: Flymake handler for LESS stylesheets (lesscss.org)
 app-emacs/flymake-lua 20170129.154: Flymake for Lua
 app-emacs/flymake-markdownlint 20220320.1208: Markdown linter with markdownlint
@@ -1922,7 +1922,7 @@ app-emacs/forecast 20191004.1850: Weather forecasts
 app-emacs/foreign-regexp 20200325.50: search and replace by foreign regexp.
 app-emacs/foreman-mode 20170725.1422: View and manage Procfile-based applications
 app-emacs/forest-blue-theme 20160627.842: Emacs theme with a dark background.
-app-emacs/forge 20240305.2237: Access Git forges from Magit.
+app-emacs/forge 20240305.2250: Access Git forges from Magit.
 app-emacs/form-feed 20210508.1627: Display ^L glyphs as horizontal lines
 app-emacs/form-feed-st 20231002.2211: Display ^L glyphs as full-width horizontal lines
 app-emacs/format-all 20240205.2153: Auto-format C, C++, JS, Python, Ruby and 50 other languages
@@ -2020,7 +2020,7 @@ app-emacs/ghci-completion 20151125.1257: Completion for GHCi commands in inferio
 app-emacs/gherkin-mode 20171224.1353: An emacs major mode for editing gherkin files.
 app-emacs/ghost-blog 20171023.742: A package to manage Ghost blog
 app-emacs/ghq 20230510.332: Ghq interface for emacs
-app-emacs/ghub 20240303.21: Client libraries for Git forge APIs.
+app-emacs/ghub 20240306.1814: Client libraries for Git forge APIs.
 app-emacs/ghub+ 20191229.1748: a thick GitHub API client built on ghub
 app-emacs/gif-screencast 20230728.1144: One-frame-per-action GIF recording
 app-emacs/gift-mode 20210528.1459: major mode for editing GIFT format quizzes
@@ -2855,7 +2855,7 @@ app-emacs/kaesar 20230626.2314: AES algorithm encrypt/decrypt
 app-emacs/kaesar-file 20230614.332: AES encrypt/decrypt file
 app-emacs/kaesar-mode 20230626.401: AES encrypt/decrypt buffer
 app-emacs/kaesar-pbkdf2 20230626.2314: PBKDF2 extension for kaesar.el
-app-emacs/kagi 20240229.1953: Kagi API integration
+app-emacs/kagi 20240306.2020: Kagi API integration
 app-emacs/kakapo-mode 20171004.451: TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment.
 app-emacs/kakoune 20230206.2037: A simulation, but not emulation, of kakoune
 app-emacs/kaleidoscope 20170808.817: Controlling Kaleidoscope-powered devices.
@@ -3438,7 +3438,7 @@ app-emacs/myrddin-mode 20191225.2120: Major mode for editing Myrddin source file
 app-emacs/mysql-to-org 20210622.447: Minor mode to output the results of mysql queries to org tables
 app-emacs/myterminal-controls 20210904.516: Quick toggle controls at a key-stroke
 app-emacs/n4js 20150714.231: Neo4j Shell
-app-emacs/naga-theme 20240218.715: Dark color theme with green foreground color
+app-emacs/naga-theme 20240306.2013: Dark color theme with green foreground color
 app-emacs/name-this-color 20151014.2030: Match RGB codes to names easily and precisely
 app-emacs/named-timer 20181120.2224: Simplified timer management for Emacs Lisp
 app-emacs/nameframe 20221023.957: Manage frames by name.
@@ -3664,7 +3664,7 @@ app-emacs/ocp-indent 20211019.907: automatic indentation with ocp-indent
 app-emacs/octicons 20151101.340: octicons utility
 app-emacs/octo-mode 20161008.1229: Major mode for Octo assembly language
 app-emacs/octopress 20190123.107: A lightweight wrapper for Jekyll and Octopress.
-app-emacs/oer-reveal 20240104.1513: OER with reveal.js, plugins, and org-re-reveal
+app-emacs/oer-reveal 20240307.903: OER with reveal.js, plugins, and org-re-reveal
 app-emacs/offlineimap 20150916.1158: Run OfflineIMAP from Emacs
 app-emacs/oj 20230212.148: Competitive programming tools client for AtCoder, Codeforces
 app-emacs/ol-notmuch 20240101.2222: Links to notmuch messages
@@ -4016,7 +4016,7 @@ app-emacs/pacdiff 20240219.1606: Manage pacdiff files
 app-emacs/pacfiles-mode 20230503.1523: The pacnew and pacsave merging tool
 app-emacs/pack 20191017.456: Pack and unpack archive files
 app-emacs/package+ 20230805.2115: Extensions for the package library.
-app-emacs/package-build 20240204.2043: Tools for assembling a package archive
+app-emacs/package-build 20240306.2234: Tools for assembling a package archive
 app-emacs/package-filter 20161122.719: package archive whitelist and blacklist
 app-emacs/package-lint 20240220.2303: A linting library for elisp package authors
 app-emacs/package-lint-flymake 20231113.1518: A package-lint Flymake backend
@@ -4118,7 +4118,7 @@ app-emacs/perspeen 20171203.1021: An package for multi-workspace
 app-emacs/pest-mode 20221231.15: Major mode for editing Pest files
 app-emacs/pet 20230906.46: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 20220913.1401: a simple wrapper around asynchronous processes
-app-emacs/pg 20240305.2033: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
+app-emacs/pg 20240306.2003: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
 app-emacs/pgdevenv 20150105.2236: Manage your PostgreSQL development envs
 app-emacs/ph 20161029.1522: A global minor mode for managing multiple projects.
 app-emacs/phabricator 20160510.1425: Phabricator/Arcanist helpers for Emacs.
@@ -4312,7 +4312,7 @@ app-emacs/promise 20210307.727: Promises/A+
 app-emacs/prompt-text 20190408.310: Configure your minibuffer prompt
 app-emacs/prompts 20160916.1041: utilities for working with text prompts.
 app-emacs/pronto 20200218.1633: Compilation mode for pronto stylechecks
-app-emacs/proofgeneral 20240223.1405: A generic Emacs interface for proof assistants
+app-emacs/proofgeneral 20240306.2002: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 20150728.1118: Create and display a context menu based on text and overlay properties
 app-emacs/propfont-mixed 20150113.2211: Use proportional fonts with space-based indentation.
 app-emacs/proportional 20221205.1417: use a proportional font everywhere
@@ -5629,7 +5629,7 @@ app-emacs/yaxception 20240107.504: Provide framework about exception like Java f
 app-emacs/ycm 20150822.1836: Emacs client for the YouCompleteMe auto-completion server.
 app-emacs/ycmd 20190416.807: emacs bindings to the ycmd completion server
 app-emacs/ydk-mode 20170114.223: Language support for Yu-Gi-Oh! deck files
-app-emacs/yeetube 20240306.437: Scrape YouTube - Play with mpv & Download with yt-dlp |
+app-emacs/yeetube 20240307.358: Scrape YouTube - Play with mpv & Download with yt-dlp |
 app-emacs/yequake 20200219.2323: Drop-down frames, like Yakuake
 app-emacs/yesql-ghosts 20150220.1237: Display ghostly yesql defqueries inline
 app-emacs/yesterbox 20200327.52: Count number of inbox messages by day
