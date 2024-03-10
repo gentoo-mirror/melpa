@@ -764,7 +764,7 @@ app-emacs/consult-compile-multi 20230904.1806: Consulting read support for `comp
 app-emacs/consult-dash 20230529.1419: Consult front-end for dash-docs
 app-emacs/consult-dir 20230725.2338: Insert paths into the minibuffer prompt
 app-emacs/consult-eglot 20231209.1137: A consulting-read interface for eglot
-app-emacs/consult-flycheck 20240102.330: Provides the command `consult-flycheck'
+app-emacs/consult-flycheck 20240310.1442: Provides the command `consult-flycheck'
 app-emacs/consult-flyspell 20230322.204: Consult integration for flyspell
 app-emacs/consult-ghq 20231111.1303: Ghq interface using consult
 app-emacs/consult-git-log-grep 20230204.1753: Consult integration for git log grep
@@ -1682,7 +1682,7 @@ app-emacs/firecode-theme 20170808.1311: an Emacs 24 theme based on FireCode (tmT
 app-emacs/fireplace 20200402.2206: A cozy fireplace for emacs
 app-emacs/firestarter 20210508.1626: Execute (shell) commands on save
 app-emacs/firrtl-mode 20231127.1237: mode for working with FIRRTL files
-app-emacs/fish-completion 20240305.412: Fish completion for pcomplete (shell and Eshell)
+app-emacs/fish-completion 20240310.1442: Fish completion for pcomplete (shell and Eshell)
 app-emacs/fish-mode 20240129.1213: Major mode for fish shell scripts
 app-emacs/fit-text-scale 20211230.2002: Fit text by scaling
 app-emacs/fix-input 20230606.1523: Make input methods play nicely with alternative layouts
@@ -1903,6 +1903,7 @@ app-emacs/flyspell-correct-popup 20220520.630: Correcting words with flyspell vi
 app-emacs/flyspell-lazy 20210308.1253: Improve flyspell responsiveness using idle timers
 app-emacs/flyspell-popup 20170529.815: Correcting words with Flyspell in popup menus
 app-emacs/fm-bookmarks 20170104.1716: Use file manager bookmarks (eg Dolphin, Nautilus, PCManFM) in Dired
+app-emacs/fmo-mode 20240306.1442: Format only changed lines
 app-emacs/fn 20210304.1812: Concise anonymous functions for Emacs Lisp
 app-emacs/focus 20221016.1846: Dim the font color of text in surrounding sections
 app-emacs/focus-autosave-mode 20160519.2116: Automatically save files in focus-out-hook.
@@ -2642,7 +2643,7 @@ app-emacs/inf-clojure 20230909.445: Run an external Clojure process in an Emacs 
 app-emacs/inf-crystal 20180119.211: Run a Inferior-Crystal process in a buffer
 app-emacs/inf-elixir 20230611.1945: Run an interactive Elixir shell
 app-emacs/inf-mongo 20180408.1338: Run a MongoDB shell process in a buffer
-app-emacs/inf-ruby 20240127.1832: Run a Ruby process in a buffer
+app-emacs/inf-ruby 20240310.1803: Run a Ruby process in a buffer
 app-emacs/inferior-islisp 20220924.1040: Run inferior ISLisp processes
 app-emacs/inflections 20210110.2237: convert english words between singular and plural
 app-emacs/info-beamer 20210427.1033: Utilities for working with info-beamer
@@ -2811,7 +2812,7 @@ app-emacs/js-import 20230131.1900: Import Javascript files from your current pro
 app-emacs/js-react-redux-yasnippets 20200316.1144: JavaScript,React,Redux yasnippets
 app-emacs/js2-closure 20170816.1918: Google Closure dependency manager
 app-emacs/js2-highlight-vars 20170418.1829: highlight occurrences of the variable under cursor
-app-emacs/js2-mode 20240221.351: Improved JavaScript editing mode
+app-emacs/js2-mode 20240310.1755: Improved JavaScript editing mode
 app-emacs/js2-refactor 20210306.2003: A JavaScript refactoring library for emacs.
 app-emacs/js2hl 20201119.816: Highlight/rename things using js2-mode parser
 app-emacs/js3-mode 20160515.1550: An improved JavaScript editing mode
@@ -2837,7 +2838,7 @@ app-emacs/julia-formatter 20231130.1512: Use JuliaFormatter.jl for julia code
 app-emacs/julia-mode 20230712.1524: Major mode for editing Julia source code
 app-emacs/julia-repl 20231026.1005: A minor mode for a Julia REPL
 app-emacs/julia-shell 20161125.1910: Major mode for an inferior Julia shell
-app-emacs/julia-snail 20240305.1816: Julia Snail
+app-emacs/julia-snail 20240310.1510: Julia Snail
 app-emacs/julia-ts-mode 20230921.1433: Major mode for Julia source code using tree-sitter
 app-emacs/julia-vterm 20230815.2318: A mode for Julia REPL using vterm
 app-emacs/jumblr 20170727.2043: an anagram game for emacs
@@ -3739,6 +3740,7 @@ app-emacs/org-cite-overlay 20240207.1611: Overlays for org-cite citations
 app-emacs/org-cite-overlay-sidecar 20240213.1802: Show Sidecar for overlaid org-cite citations
 app-emacs/org-cite-sidecar 20240218.1917: Sidecar to show references in Org Mode
 app-emacs/org-cliplink 20201126.1020: insert org-mode links from the clipboard
+app-emacs/org-clock-agenda-daytime-mode 20240303.846: Display the time clocked today in the modeline
 app-emacs/org-clock-convenience 20230424.2101: Convenience functions for org time tracking
 app-emacs/org-clock-csv 20201222.1506: Export `org-mode' clock entries to CSV format.
 app-emacs/org-clock-reminder 20230222.1956: Notifications that remind you about clocked-in tasks
@@ -3794,7 +3796,7 @@ app-emacs/org-journal-tags 20240101.4: Tagging and querying system for org-journ
 app-emacs/org-kanban 20220723.1216: kanban dynamic block for org-mode.
 app-emacs/org-kindle 20220210.1408: Send org link file to ebook reader.
 app-emacs/org-latex-impatient 20221111.623: Preview org-latex Fragments Instantly via MathJax
-app-emacs/org-link-beautify 20240309.1858: Beautify Org Links
+app-emacs/org-link-beautify 20240310.1745: Beautify Org Links
 app-emacs/org-link-travis 20140405.2327: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 20200112.2235: Org-mode link selector
 app-emacs/org-listcruncher 20210706.1741: Planning tool - Parse Org mode lists into table
@@ -3968,7 +3970,7 @@ app-emacs/ox-750words 20220625.1407: Org mode exporter for 750words.com
 app-emacs/ox-asciidoc 20220625.2321: AsciiDoc Back-End for Org Export Engine
 app-emacs/ox-bb 20210222.2002: BBCode Back-End for Org Export Engine
 app-emacs/ox-bibtex-chinese 20170723.309: Let ox-bibtex work well for Chinese users
-app-emacs/ox-clip 20220117.1909: Cross-platform formatted copying for org-mode
+app-emacs/ox-clip 20240310.1513: Cross-platform formatted copying for org-mode
 app-emacs/ox-epub 20181101.1854: Export org mode projects to EPUB
 app-emacs/ox-gemini 20240221.2127: Output gemini formatted documents from org-mode
 app-emacs/ox-gfm 20231215.1901: Github Flavored Markdown Back-End for Org Export Engine
@@ -4290,7 +4292,7 @@ app-emacs/project-persist-drawer 20151108.1222: Use a project drawer with projec
 app-emacs/project-rootfile 20220708.1403: Extension of project.el to detect project with root file
 app-emacs/project-shells 20231005.641: Manage the shell buffers of each project
 app-emacs/project-tab-groups 20231215.755: Support a "one tab group per project" workflow
-app-emacs/project-tasks 20240307.252: Efficient task management for your project
+app-emacs/project-tasks 20240310.1404: Efficient task management for your project
 app-emacs/project-treemacs 20230529.1207: Simple treemacs backend for project.el
 app-emacs/projectile 20240212.1100: Manage and navigate projects in Emacs easily
 app-emacs/projectile-codesearch 20180508.1522: Integration of codesearch into projectile
