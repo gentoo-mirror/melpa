@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="No description available."
+DESCRIPTION="Explore Denote files"
 
 HOMEPAGE="https://github.com/pprevos/denote-extra/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
