@@ -5,18 +5,22 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="sideline"
+REALNAME="magit-gptcommit"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Show information on the side"
+DESCRIPTION="Git commit with help of gpt"
 
-HOMEPAGE="https://github.com/emacs-sideline/sideline"
+HOMEPAGE="https://github.com/douo/magit-gptcommit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/dash
+	app-emacs/magit
+	app-emacs/gptel"
+RDEPEND="app-emacs/dash
+	app-emacs/magit
+	app-emacs/gptel"
