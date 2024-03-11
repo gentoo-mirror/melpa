@@ -5,20 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="org-link-beautify"
+REALNAME="afterglow"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Beautify Org Links"
+DESCRIPTION="Temporary Highlighting after Function Calls"
 
-HOMEPAGE="https://repo.or.cz/org-link-beautify.git"
+HOMEPAGE="https://github.com/ernestvanderlinden/emacs-afterglow"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/nerd-icons
-	app-emacs/fb2-reader"
-RDEPEND="app-emacs/nerd-icons
-	app-emacs/fb2-reader"
+DEPEND=""
+RDEPEND=""
