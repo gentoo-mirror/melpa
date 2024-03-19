@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Traverse Dired buffer history: back, forward"
+DESCRIPTION="Traverse Dired buffer's history: back, forward"
 
 HOMEPAGE="https://github.com/Anoncheg1/dired-hist"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
