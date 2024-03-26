@@ -393,7 +393,7 @@ app-emacs/bqn-mode 20231217.1203: Emacs mode for BQN
 app-emacs/bracketed-paste 20160407.2348: bracketed paste mode support within emacs -nw
 app-emacs/brainfuck-mode 20150113.842: Brainfuck mode for Emacs
 app-emacs/brazilian-holidays 20220828.2348: Brazilian holidays
-app-emacs/brec-mode 20240325.1131: A major mode for editing Breccian text
+app-emacs/brec-mode 20240326.742: A major mode for editing Breccian text
 app-emacs/brf 20230803.2022: Brf-mode provides features from the legendary editor Brief
 app-emacs/brightscript-mode 20220906.827: Major mode for editing Brightscript files
 app-emacs/bril-mode 20240315.1157: Major mode for Bril text format
@@ -484,7 +484,7 @@ app-emacs/cask-package-toolset 20170921.2256: Toolsettize your package
 app-emacs/caskxy 20140513.1539: Control Cask in Emacs
 app-emacs/casual 20240317.2027: Transient UI for Calc
 app-emacs/catmacs 20170826.1157: Simple CAT interface for Yaesu Transceivers.
-app-emacs/catppuccin-theme 20231213.1318: Catppuccin for Emacs - 🍄 Soothing pastel theme for Emacs
+app-emacs/catppuccin-theme 20240326.900: Catppuccin for Emacs - 🍄 Soothing pastel theme for Emacs
 app-emacs/cats 20230407.1316: Monads for Elisp
 app-emacs/cbm 20171116.1240: Switch to similar buffers.
 app-emacs/cbor 20230810.1653: CBOR utilities
@@ -745,7 +745,7 @@ app-emacs/competitive-programming-snippets 20201115.1702: Competitive Programmin
 app-emacs/compile-multi 20240315.2126: A multi target interface to compile
 app-emacs/compile-multi-all-the-icons 20231226.2123: Affixate `compile-multi' with icons
 app-emacs/compile-multi-embark 20230904.1806: Integration for `compile-multi' and `embark'
-app-emacs/compiler-explorer 20240325.1517: Compiler explorer client (godbolt.org)
+app-emacs/compiler-explorer 20240326.1248: Compiler explorer client (godbolt.org)
 app-emacs/composable 20220608.1148: composable editing
 app-emacs/composer 20221120.202: Interface to PHP Composer
 app-emacs/comware-router-mode 20240103.907: Major mode for editing Comware configuration files
@@ -795,7 +795,7 @@ app-emacs/copy-file-on-save 20230402.1829: Copy file on save, automatic deployme
 app-emacs/copyit 20190919.1258: Copy it, yank anything!
 app-emacs/copyit-pandoc 20190919.1258: Copy it, yank anything!
 app-emacs/coq-commenter 20170822.2309: Coq commenting minor mode for proof
-app-emacs/corfu 20240326.253: COmpletion in Region FUnction
+app-emacs/corfu 20240326.907: COmpletion in Region FUnction
 app-emacs/corfu-candidate-overlay 20240322.1814: Show first candidate in an overlay while typing
 app-emacs/corfu-prescient 20240226.204: prescient.el + Corfu
 app-emacs/corral 20160502.948: Quickly surround text with delimiters
@@ -995,7 +995,7 @@ app-emacs/diffed 20230208.1546: Diffed is for recursive diff like Dired is for l
 app-emacs/difflib 20210224.2242: Helpers for computing deltas between sequences.
 app-emacs/diffpdf 20210626.1447: Transient diffpdf
 app-emacs/diffscuss-mode 20141014.2357: Major mode for diffscuss files.
-app-emacs/difftastic 20240325.809: Wrapper for difftastic
+app-emacs/difftastic 20240326.1551: Wrapper for difftastic
 app-emacs/diffview 20230224.1916: View diffs in side-by-side format
 app-emacs/digistar-mode 20240220.1600: major mode for Digistar scripts
 app-emacs/digit-groups 20200506.37: Highlight place-value positions in numbers
@@ -1404,7 +1404,7 @@ app-emacs/enlive 20170725.1417: query html document with css selectors
 app-emacs/eno 20191013.1239: Goto/copy/cut any word/symbol/line in view, similar to ace-jump/easymotion
 app-emacs/enotify 20130407.1348: A networked notification system for emacs
 app-emacs/environ 20230518.1310: API for environment variables and env files
-app-emacs/envrc 20240324.2246: Support for `direnv' that operates buffer-locally
+app-emacs/envrc 20240326.1019: Support for `direnv' that operates buffer-locally
 app-emacs/eopengrok 20230114.1413: opengrok interface for emacs
 app-emacs/epc 20140610.534: A RPC stack for the Emacs Lisp
 app-emacs/epic 20170210.23: Evernote Picker for Cocoa Emacs
@@ -1582,7 +1582,7 @@ app-emacs/evil-traces 20230820.2255: Visual hints for `evil-ex'
 app-emacs/evil-tree-edit 20231206.1836: Evil structural editing for any language!
 app-emacs/evil-tutor 20150103.653: Vimtutor adapted to Evil and wrapped in a major-mode
 app-emacs/evil-tutor-ja 20160917.132: Japanese Vimtutor adapted to Evil and wrapped in a major-mode
-app-emacs/evil-tutor-sc 20240319.233: Simplified Chinese tutor for Evil
+app-emacs/evil-tutor-sc 20240326.1239: Simplified Chinese tutor for Evil
 app-emacs/evil-vimish-fold 20200122.117: Integrate vimish-fold with evil
 app-emacs/evil-visual-mark-mode 20230202.318: Display evil marks on buffer
 app-emacs/evil-visual-replace 20171016.613: search/replace commands for evil visual state, inc. blocks
@@ -2306,7 +2306,7 @@ app-emacs/helm-codesearch 20221219.1219: helm interface for codesearch
 app-emacs/helm-comint 20231102.2029: Comint prompt navigation for helm
 app-emacs/helm-commandlinefu 20150611.545: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 20231113.701: Helm interface for company-mode
-app-emacs/helm-core 20240325.759: Development files for Helm
+app-emacs/helm-core 20240326.942: Development files for Helm
 app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el.
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
@@ -2569,7 +2569,7 @@ app-emacs/i2b2-mode 20140710.104: Highlights corresponding PHI data in the text 
 app-emacs/i3bar 20230724.305: Display status from an i3status command in the tab bar
 app-emacs/i3wm 20170822.1438: i3wm integration library
 app-emacs/i3wm-config-mode 20220913.1121: Better syntax highlighting for i3wm's config file
-app-emacs/ialign 20220629.1241: visual align-regexp
+app-emacs/ialign 20240326.1233: visual align-regexp
 app-emacs/iasm-mode 20171023.1422: interactive assembly major mode.
 app-emacs/ibrowse 20230926.2056: Interact with your browser
 app-emacs/ibuffer-git 20110508.731: show git status in ibuffer column
@@ -2870,7 +2870,7 @@ app-emacs/kakoune 20230206.2037: A simulation, but not emulation, of kakoune
 app-emacs/kaleidoscope 20170808.817: Controlling Kaleidoscope-powered devices.
 app-emacs/kaleidoscope-evil-state-flash 20170728.1020: Flash keyboard LEDs when changing Evil state
 app-emacs/kana 20210531.1427: Learn Japanese hiragana and katakana
-app-emacs/kanagawa-theme 20240325.305: An elegant theme inspired by The Great Wave off Kanagawa by Katsushika Hokusa
+app-emacs/kanagawa-theme 20240326.652: An elegant theme inspired by The Great Wave off Kanagawa by Katsushika Hokusa
 app-emacs/kanban 20230210.1505: Parse org-todo headlines to use org-tables as Kanban tables
 app-emacs/kanji-mode 20230928.1113: View stroke order for kanji characters at cursor
 app-emacs/kaocha-runner 20230511.934: A package for running Kaocha tests via CIDER.
@@ -3108,7 +3108,7 @@ app-emacs/lox-mode 20200619.1700: Major mode for the Lox programming language
 app-emacs/lpy 20231026.1525: A lispy interface to Python
 app-emacs/lsp-cfn 20240112.921: LSP integration for cfn-lsp-extra
 app-emacs/lsp-dart 20240215.14: Dart support lsp-mode
-app-emacs/lsp-docker 20240318.2039: LSP Docker integration
+app-emacs/lsp-docker 20240326.1021: LSP Docker integration
 app-emacs/lsp-focus 20200906.1917: focus.el support for lsp-mode
 app-emacs/lsp-grammarly 20240229.115: LSP Clients for Grammarly
 app-emacs/lsp-haskell 20231011.1723: Haskell support for lsp-mode
@@ -3405,10 +3405,10 @@ app-emacs/mu2tex 20200512.704: Convert plain text molecule names and units to Te
 app-emacs/mu4e-alert 20230722.1746: Desktop notification for mu4e
 app-emacs/mu4e-column-faces 20240318.2050: Faces for individual mu4e columns
 app-emacs/mu4e-conversation 20190609.812: Show a complete thread in a single buffer
-app-emacs/mu4e-crypto 20240120.646: Encrypt and decrypt emails for mu4e with GnuPG
+app-emacs/mu4e-crypto 20240326.651: Encrypt and decrypt emails for mu4e with GnuPG
 app-emacs/mu4e-jump-to-list 20221202.1023: mu4e jump-to-list extension
 app-emacs/mu4e-marker-icons 20230423.1039: Display icons for mu4e markers
-app-emacs/mu4e-overview 20240219.2302: Show overview of maildir
+app-emacs/mu4e-overview 20240326.1036: Show overview of maildir
 app-emacs/mu4e-query-fragments 20211030.2307: mu4e query fragments extension
 app-emacs/mu4e-views 20230105.1443: View emails in mu4e using xwidget-webkit
 app-emacs/mu4easy 20230629.1721: Packages + configs for using mu4e with multiple accounts
@@ -3994,7 +3994,7 @@ app-emacs/ox-jira 20220423.1403: JIRA Backend for Org Export Engine
 app-emacs/ox-json 20240106.2116: JSON export backend for Org mode
 app-emacs/ox-latex-subfigure 20200326.919: Subfigure for latex export
 app-emacs/ox-leanpub 20230415.2139: Export Org documents to Leanpub book format
-app-emacs/ox-linuxmag-fr 20240319.2034: Org-mode exporter for the French GNU/Linux Magazine
+app-emacs/ox-linuxmag-fr 20240326.722: Org-mode exporter for the French GNU/Linux Magazine
 app-emacs/ox-mdx-deck 20181115.1847: org-mode to mdx-deck exporter
 app-emacs/ox-mediawiki 20230425.115: Mediawiki Back-End for Org Export Engine
 app-emacs/ox-minutes 20180202.1734: Plain text backend for Org for Meeting Minutes
@@ -4569,7 +4569,7 @@ app-emacs/riscv-mode 20220916.206: Major-mode for RISC V assembly
 app-emacs/rivet-mode 20201013.1905: A minor mode for editing Apache Rivet files
 app-emacs/rjsx-mode 20200224.2149: Real support for JSX
 app-emacs/rmsbolt 20240301.1749: A compiler output viewer
-app-emacs/robe 20240319.254: Code navigation, documentation lookup and completion for Ruby
+app-emacs/robe 20240326.1815: Code navigation, documentation lookup and completion for Ruby
 app-emacs/robot-log 20220719.1301: Major mode for viewing RobotFramework debug log files
 app-emacs/robot-mode 20231118.826: Major-mode for Robot Framework files
 app-emacs/robots-txt-mode 20190812.1858: Major mode for editing robots.txt
@@ -5022,7 +5022,7 @@ app-emacs/svg-mode-line-themes 20150425.2006: SVG-based themes for mode-line
 app-emacs/svg-tag-mode 20240122.1209: Replace keywords with SVG tags
 app-emacs/svgo 20220525.2059: SVG optimization with SVGO
 app-emacs/svnwrapper 20180414.1843: Highlighting and paging for shell command `svn'
-app-emacs/swagg 20240326.236: Swagger UI
+app-emacs/swagg 20240326.737: Swagger UI
 app-emacs/swagger-to-org 20160611.56: Convert a swagger.json file into an org-mode file
 app-emacs/swap-buffers 20150506.2139: The quickest way to swap buffers between windows. Based on switch-window package.
 app-emacs/swap-regions 20180915.1346: Swap text in two regions
