@@ -746,7 +746,7 @@ app-emacs/competitive-programming-snippets 20201115.1702: Competitive Programmin
 app-emacs/compile-multi 20240315.2126: A multi target interface to compile
 app-emacs/compile-multi-all-the-icons 20231226.2123: Affixate `compile-multi' with icons
 app-emacs/compile-multi-embark 20230904.1806: Integration for `compile-multi' and `embark'
-app-emacs/compiler-explorer 20240401.1053: Compiler explorer client (godbolt.org)
+app-emacs/compiler-explorer 20240402.1020: Compiler explorer client (godbolt.org)
 app-emacs/composable 20220608.1148: composable editing
 app-emacs/composer 20221120.202: Interface to PHP Composer
 app-emacs/comware-router-mode 20240103.907: Major mode for editing Comware configuration files
@@ -2317,13 +2317,11 @@ app-emacs/helm-descbinds 20240216.1154: A convenient `describe-bindings' with `h
 app-emacs/helm-describe-modes 20160212.518: Helm interface to major and minor modes.
 app-emacs/helm-dictionary 20230922.1111: Helm source for looking up dictionaries
 app-emacs/helm-directory 20170709.1103: selecting directory before select the file
-app-emacs/helm-dired-history 20170524.1046: Show dired history with helm.el support.
 app-emacs/helm-dired-recent-dirs 20131228.1414: Show recent dirs with helm.el support.
 app-emacs/helm-dogears 20230608.356: Helm source for Dogears
 app-emacs/helm-emmet 20160713.1231: helm sources for emmet-mode's snippets
 app-emacs/helm-emms 20220314.1633: Emms for Helm.
 app-emacs/helm-esa 20190721.1429: Esa with helm interface
-app-emacs/helm-etags-plus 20201003.1424: Another Etags helm.el interface
 app-emacs/helm-evil-markers 20200506.715: Show evil markers with helm
 app-emacs/helm-eww 20190315.907: Helm UI wrapper for EWW.
 app-emacs/helm-ext 20200722.107: A few extensions to Helm
@@ -2726,7 +2724,6 @@ app-emacs/ivy-avy 20240214.2118: Avy integration for Ivy
 app-emacs/ivy-bibtex 20210927.1205: A bibliography manager based on Ivy
 app-emacs/ivy-clipmenu 20220202.2122: Ivy client for clipmenu
 app-emacs/ivy-clojuredocs 20201129.2355: Search for help in clojuredocs.org
-app-emacs/ivy-dired-history 20210715.48: use ivy to open recent directories
 app-emacs/ivy-emms 20231112.1621: Ivy interface to emms tracks
 app-emacs/ivy-emoji 20200316.2351: Insert emojis with ivy
 app-emacs/ivy-erlang-complete 20211019.447: Erlang context sensitive completion at point using ivy. It also support xref and eldoc.
@@ -2803,7 +2800,7 @@ app-emacs/jist 20161229.1721: Gist integration
 app-emacs/jit-lock-stealth-progress 20230808.1342: JIT lock stealth mode-line progress
 app-emacs/jknav 20121006.2025: Automatically enable j/k keys for line-based navigation
 app-emacs/jmespath 20240115.1310: Query JSON using jmespath
-app-emacs/jmt-mode 20240331.2056: Java Mode Tamed
+app-emacs/jmt-mode 20240401.1900: Java Mode Tamed
 app-emacs/jonprl-mode 20160819.59: A major mode for editing JonPRL files
 app-emacs/journalctl-mode 20240219.2115: Sample major mode for viewing output journalctl
 app-emacs/jpop 20170410.1250: Lightweight project caching and navigation framework
@@ -2842,7 +2839,7 @@ app-emacs/jsonnet-mode 20220121.2109: Major mode for editing jsonnet files
 app-emacs/jss 20130508.1423: An emacs interface to webkit and mozilla debuggers
 app-emacs/jst 20150604.1138: JS test mode
 app-emacs/jtags 20160211.2029: enhanced tags functionality for Java development
-app-emacs/jtsx 20240315.1515: Extends JSX/TSX built-in support
+app-emacs/jtsx 20240402.1319: Extends JSX/TSX built-in support
 app-emacs/julia-formatter 20231130.1512: Use JuliaFormatter.jl for julia code
 app-emacs/julia-mode 20240315.1726: Major mode for editing Julia source code
 app-emacs/julia-repl 20231026.1005: A minor mode for a Julia REPL
@@ -3063,7 +3060,7 @@ app-emacs/litable 20240321.2059: dynamic evaluation replacement with emacs
 app-emacs/litanize 20230419.917: Generate "Latour Litanies"
 app-emacs/litecoin-ticker 20160612.11: litecoin price in modeline
 app-emacs/literal-string 20191023.733: edit string literals in a dedicated buffer
-app-emacs/literate-calc-mode 20231125.29: Inline results from calc
+app-emacs/literate-calc-mode 20240402.808: Inline results from calc
 app-emacs/literate-coffee-mode 20170211.1515: major-mode for Literate CoffeeScript
 app-emacs/literate-elisp 20220626.932: Load Emacs Lisp code blocks from Org files
 app-emacs/litex-mode 20221107.147: Minor mode for converting lisp to LaTeX
@@ -3276,7 +3273,7 @@ app-emacs/merlin-iedit 20221123.1408: Merlin and iedit integration
 app-emacs/mermaid-docker-mode 20231126.1943: Render mermaid graphs with Docker service
 app-emacs/mermaid-mode 20240123.1729: major mode for working with mermaid graphs
 app-emacs/mermaid-ts-mode 20231001.1704: Major mode for Mermaid
-app-emacs/meson-mode 20240211.823: Major mode for the Meson build system files
+app-emacs/meson-mode 20240218.1834: Major mode for the Meson build system files
 app-emacs/mess 20230718.1533: Front-end for MAME MESS
 app-emacs/message-attachment-reminder 20230124.520: Remind if missing attachment
 app-emacs/message-view-patch 20210904.2227: Colorize patch-like emails in mu4e
@@ -3480,7 +3477,7 @@ app-emacs/naysayer-theme 20240220.2159: The naysayer color theme
 app-emacs/ncl-mode 20180129.703: Major Mode for editing NCL scripts and other goodies
 app-emacs/nclip 20130617.2015: Network (HTTP) Clipboard
 app-emacs/neato-graph-bar 20181130.1649: Neat-o graph bars CPU/memory etc.
-app-emacs/neil 20231214.736: companion for Babashka Neil
+app-emacs/neil 20240402.1032: companion for Babashka Neil
 app-emacs/nemerle 20161029.2023: major mode for editing nemerle programs
 app-emacs/neon-mode 20180406.1156: Simple major mode for editing neon files
 app-emacs/neotree 20230815.219: A tree plugin like NerdTree for Vim
@@ -4720,7 +4717,7 @@ app-emacs/sexp-diff 20200314.2018: Diff sexps based on Levenshtein-like edit dis
 app-emacs/sexp-move 20150915.1730: Improved S-Expression Movement
 app-emacs/sexy-monochrome-theme 20200115.2146: A sexy dark Emacs >= 24 theme for your sexy code
 app-emacs/sfz-mode 20200716.1023: Major mode for SFZ files
-app-emacs/shackle 20211118.1129: Enforce rules for popups
+app-emacs/shackle 20240402.1315: Enforce rules for popups
 app-emacs/shadchen 20141102.1839: pattern matching for elisp
 app-emacs/shader-mode 20220930.1052: Major mode for shader
 app-emacs/shades-of-purple-theme 20230421.2059: A theme with bold shades of purple
@@ -4848,7 +4845,7 @@ app-emacs/smart-shift 20150203.725: Smart shift text left/right.
 app-emacs/smart-tab 20210530.1743: Intelligent tab completion and indentation
 app-emacs/smart-tabs-mode 20200907.2025: Intelligently indent with tabs, align with spaces!
 app-emacs/smart-window 20160717.130: vim-like window controlling plugin
-app-emacs/smartparens 20240330.1851: Automatic insertion, wrapping and paredit-like navigation with user defined pairs.
+app-emacs/smartparens 20240402.1141: Automatic insertion, wrapping and paredit-like navigation with user defined pairs.
 app-emacs/smartrep 20150509.230: Support sequential operation which omitted prefix keys.
 app-emacs/smartscan 20170211.2033: Jumps between other symbols found at point
 app-emacs/smarty-mode 20100703.1158: major mode for editing smarty templates
