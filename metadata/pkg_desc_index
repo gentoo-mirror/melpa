@@ -522,7 +522,7 @@ app-emacs/chapel-mode 20210513.457: A major mode for the Chapel programming lang
 app-emacs/char-menu 20210321.1657: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 20200616.1418: Unicode table for Emacs
 app-emacs/chatgpt-shell 20240402.2216: ChatGPT shell + buffer insert commands
-app-emacs/chatu 20240308.1129: Convert and insert any images to org-mode or markdown buffer
+app-emacs/chatu 20240403.1339: Convert and insert any images to org-mode or markdown buffer
 app-emacs/chatwork 20170511.442: ChatWork client for Emacs
 app-emacs/cheat-sh 20210607.1307: Interact with cheat.sh
 app-emacs/cheatsheet 20170126.2150: create your own cheatsheet
@@ -621,7 +621,7 @@ app-emacs/clues-theme 20161213.1127: an Emacs 24 theme which may well be fully a
 app-emacs/cm-mode 20170203.2107: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 20230304.2223: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 20210610.1525: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 20240321.1332: major-mode for editing CMake sources
+app-emacs/cmake-mode 20240403.1545: major-mode for editing CMake sources
 app-emacs/cmake-project 20171121.1115: Integrates CMake build process with Emacs
 app-emacs/cmd-to-echo 20161203.2133: Show the output of long-running commands in the echo area
 app-emacs/cmm-mode 20150225.746: Major mode for C-- source code
@@ -746,7 +746,7 @@ app-emacs/competitive-programming-snippets 20201115.1702: Competitive Programmin
 app-emacs/compile-multi 20240315.2126: A multi target interface to compile
 app-emacs/compile-multi-all-the-icons 20231226.2123: Affixate `compile-multi' with icons
 app-emacs/compile-multi-embark 20230904.1806: Integration for `compile-multi' and `embark'
-app-emacs/compiler-explorer 20240402.1020: Compiler explorer client (godbolt.org)
+app-emacs/compiler-explorer 20240403.1856: Compiler explorer client (godbolt.org)
 app-emacs/composable 20220608.1148: composable editing
 app-emacs/composer 20221120.202: Interface to PHP Composer
 app-emacs/comware-router-mode 20240103.907: Major mode for editing Comware configuration files
@@ -1315,7 +1315,7 @@ app-emacs/elisp-slime-nav 20210510.528: Make M-. and M-, work in elisp like they
 app-emacs/elixir-mode 20230626.1738: Major mode for editing Elixir files
 app-emacs/elixir-ts-mode 20240116.645: Major mode for Elixir with tree-sitter support
 app-emacs/elixir-yasnippets 20150417.1239: Yasnippets for Elixir
-app-emacs/ellama 20240316.1610: Tool for interacting with LLMs
+app-emacs/ellama 20240403.1714: Tool for interacting with LLMs
 app-emacs/ellocate 20200112.1931: The locate command reimplemented in Emacs Lisp
 app-emacs/elm-mode 20230315.1122: Major mode for Elm
 app-emacs/elm-test-runner 20230905.331: Enhanced support for running elm-test
@@ -1656,7 +1656,7 @@ app-emacs/feature-mode 20240401.242: Major mode for editing Gherkin (i.e. Cucumb
 app-emacs/fedi 20240311.1417: Helper functions for fediverse clients
 app-emacs/feebleline 20190822.1401: Replace modeline with a slimmer proxy
 app-emacs/feed-discovery 20200714.1118: Discover feed url by RSS/Atom autodiscovery
-app-emacs/feline 20230315.1821: A modeline with very little
+app-emacs/feline 20230301.1350: A modeline with very little
 app-emacs/fennel-mode 20240313.32: A major-mode for editing Fennel code
 app-emacs/fetch 20131201.730: Fetch and unpack resources
 app-emacs/ffmpeg-player 20240101.926: Play video using ffmpeg
@@ -2181,7 +2181,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20231112.2012: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20230530.1853: Integrate with the OpenAI API
-app-emacs/gptel 20240403.233: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20240403.1634: Interact with ChatGPT or other LLMs
 app-emacs/grab-mac-link 20210511.1303: Grab link from Mac Apps and insert it into Emacs
 app-emacs/grab-x-link 20191113.848: Grab links from X11 apps and insert into Emacs
 app-emacs/gradle-mode 20150313.1905: Gradle integration with Emacs' compile
@@ -2274,7 +2274,7 @@ app-emacs/hcl-mode 20240220.1534: Major mode for Hashicorp
 app-emacs/headlong 20150417.1526: reckless completion
 app-emacs/heaven-and-hell 20190713.1830: easy toggle light/dark themes
 app-emacs/heex-ts-mode 20240113.1104: Major mode for Heex with tree-sitter support
-app-emacs/helm 20240401.1424: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20240403.1544: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: helm-sources and some utilities for GNU R.
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: helm source for Active Directory
@@ -2308,7 +2308,7 @@ app-emacs/helm-codesearch 20221219.1219: helm interface for codesearch
 app-emacs/helm-comint 20231102.2029: Comint prompt navigation for helm
 app-emacs/helm-commandlinefu 20150611.545: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 20231113.701: Helm interface for company-mode
-app-emacs/helm-core 20240328.1225: Development files for Helm
+app-emacs/helm-core 20240403.536: Development files for Helm
 app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el.
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
@@ -3072,7 +3072,7 @@ app-emacs/livereload 20170629.650: Livereload server
 app-emacs/livescript-mode 20221015.1316: Major mode for editing LiveScript files
 app-emacs/livid-mode 20131116.1344: Live browser eval of JavaScript every time a buffer changes
 app-emacs/ll-debug 20211002.1031: Low level debug tools
-app-emacs/llama 20240323.2237: Compact syntax for short lambda
+app-emacs/llama 20240403.1724: Compact syntax for short lambda
 app-emacs/llama-cpp 20231228.2043: A client for llama-cpp server
 app-emacs/llvm-ts-mode 20231120.1251: LLVM major mode using tree-sitter
 app-emacs/lms 20210820.2200: Squeezebox / Logitech Media Server frontend
@@ -3120,7 +3120,7 @@ app-emacs/lsp-julia 20230915.654: Julia support for lsp-mode
 app-emacs/lsp-latex 20240324.1218: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20240318.224: LSP Clients for LTEX
 app-emacs/lsp-metals 20231017.911: Scala Client settings
-app-emacs/lsp-mode 20240401.1740: LSP mode
+app-emacs/lsp-mode 20240403.1643: LSP mode
 app-emacs/lsp-mssql 20230510.1124: MSSQL LSP bindings
 app-emacs/lsp-origami 20230815.704: origami.el support for lsp-mode
 app-emacs/lsp-p4 20190127.1049: P4 support for lsp-mode
@@ -3748,7 +3748,7 @@ app-emacs/org-chef 20231127.1601: Cookbook and recipe management with org-mode.
 app-emacs/org-cite-overlay 20240207.1611: Overlays for org-cite citations
 app-emacs/org-cite-overlay-sidecar 20240213.1802: Show Sidecar for overlaid org-cite citations
 app-emacs/org-cliplink 20201126.1020: insert org-mode links from the clipboard
-app-emacs/org-clock-agenda-daytime-mode 20240403.1040: Display the time clocked today in the modeline
+app-emacs/org-clock-agenda-daytime-mode 20240403.1115: Display the time clocked today in the modeline
 app-emacs/org-clock-convenience 20230424.2101: Convenience functions for org time tracking
 app-emacs/org-clock-csv 20201222.1506: Export `org-mode' clock entries to CSV format.
 app-emacs/org-clock-reminder 20230222.1956: Notifications that remind you about clocked-in tasks
@@ -4458,7 +4458,7 @@ app-emacs/rcirc-alertify 20140407.119: Cross platform notifications for rcirc
 app-emacs/rcirc-groups 20170731.2101: an emacs buffer in rcirc-groups major mode
 app-emacs/rcirc-notify 20150219.2204: libnotify popups
 app-emacs/rcirc-styles 20210414.1712: support mIRC-style color and attribute codes
-app-emacs/rdf-prefix 20230321.1949: Prefix lookup for RDF
+app-emacs/rdf-prefix 20240403.1710: Prefix lookup for RDF
 app-emacs/rdxmk 20170630.134: A small set of tools for redox developments
 app-emacs/react-snippets 20210430.1510: Yasnippets for React
 app-emacs/read-aloud 20160923.500: A simple interface to TTS engines
@@ -4845,7 +4845,7 @@ app-emacs/smart-shift 20150203.725: Smart shift text left/right.
 app-emacs/smart-tab 20210530.1743: Intelligent tab completion and indentation
 app-emacs/smart-tabs-mode 20200907.2025: Intelligently indent with tabs, align with spaces!
 app-emacs/smart-window 20160717.130: vim-like window controlling plugin
-app-emacs/smartparens 20240402.1141: Automatic insertion, wrapping and paredit-like navigation with user defined pairs.
+app-emacs/smartparens 20240403.1713: Automatic insertion, wrapping and paredit-like navigation with user defined pairs.
 app-emacs/smartrep 20150509.230: Support sequential operation which omitted prefix keys.
 app-emacs/smartscan 20170211.2033: Jumps between other symbols found at point
 app-emacs/smarty-mode 20100703.1158: major mode for editing smarty templates
@@ -5109,7 +5109,7 @@ app-emacs/teleport 20240101.1358: Integration for tsh (goteleport.com)
 app-emacs/teletext 20231215.1524: Teletext broadcast viewer
 app-emacs/teletext-yle 20231215.1609: Teletext provider for Finnish national network YLE
 app-emacs/tempel 20240216.1543: Tempo templates/snippets with in-buffer field editing
-app-emacs/tempel-collection 20240328.1313: Collection of templates for Tempel
+app-emacs/tempel-collection 20240403.1707: Collection of templates for Tempel
 app-emacs/templ-ts-mode 20240118.338: Major mode for editing Templ files
 app-emacs/template-overlays 20180706.1132: Display template regions using overlays
 app-emacs/templatel 20210902.228: Templating language;
