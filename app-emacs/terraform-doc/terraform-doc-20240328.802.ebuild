@@ -18,5 +18,9 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/request
+	app-emacs/promise
+	app-emacs/org-mode"
+RDEPEND="app-emacs/request
+	app-emacs/promise
+	app-emacs/org-mode"
