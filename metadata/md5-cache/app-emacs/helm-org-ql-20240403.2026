@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Reminder of our mortality
+DEPEND=app-emacs/dash app-emacs/s app-emacs/helm-org app-emacs/org-ql
+DESCRIPTION=Helm support for org-ql
 EAPI=8
-HOMEPAGE=https://github.com/gvol/emacs-memento-mori
+HOMEPAGE=https://github.com/alphapapa/org-ql
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/dash app-emacs/s app-emacs/helm-org app-emacs/org-ql >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/memento-mori-20240330.258.tar
+SRC_URI=https://melpa.org/packages/helm-org-ql-20240403.2026.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=fb3552fb9e1120930542ad5d5fd39773
+_md5_=047e85f9bdd35ad110975927069aa87d
