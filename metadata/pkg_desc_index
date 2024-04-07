@@ -283,7 +283,7 @@ app-emacs/banner-comment 20190606.1809: For producing banner comments.
 app-emacs/bap-mode 20200128.1354: Major-mode for BAP's IR
 app-emacs/bar-cursor 20201204.2244: package used to switch block cursor to a bar
 app-emacs/bart-mode 20190601.1004: Real time BART departures info.
-app-emacs/base16-theme 20240331.101: Collection of themes built on combinations of 16 base colors
+app-emacs/base16-theme 20240407.101: Collection of themes built on combinations of 16 base colors
 app-emacs/base32 20240227.1821: Base32 support
 app-emacs/bash-completion 20230612.1103: Bash completion for the shell buffer
 app-emacs/basic-c-compile 20170302.1112: Quickly create a Makefile, compile and run C.
@@ -341,8 +341,8 @@ app-emacs/bind-key 20230203.2004: A simple way to manage personal keybindings
 app-emacs/bind-map 20240308.2050: Bind personal keymaps in multiple locations
 app-emacs/binder 20230729.350: Global minor mode to facilitate multi-file writing projects
 app-emacs/bing-dict 20200216.110: Minimalists' English-Chinese Bing dictionary
-app-emacs/binky 20240107.2156: Jump between points like a rabbit
-app-emacs/biome 20240311.2154: Bountiful Interface to Open Meteo for Emacs
+app-emacs/binky 20240406.1547: Jump between points like a rabbit
+app-emacs/biome 20240406.1351: Bountiful Interface to Open Meteo for Emacs
 app-emacs/birds-of-paradise-plus-theme 20130419.2129: A brown/orange light-on-dark theme for Emacs 24 (deftheme).
 app-emacs/bison-mode 20210527.717: Major mode for editing bison, yacc and lex files.
 app-emacs/bitbake 20220509.1236: Running bitbake from emacs
@@ -651,7 +651,7 @@ app-emacs/color-theme-approximate 20140228.436: Makes Emacs theme works on termi
 app-emacs/color-theme-buffer-local 20170126.601: Install color-themes by buffer.
 app-emacs/color-theme-modern 20231116.2258: Reimplement colortheme with Emacs 24 theme framework.
 app-emacs/color-theme-sanityinc-solarized 20220917.1350: A version of Ethan Schoonover's Solarized themes
-app-emacs/color-theme-sanityinc-tomorrow 20240226.1133: A version of Chris Kempson's "tomorrow" themes
+app-emacs/color-theme-sanityinc-tomorrow 20240406.1456: A version of Chris Kempson's "tomorrow" themes
 app-emacs/color-theme-x 20201204.2245: convert color themes to X11 resource settings
 app-emacs/colorless-themes 20210102.1035: A macro to generate mostly colorless themes
 app-emacs/colormaps 20171008.2224: Hex colormaps
@@ -908,7 +908,7 @@ app-emacs/daml-lsp 20231101.1818: LSP client definition for daml
 app-emacs/daml-mode 20231106.916: Major mode for daml
 app-emacs/danneskjold-theme 20231110.722: Beautiful high-contrast Emacs theme.
 app-emacs/dante 20230808.658: Development mode for Haskell
-app-emacs/dap-mode 20240406.919: Debug Adapter Protocol mode
+app-emacs/dap-mode 20240406.2116: Debug Adapter Protocol mode
 app-emacs/darcsum 20190316.2215: a pcl-cvs like interface for managing darcs patches
 app-emacs/darcula-theme 20171227.1845: Inspired by IntelliJ's Darcula theme
 app-emacs/dark-krystal-theme 20170808.1300: an Emacs 24 theme based on Dark Krystal (tmTheme)
@@ -925,7 +925,7 @@ app-emacs/dash-alfred 20191024.450: Search Dash documentation via Dash-Alfred-Wo
 app-emacs/dash-at-point 20211023.104: Search the word at point with Dash
 app-emacs/dash-docs 20210830.926: Offline documentation browser using Dash docsets.
 app-emacs/dash-functional 20210826.1149: Collection of useful combinators for Emacs Lisp
-app-emacs/dashboard 20240327.29: A startup screen extracted from Spacemacs
+app-emacs/dashboard 20240407.12: A startup screen extracted from Spacemacs
 app-emacs/dashboard-hackernews 20220516.1809: Display Hacker News on dashboard
 app-emacs/dashboard-ls 20240101.841: Display files/directories in current directory on Dashboard
 app-emacs/dashboard-project-status 20190202.1354: Display a git project status in a dashboard widget.
@@ -961,7 +961,7 @@ app-emacs/define-scratch 20221220.946: Define new commands to make scratch buffe
 app-emacs/define-word 20220104.1848: display the definition of word at point.
 app-emacs/defproject 20151201.2219: Manager dir-locals and project specific variables
 app-emacs/defrepeater 20180830.410: Easily make commands repeatable
-app-emacs/deft 20240309.2117: quickly browse, filter, and edit plain text notes
+app-emacs/deft 20240407.149: quickly browse, filter, and edit plain text notes
 app-emacs/delim-kill 20100517.620: Kill text between delimiters.
 app-emacs/demangle-mode 20210822.2210: Automatically demangle C++, D, and Rust symbols
 app-emacs/demap 20220322.2309: Detachable minimap package
@@ -1518,7 +1518,7 @@ app-emacs/evil-better-visual-line 20200123.2045: gj and gk visual line mode fix
 app-emacs/evil-cleverparens 20240308.751: Evil friendly minor-mode for editing lisp.
 app-emacs/evil-colemak-basics 20221230.1443: Basic Colemak key bindings for evil-mode
 app-emacs/evil-colemak-minimal 20171006.1317: Minimal Colemak key bindings for evil-mode
-app-emacs/evil-collection 20240402.1844: A set of keybindings for Evil mode
+app-emacs/evil-collection 20240406.1427: A set of keybindings for Evil mode
 app-emacs/evil-commentary 20230610.1006: Comment stuff out. A port of vim-commentary.
 app-emacs/evil-dvorak 20160416.1841: evil keybindings for that work with dvorak mode
 app-emacs/evil-easymotion 20200424.135: A port of vim's easymotion to emacs
@@ -3134,8 +3134,8 @@ app-emacs/lsp-shader 20240229.111: LSP Clients for ShaderLab
 app-emacs/lsp-sonarlint 20230814.1954: Emacs SonarLint lsp client
 app-emacs/lsp-sourcekit 20230815.717: sourcekit-lsp client for lsp-mode
 app-emacs/lsp-tailwindcss 20230407.951: A lsp-mode client for tailwindcss
-app-emacs/lsp-treemacs 20240406.901: LSP treemacs
-app-emacs/lsp-ui 20240330.2227: UI modules for lsp-mode
+app-emacs/lsp-treemacs 20240406.2141: LSP treemacs
+app-emacs/lsp-ui 20240406.2119: UI modules for lsp-mode
 app-emacs/lua-mode 20231023.947: a major-mode for editing Lua scripts
 app-emacs/luarocks 20170430.2305: luarocks tools
 app-emacs/lurk-mode 20230120.2226: A major mode for editing lurk files
@@ -3260,7 +3260,7 @@ app-emacs/meghanada 20220101.505: A better java development mode
 app-emacs/melancholy-theme 20230330.835: A dark theme that's pretty sad -*- lexical-binding: t; -
 app-emacs/mellow-theme 20170808.1317: an Emacs 24 theme based on Mellow (tmTheme)
 app-emacs/melpa-upstream-visit 20130720.1033: A set of kludges to visit a melpa-hosted package's homepage
-app-emacs/memento-mori 20240404.519: Reminder of our mortality
+app-emacs/memento-mori 20240407.311: Reminder of our mortality
 app-emacs/memoize 20200103.2036: Memoization functions
 app-emacs/memolist 20150804.1721: memolist.el is Emacs port of memolist.vim.
 app-emacs/mentor 20230103.1146: Frontend for the rTorrent bittorrent client
@@ -3302,7 +3302,7 @@ app-emacs/mimetypes 20201115.1605: Guess a file's mimetype by extension
 app-emacs/mindre-theme 20220827.1031: Minimal, light theme
 app-emacs/minesweeper 20200416.2342: play minesweeper in Emacs
 app-emacs/mingus 20230518.1726: MPD Interface
-app-emacs/mini-echo 20240406.817: Echo buffer status in minibuffer window
+app-emacs/mini-echo 20240406.1545: Echo buffer status in minibuffer window
 app-emacs/mini-frame 20220627.2041: Show minibuffer in child frame on read-from-minibuffer
 app-emacs/mini-header-line 20170621.1221: a minimal header-line
 app-emacs/mini-modeline 20230306.1521: Display modeline in minibuffer
@@ -3550,7 +3550,7 @@ app-emacs/norns 20230820.2157: Interactive development environment for monome no
 app-emacs/northcode-theme 20180423.1649: A dark theme focused on blue and orange colors.
 app-emacs/nothing-theme 20200504.402: Monochrome theme
 app-emacs/notink-theme 20220114.1955: A custom theme inspired by e-ink displays
-app-emacs/notmuch 20240404.1120: run notmuch within emacs
+app-emacs/notmuch 20240406.1803: run notmuch within emacs
 app-emacs/notmuch-addr 20240101.2221: An alternative to notmuch-address.el
 app-emacs/notmuch-bookmarks 20230727.1504: Add bookmark handling for notmuch buffers
 app-emacs/notmuch-labeler 20131230.1719: Improve notmuch way of displaying labels
@@ -4325,7 +4325,7 @@ app-emacs/promise 20210307.727: Promises/A+
 app-emacs/prompt-text 20190408.310: Configure your minibuffer prompt
 app-emacs/prompts 20160916.1041: utilities for working with text prompts.
 app-emacs/pronto 20200218.1633: Compilation mode for pronto stylechecks
-app-emacs/proofgeneral 20240328.2344: A generic Emacs interface for proof assistants
+app-emacs/proofgeneral 20240406.1707: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 20150728.1118: Create and display a context menu based on text and overlay properties
 app-emacs/propfont-mixed 20150113.2211: Use proportional fonts with space-based indentation.
 app-emacs/proportional 20221205.1417: use a proportional font everywhere
@@ -4804,7 +4804,7 @@ app-emacs/sl 20161217.1404: An Emacs clone of sl(1)
 app-emacs/slack 20211129.310: Slack client for Emacs
 app-emacs/slideview 20150324.2240: File slideshow
 app-emacs/slim-mode 20170728.1348: Major mode for editing Slim files
-app-emacs/slime 20240324.2347: Superior Lisp Interaction Mode for Emacs
+app-emacs/slime 20240407.24: Superior Lisp Interaction Mode for Emacs
 app-emacs/slime-company 20210124.1627: slime completion backend for company mode
 app-emacs/slime-docker 20210426.1422: Integration of SLIME with Docker containers
 app-emacs/slime-repl-ansi-color 20230214.1453: Turn on ANSI colors in REPL output;
@@ -5403,8 +5403,8 @@ app-emacs/vegetative-theme 20220822.353: A Theme based on green CRT terminals
 app-emacs/verb 20240401.2214: Organize and send HTTP requests
 app-emacs/veri-kompass 20200213.934: verilog codebase navigation facility
 app-emacs/verify-url 20160426.1228: find out invalid urls in the buffer or region
-app-emacs/verilog-ext 20240401.1210: SystemVerilog Extensions
-app-emacs/verilog-ts-mode 20240329.1747: Verilog Tree-sitter major mode
+app-emacs/verilog-ext 20240406.1929: SystemVerilog Extensions
+app-emacs/verilog-ts-mode 20240406.2147: Verilog Tree-sitter major mode
 app-emacs/verona-mode 20200823.536: A major mode for the Verona programming language
 app-emacs/versuri 20211104.1301: The lyrics package
 app-emacs/vertica 20131217.1511: Vertica SQL mode extension
@@ -5413,9 +5413,9 @@ app-emacs/vertico 20240128.1526: VERTical Interactive COmpletion
 app-emacs/vertico-prescient 20240226.204: prescient.el + Vertico
 app-emacs/vertigo 20211224.1256: Jump across lines using the home row.
 app-emacs/vhdl-capf 20160221.1734: Completion at point function (capf) for vhdl-mode.
-app-emacs/vhdl-ext 20240401.1211: VHDL Extensions
+app-emacs/vhdl-ext 20240406.2148: VHDL Extensions
 app-emacs/vhdl-tools 20200330.1819: Utilities for navigating vhdl sources
-app-emacs/vhdl-ts-mode 20240329.1752: VHDL Tree-sitter major mode
+app-emacs/vhdl-ts-mode 20240406.2155: VHDL Tree-sitter major mode
 app-emacs/vi-tilde-fringe 20141028.242: Displays tildes in the fringe on empty lines a la Vi.
 app-emacs/viewer 20170107.202: View-mode extension
 app-emacs/viking-mode 20160705.2027: kill first, ask later
