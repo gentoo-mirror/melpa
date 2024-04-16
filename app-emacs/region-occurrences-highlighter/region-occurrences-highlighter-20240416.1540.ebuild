@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Mark occurrences of current region (selection)."
+DESCRIPTION="Mark occurrences of current region (selection)"
 
 HOMEPAGE="https://github.com/alvarogonzalezsotillo/region-occurrences-highlighter"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
