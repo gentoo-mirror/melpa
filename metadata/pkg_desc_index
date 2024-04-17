@@ -265,7 +265,7 @@ app-emacs/awscli-capf 20190930.1517: Completion at point function for the AWS CL
 app-emacs/axe 20230120.1915: AWS Extensions
 app-emacs/axiom-environment 20220612.1535: An environment for using Axiom/OpenAxiom/FriCAS
 app-emacs/ayu-theme 20230306.1924: Ayu theme
-app-emacs/babashka 20230808.2140: Babashka Tasks Interface
+app-emacs/babashka 20240417.1347: Babashka Tasks Interface
 app-emacs/babel 20210612.640: interface to web translation services such as Babelfish
 app-emacs/babel-repl 20160504.2201: Run babel REPL
 app-emacs/back-button 20220827.1733: Visual navigation through mark rings
@@ -394,7 +394,7 @@ app-emacs/bqn-mode 20231217.1203: Emacs mode for BQN
 app-emacs/bracketed-paste 20160407.2348: bracketed paste mode support within emacs -nw
 app-emacs/brainfuck-mode 20150113.842: Brainfuck mode for Emacs
 app-emacs/brazilian-holidays 20220828.2348: Brazilian holidays
-app-emacs/brec-mode 20240417.842: A major mode for editing Breccian text
+app-emacs/brec-mode 20240417.1439: A major mode for editing Breccian text
 app-emacs/brf 20230803.2022: Brf-mode provides features from the legendary editor Brief
 app-emacs/brightscript-mode 20220906.827: Major mode for editing Brightscript files
 app-emacs/bril-mode 20240315.1157: Major mode for Bril text format
@@ -745,10 +745,10 @@ app-emacs/company-ycm 20140904.1817: company-ycm
 app-emacs/company-ycmd 20180520.1053: company-mode backend for ycmd
 app-emacs/compdef 20200304.611: A local completion definer
 app-emacs/competitive-programming-snippets 20201115.1702: Competitive Programming snippets for yasnippet
-app-emacs/compile-multi 20240315.2126: A multi target interface to compile
+app-emacs/compile-multi 20240417.1826: A multi target interface to compile
 app-emacs/compile-multi-all-the-icons 20231226.2123: Affixate `compile-multi' with icons
 app-emacs/compile-multi-embark 20230904.1806: Integration for `compile-multi' and `embark'
-app-emacs/compiler-explorer 20240411.2137: Compiler explorer client (godbolt.org)
+app-emacs/compiler-explorer 20240415.1250: Compiler explorer client (godbolt.org)
 app-emacs/composable 20220608.1148: composable editing
 app-emacs/composer 20221120.202: Interface to PHP Composer
 app-emacs/comware-router-mode 20240103.907: Major mode for editing Comware configuration files
@@ -784,7 +784,7 @@ app-emacs/consult-project-extra 20231221.1857: Consult integration for project.e
 app-emacs/consult-projectile 20230821.406: Consult integration for projectile
 app-emacs/consult-recoll 20231211.1221: Recoll queries using consult
 app-emacs/consult-spotify 20211114.2258: Spotify queries using consult
-app-emacs/consult-tex 20240307.1019: Consult powered completion for tex
+app-emacs/consult-tex 20240417.1149: Consult powered completion for tex
 app-emacs/consult-todo 20231022.2059: Search hl-todo keywords in consult
 app-emacs/consult-yasnippet 20240314.1838: A consulting-read interface for yasnippet
 app-emacs/contextual 20180726.800: Contextual profile management system
@@ -1035,7 +1035,7 @@ app-emacs/dired-hist 20240405.2347: Traverse Dired buffer's history: back, forwa
 app-emacs/dired-icon 20170223.526: A minor mode to display a list of associated icons in dired buffers.
 app-emacs/dired-imenu 20230904.1810: imenu binding for dired mode
 app-emacs/dired-k 20211002.2358: Highlight dired by size, date, git status
-app-emacs/dired-launch 20240317.2344: Use dired as a launcher
+app-emacs/dired-launch 20240417.1903: Use dired as a launcher
 app-emacs/dired-list 20240318.845: Create dired listings from sources
 app-emacs/dired-lsi 20200812.929: Add memo to directory and show it in dired
 app-emacs/dired-narrow 20230512.1107: Live-narrowing of search results for dired
@@ -1471,7 +1471,7 @@ app-emacs/eshell-info-banner 20220728.1006: System information as your Eshell ba
 app-emacs/eshell-outline 20201121.620: Enhanced outline-mode for Eshell
 app-emacs/eshell-prompt-extras 20231019.1405: Display extra information for your eshell prompt.
 app-emacs/eshell-syntax-highlighting 20240416.102: Highlight eshell commands
-app-emacs/eshell-toggle 20220718.729: Show/hide eshell under active window.
+app-emacs/eshell-toggle 20240417.1536: Show/hide eshell under active window.
 app-emacs/eshell-up 20240226.1747: Quickly go to a specific parent directory in eshell
 app-emacs/eshell-vterm 20240305.1149: Vterm for visual commands in eshell
 app-emacs/eshell-z 20191116.333: cd to frequent directory in eshell
@@ -1520,7 +1520,7 @@ app-emacs/evil-better-visual-line 20200123.2045: gj and gk visual line mode fix
 app-emacs/evil-cleverparens 20240308.751: Evil friendly minor-mode for editing lisp.
 app-emacs/evil-colemak-basics 20221230.1443: Basic Colemak key bindings for evil-mode
 app-emacs/evil-colemak-minimal 20171006.1317: Minimal Colemak key bindings for evil-mode
-app-emacs/evil-collection 20240411.224: A set of keybindings for Evil mode
+app-emacs/evil-collection 20240417.1647: A set of keybindings for Evil mode
 app-emacs/evil-commentary 20230610.1006: Comment stuff out. A port of vim-commentary.
 app-emacs/evil-dvorak 20160416.1841: evil keybindings for that work with dvorak mode
 app-emacs/evil-easymotion 20200424.135: A port of vim's easymotion to emacs
@@ -2107,7 +2107,7 @@ app-emacs/gn-mode 20190428.1812: major mode for editing GN (generate ninja) file
 app-emacs/gnome-calendar 20161110.1256: Integration with the GNOME Shell calendar
 app-emacs/gnome-screencast 20210125.2001: Use Gnome screen recording functionality using elisp
 app-emacs/gnomenm 20150316.1918: Emacs interface to Gnome nmcli command
-app-emacs/gnosis 20240417.937: Spaced Repetition System For Note Taking & Self Testing
+app-emacs/gnosis 20240417.1322: Spaced Repetition System For Note Taking & Self Testing
 app-emacs/gntp 20141025.250: Growl Notification Protocol for Emacs
 app-emacs/gnu-apl-mode 20220404.341: Integrate GNU APL with Emacs
 app-emacs/gnu-indent 20221127.2112: Indent your code with GNU Indent
@@ -2804,7 +2804,7 @@ app-emacs/jist 20161229.1721: Gist integration
 app-emacs/jit-lock-stealth-progress 20230808.1342: JIT lock stealth mode-line progress
 app-emacs/jknav 20121006.2025: Automatically enable j/k keys for line-based navigation
 app-emacs/jmespath 20240115.1310: Query JSON using jmespath
-app-emacs/jmt-mode 20240417.839: JMT Mode
+app-emacs/jmt-mode 20240417.1437: JMT Mode
 app-emacs/jonprl-mode 20160819.59: A major mode for editing JonPRL files
 app-emacs/journalctl-mode 20240219.2115: Sample major mode for viewing output journalctl
 app-emacs/jpop 20170410.1250: Lightweight project caching and navigation framework
@@ -3097,7 +3097,7 @@ app-emacs/logms 20240101.942: Log message with clickable links to context
 app-emacs/lognav-mode 20240115.1637: Navigate Log Error Messages
 app-emacs/logpad 20201113.917: Simulate Windows Notepad for logging.
 app-emacs/logstash-conf 20210123.1949: basic mode for editing logstash configuration
-app-emacs/logview 20240416.1910: Major mode for viewing log files
+app-emacs/logview 20240417.1628: Major mode for viewing log files
 app-emacs/lol-data-dragon 20200705.1822: Browse Champions of League of Legends on Data Dragon
 app-emacs/lolcat 20190527.1145: Rainbows and unicorns!
 app-emacs/lolcode-mode 20111002.847: Major mode for editing LOLCODE
@@ -4225,7 +4225,7 @@ app-emacs/point-stack 20200427.107: Back and forward navigation through buffer l
 app-emacs/poke-line 20201023.247: Minor mode to show position in a buffer using a Pokemon
 app-emacs/pollen-mode 20220904.447: major mode for editing pollen files
 app-emacs/poly-R 20230416.1454: Various polymodes for R language
-app-emacs/poly-ansible 20240417.1052: Polymode for Ansible: Jinja2 in YAML
+app-emacs/poly-ansible 20240417.1402: Polymode for Ansible: Jinja2 in YAML
 app-emacs/poly-erb 20200316.1314: Polymode for erb
 app-emacs/poly-markdown 20230202.1210: Polymode for markdown-mode
 app-emacs/poly-noweb 20200316.1315: Polymode for noweb
@@ -4319,7 +4319,7 @@ app-emacs/projectile-sift 20160107.1015: Run a sift with Projectile
 app-emacs/projectile-speedbar 20190807.2010: projectile integration for speedbar
 app-emacs/projectile-trailblazer 20170928.1624: Minor mode for Rails projects using trailblazer
 app-emacs/projectile-variable 20230916.441: Store project local variables.
-app-emacs/projection 20240415.1930: Project type support for `project'
+app-emacs/projection 20240417.1905: Project type support for `project'
 app-emacs/projection-dape 20240325.1931: Projection integration for `dape'
 app-emacs/projection-multi 20240316.2222: Projection integration for `compile-multi'
 app-emacs/projection-multi-embark 20231008.937: Integration for `projection-multi' and `embark'
@@ -4717,7 +4717,7 @@ app-emacs/sequential-yank 20231126.1530: Minor mode to copy and paste strings se
 app-emacs/seriestracker 20230821.1858: Series tracker
 app-emacs/servant 20140216.1219: ELPA server written in Emacs Lisp
 app-emacs/services 20170802.1130: Services database access functions.
-app-emacs/sesman 20240115.2143: Generic Session Manager
+app-emacs/sesman 20240417.1723: Generic Session Manager
 app-emacs/session 20210422.53: use variables, registers and buffer places across sessions
 app-emacs/session-async 20231125.2106: Asynchronous processing in a forked process session
 app-emacs/seti-theme 20190201.1848: A dark colored theme, inspired by Seti Atom Theme
@@ -5614,7 +5614,7 @@ app-emacs/xo 20160403.646: XO linter integration with compilation mode
 app-emacs/xonsh-mode 20201020.52: Major mode for editing xonshrc files
 app-emacs/xquery-mode 20170214.1119: A simple mode for editing xquery programs
 app-emacs/xquery-tool 20200907.811: A simple interface to saxonb's xquery.
-app-emacs/xref-js2 20210310.1238: Jump to references/definitions using ag & js2-mode's AST
+app-emacs/xref-js2 20240417.1454: Jump to references/definitions using ag & js2-mode's AST
 app-emacs/xref-rst 20230601.21: Lookup reStructuredText symbols
 app-emacs/xresources-theme 20221208.2015: Use your .Xresources as your emacs theme
 app-emacs/xterm-color 20230321.3: ANSI, XTERM 256 and Truecolor support
