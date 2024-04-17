@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Java Mode Tamed"
+DESCRIPTION="JMT Mode"
 
 HOMEPAGE="http://reluk.ca/project/Java/Emacs/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
