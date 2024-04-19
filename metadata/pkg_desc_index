@@ -620,7 +620,7 @@ app-emacs/closure-lint-mode 20101118.2124: minor mode for the Closure Linter
 app-emacs/cloud-theme 20220205.1336: A light colored theme
 app-emacs/cloud-to-butt-erc 20130627.2308: Replace 'the cloud' with 'my butt'
 app-emacs/clues-theme 20161213.1127: an Emacs 24 theme which may well be fully awesome...
-app-emacs/cm-mode 20170203.2107: Minor mode for CriticMarkup
+app-emacs/cm-mode 20240419.1050: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 20230304.2223: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 20210610.1525: Calls CMake to find out include paths and other compiler flags
 app-emacs/cmake-mode 20240412.1329: major-mode for editing CMake sources
@@ -1055,7 +1055,7 @@ app-emacs/dired-subtree 20230512.1107: Insert subdirectories in a tree-like fash
 app-emacs/dired-toggle 20190616.303: Show dired as sidebar and will not create new buffers when changing dir
 app-emacs/dired-toggle-sudo 20211216.102: Browse directory with sudo privileges.
 app-emacs/dired-view-data 20240328.328: View data from dired via ESS and R
-app-emacs/diredc 20240418.337: Midnight Commander features (plus) for dired
+app-emacs/diredc 20240419.544: Midnight Commander features (plus) for dired
 app-emacs/diredfl 20230224.1302: Extra font lock rules for a more colourful dired
 app-emacs/diredful 20160529.2017: colorful file names in dired buffers
 app-emacs/direnv 20240314.715: direnv integration
@@ -1116,7 +1116,7 @@ app-emacs/dokuwiki 20180102.59: Edit Remote DokuWiki Pages Using XML-RPC
 app-emacs/dokuwiki-mode 20170223.1301: Major mode for DokuWiki document
 app-emacs/dollaro 20151123.1302: simple text templates
 app-emacs/doom 20180301.2308: DOM implementation and manipulation library
-app-emacs/doom-modeline 20240416.815: A minimal and modern mode-line
+app-emacs/doom-modeline 20240419.213: A minimal and modern mode-line
 app-emacs/doom-modeline-now-playing 20210831.1442: Segment for Doom Modeline to show playerctl information
 app-emacs/doom-themes 20240404.2042: an opinionated pack of modern color-themes
 app-emacs/dot-env 20230820.2014: Dotenv functionality
@@ -1370,8 +1370,8 @@ app-emacs/emacsshot 20191206.944: Snapshot a frame or window from within
 app-emacs/emamux 20200315.1220: Interact with tmux
 app-emacs/emamux-ruby-test 20130812.1639: Ruby test with emamux
 app-emacs/emaps 20200508.1759: Utilities for working with keymaps
-app-emacs/embark 20240327.1408: Conveniently act on minibuffer completions
-app-emacs/embark-consult 20240205.2122: Consult integration for Embark
+app-emacs/embark 20240419.452: Conveniently act on minibuffer completions
+app-emacs/embark-consult 20240419.452: Consult integration for Embark
 app-emacs/embark-org-roam 20240303.335: Embark export buffer for org roam nodes
 app-emacs/embark-vc 20230212.1920: Embark actions for various version control integrations
 app-emacs/ember-mode 20240301.1056: Ember navigation mode for emacs
@@ -1615,7 +1615,7 @@ app-emacs/extend-dnd 20151122.1850: R drag and Drop
 app-emacs/external-dict 20231129.1043: Query external dictionary like goldendict, Bob.app etc
 app-emacs/extmap 20230907.1959: Externally-stored constant mapping for Elisp
 app-emacs/exunit 20240401.1344: ExUnit test runner
-app-emacs/exwm-edit 20240418.722: Edit mode for EXWM
+app-emacs/exwm-edit 20240418.2142: Edit mode for EXWM
 app-emacs/exwm-firefox-core 20190812.2110: Firefox hotkeys to functions
 app-emacs/exwm-firefox-evil 20231026.309: evil-mode implementation of exwm-firefox-core
 app-emacs/exwm-float 20210207.2035: Convenient modes and bindings for floating EXWM frames
@@ -1894,7 +1894,7 @@ app-emacs/flymake-racket 20210105.606: Flymake extension for Racket.
 app-emacs/flymake-rakudo 20220424.637: Flymake syntax checker for Rakudo
 app-emacs/flymake-relint 20230803.120: A relint Flymake backend
 app-emacs/flymake-ruby 20170723.146: A flymake handler for ruby-mode files
-app-emacs/flymake-ruff 20240401.1544: A flymake plugin for python files using ruff
+app-emacs/flymake-ruff 20240419.232: A flymake plugin for python files using ruff
 app-emacs/flymake-sass 20170723.146: Flymake handler for sass and scss files
 app-emacs/flymake-shell 20170723.146: A flymake syntax-checker for shell scripts
 app-emacs/flymake-shellcheck 20220308.2218: A bash/sh Flymake backend powered by ShellCheck
@@ -2843,7 +2843,7 @@ app-emacs/jsonnet-mode 20220121.2109: Major mode for editing jsonnet files
 app-emacs/jss 20130508.1423: An emacs interface to webkit and mozilla debuggers
 app-emacs/jst 20150604.1138: JS test mode
 app-emacs/jtags 20160211.2029: enhanced tags functionality for Java development
-app-emacs/jtsx 20240402.1319: Extends JSX/TSX built-in support
+app-emacs/jtsx 20240418.2018: Extends JSX/TSX built-in support
 app-emacs/julia-formatter 20231130.1512: Use JuliaFormatter.jl for julia code
 app-emacs/julia-mode 20240409.1316: Major mode for editing Julia source code
 app-emacs/julia-repl 20240408.850: A minor mode for a Julia REPL
@@ -3071,7 +3071,7 @@ app-emacs/literate-elisp 20220626.932: Load Emacs Lisp code blocks from Org file
 app-emacs/litex-mode 20221107.147: Minor mode for converting lisp to LaTeX
 app-emacs/live-code-talks 20180907.1647: Support for slides with live code in them
 app-emacs/live-preview 20231215.1612: Live preview by any shell command while editing
-app-emacs/live-py-mode 20240304.1642: Live Coding in Python
+app-emacs/live-py-mode 20240419.404: Live Coding in Python
 app-emacs/lively 20171005.754: interactively updating text
 app-emacs/livereload 20170629.650: Livereload server
 app-emacs/livescript-mode 20221015.1316: Major mode for editing LiveScript files
@@ -3244,7 +3244,7 @@ app-emacs/math-preview 20230425.1820: Preview TeX math equations inline
 app-emacs/math-symbol-lists 20220828.2047: Lists of Unicode math symbols and latex commands
 app-emacs/math-symbols 20201005.2313: Math Symbol Input methods and conversion tools
 app-emacs/math-tex-convert 20221210.1937: Convert LaTeX macros to unicode and back
-app-emacs/matlab-mode 20230712.1655: Major mode for MATLAB(R) dot-m files
+app-emacs/matlab-mode 20240418.1949: Major mode for MATLAB(R) dot-m files
 app-emacs/maude-mode 20230504.937: Emacs mode for the programming language Maude
 app-emacs/maven-test-mode 20141220.557: Utilities for navigating test files and running maven test tasks.
 app-emacs/maxframe 20170120.1705: maximize the emacs frame based on display size
@@ -3297,7 +3297,7 @@ app-emacs/mew 20240305.27: Messaging in the Emacs World
 app-emacs/mexican-holidays 20210604.1421: Mexico holidays for Emacs calendar.
 app-emacs/meyvn 20231213.230: Meyvn client
 app-emacs/mgmtconfig-mode 20240330.2205: mgmt configuration management language
-app-emacs/mhc 20240412.58: Message Harmonized Calendaring system.
+app-emacs/mhc 20240419.10: Message Harmonized Calendaring system.
 app-emacs/mic 20230725.1139: Minimal and combinable configuration manager
 app-emacs/mic-paren 20170731.1907: advanced highlighting of matching parentheses
 app-emacs/micgoline 20160415.326: powerline mode, color schemes from microsoft and google's logo.
@@ -4065,7 +4065,7 @@ app-emacs/paredit-menu 20160128.1733: Adds a menu to paredit.el as memory aid
 app-emacs/paren-completer 20160501.1052: Automatically, language agnostically, fill in delimiters.
 app-emacs/paren-face 20240415.1547: A face for parentheses in lisp modes
 app-emacs/parent-mode 20240210.1906: get major mode's parent modes
-app-emacs/parinfer-rust-mode 20240415.1927: An interface for the parinfer-rust library
+app-emacs/parinfer-rust-mode 20240419.415: An interface for the parinfer-rust library
 app-emacs/parrot 20220101.518: Party Parrot rotates gracefully in mode-line.
 app-emacs/parse-csv 20160512.1723: Parse strings with CSV fields into s-expressions
 app-emacs/parse-it 20240101.946: Basic Parser in Emacs Lisp
@@ -4546,8 +4546,8 @@ app-emacs/restclient 20231010.1327: An interactive HTTP client for Emacs
 app-emacs/restclient-helm 20170314.1554: helm interface for restclient.el
 app-emacs/restclient-jq 20220426.1734: Support for setting restclient vars from jq expressions
 app-emacs/restclient-test 20240207.1415: Run tests with restclient.el
-app-emacs/retraction-viewer 20240415.1431: View retraction information for current citation
-app-emacs/retraction-viewer-section 20240415.1431: Show retraction information in the universal-sidecar
+app-emacs/retraction-viewer 20240419.837: View retraction information for current citation
+app-emacs/retraction-viewer-section 20240419.837: Show retraction information in the universal-sidecar
 app-emacs/retrie 20200519.551: Refactoring Haskell code with retrie
 app-emacs/revbufs 20200907.2223: Reverts all out-of-date buffers safely
 app-emacs/reveal-in-folder 20240226.37: Reveal current file/directory in folder
