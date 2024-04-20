@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Learn irregular verbs in English. -*- lexical-binding: t"
+DESCRIPTION="Learn irregular verbs in English."
 
 HOMEPAGE="https://github.com/tanrax/lirve.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
