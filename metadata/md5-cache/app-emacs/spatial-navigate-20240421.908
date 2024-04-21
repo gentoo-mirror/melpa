@@ -1,12 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Support selecting fonts from a list of presets
+DESCRIPTION=Directional navigation between white-space blocks
 EAPI=8
-HOMEPAGE=https://codeberg.org/ideasman42/emacs-default-font-presets
+HOMEPAGE=https://codeberg.org/ideasman42/emacs-spatial-navigate
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/default-font-presets-20230708.1012.tar
+SRC_URI=https://melpa.org/packages/spatial-navigate-20240421.908.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=f74a72f785c8a92bf2afa122e8de7b66
+_md5_=c03b403f899f01d29de858251db1b8e7
