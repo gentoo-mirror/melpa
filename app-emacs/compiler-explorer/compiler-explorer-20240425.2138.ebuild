@@ -19,6 +19,10 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/request
-	app-emacs/eldoc"
+	app-emacs/eldoc
+	app-emacs/map
+	app-emacs/seq"
 RDEPEND="app-emacs/request
-	app-emacs/eldoc"
+	app-emacs/eldoc
+	app-emacs/map
+	app-emacs/seq"
