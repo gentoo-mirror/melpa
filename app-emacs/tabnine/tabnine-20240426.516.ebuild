@@ -21,12 +21,10 @@ KEYWORDS="~amd64 ~x86"
 DEPEND="app-emacs/dash
 	app-emacs/s
 	app-emacs/editorconfig
-	app-emacs/vterm
 	app-emacs/language-id
 	app-emacs/transient"
 RDEPEND="app-emacs/dash
 	app-emacs/s
 	app-emacs/editorconfig
-	app-emacs/vterm
 	app-emacs/language-id
 	app-emacs/transient"
