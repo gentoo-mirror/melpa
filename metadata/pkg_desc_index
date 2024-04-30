@@ -242,7 +242,7 @@ app-emacs/auto-virtualenv 20240115.1548: Auto activate python virtualenvs
 app-emacs/auto-virtualenvwrapper 20230317.1313: Lightweight auto activate python virtualenvs
 app-emacs/auto-yasnippet 20230208.331: Quickly create disposable yasnippets
 app-emacs/autobookmarks 20220509.1712: Save recently visited files and buffers
-app-emacs/autobuild 20230906.1629: Define and execute build rules and compilation pipelines
+app-emacs/autobuild 20240430.1600: Define and execute build rules and compilation pipelines
 app-emacs/autodisass-java-bytecode 20230907.1729: Automatically disassemble Java bytecode
 app-emacs/autodisass-llvm-bitcode 20150411.125: Automatically disassemble LLVM bitcode
 app-emacs/autoscratch 20230612.719: Automatically switch scratch buffer mode
@@ -463,7 +463,7 @@ app-emacs/calfw-howm 20170704.4: calendar view for howm
 app-emacs/calfw-ical 20170411.220: calendar view for ical format
 app-emacs/calfw-org 20170411.220: calendar view for org-agenda
 app-emacs/calibredb 20240331.409: Yet another calibre client
-app-emacs/call-graph 20230222.525: Generate call graph for c/c++ functions
+app-emacs/call-graph 20240430.1714: Generate call graph for c/c++ functions
 app-emacs/calmer-forest-theme 20230302.2149: Darkish theme with green/orange tint
 app-emacs/camcorder 20190317.2138: Record screencasts in gif or other formats.
 app-emacs/caml 20231011.328: Caml mode for GNU Emacs
@@ -572,7 +572,7 @@ app-emacs/citar-embark 20231122.1548: Citar/Embark integration
 app-emacs/citar-org-roam 20240212.2159: Citar/org-roam integration
 app-emacs/citeproc-el 20240307.1412: A CSL 1.0.2 Citation Processor
 app-emacs/citeproc-org 20200915.2009: Render org-mode references in CSL styles
-app-emacs/citre 20240425.1635: Superior code reading & auto-completion tool with pluggable backends.
+app-emacs/citre 20240430.1338: Superior code reading & auto-completion tool with pluggable backends.
 app-emacs/cl-format 20230818.1726: CL format routine.
 app-emacs/cl-libify 20181130.230: Update elisp code to use cl-lib instead of cl
 app-emacs/clang-capf 20221030.1830: Completion-at-point backend for c/c++ using clang
@@ -1000,7 +1000,7 @@ app-emacs/diffpdf 20210626.1447: Transient diffpdf
 app-emacs/diffscuss-mode 20141014.2357: Major mode for diffscuss files.
 app-emacs/difftastic 20240423.1553: Wrapper for difftastic
 app-emacs/diffview 20230224.1916: View diffs in side-by-side format
-app-emacs/digistar-mode 20240429.1737: major mode for Digistar scripts
+app-emacs/digistar-mode 20240430.1417: major mode for Digistar scripts
 app-emacs/digit-groups 20200506.37: Highlight place-value positions in numbers
 app-emacs/digitalocean 20190607.726: Create and manipulate digitalocean droplets
 app-emacs/digitalocean-helm 20180610.746: Create and manipulate digitalocean droplets
@@ -1191,7 +1191,7 @@ app-emacs/easy-kill-extras 20240122.1649: Extra functions for easy-kill.
 app-emacs/easy-repeat 20150516.848: Repeat easily
 app-emacs/ebdb-mua-sidecar 20240428.1852: EBDB Integration for Universal Sidecar
 app-emacs/ebf 20210225.1211: brainfuck language transpiler to Emacs Lisp
-app-emacs/ebib 20240428.2156: a BibTeX database manager
+app-emacs/ebib 20240430.1436: a BibTeX database manager
 app-emacs/ebib-sidecar 20240428.1852: Sidecar to show formatted reference of current Ebib Entry
 app-emacs/ebnf-mode 20231022.1759: Major mode for EBNF files
 app-emacs/ebuku 20231113.748: Interface to the buku Web bookmark manager
@@ -1269,7 +1269,7 @@ app-emacs/elbank 20180316.1343: Personal finances reporting application
 app-emacs/elcontext 20210109.1238: Create context specific actions
 app-emacs/elcord 20240305.2138: Allows you to integrate Rich Presence from Discord
 app-emacs/elcouch 20230903.750: View and manipulate CouchDB databases
-app-emacs/eldev 20240429.1816: Elisp development tool
+app-emacs/eldev 20240430.1918: Elisp development tool
 app-emacs/eldoc-box 20240426.408: Display documentation in childframe
 app-emacs/eldoc-cmake 20190419.2244: Eldoc support for CMake
 app-emacs/eldoc-eask 20240101.819: Eldoc support for Eask-file
@@ -1379,7 +1379,7 @@ app-emacs/ember-yasnippets 20160526.1658: Snippets for Ember.js development
 app-emacs/embrace 20231027.419: Add/Change/Delete pairs based on `expand-region'
 app-emacs/emidje 20190209.1726: Test runner and report viewer for Midje
 app-emacs/emmet-mode 20221111.329: Unofficial Emmet's support for emacs
-app-emacs/emms 20240414.1933: The Emacs Multimedia System
+app-emacs/emms 20240430.1335: The Emacs Multimedia System
 app-emacs/emms-info-mediainfo 20131223.1300: Info-method for EMMS using medianfo
 app-emacs/emms-mark-ext 20130529.327: Extra functions for emms-mark-mode and emms-tag-edit-mode
 app-emacs/emms-mode-line-cycle 20160221.1120: Display the emms mode line as a ticker
@@ -1471,7 +1471,7 @@ app-emacs/eshell-git-prompt 20220830.2000: Some Eshell prompt for Git users
 app-emacs/eshell-info-banner 20220728.1006: System information as your Eshell banner
 app-emacs/eshell-outline 20201121.620: Enhanced outline-mode for Eshell
 app-emacs/eshell-prompt-extras 20231019.1405: Display extra information for your eshell prompt.
-app-emacs/eshell-syntax-highlighting 20240430.21: Highlight eshell commands
+app-emacs/eshell-syntax-highlighting 20240430.1833: Highlight eshell commands
 app-emacs/eshell-toggle 20240417.1536: Show/hide eshell under active window.
 app-emacs/eshell-up 20240226.1747: Quickly go to a specific parent directory in eshell
 app-emacs/eshell-vterm 20240305.1149: Vterm for visual commands in eshell
@@ -1512,8 +1512,8 @@ app-emacs/eval-sexp-fu 20191128.825: Tiny functionality enhancements for evaluat
 app-emacs/evalator 20160213.128: Package for interactive transformation of data with helm
 app-emacs/evalator-clojure 20160208.2148: Clojure evaluation context for evalator via CIDER.
 app-emacs/eve-mode 20170822.2231: Major mode for editing Eve documents.
-app-emacs/everlasting-scratch 20230105.507: The *scratch* that lasts forever
-app-emacs/evil 20240421.1915: Extensible Vi layer for Emacs.
+app-emacs/everlasting-scratch 20240430.1713: The *scratch* that lasts forever
+app-emacs/evil 20240430.1730: Extensible Vi layer for Emacs.
 app-emacs/evil-anzu 20220911.1939: anzu for evil-mode
 app-emacs/evil-args 20240210.504: Motions and text objects for delimited arguments in Evil.
 app-emacs/evil-avy 20150908.748: set-based completion
@@ -2564,7 +2564,7 @@ app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy 
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
 app-emacs/hyperbole 20240420.1609: GNU Hyperbole: The Everyday Hypertextual Information Manager
-app-emacs/hyperdrive 20240430.54: P2P filesystem
+app-emacs/hyperdrive 20240430.1942: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -3357,7 +3357,7 @@ app-emacs/modern-sh 20211101.1001: Minor mode for editing shell script
 app-emacs/modtime-skip-mode 20140128.2201: Minor mode for disabling modtime and supersession checks on files.
 app-emacs/modular-config 20210726.1614: Organize your config into small and loadable modules
 app-emacs/modus-themes 20240427.843: Elegant, highly legible and customizable themes
-app-emacs/moe-theme 20240417.1111: A colorful eye-candy theme. Moe, moe, kyun!
+app-emacs/moe-theme 20240430.1601: A colorful eye-candy theme. Moe, moe, kyun!
 app-emacs/molar-mass 20220922.1752: Calculates molar mass of a molecule
 app-emacs/molecule 20180527.743: Simple wrapper for molecule
 app-emacs/molokai-theme 20220106.1520: molokai theme with Emacs theme engine
@@ -3804,7 +3804,7 @@ app-emacs/org-index 20240202.1157: Ranked and incremental search among selected 
 app-emacs/org-inline-anim 20230610.1504: Inline playback of animated GIF/PNG for Org
 app-emacs/org-inline-pdf 20230826.1220: Inline PDF previewing for Org
 app-emacs/org-iv 20171001.1022: a tool used to view html (in browser) generated by org-file once the org-file changes
-app-emacs/org-ivy-search 20231213.857: Full text search for org files powered by ivy
+app-emacs/org-ivy-search 20240430.1713: Full text search for org files powered by ivy
 app-emacs/org-jami-bot 20240203.1016: Capture GNU Jami messages as notes and todos in Org mode
 app-emacs/org-jira 20230915.57: Syncing between Jira and Org-mode.
 app-emacs/org-journal 20240218.1645: a simple org-mode based journaling mode
@@ -3860,7 +3860,7 @@ app-emacs/org-radiobutton 20210519.1225: Radiobutton for org-mode lists.
 app-emacs/org-rainbow-tags 20230921.2038: Colorize org tags automatically
 app-emacs/org-random-todo 20190214.2057: show a random TODO (with alert) every so often
 app-emacs/org-randomnote 20200110.1407: Find a random note in your Org-Mode files
-app-emacs/org-re-reveal 20240421.716: Org export to reveal.js presentations
+app-emacs/org-re-reveal 20240430.1155: Org export to reveal.js presentations
 app-emacs/org-re-reveal-citeproc 20211028.1328: Citations and bibliography for org-re-reveal
 app-emacs/org-re-reveal-ref 20211029.551: Citations and bibliography for org-re-reveal
 app-emacs/org-recent-headings 20211011.1519: Jump to recently used Org headings
@@ -4697,7 +4697,7 @@ app-emacs/see-mode 20180511.41: Edit string in a separate buffer
 app-emacs/seeing-is-believing 20170214.1320: minor mode for running the seeing-is-believing ruby gem
 app-emacs/seethru 20150218.1829: Easily change Emacs' transparency
 app-emacs/sekka 20170803.1247: A client for Sekka IME server
-app-emacs/selcand 20230628.733: Select a candidate from a tree of hint characters
+app-emacs/selcand 20240430.1408: Select a candidate from a tree of hint characters
 app-emacs/select-themes 20160221.106: Color theme selection with completing-read
 app-emacs/selected 20230219.1328: Keymap for when region is active
 app-emacs/selected-window-accent-mode 20240427.833: Accent Selected Window
