@@ -5,22 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="exunit"
+REALNAME="parinfer-rust-mode"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="ExUnit test runner"
+DESCRIPTION="An interface for the parinfer-rust library"
 
-HOMEPAGE="http://github.com/ananthakumaran/exunit.el"
+HOMEPAGE="https://github.com/justinbarclay/parinfer-rust-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/s
-	app-emacs/f
-	app-emacs/transient"
-RDEPEND="app-emacs/s
-	app-emacs/f
-	app-emacs/transient"
+DEPEND="app-emacs/track-changes"
+RDEPEND="app-emacs/track-changes"

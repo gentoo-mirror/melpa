@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Spaced Repetition System For Note Taking & Self Testing"
+DESCRIPTION="Spaced Repetition System"
 
 HOMEPAGE="https://thanosapollo.org/projects/gnosis"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
