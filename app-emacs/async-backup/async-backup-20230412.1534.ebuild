@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Backup on each save without freezing Emacs"
 
-HOMEPAGE="https://tildegit.org/contrapunctus/async-backup"
+HOMEPAGE="https://codeberg.org/contrapunctus/async-backup"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
