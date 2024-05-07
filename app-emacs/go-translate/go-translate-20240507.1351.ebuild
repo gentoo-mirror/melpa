@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Translation framework supports multiple engines such as Google/Bing/DeepL"
+DESCRIPTION="Translation framework, configurable and scalable"
 
 HOMEPAGE="https://github.com/lorniu/go-translate"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
