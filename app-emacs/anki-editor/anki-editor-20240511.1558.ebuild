@@ -12,13 +12,11 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode for making Anki cards with Org"
 
-HOMEPAGE="https://github.com/louietan/anki-editor"
+HOMEPAGE="https://github.com/anki-editor/anki-editor"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/request
-	app-emacs/dash"
-RDEPEND="app-emacs/request
-	app-emacs/dash"
+DEPEND=""
+RDEPEND=""
