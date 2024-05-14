@@ -5,18 +5,20 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="mini-echo"
+REALNAME="git-cliff"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Echo buffer status in minibuffer window"
+DESCRIPTION="Generate and update changelog using git-cliff"
 
-HOMEPAGE="https://github.com/liuyinz/mini-echo.el"
+HOMEPAGE="https://github.com/liuyinz/git-cliff.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/hide-mode-line"
-RDEPEND="app-emacs/hide-mode-line"
+DEPEND="app-emacs/transient
+	app-emacs/dash"
+RDEPEND="app-emacs/transient
+	app-emacs/dash"
