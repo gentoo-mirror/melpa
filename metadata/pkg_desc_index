@@ -567,7 +567,7 @@ app-emacs/circe 20240407.1101: Client for IRC in Emacs
 app-emacs/circe-notifications 20180102.2318: Add desktop notifications to Circe.
 app-emacs/circleci-api 20210227.1607: Bindings for the CircleCI API
 app-emacs/citar 20240419.2232: Citation-related commands for org, latex, markdown
-app-emacs/citar-denote 20240520.2325: Minor mode integrating Citar and Denote
+app-emacs/citar-denote 20240522.2043: Minor mode integrating Citar and Denote
 app-emacs/citar-embark 20231122.1548: Citar/Embark integration
 app-emacs/citar-org-roam 20240212.2159: Citar/org-roam integration
 app-emacs/citeproc-el 20240513.1309: A CSL 1.0.2 Citation Processor
@@ -694,7 +694,7 @@ app-emacs/company-emojify 20240101.926: Company completion for Emojify
 app-emacs/company-erlang 20170123.538: company backend based on ivy-erlang-complete
 app-emacs/company-flow 20180225.2159: Flow backend for company-mode
 app-emacs/company-flx 20180103.518: flx based fuzzy matching for company
-app-emacs/company-fuzzy 20240519.904: Fuzzy matching for `company-mode'
+app-emacs/company-fuzzy 20240522.2348: Fuzzy matching for `company-mode'
 app-emacs/company-ghci 20190707.311: company backend which uses the current ghci process.
 app-emacs/company-glsl 20210109.1403: Support glsl in company-mode
 app-emacs/company-go 20170825.1643: company-mode backend for Go (using gocode)
@@ -1051,7 +1051,7 @@ app-emacs/dired-rifle 20210316.1452: Call rifle(1) from dired
 app-emacs/dired-rmjunk 20191007.1232: A home directory cleanup utility for Dired.
 app-emacs/dired-rsync 20230822.1350: Allow rsync from dired buffers
 app-emacs/dired-rsync-transient 20230714.1459: Transient command for dired-rsync
-app-emacs/dired-sidebar 20240320.1952: Tree browser leveraging dired
+app-emacs/dired-sidebar 20240522.2316: Tree browser leveraging dired
 app-emacs/dired-single 20240131.1148: Reuse the current dired buffer
 app-emacs/dired-subtree 20230512.1107: Insert subdirectories in a tree-like fashion
 app-emacs/dired-toggle 20190616.303: Show dired as sidebar and will not create new buffers when changing dir
@@ -1523,7 +1523,7 @@ app-emacs/evil-better-visual-line 20200123.2045: gj and gk visual line mode fix
 app-emacs/evil-cleverparens 20240308.751: Evil friendly minor-mode for editing lisp.
 app-emacs/evil-colemak-basics 20221230.1443: Basic Colemak key bindings for evil-mode
 app-emacs/evil-colemak-minimal 20171006.1317: Minimal Colemak key bindings for evil-mode
-app-emacs/evil-collection 20240417.1647: A set of keybindings for Evil mode
+app-emacs/evil-collection 20240523.120: A set of keybindings for Evil mode
 app-emacs/evil-commentary 20230610.1006: Comment stuff out. A port of vim-commentary.
 app-emacs/evil-dvorak 20160416.1841: evil keybindings for that work with dvorak mode
 app-emacs/evil-easymotion 20200424.135: A port of vim's easymotion to emacs
@@ -1939,7 +1939,7 @@ app-emacs/forecast 20191004.1850: Weather forecasts
 app-emacs/foreign-regexp 20200325.50: search and replace by foreign regexp.
 app-emacs/foreman-mode 20170725.1422: View and manage Procfile-based applications
 app-emacs/forest-blue-theme 20160627.842: Emacs theme with a dark background.
-app-emacs/forge 20240519.1510: Access Git forges from Magit.
+app-emacs/forge 20240522.1627: Access Git forges from Magit.
 app-emacs/form-feed 20210508.1627: Display ^L glyphs as horizontal lines
 app-emacs/form-feed-st 20231002.2211: Display ^L glyphs as full-width horizontal lines
 app-emacs/format-all 20240511.1811: Auto-format C, C++, JS, Python, Ruby and 50 other languages
@@ -2004,7 +2004,7 @@ app-emacs/gdscript-mode 20240509.1523: Major mode for Godot's GDScript language
 app-emacs/geben 20220827.105: DBGp protocol frontend, a script debugger
 app-emacs/geben-helm-projectile 20170524.334: Integrate helm-projectile with geben
 app-emacs/geeknote 20220213.612: Use Evernote in Emacs through geeknote
-app-emacs/geiser 20240522.1701: GNU Emacs and Scheme talk to each other
+app-emacs/geiser 20240523.33: GNU Emacs and Scheme talk to each other
 app-emacs/geiser-chez 20230707.1334: Chez and Geiser talk to each other
 app-emacs/geiser-chibi 20240521.2252: Chibi Scheme's implementation of the geiser protocols
 app-emacs/geiser-chicken 20220717.1130: Chicken's implementation of the geiser protocols
@@ -3763,8 +3763,8 @@ app-emacs/org-capture-pop-frame 20230516.236: Run org-capture in a new pop frame
 app-emacs/org-category-capture 20230830.1733: Contextualy capture of org-mode TODOs.
 app-emacs/org-change 20240318.2003: Annotate changes in org-mode files
 app-emacs/org-chef 20231127.1601: Cookbook and recipe management with org-mode.
-app-emacs/org-cite-overlay 20240207.1611: Overlays for org-cite citations
-app-emacs/org-cite-overlay-sidecar 20240213.1802: Show Sidecar for overlaid org-cite citations
+app-emacs/org-cite-overlay 20240523.100: Overlays for org-cite citations
+app-emacs/org-cite-overlay-sidecar 20240523.100: Show Sidecar for overlaid org-cite citations
 app-emacs/org-cliplink 20201126.1020: insert org-mode links from the clipboard
 app-emacs/org-clock-agenda-daytime-mode 20240403.1115: Display the time clocked today in the modeline
 app-emacs/org-clock-convenience 20230424.2101: Convenience functions for org time tracking
@@ -3823,7 +3823,7 @@ app-emacs/org-kanban 20240430.944: kanban dynamic block for org-mode.
 app-emacs/org-kindle 20220210.1408: Send org link file to ebook reader.
 app-emacs/org-latex-impatient 20221111.623: Preview org-latex Fragments Instantly via MathJax
 app-emacs/org-linenote 20240325.320: A package inspired by VSCode Linenote
-app-emacs/org-link-beautify 20240312.529: Beautify Org Links
+app-emacs/org-link-beautify 20240523.157: Beautify Org Links
 app-emacs/org-link-travis 20140405.2327: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 20200112.2235: Org-mode link selector
 app-emacs/org-listcruncher 20210706.1741: Planning tool - Parse Org mode lists into table
@@ -4943,7 +4943,7 @@ app-emacs/spark 20230406.2307: sparkline generation
 app-emacs/sparkline 20150101.1319: Make sparkline images from a list of numbers
 app-emacs/sparql-mode 20230104.1113: Edit and interactively evaluate SPARQL queries.
 app-emacs/spatial-navigate 20240421.908: Directional navigation between white-space blocks
-app-emacs/spdx 20240522.104: Insert SPDX license and copyright headers
+app-emacs/spdx 20240523.104: Insert SPDX license and copyright headers
 app-emacs/speech-tagger 20170728.1829: tag parts of speech using coreNLP
 app-emacs/speechd-el 20240513.1716: Client to speech synthesizers and Braille displays.
 app-emacs/speed-type 20230926.838: Practice touch and speed typing
