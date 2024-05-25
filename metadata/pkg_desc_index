@@ -1272,7 +1272,7 @@ app-emacs/elcontext 20210109.1238: Create context specific actions
 app-emacs/elcord 20240305.2138: Allows you to integrate Rich Presence from Discord
 app-emacs/elcouch 20230903.750: View and manipulate CouchDB databases
 app-emacs/eldev 20240511.2039: Elisp development tool
-app-emacs/eldoc-box 20240426.408: Display documentation in childframe
+app-emacs/eldoc-box 20240524.1945: Display documentation in childframe
 app-emacs/eldoc-cmake 20190419.2244: Eldoc support for CMake
 app-emacs/eldoc-eask 20240101.819: Eldoc support for Eask-file
 app-emacs/eldoc-eval 20220106.1951: Enable eldoc support when minibuffer is in use.
@@ -2244,7 +2244,7 @@ app-emacs/gxref 20170411.1753: xref backend using GNU Global.
 app-emacs/h5dump-mode 20221128.1935: Major mode for navigating h5dump output
 app-emacs/habamax-theme 20181001.850: Boring white background color that gets the job done.
 app-emacs/habitica 20220215.1758: Interface for habitica.com
-app-emacs/hack-mode 20230227.1950: Major mode for the Hack programming language
+app-emacs/hack-mode 20240524.1838: Major mode for the Hack programming language
 app-emacs/hacker-typer 20170206.1520: Pretend to write code like a pro
 app-emacs/hackernews 20240405.807: Hacker News Client for Emacs
 app-emacs/haki-theme 20240501.1610: An elegant, high-contrast dark theme in modern sense
@@ -2283,7 +2283,7 @@ app-emacs/hcl-mode 20240220.1534: Major mode for Hashicorp
 app-emacs/headlong 20150417.1526: reckless completion
 app-emacs/heaven-and-hell 20190713.1830: easy toggle light/dark themes
 app-emacs/heex-ts-mode 20240113.1104: Major mode for Heex with tree-sitter support
-app-emacs/helm 20240524.701: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20240524.1522: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: helm-sources and some utilities for GNU R.
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: helm source for Active Directory
@@ -2317,7 +2317,7 @@ app-emacs/helm-codesearch 20221219.1219: helm interface for codesearch
 app-emacs/helm-comint 20231102.2029: Comint prompt navigation for helm
 app-emacs/helm-commandlinefu 20150611.545: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 20231113.701: Helm interface for company-mode
-app-emacs/helm-core 20240524.450: Development files for Helm
+app-emacs/helm-core 20240524.1522: Development files for Helm
 app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el.
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
@@ -2765,7 +2765,7 @@ app-emacs/ivy-ycmd 20180909.1225: Ivy interface to ycmd
 app-emacs/ivy-youtube 20230503.1509: Query YouTube and play videos in your browser
 app-emacs/ix 20131027.1657: Emacs client for http://ix.io pastebin
 app-emacs/j-mode 20171224.1856: Major mode for editing J programs
-app-emacs/jabber 20240522.1532: A Jabber client for Emacs.
+app-emacs/jabber 20240525.206: A Jabber client for Emacs.
 app-emacs/jack 20221122.632: HTML generator library
 app-emacs/jack-connect 20220201.1417: Manage jack connections within Emacs
 app-emacs/jack-ts-mode 20231110.1615: Major mode for jack buffers using tree-sitter
@@ -3039,7 +3039,7 @@ app-emacs/license-templates 20240101.932: Create LICENSE using GitHub API
 app-emacs/ligature 20220808.1225: Display typographical ligatures in major modes
 app-emacs/ligature-pragmatapro 20221127.2252: PragmataPro support for ligature.el
 app-emacs/light-soap-theme 20150607.1445: Emacs 24 theme with a light background.
-app-emacs/line-reminder 20240101.857: Line annotation for changed and saved lines
+app-emacs/line-reminder 20240525.231: Line annotation for changed and saved lines
 app-emacs/line-up-words 20180219.1024: Align words in an intelligent way
 app-emacs/lines-at-once 20180422.247: Insert and edit multiple lines at once
 app-emacs/lingr 20100807.1731: Lingr Client for GNU Emacs
@@ -3125,7 +3125,7 @@ app-emacs/lsp-grammarly 20240229.115: LSP Clients for Grammarly
 app-emacs/lsp-haskell 20231011.1723: Haskell support for lsp-mode
 app-emacs/lsp-intellij 20180831.2051: intellij lsp client
 app-emacs/lsp-ivy 20220831.1823: LSP ivy integration
-app-emacs/lsp-java 20240524.511: Java support for lsp-mode
+app-emacs/lsp-java 20240524.2207: Java support for lsp-mode
 app-emacs/lsp-javacomp 20190124.1755: Provide Java IDE features powered by JavaComp.
 app-emacs/lsp-jedi 20230824.1908: Lsp client plugin for Python Jedi Language Server
 app-emacs/lsp-julia 20230915.654: Julia support for lsp-mode
@@ -3177,7 +3177,7 @@ app-emacs/magit-annex 20231210.2140: Control git-annex from Magit
 app-emacs/magit-commit-mark 20240421.931: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
 app-emacs/magit-diff-flycheck 20190524.551: Report errors in diffs
-app-emacs/magit-file-icons 20240523.1414: Icons for file entries in Magit buffers
+app-emacs/magit-file-icons 20240524.1712: Icons for file entries in Magit buffers
 app-emacs/magit-filenotify 20151116.2340: Refresh status buffer when git tree changes
 app-emacs/magit-find-file 20150702.830: completing-read over all files in Git
 app-emacs/magit-gerrit 20240514.1139: Magit plugin for Gerrit Code Review
@@ -3823,7 +3823,7 @@ app-emacs/org-kanban 20240430.944: kanban dynamic block for org-mode.
 app-emacs/org-kindle 20220210.1408: Send org link file to ebook reader.
 app-emacs/org-latex-impatient 20221111.623: Preview org-latex Fragments Instantly via MathJax
 app-emacs/org-linenote 20240325.320: A package inspired by VSCode Linenote
-app-emacs/org-link-beautify 20240523.1559: Beautify Org Links
+app-emacs/org-link-beautify 20240524.1706: Beautify Org Links
 app-emacs/org-link-travis 20140405.2327: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 20200112.2235: Org-mode link selector
 app-emacs/org-listcruncher 20210706.1741: Planning tool - Parse Org mode lists into table
@@ -4829,7 +4829,7 @@ app-emacs/sl 20161217.1404: An Emacs clone of sl(1)
 app-emacs/slack 20211129.310: Slack client for Emacs
 app-emacs/slideview 20150324.2240: File slideshow
 app-emacs/slim-mode 20240513.2118: Major mode for editing Slim files
-app-emacs/slime 20240523.1710: Superior Lisp Interaction Mode for Emacs
+app-emacs/slime 20240524.2130: Superior Lisp Interaction Mode for Emacs
 app-emacs/slime-company 20210124.1627: slime completion backend for company mode
 app-emacs/slime-docker 20210426.1422: Integration of SLIME with Docker containers
 app-emacs/slime-repl-ansi-color 20230214.1453: Turn on ANSI colors in REPL output;
@@ -5276,7 +5276,7 @@ app-emacs/tree-sitter-ess-r 20221012.855: R with tree-sitter
 app-emacs/tree-sitter-indent 20220411.1439: Provide indentation with a Tree-sitter backend
 app-emacs/tree-sitter-ispell 20240522.1356: Run ispell on tree-sitter text nodes
 app-emacs/tree-sitter-langs 20240519.717: Grammar bundle for tree-sitter
-app-emacs/treebundel 20240210.343: Bundle related git-worktrees together
+app-emacs/treebundel 20240524.2359: Bundle related git-worktrees together
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
 app-emacs/treemacs 20240518.932: A tree style file explorer package
 app-emacs/treemacs-all-the-icons 20240131.2042: all-the-icons integration for treemacs
