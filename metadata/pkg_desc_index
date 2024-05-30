@@ -85,7 +85,7 @@ app-emacs/ahg 20230904.701: Alberto's Emacs interface for Mercurial (Hg)
 app-emacs/ahk-mode 20200412.1832: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 20180131.328: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry).
 app-emacs/aiken-mode 20230920.1210: Major mode for Aiken
-app-emacs/airline-themes 20240528.503: vim-airline themes for emacs powerline
+app-emacs/airline-themes 20240530.1704: vim-airline themes for emacs powerline
 app-emacs/airplay 20130212.1226: Airplay bindings to Emacs
 app-emacs/alan-mode 20240309.650: Major mode for editing Alan files
 app-emacs/alarm-clock 20240114.344: Alarm Clock
@@ -555,7 +555,7 @@ app-emacs/chronometrist-spark 20230629.1039: Show sparklines in Chronometrist bu
 app-emacs/chronos 20240525.1339: Multiple simultaneous countdown / countup timers
 app-emacs/chruby 20180114.1652: Emacs integration for chruby
 app-emacs/chyla-theme 20231220.1545: chyla.org - green color theme.
-app-emacs/cider 20240529.1833: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 20240530.1501: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-decompile 20151122.537: decompilation extension for cider
 app-emacs/cider-eval-sexp-fu 20190311.2152: Briefly highlights an evaluated sexp.
 app-emacs/cider-hydra 20190816.1121: Hydras for CIDER.
@@ -749,7 +749,7 @@ app-emacs/competitive-programming-snippets 20201115.1702: Competitive Programmin
 app-emacs/compile-multi 20240507.1829: A multi target interface to compile
 app-emacs/compile-multi-all-the-icons 20240506.1319: Affixate `compile-multi' with icons
 app-emacs/compile-multi-embark 20230904.1806: Integration for `compile-multi' and `embark'
-app-emacs/compiler-explorer 20240525.1549: Compiler explorer client (godbolt.org)
+app-emacs/compiler-explorer 20240530.1705: Compiler explorer client (godbolt.org)
 app-emacs/composable 20220608.1148: composable editing
 app-emacs/composer 20221120.202: Interface to PHP Composer
 app-emacs/comware-router-mode 20240103.907: Major mode for editing Comware configuration files
@@ -789,7 +789,7 @@ app-emacs/consult-spotify 20211114.2258: Spotify queries using consult
 app-emacs/consult-tex 20240417.1149: Consult powered completion for tex
 app-emacs/consult-todo 20231022.2059: Search hl-todo keywords in consult
 app-emacs/consult-yasnippet 20240314.1838: A consulting-read interface for yasnippet
-app-emacs/context-transient 20240507.1534: Context specific transients
+app-emacs/context-transient 20240530.1344: Context specific transients
 app-emacs/contextual 20180726.800: Contextual profile management system
 app-emacs/contextual-menubar 20180205.709: display the menubar only on a graphical display
 app-emacs/contrast-color 20160903.1807: Pick best contrast color for you
@@ -1516,7 +1516,7 @@ app-emacs/evalator 20160213.128: Package for interactive transformation of data 
 app-emacs/evalator-clojure 20160208.2148: Clojure evaluation context for evalator via CIDER.
 app-emacs/eve-mode 20170822.2231: Major mode for editing Eve documents.
 app-emacs/everlasting-scratch 20240430.1713: The *scratch* that lasts forever
-app-emacs/evil 20240526.1524: Extensible Vi layer for Emacs.
+app-emacs/evil 20240530.900: Extensible Vi layer for Emacs.
 app-emacs/evil-anzu 20220911.1939: anzu for evil-mode
 app-emacs/evil-args 20240210.504: Motions and text objects for delimited arguments in Evil.
 app-emacs/evil-avy 20150908.748: set-based completion
@@ -2154,7 +2154,7 @@ app-emacs/go-scratch 20150810.440: *scratch* buffer for Go
 app-emacs/go-snippets 20180113.611: Yasnippets for go
 app-emacs/go-stacktracer 20150430.2142: parse Go stack traces
 app-emacs/go-tag 20230111.651: Edit Golang struct field tag
-app-emacs/go-translate 20240530.647: Translation framework, configurable and scalable
+app-emacs/go-translate 20240530.1728: Translation framework, configurable and scalable
 app-emacs/gobgen 20161020.1523: Generate GObject descendants using a detailed form
 app-emacs/god-mode 20221230.708: Minor mode for God-like command entering
 app-emacs/godoctor 20180710.2152: Frontend for godoctor
@@ -3559,7 +3559,7 @@ app-emacs/noflet 20141102.1454: locally override functions
 app-emacs/nofrils-acme-theme 20180620.1248: Port of "No Frils Acme" Vim theme.
 app-emacs/noir-mode 20230726.2309: Description
 app-emacs/noir-ts-mode 20240331.137: tree-sitter support for Noir
-app-emacs/noman 20240528.935: Read command line help without a man page
+app-emacs/noman 20240530.1439: Read command line help without a man page
 app-emacs/non-edit-mode 20230926.1404: Minor mode that disables editing
 app-emacs/nord-theme 20230311.1131: An arctic, north-bluish clean and elegant theme
 app-emacs/nordic-night-theme 20240311.2147: A darker, more colorful version of the lovely Nord theme
@@ -4781,7 +4781,7 @@ app-emacs/show-font-mode 20201225.2217: Show font at point on mode line
 app-emacs/showtip 20090830.1040: Show tip at cursor
 app-emacs/shpec-mode 20150530.922: Minor mode for shpec specification
 app-emacs/shr-tag-pre-highlight 20240515.1420: Syntax highlighting code block in HTML
-app-emacs/shrface 20240401.957: Extend shr/eww with org features and analysis capability
+app-emacs/shrface 20240530.1456: Extend shr/eww with org features and analysis capability
 app-emacs/shrink-path 20190208.1335: fish-style path
 app-emacs/shrink-whitespace 20181003.321: Whitespace removal DWIM key
 app-emacs/shroud 20210220.1952: Shroud secrets
