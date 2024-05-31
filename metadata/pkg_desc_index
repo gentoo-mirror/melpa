@@ -767,7 +767,7 @@ app-emacs/consult 20240523.754: Consulting completing-read
 app-emacs/consult-ag 20230227.406: The silver searcher integration using Consult
 app-emacs/consult-codesearch 20230315.1424: Consult interface for codesearch
 app-emacs/consult-company 20230606.1824: Consult frontend for company
-app-emacs/consult-compile-multi 20230904.1806: Consulting read support for `compile-multi'
+app-emacs/consult-compile-multi 20240507.1949: Consulting read support for `compile-multi'
 app-emacs/consult-dash 20230529.1419: Consult front-end for dash-docs
 app-emacs/consult-dir 20240506.236: Insert paths into the minibuffer prompt
 app-emacs/consult-eglot 20240324.1137: A consulting-read interface for eglot
@@ -1950,7 +1950,7 @@ app-emacs/format-table 20181223.1616: Parse and reformat tabular data.
 app-emacs/forth-mode 20231206.1127: Programming language mode for Forth
 app-emacs/fortpy 20150715.2032: a Fortran auto-completion for Emacs
 app-emacs/fortune-cookie 20181223.842: Print a fortune in your scratch buffer.
-app-emacs/fountain-mode 20240528.420: Major mode for screenwriting in Fountain markup
+app-emacs/fountain-mode 20240531.248: Major mode for screenwriting in Fountain markup
 app-emacs/fpga 20240329.1759: FPGA & ASIC Utils
 app-emacs/fraktur-mode 20160815.227: Easily insert Unicode mathematical Fraktur characters
 app-emacs/frame-local 20180330.940: Variables local to a frame
@@ -2154,7 +2154,7 @@ app-emacs/go-scratch 20150810.440: *scratch* buffer for Go
 app-emacs/go-snippets 20180113.611: Yasnippets for go
 app-emacs/go-stacktracer 20150430.2142: parse Go stack traces
 app-emacs/go-tag 20230111.651: Edit Golang struct field tag
-app-emacs/go-translate 20240530.1728: Translation framework, configurable and scalable
+app-emacs/go-translate 20240531.208: Translation framework, configurable and scalable
 app-emacs/gobgen 20161020.1523: Generate GObject descendants using a detailed form
 app-emacs/god-mode 20221230.708: Minor mode for God-like command entering
 app-emacs/godoctor 20180710.2152: Frontend for godoctor
@@ -2285,7 +2285,7 @@ app-emacs/hcl-mode 20240220.1534: Major mode for Hashicorp
 app-emacs/headlong 20150417.1526: reckless completion
 app-emacs/heaven-and-hell 20190713.1830: easy toggle light/dark themes
 app-emacs/heex-ts-mode 20240113.1104: Major mode for Heex with tree-sitter support
-app-emacs/helm 20240528.1836: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20240530.1546: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: helm-sources and some utilities for GNU R.
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: helm source for Active Directory
@@ -2319,7 +2319,7 @@ app-emacs/helm-codesearch 20221219.1219: helm interface for codesearch
 app-emacs/helm-comint 20231102.2029: Comint prompt navigation for helm
 app-emacs/helm-commandlinefu 20150611.545: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 20231113.701: Helm interface for company-mode
-app-emacs/helm-core 20240529.505: Development files for Helm
+app-emacs/helm-core 20240530.1546: Development files for Helm
 app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el.
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
@@ -2571,7 +2571,7 @@ app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy 
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
 app-emacs/hyperbole 20240529.512: GNU Hyperbole: The Everyday Hypertextual Information Manager
-app-emacs/hyperdrive 20240522.627: P2P filesystem
+app-emacs/hyperdrive 20240531.537: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -2580,7 +2580,7 @@ app-emacs/i2b2-mode 20140710.104: Highlights corresponding PHI data in the text 
 app-emacs/i3bar 20230724.305: Display status from an i3status command in the tab bar
 app-emacs/i3wm 20170822.1438: i3wm integration library
 app-emacs/i3wm-config-mode 20220913.1121: Better syntax highlighting for i3wm's config file
-app-emacs/ialign 20240326.1233: visual align-regexp
+app-emacs/ialign 20240530.2022: visual align-regexp
 app-emacs/iasm-mode 20171023.1422: interactive assembly major mode.
 app-emacs/ibrowse 20230926.2056: Interact with your browser
 app-emacs/ibuffer-git 20110508.731: show git status in ibuffer column
@@ -4148,7 +4148,7 @@ app-emacs/perspective-exwm 20231225.2313: Better integration for perspective.el 
 app-emacs/perspective-project-bridge 20231024.1737: Integration of perspective.el + project.el
 app-emacs/perspeen 20171203.1021: An package for multi-workspace
 app-emacs/pest-mode 20221231.15: Major mode for editing Pest files
-app-emacs/pet 20230906.46: Executable and virtualenv tracker for python-mode
+app-emacs/pet 20240530.2009: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 20220913.1401: a simple wrapper around asynchronous processes
 app-emacs/pg 20240520.1322: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
 app-emacs/pgdevenv 20150105.2236: Manage your PostgreSQL development envs
@@ -4792,9 +4792,9 @@ app-emacs/sicp 20200512.1137: Structure and Interpretation of Computer Programs 
 app-emacs/side-hustle 20240325.205: Hustle through Imenu in a side window
 app-emacs/side-notes 20230814.302: Easy access to a directory notes file
 app-emacs/sidecar-locals 20240421.655: A flexible alternative to built-in dir-locals
-app-emacs/sideline 20240529.259: Show information on the side
+app-emacs/sideline 20240530.2308: Show information on the side
 app-emacs/sideline-blame 20240101.918: Show blame messages with sideline
-app-emacs/sideline-flycheck 20240509.742: Show flycheck errors with sideline
+app-emacs/sideline-flycheck 20240530.2209: Show flycheck errors with sideline
 app-emacs/sideline-flymake 20240509.742: Show flymake errors with sideline
 app-emacs/sideline-lsp 20240403.2210: Show lsp information with sideline
 app-emacs/sift 20200421.1423: Front-end for sift, a fast and powerful grep alternative
