@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/compat app-emacs/emacsql
-DESCRIPTION=Store EIEIO objects using EmacSQL
+DEPEND=app-emacs/iter2 app-emacs/nvm app-emacs/editorconfig
+DESCRIPTION=Code formatting with Prettier
 EAPI=8
-HOMEPAGE=https://github.com/emacscollective/closql
+HOMEPAGE=https://github.com/jscheid/prettier.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/compat app-emacs/emacsql >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/iter2 app-emacs/nvm app-emacs/editorconfig >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/closql-20240415.1534.tar
+SRC_URI=https://melpa.org/packages/prettier-20240601.1316.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=c2f2de5e67198ac77c8ca1fbd11006ad
+_md5_=2a284677132c068ba61b9568276055aa
