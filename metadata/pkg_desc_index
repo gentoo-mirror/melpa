@@ -345,7 +345,7 @@ app-emacs/biome 20240519.1037: Bountiful Interface to Open Meteo for Emacs
 app-emacs/biomejs-format 20240401.458: Minor mode to format JS code with Biome on file save
 app-emacs/birds-of-paradise-plus-theme 20130419.2129: A brown/orange light-on-dark theme for Emacs 24 (deftheme).
 app-emacs/bison-mode 20210527.717: Major mode for editing bison, yacc and lex files.
-app-emacs/bitbake 20220509.1236: Running bitbake from emacs
+app-emacs/bitbake 20240605.1322: Running bitbake from emacs
 app-emacs/bitlbee 20151203.0: Help get Bitlbee (http://www.bitlbee.org) up and running.
 app-emacs/bitpack 20230417.2032: Bit packing functions
 app-emacs/blackboard-bold-mode 20160813.206: Easily insert Unicode mathematical double-struck characters
@@ -1275,7 +1275,7 @@ app-emacs/elcontext 20210109.1238: Create context specific actions
 app-emacs/elcord 20240305.2138: Allows you to integrate Rich Presence from Discord
 app-emacs/elcouch 20230903.750: View and manipulate CouchDB databases
 app-emacs/eldev 20240601.1046: Elisp development tool
-app-emacs/eldoc-box 20240601.1539: Display documentation in childframe
+app-emacs/eldoc-box 20240605.1742: Display documentation in childframe
 app-emacs/eldoc-cmake 20190419.2244: Eldoc support for CMake
 app-emacs/eldoc-eask 20240101.819: Eldoc support for Eask-file
 app-emacs/eldoc-eval 20220106.1951: Enable eldoc support when minibuffer is in use.
@@ -1384,7 +1384,7 @@ app-emacs/ember-yasnippets 20160526.1658: Snippets for Ember.js development
 app-emacs/embrace 20231027.419: Add/Change/Delete pairs based on `expand-region'
 app-emacs/emidje 20190209.1726: Test runner and report viewer for Midje
 app-emacs/emmet-mode 20221111.329: Unofficial Emmet's support for emacs
-app-emacs/emms 20240604.1736: The Emacs Multimedia System
+app-emacs/emms 20240605.1445: The Emacs Multimedia System
 app-emacs/emms-info-mediainfo 20131223.1300: Info-method for EMMS using medianfo
 app-emacs/emms-mark-ext 20130529.327: Extra functions for emms-mark-mode and emms-tag-edit-mode
 app-emacs/emms-mode-line-cycle 20160221.1120: Display the emms mode line as a ticker
@@ -1527,7 +1527,7 @@ app-emacs/evil-better-visual-line 20200123.2045: gj and gk visual line mode fix
 app-emacs/evil-cleverparens 20240529.1025: Evil friendly minor-mode for editing lisp.
 app-emacs/evil-colemak-basics 20221230.1443: Basic Colemak key bindings for evil-mode
 app-emacs/evil-colemak-minimal 20171006.1317: Minimal Colemak key bindings for evil-mode
-app-emacs/evil-collection 20240604.1447: A set of keybindings for Evil mode
+app-emacs/evil-collection 20240605.1443: A set of keybindings for Evil mode
 app-emacs/evil-commentary 20230610.1006: Comment stuff out. A port of vim-commentary.
 app-emacs/evil-dvorak 20160416.1841: evil keybindings for that work with dvorak mode
 app-emacs/evil-easymotion 20200424.135: A port of vim's easymotion to emacs
@@ -2924,7 +2924,7 @@ app-emacs/keyword-search 20180424.1102: browser keyword search from Emacs
 app-emacs/kfg 20140909.538: an emacs configuration system
 app-emacs/khalel 20240527.527: Import, edit and create calendar events through khal
 app-emacs/khardel 20231126.1502: Integrate with khard
-app-emacs/khoj 20240604.627: AI copilot for your Second Brain
+app-emacs/khoj 20240605.1409: AI copilot for your Second Brain
 app-emacs/kibit-helper 20150508.1533: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-file-path 20230306.1041: Copy file name into kill ring
 app-emacs/kill-or-bury-alive 20230606.1503: Precise control over buffer killing
@@ -3179,7 +3179,7 @@ app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-mode 20240521.1419: Emacs major mode for Smallworld Magik files
-app-emacs/magit 20240522.204: A Git porcelain inside Emacs.
+app-emacs/magit 20240605.1500: A Git porcelain inside Emacs.
 app-emacs/magit-annex 20231210.2140: Control git-annex from Magit
 app-emacs/magit-commit-mark 20240421.931: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3900,7 +3900,7 @@ app-emacs/org-rtm 20160214.1236: Simple import/export from rememberthemilk to or
 app-emacs/org-runbook 20230503.319: Org mode for runbooks
 app-emacs/org-scrum 20200131.1129: org mode extensions for scrum planning and reporting
 app-emacs/org-seek 20161217.502: Searching Org-mode files with search tools.
-app-emacs/org-shoplist 20210629.2157: Eat the world
+app-emacs/org-shoplist 20240605.1532: Eat the world
 app-emacs/org-side-tree 20240601.1001: Navigate Org outlines in side window tree
 app-emacs/org-sidebar 20240102.9: Helpful sidebar for Org buffers
 app-emacs/org-sliced-images 20240325.710: Sliced inline images in org-mode
@@ -4306,7 +4306,7 @@ app-emacs/pretty-sha-path 20141105.1826: Prettify Guix/Nix store paths
 app-emacs/pretty-speedbar 20220303.1726: Make speedbar pretty
 app-emacs/pretty-symbols 20140814.959: Draw tokens as Unicode glyphs.
 app-emacs/preview-dvisvgm 20211225.635: SVG output for LaTeX preview
-app-emacs/prism 20240603.2115: Customizable, depth-based syntax coloring
+app-emacs/prism 20240605.1547: Customizable, depth-based syntax coloring
 app-emacs/prisma-ts-mode 20231022.1802: Major mode for prisma using tree-sitter
 app-emacs/private 20150122.157: take care of your private configuration files.
 app-emacs/private-comments-mode 20220929.1807: Minor mode for masukomi/private_comments
@@ -4838,7 +4838,7 @@ app-emacs/sl 20161217.1404: An Emacs clone of sl(1)
 app-emacs/slack 20211129.310: Slack client for Emacs
 app-emacs/slideview 20150324.2240: File slideshow
 app-emacs/slim-mode 20240513.2118: Major mode for editing Slim files
-app-emacs/slime 20240604.2342: Superior Lisp Interaction Mode for Emacs
+app-emacs/slime 20240605.1810: Superior Lisp Interaction Mode for Emacs
 app-emacs/slime-company 20210124.1627: slime completion backend for company mode
 app-emacs/slime-docker 20210426.1422: Integration of SLIME with Docker containers
 app-emacs/slime-repl-ansi-color 20230214.1453: Turn on ANSI colors in REPL output;
