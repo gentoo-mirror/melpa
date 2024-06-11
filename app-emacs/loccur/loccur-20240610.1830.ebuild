@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="pcmpl-git"
+REALNAME="loccur"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="pcomplete for git"
+DESCRIPTION="Perform an occur-like folding in current buffer"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://codeberg.org/fourier/loccur"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
