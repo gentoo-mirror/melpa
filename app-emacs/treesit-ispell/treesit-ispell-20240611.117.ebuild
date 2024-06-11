@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="loccur"
+REALNAME="treesit-ispell"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Perform an occur-like folding in current buffer"
+DESCRIPTION="Run ispell on tree-sitter text nodes"
 
-HOMEPAGE="https://github.com/fourier/loccur"
+HOMEPAGE="https://github.com/erickgnavar/treesit-ispell.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
