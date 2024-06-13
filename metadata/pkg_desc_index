@@ -165,7 +165,7 @@ app-emacs/arch-packer 20170730.1321: Arch Linux package management frontend
 app-emacs/archive-phar 20221009.2129: Phar file support for archive-mode
 app-emacs/archive-region 20200316.1425: Move region to archive file instead of killing
 app-emacs/archive-rpm 20220527.632: RPM and CPIO support for archive-mode
-app-emacs/arduino-cli-mode 20240612.1120: Arduino-CLI command wrapper
+app-emacs/arduino-cli-mode 20240613.640: Arduino-CLI command wrapper
 app-emacs/arduino-mode 20240527.1603: Major mode for editing Arduino code
 app-emacs/aria2 20230314.2131: Control aria2c commandline tool from Emacs
 app-emacs/ariadne 20131117.1711: Ariadne plugin for Emacs
@@ -503,7 +503,7 @@ app-emacs/cdnjs 20161031.1522: A front end for http://cdnjs.com
 app-emacs/cedit 20200816.526: paredit-like commands for c-like languages
 app-emacs/celery 20170225.924: a minor mode to draw stats from celery and more?
 app-emacs/celestial-mode-line 20230323.737: Show lunar phase and sunrise/-set time in modeline
-app-emacs/centaur-tabs 20240529.815: Aesthetic, modern looking customizable tabs plugin
+app-emacs/centaur-tabs 20240613.936: Aesthetic, modern looking customizable tabs plugin
 app-emacs/centered-cursor-mode 20230914.1358: cursor stays vertically centered
 app-emacs/centered-window 20220125.804: Center the text when there's only one window
 app-emacs/centimacro 20201225.1132: Assign multiple macros as global key bindings
@@ -1006,7 +1006,7 @@ app-emacs/diffpdf 20210626.1447: Transient diffpdf
 app-emacs/diffscuss-mode 20141014.2357: Major mode for diffscuss files.
 app-emacs/difftastic 20240528.1657: Wrapper for difftastic
 app-emacs/diffview 20230224.1916: View diffs in side-by-side format
-app-emacs/digistar-mode 20240612.1422: major mode for Digistar scripts
+app-emacs/digistar-mode 20240613.225: major mode for Digistar scripts
 app-emacs/digit-groups 20200506.37: Highlight place-value positions in numbers
 app-emacs/digitalocean 20190607.726: Create and manipulate digitalocean droplets
 app-emacs/digitalocean-helm 20180610.746: Create and manipulate digitalocean droplets
@@ -1198,7 +1198,7 @@ app-emacs/easy-kill-extras 20240122.1649: Extra functions for easy-kill.
 app-emacs/easy-repeat 20150516.848: Repeat easily
 app-emacs/ebdb-mua-sidecar 20240428.1852: EBDB Integration for Universal Sidecar
 app-emacs/ebf 20210225.1211: brainfuck language transpiler to Emacs Lisp
-app-emacs/ebib 20240430.1436: a BibTeX database manager
+app-emacs/ebib 20240613.1339: a BibTeX database manager
 app-emacs/ebib-sidecar 20240428.1852: Sidecar to show formatted reference of current Ebib Entry
 app-emacs/ebnf-mode 20231022.1759: Major mode for EBNF files
 app-emacs/ebuku 20231113.748: Interface to the buku Web bookmark manager
@@ -1416,7 +1416,7 @@ app-emacs/enlive 20170725.1417: query html document with css selectors
 app-emacs/eno 20191013.1239: Goto/copy/cut any word/symbol/line in view, similar to ace-jump/easymotion
 app-emacs/enotify 20130407.1348: A networked notification system for emacs
 app-emacs/environ 20230518.1310: API for environment variables and env files
-app-emacs/envrc 20240517.1633: Support for `direnv' that operates buffer-locally
+app-emacs/envrc 20240613.907: Support for `direnv' that operates buffer-locally
 app-emacs/eopengrok 20230114.1413: opengrok interface for emacs
 app-emacs/epc 20140610.534: A RPC stack for the Emacs Lisp
 app-emacs/epic 20170210.23: Evernote Picker for Cocoa Emacs
@@ -1479,7 +1479,7 @@ app-emacs/eshell-git-prompt 20220830.2000: Some Eshell prompt for Git users
 app-emacs/eshell-info-banner 20220728.1006: System information as your Eshell banner
 app-emacs/eshell-outline 20201121.620: Enhanced outline-mode for Eshell
 app-emacs/eshell-prompt-extras 20231019.1405: Display extra information for your eshell prompt.
-app-emacs/eshell-syntax-highlighting 20240608.211: Highlight eshell commands
+app-emacs/eshell-syntax-highlighting 20240613.633: Highlight eshell commands
 app-emacs/eshell-toggle 20240417.1536: Show/hide eshell under active window.
 app-emacs/eshell-up 20240226.1747: Quickly go to a specific parent directory in eshell
 app-emacs/eshell-vterm 20240305.1149: Vterm for visual commands in eshell
@@ -2161,7 +2161,7 @@ app-emacs/go-scratch 20150810.440: *scratch* buffer for Go
 app-emacs/go-snippets 20180113.611: Yasnippets for go
 app-emacs/go-stacktracer 20150430.2142: parse Go stack traces
 app-emacs/go-tag 20230111.651: Edit Golang struct field tag
-app-emacs/go-translate 20240605.806: Translation framework, configurable and scalable
+app-emacs/go-translate 20240613.617: Translation framework, configurable and scalable
 app-emacs/gobgen 20161020.1523: Generate GObject descendants using a detailed form
 app-emacs/god-mode 20221230.708: Minor mode for God-like command entering
 app-emacs/godoctor 20180710.2152: Frontend for godoctor
@@ -2406,7 +2406,7 @@ app-emacs/helm-notmuch 20190320.1048: Search emails with Notmuch and Helm
 app-emacs/helm-open-github 20220721.415: Utilities of Opening Github Page
 app-emacs/helm-org 20231022.620: Helm for org headlines and keywords completion
 app-emacs/helm-org-multi-wiki 20210228.1853: Helm interface to org-multi-wiki
-app-emacs/helm-org-ql 20240403.2026: Helm support for org-ql
+app-emacs/helm-org-ql 20240613.355: Helm support for org-ql
 app-emacs/helm-org-recent-headings 20211011.1519: Helm source for org-recent-headings
 app-emacs/helm-org-rifle 20230821.1927: Rifle through your Org files
 app-emacs/helm-orgcard 20220721.756: browse the orgcard by helm
@@ -2578,7 +2578,7 @@ app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy 
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
 app-emacs/hyperbole 20240604.1153: GNU Hyperbole: The Everyday Hypertextual Information Manager
-app-emacs/hyperdrive 20240612.2017: P2P filesystem
+app-emacs/hyperdrive 20240613.234: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -3141,7 +3141,7 @@ app-emacs/lsp-julia 20230915.654: Julia support for lsp-mode
 app-emacs/lsp-latex 20240324.1218: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20240425.2049: LSP Clients for LTEX
 app-emacs/lsp-metals 20240508.627: Scala Client settings
-app-emacs/lsp-mode 20240610.524: LSP mode
+app-emacs/lsp-mode 20240613.919: LSP mode
 app-emacs/lsp-mssql 20230510.1124: MSSQL LSP bindings
 app-emacs/lsp-origami 20230815.704: origami.el support for lsp-mode
 app-emacs/lsp-p4 20190127.1049: P4 support for lsp-mode
@@ -3832,7 +3832,7 @@ app-emacs/org-journal-tags 20240101.4: Tagging and querying system for org-journ
 app-emacs/org-kanban 20240607.1612: kanban dynamic block for org-mode.
 app-emacs/org-kindle 20220210.1408: Send org link file to ebook reader.
 app-emacs/org-latex-impatient 20221111.623: Preview org-latex Fragments Instantly via MathJax
-app-emacs/org-linenote 20240325.320: A package inspired by VSCode Linenote
+app-emacs/org-linenote 20240410.410: A package inspired by VSCode Linenote
 app-emacs/org-link-beautify 20240605.326: Beautify Org Links
 app-emacs/org-link-travis 20140405.2327: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 20200112.2235: Org-mode link selector
@@ -3874,7 +3874,7 @@ app-emacs/org-project-capture 20230830.1733: Repository todo capture and managem
 app-emacs/org-projectile 20230817.851: Repository todo capture and management for org-mode with projectile
 app-emacs/org-projectile-helm 20230817.801: helm functions for org-projectile
 app-emacs/org-protocol-jekyll 20170328.1639: Jekyll's handler for org-protocol
-app-emacs/org-ql 20240403.2027: Org Query Language, search command, and agenda-like view
+app-emacs/org-ql 20240613.445: Org Query Language, search command, and agenda-like view
 app-emacs/org-radiobutton 20210519.1225: Radiobutton for org-mode lists.
 app-emacs/org-rainbow-tags 20230921.2038: Colorize org tags automatically
 app-emacs/org-random-todo 20190214.2057: show a random TODO (with alert) every so often
@@ -4382,7 +4382,7 @@ app-emacs/pungi 20150222.1246: Integrates jedi with virtualenv and buildout pyth
 app-emacs/puni 20231231.1415: Parentheses Universalistic
 app-emacs/punpun-themes 20221121.1018: A set of bleak themes
 app-emacs/puppet-mode 20210305.645: Major mode for Puppet manifests
-app-emacs/puppet-ts-mode 20240610.829: Major mode for Puppet using Tree-sitter
+app-emacs/puppet-ts-mode 20240613.935: Major mode for Puppet using Tree-sitter
 app-emacs/purescript-mode 20230309.1301: A PureScript editing mode
 app-emacs/purp-theme 20210912.1940: A dark color theme with few colors
 app-emacs/purple-haze-theme 20141015.229: an overtly purple color theme for Emacs24.
@@ -5088,7 +5088,7 @@ app-emacs/symbol-overlay 20240311.1207: Highlight symbols with keymap-enabled ov
 app-emacs/symbolist 20211107.1615: List and interactively unbind Emacs Lisp symbols
 app-emacs/symbols-outline 20240517.819: Display symbols (functions, variables, etc) in outline view
 app-emacs/symbolword-mode 20180401.1427: modify word split
-app-emacs/symex 20240604.1738: An evil way to edit Lisp symbolic expressions as trees
+app-emacs/symex 20240613.640: An evil way to edit Lisp symbolic expressions as trees
 app-emacs/symon 20170224.833: tiny graphical system monitor
 app-emacs/symon-lingr 20150719.1342: A notification-based Lingr client powered by symon.el
 app-emacs/sync-recentf 20160326.2001: Synchronize the recent files list between Emacs instances
