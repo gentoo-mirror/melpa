@@ -810,7 +810,7 @@ app-emacs/cort 20211020.18: Simplify extended unit test framework
 app-emacs/cosmo 20170922.744: Cosmological Calculator
 app-emacs/counsel 20240520.1323: Various completion functions using Ivy
 app-emacs/counsel-ag-popup 20210121.805: Interactive search with counsel-ag
-app-emacs/counsel-at-point 20240422.116: Context sensitive project search
+app-emacs/counsel-at-point 20240615.1124: Context sensitive project search
 app-emacs/counsel-bbdb 20220909.727: Quick search&input email from BBDB based on Emacs API `completing-read'
 app-emacs/counsel-chrome-bm 20211022.1427: Browse Chrom(e/ium) bookmarks with Ivy
 app-emacs/counsel-codesearch 20180925.803: Counsel interface for codesearch.el
@@ -997,7 +997,7 @@ app-emacs/dic-lookup-w3m 20180526.1621: look up dictionaries on the Internet
 app-emacs/dictcc 20221231.1703: Look up translations on dict.cc
 app-emacs/dictionary 20201001.1727: Client for rfc2229 dictionary servers
 app-emacs/didyoumean 20240229.1807: Did you mean to open another file?
-app-emacs/diff-ansi 20240421.810: Display diff's using alternative diffing tools
+app-emacs/diff-ansi 20240615.1129: Display diff's using alternative diffing tools
 app-emacs/diff-at-point 20240421.858: Diff navigation
 app-emacs/diff-hl 20240505.2110: Highlight uncommitted changes using VC
 app-emacs/diffed 20230208.1546: Diffed is for recursive diff like Dired is for ls
@@ -1104,7 +1104,7 @@ app-emacs/dkmisc 20131110.1115: Miscellaneous functions required by dk* packages
 app-emacs/dmacro 20200803.633: Repeated detection and execution of key operation
 app-emacs/dmenu 20190908.44: simulate the dmenu command line program
 app-emacs/dna-mode 20191001.2108: a major mode for editing dna sequences
-app-emacs/doc-show-inline 20240421.943: Show doc-strings found in external files
+app-emacs/doc-show-inline 20240615.1135: Show doc-strings found in external files
 app-emacs/docbook-snippets 20150714.1625: Yasnippets for DocBook
 app-emacs/docean 20180605.1744: Interact with DigitalOcean from Emacs.
 app-emacs/docker 20231110.1006: Interface to Docker
@@ -1310,7 +1310,7 @@ app-emacs/elforth 20210522.928: Do you have what it takes to hack Emacs Lisp in 
 app-emacs/elgrep 20230814.1215: Searching files for regular expressions
 app-emacs/elhome 20161025.2042: A framework for a "home" Emacs configuration
 app-emacs/elisa 20240401.1528: Emacs Lisp Information System Assistant
-app-emacs/elisp-autofmt 20240609.924: Emacs lisp auto-format
+app-emacs/elisp-autofmt 20240615.1117: Emacs lisp auto-format
 app-emacs/elisp-def 20230901.2308: macro-aware go-to-definition for elisp
 app-emacs/elisp-demos 20240128.810: Elisp API Demos
 app-emacs/elisp-depend 20190325.1114: Parse depend libraries of elisp file.
@@ -2292,7 +2292,7 @@ app-emacs/hcl-mode 20240220.1534: Major mode for Hashicorp
 app-emacs/headlong 20150417.1526: reckless completion
 app-emacs/heaven-and-hell 20190713.1830: easy toggle light/dark themes
 app-emacs/heex-ts-mode 20240113.1104: Major mode for Heex with tree-sitter support
-app-emacs/helm 20240606.700: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20240615.550: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: helm-sources and some utilities for GNU R.
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: helm source for Active Directory
@@ -2326,7 +2326,7 @@ app-emacs/helm-codesearch 20221219.1219: helm interface for codesearch
 app-emacs/helm-comint 20231102.2029: Comint prompt navigation for helm
 app-emacs/helm-commandlinefu 20150611.545: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 20231113.701: Helm interface for company-mode
-app-emacs/helm-core 20240608.1321: Development files for Helm
+app-emacs/helm-core 20240615.550: Development files for Helm
 app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el.
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
@@ -2818,7 +2818,7 @@ app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-forma
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jirascope 20240122.2130: A Jira client
 app-emacs/jist 20161229.1721: Gist integration
-app-emacs/jit-lock-stealth-progress 20240422.105: JIT lock stealth mode-line progress
+app-emacs/jit-lock-stealth-progress 20240615.1137: JIT lock stealth mode-line progress
 app-emacs/jknav 20121006.2025: Automatically enable j/k keys for line-based navigation
 app-emacs/jmespath 20240115.1310: Query JSON using jmespath
 app-emacs/jmt-mode 20240508.951: JMT Mode
@@ -3381,7 +3381,7 @@ app-emacs/mongo 20150315.1219: MongoDB driver for Emacs Lisp
 app-emacs/monitor 20161018.1144: Utilities for monitoring expressions.
 app-emacs/monkeytype 20210110.513: Mode for speed typing
 app-emacs/monky 20230222.2153: Control Hg from Emacs.
-app-emacs/mono-complete 20240421.1234: Completion suggestions with multiple back-ends
+app-emacs/mono-complete 20240615.1141: Completion suggestions with multiple back-ends
 app-emacs/monochrome-theme 20140326.1050: A dark Emacs 24 theme for your focused hacking sessions
 app-emacs/monokai-alt-theme 20170630.2048: Theme with a dark background. Based on sublime monokai theme.
 app-emacs/monokai-pro-theme 20231120.1622: A simple theme based on the Monokai Pro Sublime color schemes
@@ -3576,7 +3576,7 @@ app-emacs/norns 20230820.2157: Interactive development environment for monome no
 app-emacs/northcode-theme 20180423.1649: A dark theme focused on blue and orange colors.
 app-emacs/nothing-theme 20200504.402: Monochrome theme
 app-emacs/notink-theme 20240605.2018: A custom theme inspired by e-ink displays
-app-emacs/notmuch 20240529.1054: run notmuch within emacs
+app-emacs/notmuch 20240615.1754: run notmuch within emacs
 app-emacs/notmuch-addr 20240609.1455: An alternative to notmuch-address.el
 app-emacs/notmuch-bookmarks 20230727.1504: Add bookmark handling for notmuch buffers
 app-emacs/notmuch-labeler 20131230.1719: Improve notmuch way of displaying labels
@@ -4354,7 +4354,7 @@ app-emacs/promise 20210307.727: Promises/A+
 app-emacs/prompt-text 20190408.310: Configure your minibuffer prompt
 app-emacs/prompts 20160916.1041: utilities for working with text prompts.
 app-emacs/pronto 20200218.1633: Compilation mode for pronto stylechecks
-app-emacs/proofgeneral 20240513.720: A generic Emacs interface for proof assistants
+app-emacs/proofgeneral 20240615.1546: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 20150728.1118: Create and display a context menu based on text and overlay properties
 app-emacs/propfont-mixed 20150113.2211: Use proportional fonts with space-based indentation.
 app-emacs/proportional 20221205.1417: use a proportional font everywhere
@@ -4517,7 +4517,7 @@ app-emacs/recentf-ext 20170926.35: Recentf extensions
 app-emacs/recentf-remove-sudo-tramp-prefix 20220621.749: Normalise recentf history
 app-emacs/recently 20210930.207: Track recently opened files to visit them again
 app-emacs/recompile-on-save 20151126.1446: Trigger recompilation on file save.
-app-emacs/recomplete 20240422.15: Immediately (re)complete actions
+app-emacs/recomplete 20240615.1121: Immediately (re)complete actions
 app-emacs/recover-buffers 20171009.437: revisit all buffers from an auto-save file
 app-emacs/rect+ 20150621.44: Extensions to rect.el
 app-emacs/rectangle-utils 20190411.1757: Some useful rectangle functions.
@@ -4790,7 +4790,7 @@ app-emacs/show-font-mode 20201225.2217: Show font at point on mode line
 app-emacs/showtip 20090830.1040: Show tip at cursor
 app-emacs/shpec-mode 20150530.922: Minor mode for shpec specification
 app-emacs/shr-tag-pre-highlight 20240515.1420: Syntax highlighting code block in HTML
-app-emacs/shrface 20240615.415: Extend shr/eww with org features and analysis capability
+app-emacs/shrface 20240615.730: Extend shr/eww with org features and analysis capability
 app-emacs/shrink-path 20190208.1335: fish-style path
 app-emacs/shrink-whitespace 20181003.321: Whitespace removal DWIM key
 app-emacs/shroud 20210220.1952: Shroud secrets
@@ -4961,7 +4961,7 @@ app-emacs/speechd-el 20240513.1716: Client to speech synthesizers and Braille di
 app-emacs/speed-type 20230926.838: Practice touch and speed typing
 app-emacs/speedbar-git-respect 20200901.246: Particular respect git repo in speedbar
 app-emacs/speeddating 20180319.723: Increase date and time at point
-app-emacs/spell-fu 20240421.2351: Fast & light spelling highlighter
+app-emacs/spell-fu 20240615.1119: Fast & light spelling highlighter
 app-emacs/sphinx-doc 20210213.1250: Sphinx friendly docstrings for Python functions
 app-emacs/sphinx-frontend 20161025.758: Launch build process for rst documents via sphinx.
 app-emacs/sphinx-mode 20220417.1552: Minor mode providing sphinx support.
@@ -5357,7 +5357,7 @@ app-emacs/undercover 20210602.2119: Test coverage library for Emacs Lisp
 app-emacs/underline-with-char 20191128.2309: Underline with a char
 app-emacs/undersea-theme 20240101.1006: Theme styled after undersea imagery
 app-emacs/underwater-theme 20131118.2: A gentle, deep blue color theme
-app-emacs/undo-fu 20240422.6: Undo helper with redo
+app-emacs/undo-fu 20240615.1118: Undo helper with redo
 app-emacs/undo-fu-session 20240421.834: Persistent undo, available between sessions
 app-emacs/undo-propose 20210207.45: Simple and safe undo navigation
 app-emacs/undohist 20230508.1226: Persistent undo history for GNU Emacs
