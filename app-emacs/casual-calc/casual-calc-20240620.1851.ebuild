@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="casual-info"
+REALNAME="casual-calc"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A Transient UI for Info"
+DESCRIPTION="Transient UI for Calc"
 
-HOMEPAGE="https://github.com/kickingvegas/casual-info"
+HOMEPAGE="https://github.com/kickingvegas/casual-calc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/casual-lib"
+RDEPEND="app-emacs/casual-lib"

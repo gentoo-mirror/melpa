@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="casual-dired"
+REALNAME="sv-kalender-namnsdagar"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Transient UI for Dired"
+DESCRIPTION="Swedish name day calendar"
 
-HOMEPAGE="https://github.com/kickingvegas/casual-dired"
+HOMEPAGE="https://github.com/matsl/sv-kalender-namnsdagar"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

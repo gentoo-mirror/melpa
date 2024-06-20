@@ -5,18 +5,20 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="sv-kalender-namnsdagar"
+REALNAME="casual-avy"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Swedish celebrated name of the day"
+DESCRIPTION="Transient UI for Avy"
 
-HOMEPAGE="https://github.com/matsl/sv-kalender-namnsdagar"
+HOMEPAGE="https://github.com/kickingvegas/casual-avy"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/avy
+	app-emacs/casual-lib"
+RDEPEND="app-emacs/avy
+	app-emacs/casual-lib"

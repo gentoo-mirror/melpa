@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="casual-calc"
+REALNAME="casual-isearch"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Transient UI for Calc"
+DESCRIPTION="Transient UI for I-Search"
 
-HOMEPAGE="https://github.com/kickingvegas/casual-calc"
+HOMEPAGE="https://github.com/kickingvegas/casual-isearch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/casual-lib"
+RDEPEND="app-emacs/casual-lib"
