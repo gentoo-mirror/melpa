@@ -504,7 +504,7 @@ app-emacs/cdnjs 20161031.1522: A front end for http://cdnjs.com
 app-emacs/cedit 20200816.526: paredit-like commands for c-like languages
 app-emacs/celery 20170225.924: a minor mode to draw stats from celery and more?
 app-emacs/celestial-mode-line 20230323.737: Show lunar phase and sunrise/-set time in modeline
-app-emacs/centaur-tabs 20240621.41: Aesthetic, modern looking customizable tabs plugin
+app-emacs/centaur-tabs 20240621.606: Aesthetic, modern looking customizable tabs plugin
 app-emacs/centered-cursor-mode 20230914.1358: cursor stays vertically centered
 app-emacs/centered-window 20220125.804: Center the text when there's only one window
 app-emacs/centimacro 20201225.1132: Assign multiple macros as global key bindings
@@ -573,7 +573,7 @@ app-emacs/citar 20240419.2232: Citation-related commands for org, latex, markdow
 app-emacs/citar-denote 20240524.924: Minor mode integrating Citar and Denote
 app-emacs/citar-embark 20231122.1548: Citar/Embark integration
 app-emacs/citar-org-roam 20240212.2159: Citar/org-roam integration
-app-emacs/citeproc-el 20240611.1418: A CSL 1.0.2 Citation Processor
+app-emacs/citeproc-el 20240621.1425: A CSL 1.0.2 Citation Processor
 app-emacs/citeproc-org 20200915.2009: Render org-mode references in CSL styles
 app-emacs/citre 20240524.1418: Superior code reading & auto-completion tool with pluggable backends.
 app-emacs/cl-format 20230818.1726: CL format routine.
@@ -656,7 +656,7 @@ app-emacs/color-theme-approximate 20140228.436: Makes Emacs theme works on termi
 app-emacs/color-theme-buffer-local 20170126.601: Install color-themes by buffer.
 app-emacs/color-theme-modern 20231116.2258: Reimplement colortheme with Emacs 24 theme framework.
 app-emacs/color-theme-sanityinc-solarized 20220917.1350: A version of Ethan Schoonover's Solarized themes
-app-emacs/color-theme-sanityinc-tomorrow 20240429.949: A version of Chris Kempson's "tomorrow" themes
+app-emacs/color-theme-sanityinc-tomorrow 20240621.1005: A version of Chris Kempson's "tomorrow" themes
 app-emacs/color-theme-x 20201204.2245: convert color themes to X11 resource settings
 app-emacs/colorless-themes 20210102.1035: A macro to generate mostly colorless themes
 app-emacs/colormaps 20171008.2224: Hex colormaps
@@ -1677,7 +1677,7 @@ app-emacs/ffmpeg-utils 20230305.709: FFmpeg command utilities wrappers
 app-emacs/fic-mode 20180603.2035: Show FIXME/TODO/BUG(...) in special face only in comments and strings
 app-emacs/fifo-class 20160425.558: First in first out abstract class
 app-emacs/figlet 20160218.2237: Annoy people with big, ascii art text
-app-emacs/file-info 20231207.2041: Show pretty information about current file
+app-emacs/file-info 20240621.653: Show pretty information about current file
 app-emacs/filelock 20180524.2215: Functions for manipulating file locks
 app-emacs/filetags 20190706.804: Package to manage filetags in filename
 app-emacs/filetree 20221108.236: File tree view/manipulatation package
@@ -2327,7 +2327,7 @@ app-emacs/helm-codesearch 20221219.1219: helm interface for codesearch
 app-emacs/helm-comint 20231102.2029: Comint prompt navigation for helm
 app-emacs/helm-commandlinefu 20150611.545: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 20231113.701: Helm interface for company-mode
-app-emacs/helm-core 20240619.736: Development files for Helm
+app-emacs/helm-core 20240621.737: Development files for Helm
 app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el.
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
@@ -3836,7 +3836,7 @@ app-emacs/org-kanban 20240607.1612: kanban dynamic block for org-mode.
 app-emacs/org-kindle 20220210.1408: Send org link file to ebook reader.
 app-emacs/org-latex-impatient 20221111.623: Preview org-latex Fragments Instantly via MathJax
 app-emacs/org-linenote 20240410.410: A package inspired by VSCode Linenote
-app-emacs/org-link-beautify 20240620.404: Beautify Org Links
+app-emacs/org-link-beautify 20240621.521: Beautify Org Links
 app-emacs/org-link-travis 20140405.2327: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 20200112.2235: Org-mode link selector
 app-emacs/org-listcruncher 20210706.1741: Planning tool - Parse Org mode lists into table
@@ -4178,7 +4178,7 @@ app-emacs/php-boris 20130527.821: Run boris php REPL
 app-emacs/php-boris-minor-mode 20140209.1835: a minor mode to evaluate PHP code in the Boris repl
 app-emacs/php-cs-fixer 20220516.1008: php-cs-fixer wrapper.
 app-emacs/php-eldoc 20140202.1941: eldoc backend for php
-app-emacs/php-mode 20240527.1834: Major mode for editing PHP code
+app-emacs/php-mode 20240621.742: Major mode for editing PHP code
 app-emacs/php-quickhelp 20210819.2025: Quickhelp at point for php
 app-emacs/php-refactor-mode 20171124.635: Minor mode to quickly and safely perform common refactorings
 app-emacs/php-runtime 20230404.1713: Language binding bridge to PHP
@@ -4932,7 +4932,7 @@ app-emacs/somafm 20220402.2131: A simple soma.fm interface
 app-emacs/sonic-pi 20211214.1242: A Emacs client for SonicPi
 app-emacs/soong-mode 20221217.1243: Major mode for editing Soong build files
 app-emacs/soothe-theme 20240415.837: A dark colorful theme
-app-emacs/sops 20240607.124: SOPS encrypt and decrypt without leaving the editor
+app-emacs/sops 20240621.1513: SOPS encrypt and decrypt without leaving the editor
 app-emacs/sorcery-theme 20210101.1352: A D&D (Dark and Dusty) Theme
 app-emacs/soria-theme 20240603.903: A xoria256 theme with some colors from openSUSE
 app-emacs/sort-words 20160929.1335: Sort words in a selected region
