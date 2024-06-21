@@ -403,7 +403,7 @@ app-emacs/browse-kill-ring 20231104.1450: interactively insert items from kill-r
 app-emacs/browse-url-dwim 20140731.1922: Context-sensitive external browse URL or Internet search
 app-emacs/browser-hist 20240607.406: Search through the Browser history
 app-emacs/brutalist-theme 20231120.721: Brutalist theme
-app-emacs/bshell 20230805.1646: Manage and track multiple inferior shells
+app-emacs/bshell 20240112.2303: Manage and track multiple inferior shells
 app-emacs/btc-ticker 20220409.1647: Shows latest bitcoin price
 app-emacs/bts 20151109.1333: A unified UI for various bug tracking systems
 app-emacs/bts-github 20170401.1249: A plugin of bts.el for GitHub
@@ -483,7 +483,7 @@ app-emacs/caser 20230901.526: Change text casing from camelCase to dash-case to 
 app-emacs/cask-mode 20160410.1449: major mode for editing Cask files
 app-emacs/cask-package-toolset 20170921.2256: Toolsettize your package
 app-emacs/caskxy 20140513.1539: Control Cask in Emacs
-app-emacs/casual-avy 20240620.1857: Transient UI for Avy
+app-emacs/casual-avy 20240620.2204: Transient UI for Avy
 app-emacs/casual-calc 20240620.1851: Transient UI for Calc
 app-emacs/casual-dired 20240620.1828: Transient UI for Dired
 app-emacs/casual-info 20240620.1817: Transient UI for Info
@@ -504,7 +504,7 @@ app-emacs/cdnjs 20161031.1522: A front end for http://cdnjs.com
 app-emacs/cedit 20200816.526: paredit-like commands for c-like languages
 app-emacs/celery 20170225.924: a minor mode to draw stats from celery and more?
 app-emacs/celestial-mode-line 20230323.737: Show lunar phase and sunrise/-set time in modeline
-app-emacs/centaur-tabs 20240620.1052: Aesthetic, modern looking customizable tabs plugin
+app-emacs/centaur-tabs 20240621.41: Aesthetic, modern looking customizable tabs plugin
 app-emacs/centered-cursor-mode 20230914.1358: cursor stays vertically centered
 app-emacs/centered-window 20220125.804: Center the text when there's only one window
 app-emacs/centimacro 20201225.1132: Assign multiple macros as global key bindings
@@ -950,7 +950,7 @@ app-emacs/ddate 20221031.1611: Manage Discordian dates with ddate
 app-emacs/ddskk 20230701.2340: Simple Kana to Kanji conversion program.
 app-emacs/ddskk-posframe 20200812.917: Show Henkan tooltip for ddskk via posframe
 app-emacs/deadgrep 20240408.1537: fast, friendly searching with ripgrep
-app-emacs/debian-el 20240614.612: startup file for the debian-el package
+app-emacs/debian-el 20240614.743: startup file for the debian-el package
 app-emacs/debpaste 20161214.2023: Interface for getting/posting/deleting pastes from paste.debian.net
 app-emacs/debug-print 20140126.19: A nice printf debugging environment by the way Gauche do
 app-emacs/decide 20230424.1647: rolling dice and other random things
@@ -1947,7 +1947,7 @@ app-emacs/forecast 20191004.1850: Weather forecasts
 app-emacs/foreign-regexp 20200325.50: search and replace by foreign regexp.
 app-emacs/foreman-mode 20170725.1422: View and manage Procfile-based applications
 app-emacs/forest-blue-theme 20160627.842: Emacs theme with a dark background.
-app-emacs/forge 20240620.1547: Access Git forges from Magit.
+app-emacs/forge 20240620.2206: Access Git forges from Magit.
 app-emacs/form-feed 20210508.1627: Display ^L glyphs as horizontal lines
 app-emacs/form-feed-st 20231002.2211: Display ^L glyphs as full-width horizontal lines
 app-emacs/format-all 20240511.1811: Auto-format C, C++, JS, Python, Ruby and 50 other languages
@@ -2152,7 +2152,7 @@ app-emacs/go-guru 20240210.10: Integration of the Go 'guru' analysis tool into E
 app-emacs/go-imenu 20181029.1029: Enhance imenu for go language
 app-emacs/go-impl 20210621.743: impl integration for go-mode
 app-emacs/go-imports 20190715.1647: Insert go import statement given package name
-app-emacs/go-mode 20230823.2304: Major mode for the Go programming language
+app-emacs/go-mode 20240620.1948: Major mode for the Go programming language
 app-emacs/go-noisegate 20200502.703: Run Golang tests with Noise Gate
 app-emacs/go-playground 20240322.17: Local Golang playground for short snippets.
 app-emacs/go-playground-cli 20160503.914: Go Playground client tool
@@ -2199,7 +2199,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20231112.2012: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20230530.1853: Integrate with the OpenAI API
-app-emacs/gptel 20240617.1726: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20240620.2132: Interact with ChatGPT or other LLMs
 app-emacs/gpx 20240609.2200: Major mode for GPX files
 app-emacs/grab-mac-link 20210511.1303: Grab link from Mac Apps and insert it into Emacs
 app-emacs/grab-x-link 20191113.848: Grab links from X11 apps and insert into Emacs
@@ -3402,7 +3402,7 @@ app-emacs/morlock 20240618.1737: More font-lock keywords for elisp
 app-emacs/morrowind-theme 20230912.406: Theme
 app-emacs/mos-mode 20221209.1353: MOS toolkit usage
 app-emacs/mosey 20180614.1649: Mosey around your buffers
-app-emacs/most-faces 20240610.724: A List of Most Available Faces
+app-emacs/most-faces 20240620.2145: A List of Most Available Faces
 app-emacs/most-used-words 20200808.1353: Display most used words in buffer
 app-emacs/mote-mode 20160123.29: Mote minor mode
 app-emacs/motion-mode 20140920.156: major mode for RubyMotion enviroment
@@ -4463,7 +4463,7 @@ app-emacs/quiz 20190525.1206: Multiple choice quiz game
 app-emacs/qwen-chat-shell 20240612.343: Qwen-chat shell + buffer insert commands
 app-emacs/r-autoyas 20140101.1510: Provides automatically created yasnippets for R function argument lists.
 app-emacs/racer 20210307.243: code completion, goto-definition and docs browsing for Rust via racer
-app-emacs/racket-mode 20240612.1256: Racket editing, REPL, and more
+app-emacs/racket-mode 20240620.1750: Racket editing, REPL, and more
 app-emacs/rails-i18n 20220126.1643: Seach and insert i18n on ruby code
 app-emacs/rails-log-mode 20140408.425: Major mode for viewing Rails log files
 app-emacs/rails-routes 20220126.1631: Search for and insert rails routes
@@ -5361,7 +5361,7 @@ app-emacs/underline-with-char 20191128.2309: Underline with a char
 app-emacs/undersea-theme 20240101.1006: Theme styled after undersea imagery
 app-emacs/underwater-theme 20131118.2: A gentle, deep blue color theme
 app-emacs/undo-fu 20240617.939: Undo helper with redo
-app-emacs/undo-fu-session 20240421.834: Persistent undo, available between sessions
+app-emacs/undo-fu-session 20240620.2244: Persistent undo, available between sessions
 app-emacs/undo-propose 20210207.45: Simple and safe undo navigation
 app-emacs/undohist 20230508.1226: Persistent undo history for GNU Emacs
 app-emacs/unfill 20230227.1349: Do the opposite of fill-paragraph or fill-region
@@ -5556,7 +5556,7 @@ app-emacs/wgrep-helm 20230202.315: Writable helm-grep-mode buffer
 app-emacs/wgrep-pt 20230207.1125: Writable pt buffer
 app-emacs/wgsl-mode 20231118.1944: Syntax highlighting for the WebGPU Shading Language
 app-emacs/what-the-commit 20150901.1316: Random commit message generator
-app-emacs/which-key 20240501.1251: Display available keybindings in popup
+app-emacs/which-key 20240620.2145: Display available keybindings in popup
 app-emacs/which-key-posframe 20230313.1841: Using posframe to show which-key
 app-emacs/whiley-mode 20220501.2219: Major mode for Whiley language
 app-emacs/whitaker 20210203.1149: Comint interface for Whitaker's Words
