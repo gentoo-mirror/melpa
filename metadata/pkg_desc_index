@@ -137,7 +137,7 @@ app-emacs/annotate-depth 20160520.2040: Annotate buffer if indentation depth is 
 app-emacs/annotation 20200914.644: Functions for annotating text with faces and help bubbles
 app-emacs/annoying-arrows-mode 20161024.646: Ring the bell if using arrows too much
 app-emacs/ansi 20230306.1823: Turn string into ansi strings
-app-emacs/ansible 20240607.1340: Ansible minor mode
+app-emacs/ansible 20240624.1452: Ansible minor mode
 app-emacs/ansible-doc 20160924.824: Ansible documentation Minor Mode
 app-emacs/ansible-vault 20211119.1459: Minor mode for editing ansible vault files
 app-emacs/ant 20160211.1543: helpers for compiling with ant
@@ -627,7 +627,7 @@ app-emacs/clues-theme 20161213.1127: an Emacs 24 theme which may well be fully a
 app-emacs/cm-mode 20240422.725: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 20230304.2223: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 20210610.1525: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 20240412.1329: major-mode for editing CMake sources
+app-emacs/cmake-mode 20240624.1425: major-mode for editing CMake sources
 app-emacs/cmake-project 20171121.1115: Integrates CMake build process with Emacs
 app-emacs/cmd-to-echo 20161203.2133: Show the output of long-running commands in the echo area
 app-emacs/cmm-mode 20150225.746: Major mode for C-- source code
@@ -782,7 +782,7 @@ app-emacs/consult-git-log-grep 20230204.1753: Consult integration for git log gr
 app-emacs/consult-hatena-bookmark 20221125.109: Consult commands for the Hatena Bookmark
 app-emacs/consult-ls-git 20240529.641: Consult integration for git
 app-emacs/consult-lsp 20240507.2105: LSP-mode Consult integration
-app-emacs/consult-notes 20240516.1423: Manage notes with consult
+app-emacs/consult-notes 20240624.1219: Manage notes with consult
 app-emacs/consult-notmuch 20240127.406: Notmuch search using consult
 app-emacs/consult-org-roam 20240217.1442: Consult integration for org-roam
 app-emacs/consult-project-extra 20231221.1857: Consult integration for project.el
@@ -1867,7 +1867,7 @@ app-emacs/flymake-css 20170723.146: Flymake support for css using csslint
 app-emacs/flymake-cursor 20220506.1458: Show flymake messages in the minibuffer after delay
 app-emacs/flymake-diagnostic-at-point 20180815.1004: Display flymake diagnostics at point
 app-emacs/flymake-eask 20240223.1022: Eask support in Flymake
-app-emacs/flymake-easy 20141022.1828: Helpers for easily building flymake checkers
+app-emacs/flymake-easy 20240624.1702: Helpers for easily building flymake checkers
 app-emacs/flymake-eldev 20240419.2023: Eldev support in Flymake
 app-emacs/flymake-elisp-config 20230711.1833: Setup load-path for flymake on Emacs Lisp mode
 app-emacs/flymake-elixir 20130810.1417: A flymake handler for elixir-mode .ex files.
@@ -3263,7 +3263,7 @@ app-emacs/marquee-header 20240101.930: Code interface for displaying marquee in 
 app-emacs/marshal 20201223.1853: eieio extension for automatic (un)marshalling
 app-emacs/maruo-macro-mode 20160616.1349: Major mode for editing Hidemaru/Maruo macro script
 app-emacs/masm-mode 20200308.1450: MASM x86 and x64 assembly major mode
-app-emacs/mastodon 20240531.1213: Client for fediverse services using the Mastodon API
+app-emacs/mastodon 20240624.1315: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 20210904.1226: A Theme based on the colors of the Google Material Design
 app-emacs/math-preview 20240519.740: Preview TeX math equations inline
 app-emacs/math-symbol-lists 20220828.2047: Lists of Unicode math symbols and latex commands
@@ -3564,7 +3564,7 @@ app-emacs/nnreddit 20230705.1328: Gnus Backend For Reddit
 app-emacs/nntwitter 20230705.1110: Gnus Backend For Twitter
 app-emacs/no-clown-fiesta-theme 20231214.2115: Not-so-colorful-theme
 app-emacs/no-emoji 20180515.1837: Show :emoji-name: instead of emoji characters
-app-emacs/no-littering 20240618.1829: Help keeping ~/.config/emacs clean
+app-emacs/no-littering 20240624.1447: Help keeping ~/.config/emacs clean
 app-emacs/no-spam 20190724.1854: Add repeat delays to commands
 app-emacs/noaa 20240317.2321: Get NOAA weather data
 app-emacs/noccur 20191015.719: Run multi-occur on project/dired files
@@ -4034,7 +4034,7 @@ app-emacs/ox-jira 20220423.1403: JIRA Backend for Org Export Engine
 app-emacs/ox-json 20240106.2116: JSON export backend for Org mode
 app-emacs/ox-latex-subfigure 20200326.919: Subfigure for latex export
 app-emacs/ox-leanpub 20230415.2139: Export Org documents to Leanpub book format
-app-emacs/ox-linuxmag-fr 20240326.722: Org-mode exporter for the French GNU/Linux Magazine
+app-emacs/ox-linuxmag-fr 20240624.1829: Org-mode exporter for the French GNU/Linux Magazine
 app-emacs/ox-mdx-deck 20181115.1847: org-mode to mdx-deck exporter
 app-emacs/ox-mediawiki 20230425.115: Mediawiki Back-End for Org Export Engine
 app-emacs/ox-minutes 20180202.1734: Plain text backend for Org for Meeting Minutes
@@ -4166,7 +4166,7 @@ app-emacs/perspective-exwm 20231225.2313: Better integration for perspective.el 
 app-emacs/perspective-project-bridge 20231024.1737: Integration of perspective.el + project.el
 app-emacs/perspeen 20171203.1021: An package for multi-workspace
 app-emacs/pest-mode 20221231.15: Major mode for editing Pest files
-app-emacs/pet 20240608.2012: Executable and virtualenv tracker for python-mode
+app-emacs/pet 20240624.1753: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 20220913.1401: a simple wrapper around asynchronous processes
 app-emacs/pg 20240623.1445: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
 app-emacs/pgdevenv 20150105.2236: Manage your PostgreSQL development envs
@@ -5210,7 +5210,7 @@ app-emacs/thinks 20170802.1128: Insert text in a think bubble.
 app-emacs/third-time 20240207.1621: Third Time: A Better Way to Work
 app-emacs/thread-dump 20170816.1850: Java thread dump viewer
 app-emacs/threes 20160820.1242: A clone of Threes (a tiny puzzle game)
-app-emacs/thrift 20240617.1257: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 20240623.1632: major mode for fbthrift and Apache Thrift files
 app-emacs/thumb-through 20120119.534: Plain text reader of HTML documents
 app-emacs/tickscript-mode 20171219.203: A major mode for Tickscript files
 app-emacs/tidal 20240407.1952: Interact with TidalCycles for live coding patterns
@@ -5246,7 +5246,7 @@ app-emacs/tmux-mode 20231130.1249: Major mode for tmux configuration
 app-emacs/tmux-pane 20240106.131: Provide integration between emacs window and tmux pane
 app-emacs/toc-mode 20220926.530: Manage outlines/table of contents of pdf and djvu documents
 app-emacs/toc-org 20220110.1452: add table of contents to org-mode files (formerly, org-toc)
-app-emacs/todoist 20240113.1729: Extension for interacting and managing todoist tasks
+app-emacs/todoist 20240624.1512: Extension for interacting and managing todoist tasks
 app-emacs/todotxt 20220204.1903: A major mode for editing todo.txt files
 app-emacs/todotxt-mode 20200228.952: Major mode for editing todo.txt files
 app-emacs/togetherly 20170426.616: allow multiple clients to edit a single buffer online
