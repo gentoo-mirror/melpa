@@ -20,7 +20,7 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/dash
 	app-emacs/magit
-	app-emacs/gptel"
+	app-emacs/llm"
 RDEPEND="app-emacs/dash
 	app-emacs/magit
-	app-emacs/gptel"
+	app-emacs/llm"
