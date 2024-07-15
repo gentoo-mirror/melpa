@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/f
-DESCRIPTION=Minimalistic and customizable project manager
+DEPEND=app-emacs/fringe-helper app-emacs/ov app-emacs/ht
+DESCRIPTION=Line annotation for changed and saved lines
 EAPI=8
-HOMEPAGE=https://github.com/salorak/whaler.el
+HOMEPAGE=https://github.com/emacs-vs/line-reminder
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/f >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/fringe-helper app-emacs/ov app-emacs/ht >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/whaler-20240714.1136.tar
+SRC_URI=https://melpa.org/packages/line-reminder-20240715.913.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=3ee9f4a73a5827d3f17404d5175227ad
+_md5_=5826fa4bdfc71cfdf7d4e58c1c58aa0a
