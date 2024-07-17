@@ -467,7 +467,7 @@ app-emacs/calmer-forest-theme 20230302.2149: Darkish theme with green/orange tin
 app-emacs/camcorder 20190317.2138: Record screencasts in gif or other formats.
 app-emacs/caml 20231011.328: Caml mode for GNU Emacs
 app-emacs/cangjie 20230219.1150: Retrieve cangjie code for han characters
-app-emacs/cape 20240710.1919: Completion At Point Extensions
+app-emacs/cape 20240717.816: Completion At Point Extensions
 app-emacs/capnp-mode 20210707.2310: Major mode for editing Capn' Proto Files
 app-emacs/capture 20130828.1644: screencasting with "avconv" or "ffmpeg"
 app-emacs/carbon-now-sh 20220701.332: https://carbon.now.sh integration.
@@ -485,11 +485,11 @@ app-emacs/cask-package-toolset 20170921.2256: Toolsettize your package
 app-emacs/caskxy 20140513.1539: Control Cask in Emacs
 app-emacs/casual-avy 20240714.202: Transient UI for Avy
 app-emacs/casual-calc 20240628.2332: Transient UI for Calc
-app-emacs/casual-dired 20240710.2115: Transient UI for Dired
+app-emacs/casual-dired 20240716.2120: Transient UI for Dired
 app-emacs/casual-ibuffer 20240713.1805: Transient UI for IBuffer
 app-emacs/casual-info 20240711.712: Transient UI for Info
 app-emacs/casual-isearch 20240711.403: Transient UI for I-Search
-app-emacs/casual-lib 20240628.2300: Library routines for Casual porcelains
+app-emacs/casual-lib 20240716.2021: Library routines for Casual porcelains
 app-emacs/casual-re-builder 20240714.1923: Transient UI for RE-Builder
 app-emacs/casual-suite 20240714.1941: A suite of opinionated Transient UIs
 app-emacs/catmacs 20170826.1157: Simple CAT interface for Yaesu Transceivers.
@@ -507,7 +507,7 @@ app-emacs/cdnjs 20161031.1522: A front end for http://cdnjs.com
 app-emacs/cedit 20200816.526: paredit-like commands for c-like languages
 app-emacs/celery 20170225.924: a minor mode to draw stats from celery and more?
 app-emacs/celestial-mode-line 20230323.737: Show lunar phase and sunrise/-set time in modeline
-app-emacs/centaur-tabs 20240716.809: Aesthetic, modern looking customizable tabs plugin
+app-emacs/centaur-tabs 20240716.2316: Aesthetic, modern looking customizable tabs plugin
 app-emacs/centered-cursor-mode 20230914.1358: cursor stays vertically centered
 app-emacs/centered-window 20220125.804: Center the text when there's only one window
 app-emacs/centimacro 20201225.1132: Assign multiple macros as global key bindings
@@ -809,7 +809,7 @@ app-emacs/copy-file-on-save 20230402.1829: Copy file on save, automatic deployme
 app-emacs/copyit 20190919.1258: Copy it, yank anything!
 app-emacs/copyit-pandoc 20190919.1258: Copy it, yank anything!
 app-emacs/coq-commenter 20170822.2309: Coq commenting minor mode for proof
-app-emacs/corfu 20240716.1916: COmpletion in Region FUnction
+app-emacs/corfu 20240716.2011: COmpletion in Region FUnction
 app-emacs/corfu-candidate-overlay 20240322.1814: Show first candidate in an overlay while typing
 app-emacs/corfu-prescient 20240226.204: prescient.el + Corfu
 app-emacs/corral 20160502.948: Quickly surround text with delimiters
@@ -887,7 +887,7 @@ app-emacs/ctxmenu 20140303.2142: Provide a context menu like right-click.
 app-emacs/cubicaltt 20171108.1402: Mode for cubical type theory
 app-emacs/cubicle-mode 20221031.2122: Major mode for the Cubicle model checker
 app-emacs/cucumber-goto-step 20131210.519: Jump to cucumber step definition
-app-emacs/cuda-mode 20201013.2230: NVIDIA CUDA Major Mode
+app-emacs/cuda-mode 20240716.1936: NVIDIA CUDA Major Mode derived from C++-mode.
 app-emacs/cue-mode 20220811.1938: Major mode for CUE language files
 app-emacs/cue-sheet-mode 20230522.511: Major mode for editing CUE sheet files
 app-emacs/curl-to-elisp 20201124.1012: Convert cURL command to Emacs Lisp code
@@ -1261,7 +1261,7 @@ app-emacs/ein 20230827.325: jupyter notebook client
 app-emacs/eink-theme 20190219.858: E Ink color theme
 app-emacs/ejc-sql 20240106.1848: Emacs SQL client uses Clojure JDBC.
 app-emacs/ejson-mode 20190720.2138: Major mode for editing ejson files.
-app-emacs/ekg 20240716.409: A system for recording and linking information
+app-emacs/ekg 20240717.233: A system for recording and linking information
 app-emacs/el-autoyas 20120918.1317: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-fly-indent-mode 20180422.243: Indent Emacs Lisp on the fly
 app-emacs/el-get 20240408.837: Manage the external elisp bits and pieces you depend upon
@@ -2133,7 +2133,7 @@ app-emacs/gn-mode 20190428.1812: major mode for editing GN (generate ninja) file
 app-emacs/gnome-calendar 20161110.1256: Integration with the GNOME Shell calendar
 app-emacs/gnome-screencast 20210125.2001: Use Gnome screen recording functionality using elisp
 app-emacs/gnomenm 20150316.1918: Emacs interface to Gnome nmcli command
-app-emacs/gnosis 20240716.1426: Spaced Repetition System
+app-emacs/gnosis 20240717.722: Spaced Repetition System
 app-emacs/gntp 20141025.250: Growl Notification Protocol for Emacs
 app-emacs/gnu-apl-mode 20220404.341: Integrate GNU APL with Emacs
 app-emacs/gnu-indent 20221127.2112: Indent your code with GNU Indent
@@ -2827,7 +2827,7 @@ app-emacs/jetbrains 20180301.502: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default JetBrains Darcula theme
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file.
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
-app-emacs/jinx 20240716.1030: Enchanted Spell Checker
+app-emacs/jinx 20240717.749: Enchanted Spell Checker
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jirascope 20240122.2130: A Jira client
@@ -2888,7 +2888,7 @@ app-emacs/jump-char 20180601.1348: navigation by char
 app-emacs/jump-to-line 20130122.1653: Jump to line number at point.
 app-emacs/jump-tree 20171014.1551: Treat position history as a tree
 app-emacs/jumplist 20151120.345: Jump like vim jumplist or ex jumplist
-app-emacs/jupyter 20240420.1918: Jupyter
+app-emacs/jupyter 20240716.2028: Jupyter
 app-emacs/just-mode 20240424.1809: Justfile editing mode
 app-emacs/justl 20240701.1259: Major mode for driving just files
 app-emacs/jvm-mode 20150422.708: Monitor and manage your JVMs
@@ -2941,7 +2941,7 @@ app-emacs/keyword-search 20180424.1102: browser keyword search from Emacs
 app-emacs/kfg 20140909.538: an emacs configuration system
 app-emacs/khalel 20240527.527: Import, edit and create calendar events through khal
 app-emacs/khardel 20231126.1502: Integrate with khard
-app-emacs/khoj 20240707.1256: AI copilot for your Second Brain
+app-emacs/khoj 20240717.805: AI copilot for your Second Brain
 app-emacs/kibit-helper 20150508.1533: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-file-path 20230306.1041: Copy file name into kill ring
 app-emacs/kill-or-bury-alive 20230606.1503: Precise control over buffer killing
@@ -3119,7 +3119,7 @@ app-emacs/load-theme-buffer-local 20120702.2036: Install emacs24 color themes by
 app-emacs/loc-changes 20230214.1036: keep track of positions even after buffer changes
 app-emacs/loccur 20240610.1830: Perform an occur-like folding in current buffer
 app-emacs/lockfile-mode 20170625.507: Major mode for .lock files
-app-emacs/loco 20240712.1721: A library and minor mode for entering key sequences
+app-emacs/loco 20240717.316: A library and minor mode for entering key sequences
 app-emacs/lodgeit 20190802.1308: Paste to a lodgeit powered pastebin
 app-emacs/log4e 20240123.1313: provide logging framework for elisp
 app-emacs/log4j-mode 20230826.1331: Major mode for viewing log files
@@ -3970,7 +3970,7 @@ app-emacs/org-wild-notifier 20240325.744: Customizable org-agenda notifications
 app-emacs/org-working-set 20230803.1640: Manage and visit a small and changing set of org-nodes that you work on
 app-emacs/org-wunderlist 20191017.1917: Org sync with Wunderlist
 app-emacs/org-xlatex 20240707.1343: Instant LaTeX preview in an xwidget
-app-emacs/org-zettelkasten 20240716.1942: A Zettelkasten mode leveraging Org
+app-emacs/org-zettelkasten 20240716.2114: A Zettelkasten mode leveraging Org
 app-emacs/org2blog 20230501.2319: Blog from Org mode to WordPress
 app-emacs/org2ctex 20200331.550: Export org to ctex (a latex macro for Chinese)
 app-emacs/org2elcomment 20170324.945: Convert Org file to Elisp comments
@@ -4877,7 +4877,7 @@ app-emacs/slovak-holidays 20211018.1754: Adds a list of slovak holidays to Emacs
 app-emacs/slow-keys 20220807.1425: Slow keys mode to avoid RSI
 app-emacs/slstats 20170823.849: Acquire and display stats about Second Life
 app-emacs/slurm-mode 20210519.1109: Interaction with the SLURM job scheduling system
-app-emacs/slurpbarf 20240716.1957: Commands for slurping and barfing
+app-emacs/slurpbarf 20240716.2249: Commands for slurping and barfing
 app-emacs/sly 20240501.1118: Sylvester the Cat's Common Lisp IDE
 app-emacs/sly-asdf 20221119.2235: ASDF system support for SLY
 app-emacs/sly-hello-world 20200225.1755: A template SLY contrib
