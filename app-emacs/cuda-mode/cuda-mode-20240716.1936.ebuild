@@ -10,9 +10,9 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="NVIDIA CUDA Major Mode"
+DESCRIPTION="NVIDIA CUDA Major Mode derived from C++-mode."
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/chachi/cuda-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
