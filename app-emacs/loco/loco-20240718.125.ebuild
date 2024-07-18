@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="ob-powershell"
+REALNAME="loco"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Run Powershell from org mode source blocks"
+DESCRIPTION="Enter complex key sequences with ease!"
 
-HOMEPAGE="https://github.com/rkiggen/ob-powershell"
+HOMEPAGE="https://github.com/csmclaren/loco"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

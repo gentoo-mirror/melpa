@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="loco"
+REALNAME="ob-powershell"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A library and minor mode for entering key sequences"
+DESCRIPTION="org-babel functions for powershell evaluation"
 
-HOMEPAGE="https://github.com/csmclaren/loco"
+HOMEPAGE="https://github.com/rkiggen/ob-powershell"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
