@@ -5,22 +5,20 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="helm-bm"
+REALNAME="kagi"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helm sources for bm.el"
+DESCRIPTION="Kagi API integration"
 
-HOMEPAGE="https://github.com/yasuyk/helm-bm"
+HOMEPAGE="https://codeberg.org/bram85/kagi.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/bm
-	app-emacs/helm
-	app-emacs/s"
-RDEPEND="app-emacs/bm
-	app-emacs/helm
-	app-emacs/s"
+DEPEND="app-emacs/markdown-mode
+	app-emacs/shell-maker"
+RDEPEND="app-emacs/markdown-mode
+	app-emacs/shell-maker"
