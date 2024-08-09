@@ -382,7 +382,7 @@ app-emacs/bookmark-in-project 20240421.322: Bookmark access within a project
 app-emacs/bookmark-view 20240102.334: Bookmark views
 app-emacs/bool-flip 20161215.1539: flip the boolean under the point
 app-emacs/boon 20240628.703: Ergonomic Command Mode for Emacs.
-app-emacs/borg 20240803.2134: Assimilate Emacs packages as Git submodules
+app-emacs/borg 20240808.1953: Assimilate Emacs packages as Git submodules
 app-emacs/borland-blue-theme 20160117.1321: Blue/yellow theme based on old DOS Borland/Turbo C IDE
 app-emacs/boron-theme 20170808.1308: an Emacs 24 theme based on Boron (tmTheme)
 app-emacs/boxes 20240217.1143: ASCII boxes unlimited!
@@ -624,7 +624,7 @@ app-emacs/clojure-quick-repls 20150814.736: Quickly create Clojure and ClojureSc
 app-emacs/clojure-snippets 20220914.950: Yasnippets for clojure
 app-emacs/clojure-ts-mode 20240725.1139: Major mode for Clojure code
 app-emacs/clomacs 20220415.1035: Simplifies Emacs Lisp interaction with Clojure.
-app-emacs/closql 20240712.2215: Store EIEIO objects using EmacSQL
+app-emacs/closql 20240808.1934: Store EIEIO objects using EmacSQL
 app-emacs/closure-lint-mode 20101118.2124: minor mode for the Closure Linter
 app-emacs/cloud-theme 20220205.1336: A light colored theme
 app-emacs/cloud-to-butt-erc 20130627.2308: Replace 'the cloud' with 'my butt'
@@ -1131,7 +1131,7 @@ app-emacs/dokuwiki 20180102.59: Edit Remote DokuWiki Pages Using XML-RPC
 app-emacs/dokuwiki-mode 20170223.1301: Major mode for DokuWiki document
 app-emacs/dollaro 20151123.1302: simple text templates
 app-emacs/doom 20180301.2308: DOM implementation and manipulation library
-app-emacs/doom-modeline 20240803.1723: A minimal and modern mode-line
+app-emacs/doom-modeline 20240809.1652: A minimal and modern mode-line
 app-emacs/doom-modeline-now-playing 20240522.1704: Segment for Doom Modeline to show playerctl information
 app-emacs/doom-themes 20240726.2030: an opinionated pack of modern color-themes
 app-emacs/dot-env 20230820.2014: Dotenv functionality
@@ -1377,13 +1377,13 @@ app-emacs/emacs-everywhere 20240509.1715: System-wide popup windows for quick ed
 app-emacs/emacs-websearch 20230705.1639: Query search engines
 app-emacs/emacsc 20240629.1325: helper for emacsc(1)
 app-emacs/emacsist-view 20160426.1223: Mode for viewing emacsist.com
-app-emacs/emacsql 20240730.1339: High-level SQL database front-end
-app-emacs/emacsql-mysql 20240415.1535: EmacSQL back-end for MySQL
-app-emacs/emacsql-pg 20240714.1824: EmacSQL back-end for PostgreSQL via pg
-app-emacs/emacsql-psql 20240415.1535: EmacSQL back-end for PostgreSQL via psql
-app-emacs/emacsql-sqlite 20240623.1340: EmacSQL back-end for SQLite
-app-emacs/emacsql-sqlite-builtin 20240415.1535: EmacSQL back-end for SQLite using builtin support
-app-emacs/emacsql-sqlite-module 20240415.1535: EmacSQL back-end for SQLite using a module
+app-emacs/emacsql 20240808.1856: High-level SQL database front-end
+app-emacs/emacsql-mysql 20240808.2016: This package has been merged into emacsql
+app-emacs/emacsql-pg 20240808.2016: This package has been merged into emacsql
+app-emacs/emacsql-psql 20240808.2016: This package has been merged into emacsql
+app-emacs/emacsql-sqlite 20240808.2016: This package has been merged into emacsql
+app-emacs/emacsql-sqlite-builtin 20240808.2016: This package has been merged into emacsql
+app-emacs/emacsql-sqlite-module 20240808.2016: This package has been merged into emacsql
 app-emacs/emacsshot 20191206.944: Snapshot a frame or window from within
 app-emacs/emamux 20200315.1220: Interact with tmux
 app-emacs/emamux-ruby-test 20130812.1639: Ruby test with emamux
@@ -1432,8 +1432,8 @@ app-emacs/eopengrok 20230114.1413: opengrok interface for emacs
 app-emacs/epc 20140610.534: A RPC stack for the Emacs Lisp
 app-emacs/epic 20170210.23: Evernote Picker for Cocoa Emacs
 app-emacs/eping 20201027.2149: Ping websites to check internet connectivity
-app-emacs/epkg 20240712.2216: Browse the Emacsmirror package database
-app-emacs/epkg-marginalia 20240712.2216: Show Epkg information in completion annotations
+app-emacs/epkg 20240808.1949: Browse the Emacsmirror package database
+app-emacs/epkg-marginalia 20240808.1951: Show Epkg information in completion annotations
 app-emacs/epl 20180205.2049: Emacs Package Library
 app-emacs/epm 20190509.443: Emacs Package Manager
 app-emacs/epresent 20160411.201: Simple presentation mode for Emacs Org-mode
@@ -1960,7 +1960,7 @@ app-emacs/forecast 20191004.1850: Weather forecasts
 app-emacs/foreign-regexp 20200325.50: search and replace by foreign regexp.
 app-emacs/foreman-mode 20170725.1422: View and manage Procfile-based applications
 app-emacs/forest-blue-theme 20160627.842: Emacs theme with a dark background.
-app-emacs/forge 20240808.1809: Access Git forges from Magit.
+app-emacs/forge 20240808.1943: Access Git forges from Magit.
 app-emacs/form-feed 20210508.1627: Display ^L glyphs as horizontal lines
 app-emacs/form-feed-st 20231002.2211: Display ^L glyphs as full-width horizontal lines
 app-emacs/format-all 20240511.1811: Auto-format C, C++, JS, Python, Ruby and 50 other languages
@@ -2059,7 +2059,7 @@ app-emacs/ghci-completion 20151125.1257: Completion for GHCi commands in inferio
 app-emacs/gherkin-mode 20171224.1353: An emacs major mode for editing gherkin files.
 app-emacs/ghost-blog 20171023.742: A package to manage Ghost blog
 app-emacs/ghq 20230510.332: Ghq interface for emacs
-app-emacs/ghub 20240713.1918: Client libraries for Git forge APIs.
+app-emacs/ghub 20240808.1936: Client libraries for Git forge APIs.
 app-emacs/ghub+ 20191229.1748: a thick GitHub API client built on ghub
 app-emacs/gif-screencast 20230728.1144: One-frame-per-action GIF recording
 app-emacs/gift-mode 20210528.1459: major mode for editing GIFT format quizzes
@@ -2076,7 +2076,7 @@ app-emacs/git-backup-ivy 20231030.2155: An ivy interface to git-backup
 app-emacs/git-blamed 20161028.1926: Minor mode for incremental blame for Git
 app-emacs/git-cliff 20240730.1912: Generate and update changelog using git-cliff
 app-emacs/git-command 20191028.333: A Git Command-Line interface
-app-emacs/git-commit 20240730.1355: Edit Git commit messages.
+app-emacs/git-commit 20240808.1852: Edit Git commit messages.
 app-emacs/git-commit-insert-issue 20230512.1416: Get issues list when typing "Fixes #"
 app-emacs/git-commit-ts-mode 20240722.1815: Tree-sitter support for Git commit messages
 app-emacs/git-dwim 20170126.1214: Context-aware git commands such as branch handling
@@ -2594,7 +2594,7 @@ app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy 
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
 app-emacs/hyperbole 20240808.941: GNU Hyperbole: The Everyday Hypertextual Information Manager
-app-emacs/hyperdrive 20240807.2047: P2P filesystem
+app-emacs/hyperdrive 20240809.1119: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -2944,7 +2944,7 @@ app-emacs/keyword-search 20180424.1102: browser keyword search from Emacs
 app-emacs/kfg 20140909.538: an emacs configuration system
 app-emacs/khalel 20240527.527: Import, edit and create calendar events through khal
 app-emacs/khardel 20231126.1502: Integrate with khard
-app-emacs/khoj 20240806.1046: AI copilot for your Second Brain
+app-emacs/khoj 20240809.1241: AI copilot for your Second Brain
 app-emacs/kibit-helper 20150508.1533: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-file-path 20230306.1041: Copy file name into kill ring
 app-emacs/kill-or-bury-alive 20230606.1503: Precise control over buffer killing
@@ -3199,7 +3199,7 @@ app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-mode 20240521.1419: Emacs major mode for Smallworld Magik files
-app-emacs/magit 20240808.1208: A Git porcelain inside Emacs.
+app-emacs/magit 20240808.1852: A Git porcelain inside Emacs.
 app-emacs/magit-annex 20231210.2140: Control git-annex from Magit
 app-emacs/magit-commit-mark 20240421.931: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3220,7 +3220,7 @@ app-emacs/magit-patch-changelog 20221209.123: Generate a patch according to emac
 app-emacs/magit-popup 20200719.1015: Define prefix-infix-suffix command combos
 app-emacs/magit-rbr 20181009.2016: Support for git rbr in Magit
 app-emacs/magit-reviewboard 20200727.1748: Show open Reviewboard reviews in Magit
-app-emacs/magit-section 20240730.1741: Sections for read-only buffers.
+app-emacs/magit-section 20240808.1852: Sections for read-only buffers.
 app-emacs/magit-stats 20230223.1819: Generates GIT Repo Statistics Report
 app-emacs/magit-stgit 20231226.1514: StGit extension for Magit
 app-emacs/magit-svn 20220314.1451: Git-Svn extension for Magit
@@ -3599,7 +3599,7 @@ app-emacs/norns 20230820.2157: Interactive development environment for monome no
 app-emacs/northcode-theme 20180423.1649: A dark theme focused on blue and orange colors.
 app-emacs/nothing-theme 20200504.402: Monochrome theme
 app-emacs/notink-theme 20240625.326: A custom theme inspired by e-ink displays
-app-emacs/notmuch 20240806.1129: run notmuch within emacs
+app-emacs/notmuch 20240809.1318: run notmuch within emacs
 app-emacs/notmuch-addr 20240805.1915: Improved address completion for Notmuch
 app-emacs/notmuch-bookmarks 20230727.1504: Add bookmark handling for notmuch buffers
 app-emacs/notmuch-labeler 20131230.1719: Improve notmuch way of displaying labels
@@ -3983,8 +3983,8 @@ app-emacs/org2web 20210203.324: A static site generator based on org mode.
 app-emacs/organic-green-theme 20240731.2058: Low-contrast green color theme.
 app-emacs/organize-imports-java 20240101.929: Automatically organize imports in Java code
 app-emacs/orgbox 20180827.218: Mailbox-like task scheduling Org.
-app-emacs/orgit 20240805.1428: Support for Org links to Magit buffers
-app-emacs/orgit-forge 20240713.1928: Org links to Forge issue buffers
+app-emacs/orgit 20240808.1945: Support for Org links to Magit buffers
+app-emacs/orgit-forge 20240808.1947: Org links to Forge issue buffers
 app-emacs/orglink 20240805.1431: Use Org Mode links in other modes
 app-emacs/orglue 20200411.311: more functionality to org-mode.
 app-emacs/orgmdb 20231003.2144: An OMDb API client with some convenience functions
@@ -5054,7 +5054,7 @@ app-emacs/streak 20240106.2145: Track a daily streak in your Mode Line
 app-emacs/streamlink 20210811.1429: A major mode for streamlink output
 app-emacs/strie 20160211.2222: A simple trie data structure implementation
 app-emacs/string-edit-at-point 20230118.1933: Avoid escape nightmares by editing string in separate buffer
-app-emacs/string-inflection 20220910.1306: underscore -> UPCASE -> CamelCase -> lowerCamelCase conversion of names
+app-emacs/string-inflection 20240809.1110: underscore -> UPCASE -> CamelCase -> lowerCamelCase conversion of names
 app-emacs/string-utils 20140508.2041: String-manipulation utilities
 app-emacs/stripe-buffer 20141208.1508: Use a different background for even and odd lines
 app-emacs/stripes 20230402.1228: highlight alternating lines differently
@@ -5136,7 +5136,7 @@ app-emacs/systemd 20230201.302: Major mode for editing systemd units
 app-emacs/systemtap-mode 20151122.1940: A mode for SystemTap
 app-emacs/ta 20160619.1645: A tool to deal with Chinese homophonic characters
 app-emacs/tab-bar-buffers 20240227.2037: Use tab-bar-mode as a buffer manager
-app-emacs/tab-bar-echo-area 20221115.1953: Display tab names of the tab bar in the echo area
+app-emacs/tab-bar-echo-area 20240809.1442: Display tab names of the tab bar in the echo area
 app-emacs/tab-bar-groups 20211013.2012: Tab groups for the tab bar
 app-emacs/tab-bar-lost-commands 20211013.1945: The "lost commands" of the tab bar
 app-emacs/tab-bar-notch 20231120.2029: Adjust tab-bar height for MacBook Pro notch
@@ -5322,7 +5322,7 @@ app-emacs/tree-sitter-ispell 20240610.2252: Run ispell on tree-sitter text nodes
 app-emacs/tree-sitter-langs 20240805.321: Grammar bundle for tree-sitter
 app-emacs/treebundel 20240531.2321: Bundle related git-worktrees together
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
-app-emacs/treemacs 20240808.1112: A tree style file explorer package
+app-emacs/treemacs 20240809.1523: A tree style file explorer package
 app-emacs/treemacs-all-the-icons 20240131.2042: all-the-icons integration for treemacs
 app-emacs/treemacs-evil 20240131.2042: Evil mode integration for treemacs
 app-emacs/treemacs-icons-dired 20240131.2042: Treemacs icons for dired
