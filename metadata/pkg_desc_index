@@ -489,7 +489,7 @@ app-emacs/casual-calc 20240805.2145: Transient UI for Calc
 app-emacs/casual-dired 20240716.2120: Transient UI for Dired
 app-emacs/casual-ibuffer 20240730.329: Transient UI for IBuffer
 app-emacs/casual-info 20240711.712: Transient UI for Info
-app-emacs/casual-isearch 20240807.19: Transient UI for I-Search
+app-emacs/casual-isearch 20240808.1638: Transient UI for I-Search
 app-emacs/casual-lib 20240716.2021: Library routines for Casual porcelains
 app-emacs/casual-re-builder 20240730.49: Transient UI for RE-Builder
 app-emacs/casual-suite 20240730.426: A suite of opinionated Transient UIs
@@ -522,7 +522,7 @@ app-emacs/cfml-mode 20190617.1130: Emacs mode for editing CFML files
 app-emacs/cfn-mode 20240721.805: AWS cloudformation mode
 app-emacs/cframe 20240223.2335: Customize a frame and fast switch size and positions
 app-emacs/cfrs 20220129.1149: Child-frame based read-string
-app-emacs/cg 20240430.2040: Major mode for editing Constraint Grammar files
+app-emacs/cg 20240808.1902: Major mode for editing Constraint Grammar files
 app-emacs/challenger-deep-theme 20231218.1042: challenger-deep Theme
 app-emacs/champagne 20240515.310: Graphical countdowns
 app-emacs/change-inner 20231203.1021: Change contents based on semantic units
@@ -1175,7 +1175,7 @@ app-emacs/duplicate-thing 20181031.1500: Duplicate current line & selection
 app-emacs/dut-mode 20170729.2111: Major mode for the Dut programming language
 app-emacs/dw 20210331.2311: Diceware passphrase generation commands
 app-emacs/dwim-coder-mode 20240712.1047: DWIM keybindings for C, Python, Rust, and more
-app-emacs/dwim-shell-command 20240807.1509: Shell commands with DWIM behaviour
+app-emacs/dwim-shell-command 20240808.1547: Shell commands with DWIM behaviour
 app-emacs/dyalog-mode 20230214.1027: Major mode for editing Dyalog APL source code
 app-emacs/dylan 20220115.1804: Dylan editing modes
 app-emacs/dynamic-fonts 20140731.1226: Set faces based on available fonts
@@ -1205,7 +1205,7 @@ app-emacs/easy-jekyll 20211217.2311: Major mode managing jekyll blogs
 app-emacs/easy-kill 20220511.557: kill & mark things easily
 app-emacs/easy-kill-extras 20240122.1649: Extra functions for easy-kill.
 app-emacs/easy-repeat 20150516.848: Repeat easily
-app-emacs/easysession 20240807.327: Easily persist and restore your editing sessions
+app-emacs/easysession 20240808.2211: Easily persist and restore your editing sessions
 app-emacs/ebdb-mua-sidecar 20240428.1852: EBDB Integration for Universal Sidecar
 app-emacs/ebf 20210225.1211: brainfuck language transpiler to Emacs Lisp
 app-emacs/ebib 20240723.1149: a BibTeX database manager
@@ -1960,7 +1960,7 @@ app-emacs/forecast 20191004.1850: Weather forecasts
 app-emacs/foreign-regexp 20200325.50: search and replace by foreign regexp.
 app-emacs/foreman-mode 20170725.1422: View and manage Procfile-based applications
 app-emacs/forest-blue-theme 20160627.842: Emacs theme with a dark background.
-app-emacs/forge 20240807.1651: Access Git forges from Magit.
+app-emacs/forge 20240808.1809: Access Git forges from Magit.
 app-emacs/form-feed 20210508.1627: Display ^L glyphs as horizontal lines
 app-emacs/form-feed-st 20231002.2211: Display ^L glyphs as full-width horizontal lines
 app-emacs/format-all 20240511.1811: Auto-format C, C++, JS, Python, Ruby and 50 other languages
@@ -2089,7 +2089,7 @@ app-emacs/git-gutter-fringe+ 20140729.1103: Fringe version of git-gutter+.el
 app-emacs/git-identity 20220721.912: Identity management for (ma)git
 app-emacs/git-io 20230322.1038: Integration for git.io URL shortening in buffer
 app-emacs/git-lens 20220922.710: Show new, deleted or modified files in branch
-app-emacs/git-link 20240723.14: Get the GitHub/Bitbucket/GitLab URL for a buffer location
+app-emacs/git-link 20240809.300: Get the GitHub/Bitbucket/GitLab URL for a buffer location
 app-emacs/git-messenger 20201202.1637: Popup last commit of current line
 app-emacs/git-modes 20240805.1320: Major modes for editing Git configuration files
 app-emacs/git-msg-prefix 20191031.1304: Insert commit message prefix (issue number)
@@ -3026,7 +3026,7 @@ app-emacs/leader-key 20231001.2236: Leader key configuration (e.g. for god-mode)
 app-emacs/leaf 20230803.729: Simplify your init.el configuration, extended use-package
 app-emacs/leaf-convert 20210816.1103: Convert many format to leaf format
 app-emacs/leaf-defaults 20210301.118: Awesome leaf config collections
-app-emacs/leaf-keywords 20240618.10: Additional leaf.el keywords for external packages
+app-emacs/leaf-keywords 20240808.2302: Additional leaf.el keywords for external packages
 app-emacs/leaf-manager 20211225.624: Configuration manager for leaf based init.el
 app-emacs/leaf-tree 20211105.19: Interactive side-bar feature for init.el using leaf
 app-emacs/lean-mode 20230611.728: A major mode for the Lean 3 language
@@ -3190,7 +3190,7 @@ app-emacs/lyrics-fetcher 20231225.2350: Fetch song lyrics and album covers
 app-emacs/m-buffer 20240302.2255: List-Oriented, Functional Buffer Manipulation
 app-emacs/mac-pseudo-daemon 20211208.138: Daemon mode that plays nice with Mac OS.
 app-emacs/maces-game 20170903.1551: another anagram game.
-app-emacs/macports 20240808.151: A porcelain for MacPorts
+app-emacs/macports 20240809.105: A porcelain for MacPorts
 app-emacs/macro-math 20130328.1604: in-buffer mathematical operations
 app-emacs/macrostep 20240513.2203: Interactive macro expander
 app-emacs/macrostep-geiser 20210717.801: Macrostep for `geiser'
@@ -4485,7 +4485,7 @@ app-emacs/quiz 20190525.1206: Multiple choice quiz game
 app-emacs/qwen-chat-shell 20240612.343: Qwen-chat shell + buffer insert commands
 app-emacs/r-autoyas 20140101.1510: Provides automatically created yasnippets for R function argument lists.
 app-emacs/racer 20210307.243: code completion, goto-definition and docs browsing for Rust via racer
-app-emacs/racket-mode 20240730.1220: Racket editing, REPL, and more
+app-emacs/racket-mode 20240808.1330: Racket editing, REPL, and more
 app-emacs/rails-i18n 20220126.1643: Seach and insert i18n on ruby code
 app-emacs/rails-log-mode 20140408.425: Major mode for viewing Rails log files
 app-emacs/rails-routes 20220126.1631: Search for and insert rails routes
@@ -4521,7 +4521,7 @@ app-emacs/read-aloud 20160923.500: A simple interface to TTS engines
 app-emacs/read-only-cfg 20210717.205: Make files read-only based on user config
 app-emacs/readable-numbers 20220711.911: Visually separate long integers
 app-emacs/readline-complete 20150708.1437: offers completions in shell mode
-app-emacs/ready-player 20240730.1309: Open media files in ready-player major mode
+app-emacs/ready-player 20240809.945: Open media files in ready-player major mode
 app-emacs/real-auto-save 20200505.1537: Automatically save your buffers/files at regular intervals
 app-emacs/realgud 20231113.1910: A modular front-end for interacting with external debuggers
 app-emacs/realgud-byebug 20190520.1140: Realgud front-end to the Ruby byebug debugger
@@ -4679,7 +4679,7 @@ app-emacs/russian-techwriter 20221229.822: Input methods for Russian technical w
 app-emacs/rust-auto-use 20200608.1359: Utility to automatically insert Rust use statements
 app-emacs/rust-mode 20240520.749: A major-mode for editing Rust source code
 app-emacs/rust-playground 20200116.1043: Local Rust playground for short code snippets.
-app-emacs/rustic 20240804.840: Rust development environment
+app-emacs/rustic 20240809.722: Rust development environment
 app-emacs/rutils 20220619.1421: R utilities with transient
 app-emacs/rvm 20220910.1558: Emacs integration for rvm
 app-emacs/ryo-modal 20221221.1355: Roll your own modal mode
@@ -4984,7 +4984,7 @@ app-emacs/spark 20230406.2307: sparkline generation
 app-emacs/sparkline 20150101.1319: Make sparkline images from a list of numbers
 app-emacs/sparql-mode 20230104.1113: Edit and interactively evaluate SPARQL queries.
 app-emacs/spatial-navigate 20240421.908: Directional navigation between white-space blocks
-app-emacs/spdx 20240807.110: Insert SPDX license and copyright headers
+app-emacs/spdx 20240809.111: Insert SPDX license and copyright headers
 app-emacs/speech-tagger 20170728.1829: tag parts of speech using coreNLP
 app-emacs/speechd-el 20240513.1716: Client to speech synthesizers and Braille displays.
 app-emacs/speed-type 20230926.838: Practice touch and speed typing
@@ -5473,7 +5473,7 @@ app-emacs/vdm-snippets 20190313.1122: YASnippets for VDM mode
 app-emacs/vector-utils 20140508.2041: Vector-manipulation utility functions
 app-emacs/vega-view 20210401.1115: Vega visualization viewer
 app-emacs/vegetative-theme 20220822.353: A Theme based on green CRT terminals
-app-emacs/verb 20240708.2311: Organize and send HTTP requests
+app-emacs/verb 20240808.2150: Organize and send HTTP requests
 app-emacs/veri-kompass 20200213.934: verilog codebase navigation facility
 app-emacs/verify-url 20160426.1228: find out invalid urls in the buffer or region
 app-emacs/verilog-ext 20240729.1502: SystemVerilog Extensions
@@ -5486,7 +5486,7 @@ app-emacs/vertico 20240726.2131: VERTical Interactive COmpletion
 app-emacs/vertico-prescient 20240803.2320: prescient.el + Vertico
 app-emacs/vertigo 20211224.1256: Jump across lines using the home row.
 app-emacs/vhdl-capf 20160221.1734: Completion at point function (capf) for vhdl-mode.
-app-emacs/vhdl-ext 20240407.1353: VHDL Extensions
+app-emacs/vhdl-ext 20240808.1543: VHDL Extensions
 app-emacs/vhdl-tools 20200330.1819: Utilities for navigating vhdl sources
 app-emacs/vhdl-ts-mode 20240808.1032: VHDL Tree-sitter major mode
 app-emacs/vi-tilde-fringe 20141028.242: Displays tildes in the fringe on empty lines a la Vi.
