@@ -1049,7 +1049,7 @@ app-emacs/dired-hist 20240405.2347: Traverse Dired buffer's history: back, forwa
 app-emacs/dired-icon 20170223.526: A minor mode to display a list of associated icons in dired buffers.
 app-emacs/dired-imenu 20230904.1810: imenu binding for dired mode
 app-emacs/dired-k 20211002.2358: Highlight dired by size, date, git status
-app-emacs/dired-launch 20240417.1903: Use dired as a launcher
+app-emacs/dired-launch 20240809.1910: Use dired as a launcher
 app-emacs/dired-list 20240318.845: Create dired listings from sources
 app-emacs/dired-lsi 20200812.929: Add memo to directory and show it in dired
 app-emacs/dired-narrow 20240629.1953: Live-narrowing of search results for dired
@@ -1133,7 +1133,7 @@ app-emacs/dollaro 20151123.1302: simple text templates
 app-emacs/doom 20180301.2308: DOM implementation and manipulation library
 app-emacs/doom-modeline 20240809.1652: A minimal and modern mode-line
 app-emacs/doom-modeline-now-playing 20240522.1704: Segment for Doom Modeline to show playerctl information
-app-emacs/doom-themes 20240726.2030: an opinionated pack of modern color-themes
+app-emacs/doom-themes 20240809.2135: an opinionated pack of modern color-themes
 app-emacs/dot-env 20230820.2014: Dotenv functionality
 app-emacs/dot-mode 20180312.2300: minor mode to repeat typing or commands
 app-emacs/dotenv-mode 20191027.2129: Major mode for .env files
@@ -1205,7 +1205,7 @@ app-emacs/easy-jekyll 20211217.2311: Major mode managing jekyll blogs
 app-emacs/easy-kill 20220511.557: kill & mark things easily
 app-emacs/easy-kill-extras 20240122.1649: Extra functions for easy-kill.
 app-emacs/easy-repeat 20150516.848: Repeat easily
-app-emacs/easysession 20240808.2211: Easily persist and restore your editing sessions
+app-emacs/easysession 20240809.2029: Easily persist and restore your editing sessions
 app-emacs/ebdb-mua-sidecar 20240428.1852: EBDB Integration for Universal Sidecar
 app-emacs/ebf 20210225.1211: brainfuck language transpiler to Emacs Lisp
 app-emacs/ebib 20240723.1149: a BibTeX database manager
@@ -1460,7 +1460,7 @@ app-emacs/ercn 20150523.1503: Flexible ERC notifications
 app-emacs/ereader 20170810.501: Major mode for reading ebooks with org-mode integration
 app-emacs/eredis 20181119.131: eredis, a Redis client in emacs lisp
 app-emacs/erefactor 20200513.1252: Emacs-Lisp refactoring utilities
-app-emacs/ergoemacs-mode 20240129.1407: Emacs mode based on common modern interface and ergonomics.
+app-emacs/ergoemacs-mode 20240809.2246: Emacs mode based on common modern interface and ergonomics.
 app-emacs/ergoemacs-status 20160318.538: Adaptive Status Bar / Mode Line
 app-emacs/eri 20240220.2129: Enhanced relative indentation (eri)
 app-emacs/erk 20231227.1449: Elisp (GitHub) Repository Kit
@@ -2594,7 +2594,7 @@ app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy 
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
 app-emacs/hyperbole 20240808.941: GNU Hyperbole: The Everyday Hypertextual Information Manager
-app-emacs/hyperdrive 20240809.1119: P2P filesystem
+app-emacs/hyperdrive 20240809.2154: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -3306,7 +3306,7 @@ app-emacs/memento-mori 20240702.2332: Reminder of our mortality
 app-emacs/memoize 20200103.2036: Memoization functions
 app-emacs/memolist 20150804.1721: memolist.el is Emacs port of memolist.vim.
 app-emacs/mentor 20230103.1146: Frontend for the rTorrent bittorrent client
-app-emacs/meow 20240807.1927: Yet Another modal editing
+app-emacs/meow 20240809.1843: Yet Another modal editing
 app-emacs/meow-tree-sitter 20240701.1422: Tree-sitter powered motions for Meow
 app-emacs/merlin 20240604.1521: Mode for Merlin, an assistant for OCaml
 app-emacs/merlin-ac 20221123.1408: Merlin and auto-complete integration
@@ -4017,7 +4017,7 @@ app-emacs/other-emacs-eval 20180408.1348: Evaluate the Emacs Lisp expression in 
 app-emacs/ouroboros 20230606.1150: Ouroboros network mini-protocol
 app-emacs/outline-indent 20240805.312: Outline and fold text using indentation
 app-emacs/outline-magic 20180619.1819: outline mode extensions for Emacs
-app-emacs/outline-minor-faces 20240805.1305: Highlight only section headings
+app-emacs/outline-minor-faces 20240809.2322: Highlight only section headings
 app-emacs/outline-toc 20200401.1208: Sidebar showing a "table of contents".
 app-emacs/outlook 20180428.1430: send emails in MS Outlook style
 app-emacs/outorg 20190720.2002: Org-style comment editing
@@ -4882,7 +4882,7 @@ app-emacs/slow-keys 20220807.1425: Slow keys mode to avoid RSI
 app-emacs/slstats 20170823.849: Acquire and display stats about Second Life
 app-emacs/slurm-mode 20210519.1109: Interaction with the SLURM job scheduling system
 app-emacs/slurpbarf 20240717.2213: Commands for slurping and barfing
-app-emacs/sly 20240501.1118: Sylvester the Cat's Common Lisp IDE
+app-emacs/sly 20240809.2119: Sylvester the Cat's Common Lisp IDE
 app-emacs/sly-asdf 20221119.2235: ASDF system support for SLY
 app-emacs/sly-hello-world 20200225.1755: A template SLY contrib
 app-emacs/sly-macrostep 20191211.1630: fancy macro-expansion via macrostep.el
@@ -5054,7 +5054,7 @@ app-emacs/streak 20240106.2145: Track a daily streak in your Mode Line
 app-emacs/streamlink 20210811.1429: A major mode for streamlink output
 app-emacs/strie 20160211.2222: A simple trie data structure implementation
 app-emacs/string-edit-at-point 20230118.1933: Avoid escape nightmares by editing string in separate buffer
-app-emacs/string-inflection 20240809.1110: underscore -> UPCASE -> CamelCase -> lowerCamelCase conversion of names
+app-emacs/string-inflection 20240809.2317: underscore -> UPCASE -> CamelCase -> lowerCamelCase conversion of names
 app-emacs/string-utils 20140508.2041: String-manipulation utilities
 app-emacs/stripe-buffer 20141208.1508: Use a different background for even and odd lines
 app-emacs/stripes 20230402.1228: highlight alternating lines differently
