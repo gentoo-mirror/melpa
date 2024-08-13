@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="helm sources for bm.el"
 
-HOMEPAGE="https://github.com/yasuyk/helm-bm"
+HOMEPAGE="https://github.com/emacs-helm/helm-bm"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
