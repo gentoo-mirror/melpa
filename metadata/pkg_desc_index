@@ -632,7 +632,7 @@ app-emacs/clues-theme 20161213.1127: an Emacs 24 theme which may well be fully a
 app-emacs/cm-mode 20240422.725: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 20230304.2223: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 20210610.1525: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 20240624.1425: major-mode for editing CMake sources
+app-emacs/cmake-mode 20240814.1725: major-mode for editing CMake sources
 app-emacs/cmake-project 20171121.1115: Integrates CMake build process with Emacs
 app-emacs/cmd-to-echo 20161203.2133: Show the output of long-running commands in the echo area
 app-emacs/cmm-mode 20150225.746: Major mode for C-- source code
@@ -1014,7 +1014,7 @@ app-emacs/diffpdf 20210626.1447: Transient diffpdf
 app-emacs/diffscuss-mode 20141014.2357: Major mode for diffscuss files.
 app-emacs/difftastic 20240528.1657: Wrapper for difftastic
 app-emacs/diffview 20230224.1916: View diffs in side-by-side format
-app-emacs/digistar-mode 20240731.1643: major mode for Digistar scripts
+app-emacs/digistar-mode 20240814.1546: major mode for Digistar scripts
 app-emacs/digit-groups 20200506.37: Highlight place-value positions in numbers
 app-emacs/digitalocean 20190607.726: Create and manipulate digitalocean droplets
 app-emacs/digitalocean-helm 20180610.746: Create and manipulate digitalocean droplets
@@ -1205,7 +1205,7 @@ app-emacs/easy-jekyll 20211217.2311: Major mode managing jekyll blogs
 app-emacs/easy-kill 20220511.557: kill & mark things easily
 app-emacs/easy-kill-extras 20240122.1649: Extra functions for easy-kill.
 app-emacs/easy-repeat 20150516.848: Repeat easily
-app-emacs/easysession 20240809.2239: Easily persist and restore your editing sessions
+app-emacs/easysession 20240814.1817: Easily persist and restore your editing sessions
 app-emacs/ebdb-mua-sidecar 20240428.1852: EBDB Integration for Universal Sidecar
 app-emacs/ebf 20210225.1211: brainfuck language transpiler to Emacs Lisp
 app-emacs/ebib 20240723.1149: a BibTeX database manager
@@ -1960,7 +1960,7 @@ app-emacs/forecast 20191004.1850: Weather forecasts
 app-emacs/foreign-regexp 20200325.50: search and replace by foreign regexp.
 app-emacs/foreman-mode 20170725.1422: View and manage Procfile-based applications
 app-emacs/forest-blue-theme 20160627.842: Emacs theme with a dark background.
-app-emacs/forge 20240813.156: Access Git forges from Magit.
+app-emacs/forge 20240814.1249: Access Git forges from Magit.
 app-emacs/form-feed 20210508.1627: Display ^L glyphs as horizontal lines
 app-emacs/form-feed-st 20231002.2211: Display ^L glyphs as full-width horizontal lines
 app-emacs/format-all 20240511.1811: Auto-format C, C++, JS, Python, Ruby and 50 other languages
@@ -2211,7 +2211,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20240721.1747: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20230530.1853: Integrate with the OpenAI API
-app-emacs/gptel 20240730.1931: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20240814.1558: Interact with ChatGPT or other LLMs
 app-emacs/gpx 20240609.2200: Major mode for GPX files
 app-emacs/grab-mac-link 20210511.1303: Grab link from Mac Apps and insert it into Emacs
 app-emacs/grab-x-link 20191113.848: Grab links from X11 apps and insert into Emacs
@@ -2594,7 +2594,7 @@ app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy 
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
 app-emacs/hyperbole 20240814.558: GNU Hyperbole: The Everyday Hypertextual Information Manager
-app-emacs/hyperdrive 20240812.1909: P2P filesystem
+app-emacs/hyperdrive 20240814.1807: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -3989,7 +3989,7 @@ app-emacs/orglink 20240805.1431: Use Org Mode links in other modes
 app-emacs/orglue 20200411.311: more functionality to org-mode.
 app-emacs/orgmdb 20231003.2144: An OMDb API client with some convenience functions
 app-emacs/orgnav 20170608.1713: Org tree navigation using helm
-app-emacs/orgnote 20240813.2022: Sync org-roam notes with OrgNote app
+app-emacs/orgnote 20240814.2021: Sync org-roam notes with OrgNote app
 app-emacs/orgstrap 20230408.2232: Bootstrap an Org file using file local variables
 app-emacs/orgtbl-aggregate 20240616.506: Create an aggregated Org table from another one
 app-emacs/orgtbl-ascii-plot 20230122.816: ascii-art bar plots in org-mode tables
@@ -4181,7 +4181,7 @@ app-emacs/perspeen 20171203.1021: An package for multi-workspace
 app-emacs/pest-mode 20221231.15: Major mode for editing Pest files
 app-emacs/pet 20240715.1616: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 20220913.1401: a simple wrapper around asynchronous processes
-app-emacs/pg 20240729.1535: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
+app-emacs/pg 20240814.1214: Emacs Lisp socket-level interface to the PostgreSQL RDBMS
 app-emacs/pgdevenv 20150105.2236: Manage your PostgreSQL development envs
 app-emacs/ph 20161029.1522: A global minor mode for managing multiple projects.
 app-emacs/phabricator 20160510.1425: Phabricator/Arcanist helpers for Emacs.
@@ -4357,7 +4357,7 @@ app-emacs/project-shells 20231005.641: Manage the shell buffers of each project
 app-emacs/project-tab-groups 20231215.755: Support a "one tab group per project" workflow
 app-emacs/project-tasks 20240408.611: Efficient task management for your project
 app-emacs/project-treemacs 20230529.1207: Simple treemacs backend for project.el
-app-emacs/projectile 20240212.1100: Manage and navigate projects in Emacs easily
+app-emacs/projectile 20240814.1854: Manage and navigate projects in Emacs easily
 app-emacs/projectile-codesearch 20180508.1522: Integration of codesearch into projectile
 app-emacs/projectile-git-autofetch 20200820.2028: automatically fetch git repositories
 app-emacs/projectile-rails 20221231.1643: Minor mode for Rails projects based on projectile-mode
@@ -5299,7 +5299,7 @@ app-emacs/tramp-hdfs 20210526.339: Tramp extension to access hadoop/hdfs file sy
 app-emacs/tramp-term 20220725.1441: Automatic setup of directory tracking in ssh sessions
 app-emacs/transducers 20240308.843: Ergonomic, efficient data processing
 app-emacs/transfer-sh 20200601.1708: Simple interface for sending buffer contents to transfer.sh
-app-emacs/transient 20240805.1231: Transient commands
+app-emacs/transient 20240814.1922: Transient commands
 app-emacs/transient-dwim 20221225.1630: Useful preset transient commands
 app-emacs/transient-extras 20230721.839: Extra features for transient
 app-emacs/transient-extras-a2ps 20230303.1511: A transient interface to a2ps
