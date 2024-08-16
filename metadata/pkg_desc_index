@@ -490,7 +490,7 @@ app-emacs/casual-dired 20240811.2038: Transient UI for Dired
 app-emacs/casual-ibuffer 20240730.329: Transient UI for IBuffer
 app-emacs/casual-info 20240711.712: Transient UI for Info
 app-emacs/casual-isearch 20240808.1638: Transient UI for I-Search
-app-emacs/casual-lib 20240716.2021: Library routines for Casual porcelains
+app-emacs/casual-lib 20240815.1946: Library routines for Casual user interfaces
 app-emacs/casual-re-builder 20240730.49: Transient UI for RE-Builder
 app-emacs/casual-suite 20240730.426: A suite of opinionated Transient UIs
 app-emacs/catmacs 20170826.1157: Simple CAT interface for Yaesu Transceivers.
@@ -2593,8 +2593,8 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperbole 20240815.550: GNU Hyperbole: The Everyday Hypertextual Information Manager
-app-emacs/hyperdrive 20240814.1807: P2P filesystem
+app-emacs/hyperbole 20240815.1245: GNU Hyperbole: The Everyday Hypertextual Information Manager
+app-emacs/hyperdrive 20240815.2227: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -3110,7 +3110,7 @@ app-emacs/livereload 20170629.650: Livereload server
 app-emacs/livescript-mode 20221015.1316: Major mode for editing LiveScript files
 app-emacs/livid-mode 20131116.1344: Live browser eval of JavaScript every time a buffer changes
 app-emacs/ll-debug 20211002.1031: Low level debug tools
-app-emacs/llama 20240811.23: Compact syntax for short lambda
+app-emacs/llama 20240815.2159: Compact syntax for short lambda
 app-emacs/llama-cpp 20240511.1039: A client for llama-cpp server
 app-emacs/llvm-ts-mode 20231120.1251: LLVM major mode using tree-sitter
 app-emacs/lms 20210820.2200: Squeezebox / Logitech Media Server frontend
@@ -3139,7 +3139,7 @@ app-emacs/look-dired 20160729.2323: Extensions to look-mode for dired buffers
 app-emacs/look-mode 20220626.641: quick file viewer for image and text file browsing
 app-emacs/loop 20160813.1407: friendly imperative loop structures
 app-emacs/loophole 20221126.1556: Manage temporary key bindings
-app-emacs/loopy 20240708.156: A looping macro
+app-emacs/loopy 20240816.115: A looping macro
 app-emacs/loopy-dash 20240225.1740: Dash destructuring for `loopy'
 app-emacs/lorem-ipsum 20221214.1857: Insert dummy pseudo Latin text
 app-emacs/lox-mode 20200619.1700: Major mode for the Lox programming language
@@ -3159,7 +3159,7 @@ app-emacs/lsp-julia 20230915.654: Julia support for lsp-mode
 app-emacs/lsp-latex 20240803.1436: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20240425.2049: LSP Clients for LTEX
 app-emacs/lsp-metals 20240508.627: Scala Client settings
-app-emacs/lsp-mode 20240815.644: LSP mode
+app-emacs/lsp-mode 20240815.1323: LSP mode
 app-emacs/lsp-mssql 20230510.1124: MSSQL LSP bindings
 app-emacs/lsp-origami 20230815.704: origami.el support for lsp-mode
 app-emacs/lsp-p4 20190127.1049: P4 support for lsp-mode
@@ -3296,7 +3296,7 @@ app-emacs/md4rd 20230725.2316: Mode for reddit (browse it).
 app-emacs/media-progress 20230805.2231: Display position where media player stopped
 app-emacs/media-progress-dired 20230527.2209: Display position where media player stopped in dired buffer
 app-emacs/media-progress-dirvish 20230520.1547: Display position where media player stopped in dirvish
-app-emacs/media-thumbnail 20220827.2325: Utility package to provide media icons
+app-emacs/media-thumbnail 20240816.458: Utility package to provide media icons
 app-emacs/mediawiki 20220923.1336: mediawiki frontend
 app-emacs/meghanada 20220101.505: A better java development mode
 app-emacs/melancholy-theme 20240417.136: A dark theme that's pretty sad -*- lexical-binding: t; -
@@ -4485,7 +4485,7 @@ app-emacs/quiz 20190525.1206: Multiple choice quiz game
 app-emacs/qwen-chat-shell 20240612.343: Qwen-chat shell + buffer insert commands
 app-emacs/r-autoyas 20140101.1510: Provides automatically created yasnippets for R function argument lists.
 app-emacs/racer 20210307.243: code completion, goto-definition and docs browsing for Rust via racer
-app-emacs/racket-mode 20240810.1326: Racket editing, REPL, and more
+app-emacs/racket-mode 20240813.1641: Racket editing, REPL, and more
 app-emacs/rails-i18n 20220126.1643: Seach and insert i18n on ruby code
 app-emacs/rails-log-mode 20140408.425: Major mode for viewing Rails log files
 app-emacs/rails-routes 20220126.1631: Search for and insert rails routes
@@ -4749,7 +4749,7 @@ app-emacs/sekka 20170803.1247: A client for Sekka IME server
 app-emacs/selcand 20240430.1408: Select a candidate from a tree of hint characters
 app-emacs/select-themes 20160221.106: Color theme selection with completing-read
 app-emacs/selected 20230219.1328: Keymap for when region is active
-app-emacs/selected-window-accent-mode 20240813.1915: Accent Selected Window
+app-emacs/selected-window-accent-mode 20240815.1934: Accent Selected Window
 app-emacs/selectric-mode 20200209.2107: IBM Selectric mode for Emacs
 app-emacs/selectrum 20220513.2106: Easily select item from list
 app-emacs/selectrum-prescient 20240803.2320: prescient.el + Selectrum
@@ -4977,7 +4977,7 @@ app-emacs/spacebar 20190719.334: Workspaces Bar
 app-emacs/spacegray-theme 20150719.1931: A Hyperminimal UI Theme
 app-emacs/spaceline 20230922.1127: Modeline configuration library for powerline
 app-emacs/spaceline-all-the-icons 20190325.1602: A Spaceline theme using All The Icons
-app-emacs/spacemacs-theme 20240715.1440: Color theme with a dark and light versions
+app-emacs/spacemacs-theme 20240815.2134: Color theme with a dark and light versions
 app-emacs/spaces 20170809.2208: Create and switch between named window configurations.
 app-emacs/spanish-holidays 20240302.1542: Spain holidays for calendar
 app-emacs/spark 20230406.2307: sparkline generation
@@ -5054,7 +5054,7 @@ app-emacs/streak 20240106.2145: Track a daily streak in your Mode Line
 app-emacs/streamlink 20210811.1429: A major mode for streamlink output
 app-emacs/strie 20160211.2222: A simple trie data structure implementation
 app-emacs/string-edit-at-point 20230118.1933: Avoid escape nightmares by editing string in separate buffer
-app-emacs/string-inflection 20240811.2252: underscore -> UPCASE -> CamelCase -> lowerCamelCase conversion of names
+app-emacs/string-inflection 20240816.523: underscore -> UPCASE -> CamelCase -> lowerCamelCase conversion of names
 app-emacs/string-utils 20140508.2041: String-manipulation utilities
 app-emacs/stripe-buffer 20141208.1508: Use a different background for even and odd lines
 app-emacs/stripes 20230402.1228: highlight alternating lines differently
@@ -5322,7 +5322,7 @@ app-emacs/tree-sitter-ispell 20240610.2252: Run ispell on tree-sitter text nodes
 app-emacs/tree-sitter-langs 20240811.908: Grammar bundle for tree-sitter
 app-emacs/treebundel 20240531.2321: Bundle related git-worktrees together
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
-app-emacs/treemacs 20240813.1152: A tree style file explorer package
+app-emacs/treemacs 20240815.1227: A tree style file explorer package
 app-emacs/treemacs-all-the-icons 20240131.2042: all-the-icons integration for treemacs
 app-emacs/treemacs-evil 20240131.2042: Evil mode integration for treemacs
 app-emacs/treemacs-icons-dired 20240131.2042: Treemacs icons for dired
@@ -5334,7 +5334,7 @@ app-emacs/treemacs-projectile 20240131.2042: Projectile integration for treemacs
 app-emacs/treemacs-tab-bar 20240131.2042: Tab bar integration for treemacs
 app-emacs/treepy 20230715.2154: Generic tree traversal tools
 app-emacs/treesit-auto 20240511.1425: Automatically use tree-sitter enhanced major modes
-app-emacs/treesit-ispell 20240611.117: Run ispell on tree-sitter text nodes
+app-emacs/treesit-ispell 20240816.145: Run ispell on tree-sitter text nodes
 app-emacs/treeview 20230728.2343: A generic tree navigation library
 app-emacs/trident-mode 20190410.2036: Live Parenscript interaction
 app-emacs/trimspace-mode 20240629.1843: A minor mode to trim trailing whitespace and newlines
