@@ -188,7 +188,7 @@ app-emacs/async-await 20220827.437: Async/Await
 app-emacs/async-backup 20230412.1534: Backup on each save without freezing Emacs
 app-emacs/async-job-queue 20230427.2122: Dispatch queue of async jobs to a fixed number of slots
 app-emacs/async-status 20230821.204: A package for indicator support
-app-emacs/asyncloop 20240407.1153: Non-blocking series of functions
+app-emacs/asyncloop 20240818.1247: Non-blocking series of functions
 app-emacs/atcoder-tools 20200109.1236: An atcoder-tools client
 app-emacs/atl-long-lines 20240101.929: Turn off truncate-lines when the line is long
 app-emacs/atl-markup 20240101.933: Automatically truncate lines for markup languages
@@ -467,7 +467,7 @@ app-emacs/calmer-forest-theme 20230302.2149: Darkish theme with green/orange tin
 app-emacs/camcorder 20190317.2138: Record screencasts in gif or other formats.
 app-emacs/caml 20231011.328: Caml mode for GNU Emacs
 app-emacs/cangjie 20230219.1150: Retrieve cangjie code for han characters
-app-emacs/cape 20240724.918: Completion At Point Extensions
+app-emacs/cape 20240818.1040: Completion At Point Extensions
 app-emacs/capnp-mode 20210707.2310: Major mode for editing Capn' Proto Files
 app-emacs/capture 20130828.1644: screencasting with "avconv" or "ffmpeg"
 app-emacs/carbon-now-sh 20220701.332: https://carbon.now.sh integration.
@@ -494,7 +494,7 @@ app-emacs/casual-lib 20240815.1946: Library routines for Casual user interfaces
 app-emacs/casual-re-builder 20240730.49: Transient UI for RE-Builder
 app-emacs/casual-suite 20240730.426: A suite of opinionated Transient UIs
 app-emacs/catmacs 20170826.1157: Simple CAT interface for Yaesu Transceivers.
-app-emacs/catppuccin-theme 20240813.830: Catppuccin for Emacs - 🍄 Soothing pastel theme for Emacs
+app-emacs/catppuccin-theme 20240818.734: Catppuccin for Emacs - 🍄 Soothing pastel theme for Emacs
 app-emacs/cats 20230407.1316: Monads for Elisp
 app-emacs/cbm 20171116.1240: Switch to similar buffers.
 app-emacs/cbor 20230810.1653: CBOR utilities
@@ -772,7 +772,7 @@ app-emacs/conllu-mode 20200501.2328: editing mode for CoNLL-U files
 app-emacs/connection 20191111.446: TCP-based client connection
 app-emacs/conner 20240816.2343: Define and run project specific commands
 app-emacs/constant-theme 20180921.1012: A calm, dark, almost monochrome color theme.
-app-emacs/consult 20240811.1858: Consulting completing-read
+app-emacs/consult 20240818.1112: Consulting completing-read
 app-emacs/consult-ag 20230227.406: The silver searcher integration using Consult
 app-emacs/consult-codesearch 20230315.1424: Consult interface for codesearch
 app-emacs/consult-company 20230606.1824: Consult frontend for company
@@ -963,7 +963,7 @@ app-emacs/debug-print 20140126.19: A nice printf debugging environment by the wa
 app-emacs/decide 20230424.1647: rolling dice and other random things
 app-emacs/decl 20221027.1823: Library for organizing code declaratively
 app-emacs/declutter 20220310.2101: Read html content and (some) paywall sites without clutter
-app-emacs/decor 20231210.1247: Modify visual decorations
+app-emacs/decor 20240818.1100: Modify visual decorations
 app-emacs/dedicated 20151202.110: A very simple minor mode for dedicated buffers
 app-emacs/dedukti-mode 20171103.1212: Major mode for Dedukti files
 app-emacs/default-font-presets 20240421.637: Support selecting fonts from a list of presets
@@ -1709,7 +1709,7 @@ app-emacs/find-temp-file 20240512.1635: Open quickly a temporary file
 app-emacs/find-things-fast 20150519.2226: Find things fast, leveraging the power of git
 app-emacs/findr 20130127.2032: Breadth-first file-finding facility for (X)Emacs
 app-emacs/fingers 20160817.829: Modal editing with universal text manipulation helpers.
-app-emacs/finito 20240817.1856: View and collect books
+app-emacs/finito 20240818.1003: View and collect books
 app-emacs/fiplr 20140724.645: Fuzzy Search for Files in Projects
 app-emacs/fira-code-mode 20240228.1728: Minor mode for Fira Code ligatures using prettify-symbols
 app-emacs/firebase-rules-mode 20240520.1326: Editing support for firebase.rules
@@ -1960,7 +1960,7 @@ app-emacs/forecast 20191004.1850: Weather forecasts
 app-emacs/foreign-regexp 20200325.50: search and replace by foreign regexp.
 app-emacs/foreman-mode 20170725.1422: View and manage Procfile-based applications
 app-emacs/forest-blue-theme 20160627.842: Emacs theme with a dark background.
-app-emacs/forge 20240817.1708: Access Git forges from Magit.
+app-emacs/forge 20240818.1047: Access Git forges from Magit.
 app-emacs/form-feed 20210508.1627: Display ^L glyphs as horizontal lines
 app-emacs/form-feed-st 20231002.2211: Display ^L glyphs as full-width horizontal lines
 app-emacs/format-all 20240511.1811: Auto-format C, C++, JS, Python, Ruby and 50 other languages
@@ -2307,7 +2307,7 @@ app-emacs/headlong 20150417.1526: reckless completion
 app-emacs/heaven-and-hell 20190713.1830: easy toggle light/dark themes
 app-emacs/heex-ts-mode 20240113.1104: Major mode for Heex with tree-sitter support
 app-emacs/helix-theme 20240814.1212: Color theme inspired by Helix editor's default colors
-app-emacs/helm 20240818.528: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20240818.651: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: helm-sources and some utilities for GNU R.
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: helm source for Active Directory
@@ -3199,7 +3199,7 @@ app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-mode 20240814.914: Emacs major mode for Smallworld Magik files
-app-emacs/magit 20240817.2000: A Git porcelain inside Emacs.
+app-emacs/magit 20240818.1037: A Git porcelain inside Emacs.
 app-emacs/magit-annex 20240811.1850: Control git-annex from Magit
 app-emacs/magit-commit-mark 20240421.931: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3220,7 +3220,7 @@ app-emacs/magit-patch-changelog 20221209.123: Generate a patch according to emac
 app-emacs/magit-popup 20200719.1015: Define prefix-infix-suffix command combos
 app-emacs/magit-rbr 20181009.2016: Support for git rbr in Magit
 app-emacs/magit-reviewboard 20200727.1748: Show open Reviewboard reviews in Magit
-app-emacs/magit-section 20240817.2000: Sections for read-only buffers.
+app-emacs/magit-section 20240818.1037: Sections for read-only buffers.
 app-emacs/magit-stats 20230223.1819: Generates GIT Repo Statistics Report
 app-emacs/magit-stgit 20231226.1514: StGit extension for Magit
 app-emacs/magit-svn 20220314.1451: Git-Svn extension for Magit
@@ -4520,7 +4520,7 @@ app-emacs/read-aloud 20160923.500: A simple interface to TTS engines
 app-emacs/read-only-cfg 20210717.205: Make files read-only based on user config
 app-emacs/readable-numbers 20220711.911: Visually separate long integers
 app-emacs/readline-complete 20150708.1437: offers completions in shell mode
-app-emacs/ready-player 20240816.2205: Open media files in ready-player major mode
+app-emacs/ready-player 20240818.1104: Open media files in ready-player major mode
 app-emacs/real-auto-save 20200505.1537: Automatically save your buffers/files at regular intervals
 app-emacs/realgud 20231113.1910: A modular front-end for interacting with external debuggers
 app-emacs/realgud-byebug 20190520.1140: Realgud front-end to the Ruby byebug debugger
@@ -5168,7 +5168,7 @@ app-emacs/tco 20191129.2040: Tail-call optimisation for Emacs lisp
 app-emacs/tea-time 20120331.820: Simple timer package, useful to make perfect tea.
 app-emacs/teacode-expand 20181231.640: Expansion of text by TeaCode program.
 app-emacs/teco 20200707.2309: Teco interpreter
-app-emacs/telega 20240812.911: Telegram client (unofficial)
+app-emacs/telega 20240818.929: Telegram client (unofficial)
 app-emacs/telepathy 20131209.1258: Access Telepathy from Emacs
 app-emacs/telephone-line 20240109.2021: Rewrite of Powerline
 app-emacs/teleport 20240718.652: Integration for tsh (goteleport.com)
