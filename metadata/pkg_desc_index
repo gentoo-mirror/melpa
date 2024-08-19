@@ -1026,6 +1026,7 @@ app-emacs/diminish 20220909.847: Diminished modes are minor modes with no modeli
 app-emacs/diminish-buffer 20240612.52: Diminish (hide) buffers from buffer-menu
 app-emacs/dimmer 20220817.122: Visually highlight the selected buffer
 app-emacs/dionysos 20160810.1056: Dionysos, a music player for Emacs
+app-emacs/dir-config 20240818.1831: Automatically find and load and evaluate .dir-config.el
 app-emacs/dir-treeview 20230922.2328: A directory tree browser and simple file manager
 app-emacs/dir-treeview-themes 20230112.134: Themes for dir-treeview
 app-emacs/dircmp 20141204.1756: Compare and sync directories.
@@ -1377,7 +1378,7 @@ app-emacs/emacs-everywhere 20240509.1715: System-wide popup windows for quick ed
 app-emacs/emacs-websearch 20230705.1639: Query search engines
 app-emacs/emacsc 20240629.1325: helper for emacsc(1)
 app-emacs/emacsist-view 20160426.1223: Mode for viewing emacsist.com
-app-emacs/emacsql 20240808.1856: High-level SQL database front-end
+app-emacs/emacsql 20240819.1559: High-level SQL database front-end
 app-emacs/emacsql-mysql 20240808.2016: This package has been merged into emacsql
 app-emacs/emacsql-pg 20240808.2016: This package has been merged into emacsql
 app-emacs/emacsql-psql 20240808.2016: This package has been merged into emacsql
@@ -2123,6 +2124,7 @@ app-emacs/gitstatus 20221113.1951: Common front-end for `gitstatusd'
 app-emacs/gitter 20220316.138: An Emacs Gitter client
 app-emacs/gkroam 20220923.1018: A lightweight org-mode Roam Research replica
 app-emacs/gl-conf-mode 20170714.1310: Mode for editing gitolite config files
+app-emacs/gleam-ts-mode 20240819.1355: Major mode for Gleam
 app-emacs/global-tags 20211120.347: Elisp API and editor integration for GNU global
 app-emacs/glsl-mode 20210808.1945: major mode for Open GLSL shader files
 app-emacs/glue 20230112.2159: Emacs - Common Lisp interop using SLIME or SLY
@@ -3779,6 +3781,7 @@ app-emacs/org-assistant 20230623.1439: Org babel extension for Chat Assistant AP
 app-emacs/org-attach-screenshot 20210221.1336: Screenshots integrated with org attachment dirs
 app-emacs/org-auto-expand 20231006.854: Automatically expand certain headings
 app-emacs/org-auto-tangle 20220812.2327: Automatically and Asynchronously tangles org files on save
+app-emacs/org-autoexport 20240817.623: Auto-export org file on save
 app-emacs/org-autolist 20220530.1620: Improved list management in org-mode
 app-emacs/org-babel-eval-in-repl 20201206.1540: Eval org-mode babel code blocks in various REPLs.
 app-emacs/org-beautify-theme 20170908.2218: A sub-theme to make org-mode more beautiful.
@@ -4679,7 +4682,7 @@ app-emacs/russian-techwriter 20221229.822: Input methods for Russian technical w
 app-emacs/rust-auto-use 20200608.1359: Utility to automatically insert Rust use statements
 app-emacs/rust-mode 20240520.749: A major-mode for editing Rust source code
 app-emacs/rust-playground 20200116.1043: Local Rust playground for short code snippets.
-app-emacs/rustic 20240817.1539: Rust development environment
+app-emacs/rustic 20240819.1214: Rust development environment
 app-emacs/rutils 20220619.1421: R utilities with transient
 app-emacs/rvm 20220910.1558: Emacs integration for rvm
 app-emacs/ryo-modal 20221221.1355: Roll your own modal mode
@@ -5226,7 +5229,7 @@ app-emacs/thinks 20170802.1128: Insert text in a think bubble.
 app-emacs/third-time 20240207.1621: Third Time: A Better Way to Work
 app-emacs/thread-dump 20170816.1850: Java thread dump viewer
 app-emacs/threes 20160820.1242: A clone of Threes (a tiny puzzle game)
-app-emacs/thrift 20240811.1631: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 20240818.2324: major mode for fbthrift and Apache Thrift files
 app-emacs/thumb-through 20120119.534: Plain text reader of HTML documents
 app-emacs/tickscript-mode 20171219.203: A major mode for Tickscript files
 app-emacs/tidal 20240407.1952: Interact with TidalCycles for live coding patterns
@@ -5298,7 +5301,7 @@ app-emacs/tramp-hdfs 20210526.339: Tramp extension to access hadoop/hdfs file sy
 app-emacs/tramp-term 20220725.1441: Automatic setup of directory tracking in ssh sessions
 app-emacs/transducers 20240308.843: Ergonomic, efficient data processing
 app-emacs/transfer-sh 20200601.1708: Simple interface for sending buffer contents to transfer.sh
-app-emacs/transient 20240817.1959: Transient commands
+app-emacs/transient 20240819.1250: Transient commands
 app-emacs/transient-dwim 20221225.1630: Useful preset transient commands
 app-emacs/transient-extras 20230721.839: Extra features for transient
 app-emacs/transient-extras-a2ps 20230303.1511: A transient interface to a2ps
@@ -5766,7 +5769,7 @@ app-emacs/zim-wiki-mode 20240613.8: Zim Desktop Wiki edit mode
 app-emacs/zimports 20211011.2059: Reformat python imports with zimports
 app-emacs/zk 20240812.1148: Functions for working with Zettelkasten-style linked notes
 app-emacs/zk-desktop 20240812.1148: Desktop environment for zk
-app-emacs/zk-index 20240812.1148: Index for zk
+app-emacs/zk-index 20240819.1355: Index for zk
 app-emacs/zk-luhmann 20240812.1143: Support for Luhmann-style IDs in zk
 app-emacs/zlc 20151011.157: Provides zsh like completion system to Emacs
 app-emacs/zmq 20240716.2000: ZMQ bindings in Emacs-Lisp
