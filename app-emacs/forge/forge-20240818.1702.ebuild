@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Access Git forges from Magit."
+DESCRIPTION="Access Git forges from Magit"
 
 HOMEPAGE="https://github.com/magit/forge"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

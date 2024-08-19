@@ -5,20 +5,20 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="magit-section"
+REALNAME="poly-gams"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Sections for read-only buffers."
+DESCRIPTION="Polymode for GAMS"
 
-HOMEPAGE="https://github.com/magit/magit"
+HOMEPAGE="https://github.com/ShiroTakeda/poly-gams"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/compat
-	app-emacs/dash"
-RDEPEND="app-emacs/compat
-	app-emacs/dash"
+DEPEND="app-emacs/polymode
+	app-emacs/gams-mode"
+RDEPEND="app-emacs/polymode
+	app-emacs/gams-mode"
