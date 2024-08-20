@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Scala Tree-Sitter Mode"
+DESCRIPTION="An tree-sitter based major-mode for Scala"
 
 HOMEPAGE="https://github.com/KaranAhlawat/scala-ts-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
