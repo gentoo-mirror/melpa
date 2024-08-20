@@ -1334,7 +1334,7 @@ app-emacs/elisp-refs 20230920.201: find callers of elisp functions or macros
 app-emacs/elisp-sandbox 20131116.1842: Evaluate EmacsLisp expressions in a sandbox
 app-emacs/elisp-slime-nav 20210510.528: Make M-. and M-, work in elisp like they do in slime
 app-emacs/elixir-mode 20230626.1738: Major mode for editing Elixir files
-app-emacs/elixir-ts-mode 20240116.645: Major mode for Elixir with tree-sitter support
+app-emacs/elixir-ts-mode 20240820.947: Major mode for Elixir with tree-sitter support
 app-emacs/elixir-yasnippets 20150417.1239: Yasnippets for Elixir
 app-emacs/ellama 20240721.1138: Tool for interacting with LLMs
 app-emacs/ellocate 20200112.1931: The locate command reimplemented in Emacs Lisp
@@ -2241,7 +2241,7 @@ app-emacs/gregorio-mode 20170705.1451: Gregorio Mode for .gabc files
 app-emacs/grep-a-lot 20210618.1420: manages multiple search results buffers for grep.el
 app-emacs/grey-paper-theme 20230415.1115: A greyscale theme with look-n-feel of an eink display
 app-emacs/greymatters-theme 20150621.1123: Emacs 24 theme with a light background.
-app-emacs/grip-mode 20240817.1013: Instant GitHub-flavored Markdown/Org preview using grip.
+app-emacs/grip-mode 20240820.825: Instant GitHub-flavored Markdown/Org preview using grip.
 app-emacs/grizzl 20160818.737: Fast fuzzy search index for Emacs.
 app-emacs/groovy-imports 20210505.1807: Code for dealing with Groovy imports
 app-emacs/groovy-mode 20230318.533: Major mode for Groovy source files
@@ -2309,7 +2309,7 @@ app-emacs/headlong 20150417.1526: reckless completion
 app-emacs/heaven-and-hell 20190713.1830: easy toggle light/dark themes
 app-emacs/heex-ts-mode 20240113.1104: Major mode for Heex with tree-sitter support
 app-emacs/helix-theme 20240814.1212: Color theme inspired by Helix editor's default colors
-app-emacs/helm 20240818.1231: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20240820.859: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: helm-sources and some utilities for GNU R.
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: helm source for Active Directory
@@ -2596,7 +2596,7 @@ app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy 
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
 app-emacs/hyperbole 20240819.504: GNU Hyperbole: The Everyday Hypertextual Information Manager
-app-emacs/hyperdrive 20240818.2123: P2P filesystem
+app-emacs/hyperdrive 20240820.830: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -3141,7 +3141,7 @@ app-emacs/look-dired 20160729.2323: Extensions to look-mode for dired buffers
 app-emacs/look-mode 20220626.641: quick file viewer for image and text file browsing
 app-emacs/loop 20160813.1407: friendly imperative loop structures
 app-emacs/loophole 20221126.1556: Manage temporary key bindings
-app-emacs/loopy 20240818.245: A looping macro
+app-emacs/loopy 20240820.141: A looping macro
 app-emacs/loopy-dash 20240818.245: Dash destructuring for `loopy'
 app-emacs/lorem-ipsum 20221214.1857: Insert dummy pseudo Latin text
 app-emacs/lox-mode 20200619.1700: Major mode for the Lox programming language
@@ -3261,7 +3261,7 @@ app-emacs/mark-thing-at 20231019.1111: Mark a pattern at the current point
 app-emacs/mark-tools 20130614.1025: Some simple tools to access the mark-ring in Emacs
 app-emacs/mark-yank 20231105.2027: Set region to the last yank
 app-emacs/markdown-changelog 20230805.1720: Maintain changelog entries
-app-emacs/markdown-mode 20240716.249: Major mode for Markdown-formatted text
+app-emacs/markdown-mode 20240820.231: Major mode for Markdown-formatted text
 app-emacs/markdown-preview-eww 20160111.1502: Realtime preview by eww
 app-emacs/markdown-preview-mode 20230707.803: markdown realtime preview minor mode.
 app-emacs/markdown-soma 20240215.228: Live preview for Markdown
@@ -3946,7 +3946,7 @@ app-emacs/org-sync-snippets 20210111.1726: Export snippets to org-mode and vice 
 app-emacs/org-table-color 20220311.1927: Add color to your org-mode table cells
 app-emacs/org-table-comment 20120209.1851: Org table comment modes.
 app-emacs/org-table-sticky-header 20190924.506: Sticky header for org-mode tables
-app-emacs/org-tag-beautify 20240712.443: Beautify Org mode tags
+app-emacs/org-tag-beautify 20240820.416: Beautify Org mode tags
 app-emacs/org-tagged 20220926.2048: Dynamic block for tagged org-mode todos
 app-emacs/org-tanglesync 20200127.1616: Syncing org src blocks with tangled external files
 app-emacs/org-tfl 20170923.1218: Transport for London meets Orgmode
@@ -4393,7 +4393,7 @@ app-emacs/proxy-mode 20230303.706: A minor mode to toggle proxy.
 app-emacs/psalm 20230914.1925: Interface to Psalm
 app-emacs/psc-ide 20240113.1224: Minor mode for PureScript's IDE server.
 app-emacs/psci 20231219.52: Major mode for purescript repl psci
-app-emacs/psession 20240612.1242: Persistent save of elisp objects.
+app-emacs/psession 20240820.910: Persistent save of elisp objects.
 app-emacs/psysh 20230815.730: PsySH, PHP interactive shell (REPL)
 app-emacs/pt 20161226.1959: A front-end for pt, The Platinum Searcher.
 app-emacs/ptemplate 20210324.1446: Project templates
@@ -4685,7 +4685,7 @@ app-emacs/rust-playground 20200116.1043: Local Rust playground for short code sn
 app-emacs/rustic 20240819.1214: Rust development environment
 app-emacs/rutils 20220619.1421: R utilities with transient
 app-emacs/rvm 20220910.1558: Emacs integration for rvm
-app-emacs/ryo-modal 20240819.1740: Roll your own modal mode
+app-emacs/ryo-modal 20240820.707: Roll your own modal mode
 app-emacs/s 20220902.1511: The long lost Emacs string manipulation library.
 app-emacs/s-buffer 20130605.2124: s operations for buffers
 app-emacs/s12cpuv2-mode 20171013.2051: Major-mode for S12CPUV2 assembly
@@ -4712,7 +4712,7 @@ app-emacs/scad-mode 20240708.2120: A major mode for editing OpenSCAD code
 app-emacs/scad-preview 20211212.1128: Preview SCAD models in real-time within Emacs
 app-emacs/scala-mode 20240729.420: Major mode for editing Scala
 app-emacs/scala-repl 20240427.1456: Scala REPL Mode
-app-emacs/scala-ts-mode 20240812.1639: Scala Tree-Sitter Mode
+app-emacs/scala-ts-mode 20240820.544: An tree-sitter based major-mode for Scala
 app-emacs/scf-mode 20151122.248: shorten file-names in compilation type buffers
 app-emacs/scheme-complete 20201112.442: Smart auto completion for Scheme in Emacs
 app-emacs/scholar-import 20230412.1413: Import Bibtex & PDF from Google Scholar
@@ -5581,7 +5581,7 @@ app-emacs/weechat 20190520.1551: Chat via WeeChat's relay protocol in Emacs
 app-emacs/weechat-alert 20160416.1248: Weechat notifier using alerts
 app-emacs/weibo 20150307.2242: Weibo client for Emacs
 app-emacs/weyland-yutani-theme 20210802.2251: Emacs theme based off Alien movie franchise
-app-emacs/wfnames 20240418.1005: Edit filenames
+app-emacs/wfnames 20240820.906: Edit filenames
 app-emacs/wgrep 20230203.1214: Writable grep buffer
 app-emacs/wgrep-ack 20230207.1125: Writable ack-and-a-half buffer
 app-emacs/wgrep-ag 20230202.315: Writable ag buffer
