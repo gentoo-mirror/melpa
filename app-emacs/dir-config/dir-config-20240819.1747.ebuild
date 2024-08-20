@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Automatically find and load and evaluate .dir-config.el"
+DESCRIPTION="Automatically find and evaluate .dir-config.el (Flexible dir-locals alternative)"
 
 HOMEPAGE="https://github.com/jamescherti/dir-config.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
