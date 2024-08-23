@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Mode for fontification of ~/.ssh/config"
 
-HOMEPAGE="https://github.com/jhgorrell/ssh-config-mode-el"
+HOMEPAGE="https://github.com/peterhoeg/ssh-config-mode-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
