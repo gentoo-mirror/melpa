@@ -530,7 +530,7 @@ app-emacs/chaos-mode 20221227.223: A major mode for the Chaos programming langua
 app-emacs/chapel-mode 20210513.457: A major mode for the Chapel programming language
 app-emacs/char-menu 20210321.1657: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 20200616.1418: Unicode table for Emacs
-app-emacs/chatgpt-shell 20240816.737: ChatGPT shell + buffer insert commands
+app-emacs/chatgpt-shell 20240824.1737: ChatGPT shell + buffer insert commands
 app-emacs/chatu 20240518.615: Convert and insert any images to org-mode or markdown buffer
 app-emacs/chatwork 20170511.442: ChatWork client for Emacs
 app-emacs/cheat-sh 20210607.1307: Interact with cheat.sh
@@ -560,7 +560,7 @@ app-emacs/chronometrist-key-values 20230629.1039: add key-values to Chronometris
 app-emacs/chronometrist-spark 20230629.1039: Show sparklines in Chronometrist buffers
 app-emacs/chronos 20240525.1339: Multiple simultaneous countdown / countup timers
 app-emacs/chruby 20180114.1652: Emacs integration for chruby
-app-emacs/chyla-dark-theme 20240708.2033: Chyla.org - dark green color theme
+app-emacs/chyla-dark-theme 20240824.1615: Chyla.org - dark green color theme
 app-emacs/chyla-theme 20240708.2017: Chyla.org - green color theme
 app-emacs/cider 20240815.918: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-decompile 20151122.537: decompilation extension for cider
@@ -783,6 +783,7 @@ app-emacs/consult-eglot 20240324.1137: A consulting-read interface for eglot
 app-emacs/consult-eglot-embark 20240324.1211: Embark integration for `consult-eglot'
 app-emacs/consult-flycheck 20240718.1011: Provides the command `consult-flycheck'
 app-emacs/consult-flyspell 20230322.204: Consult integration for flyspell
+app-emacs/consult-gh 20240820.2112: Consulting GitHub Client
 app-emacs/consult-ghq 20231111.1303: Ghq interface using consult
 app-emacs/consult-git-log-grep 20230204.1753: Consult integration for git log grep
 app-emacs/consult-hatena-bookmark 20221125.109: Consult commands for the Hatena Bookmark
@@ -917,7 +918,7 @@ app-emacs/dad-joke 20170928.658: Get/display dad jokes
 app-emacs/daemons 20231212.1324: UI for managing init system daemons (services)
 app-emacs/dakrone-light-theme 20170808.2140: dakrone's custom light theme
 app-emacs/dakrone-theme 20170801.1933: dakrone's custom dark theme
-app-emacs/dall-e-shell 20240814.938: Interaction mode for DALL-E
+app-emacs/dall-e-shell 20240824.1737: Interaction mode for DALL-E
 app-emacs/daml-lsp 20231101.1818: LSP client definition for daml
 app-emacs/daml-mode 20231106.916: Major mode for daml
 app-emacs/danneskjold-theme 20240723.1000: Beautiful high-contrast Emacs theme.
@@ -2595,7 +2596,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperbole 20240824.643: GNU Hyperbole: The Everyday Hypertextual Information Manager
+app-emacs/hyperbole 20240824.1641: GNU Hyperbole: The Everyday Hypertextual Information Manager
 app-emacs/hyperdrive 20240824.532: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
@@ -3145,6 +3146,7 @@ app-emacs/loopy 20240824.212: A looping macro
 app-emacs/loopy-dash 20240818.245: Dash destructuring for `loopy'
 app-emacs/lorem-ipsum 20221214.1857: Insert dummy pseudo Latin text
 app-emacs/lox-mode 20200619.1700: Major mode for the Lox programming language
+app-emacs/lox-ts-mode 20240820.345: Major mode for Lox using tree-sitter
 app-emacs/lpy 20231026.1525: A lispy interface to Python
 app-emacs/lsp-cfn 20240112.921: LSP integration for cfn-lsp-extra
 app-emacs/lsp-dart 20240520.1834: Dart support lsp-mode
@@ -3644,7 +3646,7 @@ app-emacs/ob-bitfield 20220401.600: Babel Functions for bitfield
 app-emacs/ob-blockdiag 20210412.1541: org-babel functions for blockdiag evaluation
 app-emacs/ob-browser 20170720.1918: Render HTML in org-mode blocks.
 app-emacs/ob-cfengine3 20230226.1954: Org Babel functions for CFEngine 3
-app-emacs/ob-chatgpt-shell 20240814.938: Org babel functions for ChatGPT evaluation
+app-emacs/ob-chatgpt-shell 20240824.1737: Org babel functions for ChatGPT evaluation
 app-emacs/ob-clojurescript 20180406.1828: org-babel functions for ClojureScript evaluation
 app-emacs/ob-coffee 20170725.1424: org-babel functions for coffee-script evaluation
 app-emacs/ob-coffeescript 20180126.719: org-babel functions for coffee-script evaluation, and fully implementation!
@@ -3652,7 +3654,7 @@ app-emacs/ob-compile 20240324.320: Run compile by org-babel
 app-emacs/ob-crystal 20180126.718: org-babel functions for Crystal evaluation
 app-emacs/ob-cypher 20200521.936: query neo4j using cypher in org-mode blocks
 app-emacs/ob-d2 20230314.352: Org-babel functions for d2
-app-emacs/ob-dall-e-shell 20240814.938: Org babel functions for DALL-E evaluation
+app-emacs/ob-dall-e-shell 20240824.1737: Org babel functions for DALL-E evaluation
 app-emacs/ob-dao 20170816.1558: Org Babel Functions for Dao
 app-emacs/ob-dart 20221201.633: Evaluate Dart source blocks in org-mode
 app-emacs/ob-deno 20201019.101: Babel Functions for Javascript/TypeScript with Deno
@@ -4639,6 +4641,7 @@ app-emacs/robe 20240509.155: Code navigation, documentation lookup and completio
 app-emacs/robot-log 20220719.1301: Major mode for viewing RobotFramework debug log files
 app-emacs/robot-mode 20240721.1023: Major-mode for Robot Framework files
 app-emacs/robots-txt-mode 20190812.1858: Major mode for editing robots.txt
+app-emacs/roc-ts-mode 20240820.1737: Roc programming language mode
 app-emacs/roguel-ike 20160120.302: A coffee-break roguelike
 app-emacs/rom-party 20240324.909: Rendition of jklm.fun's "Bomb Party" game
 app-emacs/ron-mode 20200830.1554: Rusty Object Notation mode
@@ -4797,7 +4800,7 @@ app-emacs/shell-command-x 20231214.1: Extensions for shell commands
 app-emacs/shell-current-directory 20140101.2354: create new shell based on buffer directory
 app-emacs/shell-here 20220102.1703: Open a shell relative to the working directory
 app-emacs/shell-history 20100505.839: integration with shell history
-app-emacs/shell-maker 20240814.938: Interaction mode for making comint shells
+app-emacs/shell-maker 20240824.1737: Interaction mode for making comint shells
 app-emacs/shell-pop 20231228.612: helps you to use shell easily on Emacs. Only one key action to work.
 app-emacs/shell-split-string 20151224.1008: Split strings using shell-like syntax
 app-emacs/shell-switcher 20210509.1045: Provide fast switching between shell buffers.
