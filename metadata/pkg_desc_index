@@ -772,7 +772,7 @@ app-emacs/conllu-mode 20200501.2328: editing mode for CoNLL-U files
 app-emacs/connection 20191111.446: TCP-based client connection
 app-emacs/conner 20240821.1952: Define and run project specific commands
 app-emacs/constant-theme 20180921.1012: A calm, dark, almost monochrome color theme.
-app-emacs/consult 20240818.1112: Consulting completing-read
+app-emacs/consult 20240824.800: Consulting completing-read
 app-emacs/consult-ag 20230227.406: The silver searcher integration using Consult
 app-emacs/consult-codesearch 20230315.1424: Consult interface for codesearch
 app-emacs/consult-company 20230606.1824: Consult frontend for company
@@ -2309,7 +2309,7 @@ app-emacs/headlong 20150417.1526: reckless completion
 app-emacs/heaven-and-hell 20190713.1830: easy toggle light/dark themes
 app-emacs/heex-ts-mode 20240113.1104: Major mode for Heex with tree-sitter support
 app-emacs/helix-theme 20240814.1212: Color theme inspired by Helix editor's default colors
-app-emacs/helm 20240822.534: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20240824.559: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: helm-sources and some utilities for GNU R.
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: helm source for Active Directory
@@ -2595,8 +2595,8 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around.
-app-emacs/hyperbole 20240819.504: GNU Hyperbole: The Everyday Hypertextual Information Manager
-app-emacs/hyperdrive 20240821.1829: P2P filesystem
+app-emacs/hyperbole 20240824.643: GNU Hyperbole: The Everyday Hypertextual Information Manager
+app-emacs/hyperdrive 20240824.532: P2P filesystem
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
 app-emacs/hyperlist-mode 20230119.28: A major-mode for viewing Hyperlists
 app-emacs/hyperspace 20230518.442: Get there from here
@@ -2832,7 +2832,7 @@ app-emacs/jetbrains 20180301.502: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default JetBrains Darcula theme
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file.
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
-app-emacs/jinx 20240724.917: Enchanted Spell Checker
+app-emacs/jinx 20240824.808: Enchanted Spell Checker
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jirascope 20240122.2130: A Jira client
@@ -2946,7 +2946,7 @@ app-emacs/keyword-search 20180424.1102: browser keyword search from Emacs
 app-emacs/kfg 20140909.538: an emacs configuration system
 app-emacs/khalel 20240527.527: Import, edit and create calendar events through khal
 app-emacs/khardel 20231126.1502: Integrate with khard
-app-emacs/khoj 20240820.1938: Your Second Brain
+app-emacs/khoj 20240823.1815: Your Second Brain
 app-emacs/kibit-helper 20150508.1533: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-file-path 20230306.1041: Copy file name into kill ring
 app-emacs/kill-or-bury-alive 20230606.1503: Precise control over buffer killing
@@ -3141,7 +3141,7 @@ app-emacs/look-dired 20160729.2323: Extensions to look-mode for dired buffers
 app-emacs/look-mode 20220626.641: quick file viewer for image and text file browsing
 app-emacs/loop 20160813.1407: friendly imperative loop structures
 app-emacs/loophole 20221126.1556: Manage temporary key bindings
-app-emacs/loopy 20240820.141: A looping macro
+app-emacs/loopy 20240824.212: A looping macro
 app-emacs/loopy-dash 20240818.245: Dash destructuring for `loopy'
 app-emacs/lorem-ipsum 20221214.1857: Insert dummy pseudo Latin text
 app-emacs/lox-mode 20200619.1700: Major mode for the Lox programming language
@@ -3324,8 +3324,8 @@ app-emacs/message-attachment-reminder 20230124.520: Remind if missing attachment
 app-emacs/message-view-patch 20210904.2227: Colorize patch-like emails in mu4e
 app-emacs/messages-are-flowing 20191029.954: visible indication when composing "flowed" emails
 app-emacs/meta-presenter 20210714.1658: A simple multi-file presentation tool for Emacs
-app-emacs/metal-archives 20210223.1638: List future releases using Metal-Archives API
-app-emacs/metal-archives-shopping-list 20240217.736: Add shopping list generation support to metal-archives
+app-emacs/metal-archives 20240824.1023: List future releases using Metal-Archives API
+app-emacs/metal-archives-shopping-list 20240824.1026: Add shopping list generation support to metal-archives
 app-emacs/metalheart-theme 20160710.641: Low-contrast theme with a dark blue-green background.
 app-emacs/metamorph 20220328.129: Transform your buffers with lisp
 app-emacs/metascript-mode 20150709.57: Major mode for the Metascript programming language
@@ -3946,7 +3946,7 @@ app-emacs/org-sync-snippets 20210111.1726: Export snippets to org-mode and vice 
 app-emacs/org-table-color 20220311.1927: Add color to your org-mode table cells
 app-emacs/org-table-comment 20120209.1851: Org table comment modes.
 app-emacs/org-table-sticky-header 20190924.506: Sticky header for org-mode tables
-app-emacs/org-tag-beautify 20240820.416: Beautify Org mode tags
+app-emacs/org-tag-beautify 20240824.323: Beautify Org mode tags
 app-emacs/org-tagged 20220926.2048: Dynamic block for tagged org-mode todos
 app-emacs/org-tanglesync 20200127.1616: Syncing org src blocks with tangled external files
 app-emacs/org-tfl 20170923.1218: Transport for London meets Orgmode
@@ -4167,7 +4167,7 @@ app-emacs/per-buffer-theme 20221002.2219: Change theme and font according to buf
 app-emacs/perfect-margin 20240731.1133: Auto center windows, works with line numbers
 app-emacs/perject 20230605.841: Session-persistent project management
 app-emacs/perlbrew 20230823.1652: A perlbrew wrapper for Emacs
-app-emacs/persist-state 20240720.1725: Regularly persist bookmarks, history, recent files and more
+app-emacs/persist-state 20240823.1951: Regularly persist bookmarks, history, recent files and more
 app-emacs/persistent-overlays 20161128.700: Minor mode to store selected overlays to be loaded later
 app-emacs/persistent-scratch 20230225.1439: Preserve the scratch buffer across Emacs sessions
 app-emacs/persistent-soft 20150223.1853: Persistent storage, returning nil on failure
@@ -4360,7 +4360,7 @@ app-emacs/project-shells 20231005.641: Manage the shell buffers of each project
 app-emacs/project-tab-groups 20231215.755: Support a "one tab group per project" workflow
 app-emacs/project-tasks 20240408.611: Efficient task management for your project
 app-emacs/project-treemacs 20230529.1207: Simple treemacs backend for project.el
-app-emacs/projectile 20240814.1854: Manage and navigate projects in Emacs easily
+app-emacs/projectile 20240824.1029: Manage and navigate projects in Emacs easily
 app-emacs/projectile-codesearch 20180508.1522: Integration of codesearch into projectile
 app-emacs/projectile-git-autofetch 20200820.2028: automatically fetch git repositories
 app-emacs/projectile-rails 20221231.1643: Minor mode for Rails projects based on projectile-mode
@@ -5279,7 +5279,7 @@ app-emacs/tomatinho 20180621.1748: Simple and beautiful pomodoro timer
 app-emacs/toml 20230411.1449: TOML (Tom's Obvious, Minimal Language) parser
 app-emacs/toml-mode 20161107.1800: Major mode for editing TOML files
 app-emacs/tommyh-theme 20131004.2330: A bright, bold-colored theme for emacs
-app-emacs/tomorrow-night-deepblue-theme 20240727.51: The Tomorrow Night Deepblue color theme
+app-emacs/tomorrow-night-deepblue-theme 20240824.227: The Tomorrow Night Deepblue color theme
 app-emacs/tongbu 20200414.507: A web server to share text or files between two devices
 app-emacs/topspace 20220824.134: Recenter line 1 with scrollable upper margin/padding
 app-emacs/topsy 20231214.843: Simple sticky header
