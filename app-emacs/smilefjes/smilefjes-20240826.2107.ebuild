@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="View Norwegian Food Safety Authority restaurant ratings"
 
-HOMEPAGE="https://github.com/themkat/mos-mode"
+HOMEPAGE="https://github.com/themkat/smilefjes.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
