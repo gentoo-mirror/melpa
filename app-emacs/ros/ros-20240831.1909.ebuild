@@ -24,13 +24,11 @@ DEPEND="app-emacs/s
 	app-emacs/transient
 	app-emacs/hydra
 	app-emacs/grep
-	app-emacs/string-inflection
-	app-emacs/docker-tramp"
+	app-emacs/string-inflection"
 RDEPEND="app-emacs/s
 	app-emacs/with-shell-interpreter
 	app-emacs/kv
 	app-emacs/transient
 	app-emacs/hydra
 	app-emacs/grep
-	app-emacs/string-inflection
-	app-emacs/docker-tramp"
+	app-emacs/string-inflection"
