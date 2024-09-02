@@ -1346,7 +1346,7 @@ app-emacs/elm-test-runner 20230905.331: Enhanced support for running elm-test
 app-emacs/elm-yasnippets 20160401.524: Yasnippets for Elm
 app-emacs/elmacro 20210716.639: Convert keyboard macros to emacs lisp
 app-emacs/elmine 20200520.1237: Redmine API access via elisp.
-app-emacs/elmpd 20240902.104: A tight, ergonomic, async client library for mpd
+app-emacs/elmpd 20240902.1520: A tight, ergonomic, async client library for mpd
 app-emacs/elnode 20190702.1509: The Emacs webserver.
 app-emacs/elog 20221207.643: logging library extended from logito
 app-emacs/elogcat 20230121.459: logcat interface
@@ -1877,7 +1877,7 @@ app-emacs/flymake-aspell 20240101.1945: Aspell checker for flymake
 app-emacs/flymake-bashate 20240902.103: A Flymake backend for bashate, a Bash scripts style checker
 app-emacs/flymake-clippy 20231102.1616: Flymake backend for Clippy
 app-emacs/flymake-coffee 20170723.146: A flymake handler for coffee script
-app-emacs/flymake-collection 20240331.1808: Collection of checkers for flymake, bringing flymake to the level of flycheck
+app-emacs/flymake-collection 20240831.1515: Collection of checkers for flymake, bringing flymake to the level of flycheck
 app-emacs/flymake-cspell 20240304.1349: A Flymake backend for CSpell
 app-emacs/flymake-css 20170723.146: Flymake support for css using csslint
 app-emacs/flymake-cursor 20220506.1458: Show flymake messages in the minibuffer after delay
@@ -3354,7 +3354,7 @@ app-emacs/mindre-theme 20240610.2131: Minimal, light theme
 app-emacs/mindstream 20240827.2004: Start writing, stay focused, don't worry
 app-emacs/minesweeper 20200416.2342: play minesweeper in Emacs
 app-emacs/mingus 20230518.1726: MPD Interface
-app-emacs/mini-echo 20240901.1625: Echo buffer status in minibuffer window
+app-emacs/mini-echo 20240902.229: Echo buffer status in minibuffer window
 app-emacs/mini-frame 20220627.2041: Show minibuffer in child frame on read-from-minibuffer
 app-emacs/mini-header-line 20170621.1221: a minimal header-line
 app-emacs/mini-modeline 20230306.1521: Display modeline in minibuffer
@@ -3805,8 +3805,8 @@ app-emacs/org-capture-pop-frame 20230516.236: Run org-capture in a new pop frame
 app-emacs/org-category-capture 20230830.1733: Contextualy capture of org-mode TODOs.
 app-emacs/org-change 20240318.2003: Annotate changes in org-mode files
 app-emacs/org-chef 20231127.1601: Cookbook and recipe management with org-mode.
-app-emacs/org-cite-overlay 20240523.100: Overlays for org-cite citations
-app-emacs/org-cite-overlay-sidecar 20240523.100: Show Sidecar for overlaid org-cite citations
+app-emacs/org-cite-overlay 20240902.1609: Overlays for org-cite citations
+app-emacs/org-cite-overlay-sidecar 20240902.1609: Show Sidecar for overlaid org-cite citations
 app-emacs/org-cliplink 20201126.1020: insert org-mode links from the clipboard
 app-emacs/org-clock-agenda-daytime-mode 20240403.1115: Display the time clocked today in the modeline
 app-emacs/org-clock-convenience 20230424.2101: Convenience functions for org time tracking
@@ -4332,7 +4332,7 @@ app-emacs/preproc-font-lock 20151107.2018: Highlight C-style preprocessor direct
 app-emacs/prescient 20240803.2320: Better sorting and filtering
 app-emacs/preseed-generic-mode 20180210.500: Debian preseed file major mode
 app-emacs/presentation 20180427.224: Display large character for presentation
-app-emacs/prettier 20240601.1316: Code formatting with Prettier
+app-emacs/prettier 20240902.1516: Code formatting with Prettier
 app-emacs/prettier-js 20180109.726: Minor mode to format JS code on file save
 app-emacs/prettier-rc 20220330.145: Use local rc rules with prettier
 app-emacs/prettify-greek 20160603.908: Greek letters for prettify-symbols
@@ -4463,7 +4463,7 @@ app-emacs/python-environment 20150310.853: virtualenv API for Emacs Lisp
 app-emacs/python-insert-docstring 20211127.1232: Python Google docstring inserter
 app-emacs/python-isort 20210603.2153: Reformat python-mode buffer with isort
 app-emacs/python-mls 20240621.2114: Multi-line shell for (i)Python
-app-emacs/python-mode 20240901.641: Python major mode
+app-emacs/python-mode 20240902.1913: Python major mode
 app-emacs/python-pytest 20240826.948: helpers to run pytest
 app-emacs/python-switch-quotes 20161228.809: cycle between ' and " quotes in python strings
 app-emacs/python-test 20181018.29: Python testing integration
@@ -4533,7 +4533,7 @@ app-emacs/read-aloud 20160923.500: A simple interface to TTS engines
 app-emacs/read-only-cfg 20210717.205: Make files read-only based on user config
 app-emacs/readable-numbers 20220711.911: Visually separate long integers
 app-emacs/readline-complete 20150708.1437: offers completions in shell mode
-app-emacs/ready-player 20240902.1019: Open media files in ready-player major mode
+app-emacs/ready-player 20240902.1341: Open media files in ready-player major mode
 app-emacs/real-auto-save 20200505.1537: Automatically save your buffers/files at regular intervals
 app-emacs/realgud 20231113.1910: A modular front-end for interacting with external debuggers
 app-emacs/realgud-byebug 20190520.1140: Realgud front-end to the Ruby byebug debugger
@@ -5239,7 +5239,7 @@ app-emacs/thinks 20170802.1128: Insert text in a think bubble.
 app-emacs/third-time 20240207.1621: Third Time: A Better Way to Work
 app-emacs/thread-dump 20170816.1850: Java thread dump viewer
 app-emacs/threes 20160820.1242: A clone of Threes (a tiny puzzle game)
-app-emacs/thrift 20240825.1632: major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 20240901.1632: major mode for fbthrift and Apache Thrift files
 app-emacs/thumb-through 20120119.534: Plain text reader of HTML documents
 app-emacs/tickscript-mode 20171219.203: A major mode for Tickscript files
 app-emacs/tidal 20240407.1952: Interact with TidalCycles for live coding patterns
@@ -5289,7 +5289,7 @@ app-emacs/tomatinho 20180621.1748: Simple and beautiful pomodoro timer
 app-emacs/toml 20230411.1449: TOML (Tom's Obvious, Minimal Language) parser
 app-emacs/toml-mode 20161107.1800: Major mode for editing TOML files
 app-emacs/tommyh-theme 20131004.2330: A bright, bold-colored theme for emacs
-app-emacs/tomorrow-night-deepblue-theme 20240824.227: The Tomorrow Night Deepblue color theme
+app-emacs/tomorrow-night-deepblue-theme 20240902.1622: The Tomorrow Night Deepblue color theme
 app-emacs/tongbu 20200414.507: A web server to share text or files between two devices
 app-emacs/topspace 20220824.134: Recenter line 1 with scrollable upper margin/padding
 app-emacs/topsy 20231214.843: Simple sticky header
