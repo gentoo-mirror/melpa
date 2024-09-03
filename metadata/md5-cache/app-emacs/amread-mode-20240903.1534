@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/compat
-DESCRIPTION=VERTical Interactive COmpletion
+DEPEND=app-emacs/pyim app-emacs/hydra
+DESCRIPTION=A minor mode helper user speed-reading
 EAPI=8
-HOMEPAGE=https://github.com/minad/vertico
+HOMEPAGE=https://repo.or.cz/amread-mode.git
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/compat >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/pyim app-emacs/hydra >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/vertico-20240901.1418.tar
+SRC_URI=https://melpa.org/packages/amread-mode-20240903.1534.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=03eba01f34703deabd5e16f4292590d6
+_md5_=32c703562a9aa7be27b782d5b8599e98
