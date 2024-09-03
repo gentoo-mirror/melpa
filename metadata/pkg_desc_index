@@ -151,7 +151,7 @@ app-emacs/aozora-view 20140310.1317: Aozora Bunko text Emacs viewer.
 app-emacs/apache-mode 20210519.1931: Major mode for editing Apache httpd configuration files
 app-emacs/apdl-mode 20211023.1831: Major mode for the APDL programming language.
 app-emacs/apel 20221214.1337: A Portable Emacs Library provides support for portable Emacs Lisp programs
-app-emacs/apheleia 20240827.1744: Reformat buffer stably
+app-emacs/apheleia 20240903.55: Reformat buffer stably
 app-emacs/apib-mode 20200101.1017: Major mode for API Blueprint files
 app-emacs/apiwrap 20180602.2231: api-wrapping macros
 app-emacs/app-monochrome-themes 20240611.1623: Low contrast monochrome themes
@@ -1135,7 +1135,7 @@ app-emacs/dokuwiki 20180102.59: Edit Remote DokuWiki Pages Using XML-RPC
 app-emacs/dokuwiki-mode 20170223.1301: Major mode for DokuWiki document
 app-emacs/dollaro 20151123.1302: simple text templates
 app-emacs/doom 20180301.2308: DOM implementation and manipulation library
-app-emacs/doom-modeline 20240830.1641: A minimal and modern mode-line
+app-emacs/doom-modeline 20240903.614: A minimal and modern mode-line
 app-emacs/doom-modeline-now-playing 20240522.1704: Segment for Doom Modeline to show playerctl information
 app-emacs/doom-themes 20240809.2135: an opinionated pack of modern color-themes
 app-emacs/dot-env 20230820.2014: Dotenv functionality
@@ -1267,7 +1267,7 @@ app-emacs/ein 20230827.325: jupyter notebook client
 app-emacs/eink-theme 20190219.858: E Ink color theme
 app-emacs/ejc-sql 20240106.1848: Emacs SQL client uses Clojure JDBC.
 app-emacs/ejson-mode 20190720.2138: Major mode for editing ejson files.
-app-emacs/ekg 20240901.2358: A system for recording and linking information
+app-emacs/ekg 20240903.424: A system for recording and linking information
 app-emacs/el-autoyas 20120918.1317: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-fly-indent-mode 20180422.243: Indent Emacs Lisp on the fly
 app-emacs/el-get 20240408.837: Manage the external elisp bits and pieces you depend upon
@@ -2088,7 +2088,7 @@ app-emacs/git-commit-ts-mode 20240722.1815: Tree-sitter support for Git commit m
 app-emacs/git-dwim 20170126.1214: Context-aware git commands such as branch handling
 app-emacs/git-grep 20200920.1751: Search tools using git grep
 app-emacs/git-grep-transient 20240521.648: Search for text using git grep command
-app-emacs/git-gutter 20240830.1623: Port of Sublime Text plugin GitGutter
+app-emacs/git-gutter 20240903.418: Port of Sublime Text plugin GitGutter
 app-emacs/git-gutter+ 20151204.1723: Manage Git hunks straight from the buffer
 app-emacs/git-gutter-fringe 20211003.2228: Fringe version of git-gutter.el
 app-emacs/git-gutter-fringe+ 20140729.1103: Fringe version of git-gutter+.el
@@ -2266,7 +2266,7 @@ app-emacs/guide-key 20150108.635: Guide the following key bindings automatically
 app-emacs/guide-key-tip 20161011.823: Show guide-key.el hints using pos-tip.el
 app-emacs/guix 20231206.2147: Interface for GNU Guix
 app-emacs/gulp-task-runner 20170718.2041: Gulp task runner
-app-emacs/gumshoe 20240628.2142: Scoped spatial and temporal POINT movement tracking
+app-emacs/gumshoe 20240902.2137: Scoped spatial and temporal POINT movement tracking
 app-emacs/guru-mode 20211025.1157: Become an Emacs guru
 app-emacs/gvariant 20210507.1310: GVariant (GLib) helpers
 app-emacs/gvpr-mode 20201007.2054: A major mode offering basic syntax coloring for gvpr scripts.
@@ -2951,7 +2951,7 @@ app-emacs/keyword-search 20180424.1102: browser keyword search from Emacs
 app-emacs/kfg 20140909.538: an emacs configuration system
 app-emacs/khalel 20240527.527: Import, edit and create calendar events through khal
 app-emacs/khardel 20231126.1502: Integrate with khard
-app-emacs/khoj 20240823.1815: Your Second Brain
+app-emacs/khoj 20240903.45: Your Second Brain
 app-emacs/kibit-helper 20150508.1533: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-file-path 20230306.1041: Copy file name into kill ring
 app-emacs/kill-or-bury-alive 20230606.1503: Precise control over buffer killing
@@ -3354,7 +3354,7 @@ app-emacs/mindre-theme 20240610.2131: Minimal, light theme
 app-emacs/mindstream 20240827.2004: Start writing, stay focused, don't worry
 app-emacs/minesweeper 20200416.2342: play minesweeper in Emacs
 app-emacs/mingus 20230518.1726: MPD Interface
-app-emacs/mini-echo 20240902.229: Echo buffer status in minibuffer window
+app-emacs/mini-echo 20240902.2332: Echo buffer status in minibuffer window
 app-emacs/mini-frame 20220627.2041: Show minibuffer in child frame on read-from-minibuffer
 app-emacs/mini-header-line 20170621.1221: a minimal header-line
 app-emacs/mini-modeline 20230306.1521: Display modeline in minibuffer
@@ -3787,7 +3787,7 @@ app-emacs/org-assistant 20230623.1439: Org babel extension for Chat Assistant AP
 app-emacs/org-attach-screenshot 20210221.1336: Screenshots integrated with org attachment dirs
 app-emacs/org-auto-expand 20231006.854: Automatically expand certain headings
 app-emacs/org-auto-tangle 20220812.2327: Automatically and Asynchronously tangles org files on save
-app-emacs/org-autoexport 20240902.825: Auto-export org file on save
+app-emacs/org-autoexport 20240902.2253: Auto-export org file on save
 app-emacs/org-autolist 20220530.1620: Improved list management in org-mode
 app-emacs/org-babel-eval-in-repl 20201206.1540: Eval org-mode babel code blocks in various REPLs.
 app-emacs/org-beautify-theme 20170908.2218: A sub-theme to make org-mode more beautiful.
@@ -3884,7 +3884,7 @@ app-emacs/org-multi-wiki 20210324.1820: Multiple wikis based on Org mode
 app-emacs/org-multiple-keymap 20191017.1920: Set keymap to elements, such as timestamp and priority.
 app-emacs/org-newtab 20240227.155: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 20240603.859: Org local nix-shell
-app-emacs/org-node 20240824.1956: Link org-id entries into a network
+app-emacs/org-node 20240902.2230: Link org-id entries into a network
 app-emacs/org-notebook 20170322.452: Ease the use of org-mode as a notebook
 app-emacs/org-noter 20240731.1135: A synchronized, Org-mode, document annotator
 app-emacs/org-noter-pdftools 20230725.1433: Integration between org-pdftools and org-noter
@@ -4367,7 +4367,7 @@ app-emacs/project-persist-drawer 20151108.1222: Use a project drawer with projec
 app-emacs/project-rootfile 20220708.1403: Extension of project.el to detect project with root file
 app-emacs/project-shells 20231005.641: Manage the shell buffers of each project
 app-emacs/project-tab-groups 20231215.755: Support a "one tab group per project" workflow
-app-emacs/project-tasks 20240408.611: Efficient task management for your project
+app-emacs/project-tasks 20240903.343: Efficient task management for your project
 app-emacs/project-treemacs 20230529.1207: Simple treemacs backend for project.el
 app-emacs/projectile 20240901.1554: Manage and navigate projects in Emacs easily
 app-emacs/projectile-codesearch 20180508.1522: Integration of codesearch into projectile
@@ -4571,7 +4571,7 @@ app-emacs/redshank 20180730.407: Common Lisp Editing Extensions
 app-emacs/redtick 20180424.2136: Smallest pomodoro timer (1 char)
 app-emacs/redtt 20181121.21: Major mode for editing redtt proofs
 app-emacs/refine 20200507.731: interactive value editing
-app-emacs/reformatter 20231122.838: Define commands which run reformatters on the current buffer
+app-emacs/reformatter 20240903.948: Define commands which run reformatters on the current buffer
 app-emacs/regex-dsl 20220125.506: lisp syntax for regexps
 app-emacs/regex-tool 20170104.1918: A regular expression evaluation tool for programmers
 app-emacs/region-bindings-mode 20140407.2214: Enable custom bindings when mark is active.
@@ -5189,7 +5189,7 @@ app-emacs/teleport 20240718.652: Integration for tsh (goteleport.com)
 app-emacs/teletext 20231215.1524: Teletext broadcast viewer
 app-emacs/teletext-yle 20231215.1609: Teletext provider for Finnish national network YLE
 app-emacs/tempel 20240723.2206: Tempo templates/snippets with in-buffer field editing
-app-emacs/tempel-collection 20240821.1025: Collection of templates for Tempel
+app-emacs/tempel-collection 20240903.1136: Collection of templates for Tempel
 app-emacs/templ-ts-mode 20240118.338: Major mode for editing Templ files
 app-emacs/template-dumper 20240630.2236: Create files from yasnippet templates
 app-emacs/template-overlays 20180706.1132: Display template regions using overlays
@@ -5439,7 +5439,7 @@ app-emacs/upbo 20180422.822: Karma Test Runner Integration
 app-emacs/uptimes 20231015.1458: Track and display session uptimes
 app-emacs/url-shortener 20170805.242: shorten long url and expand tinyurl
 app-emacs/urlenc 20140116.1456: URL encoding/decoding utility for Emacs.
-app-emacs/ursa-ts-mode 20240827.1727: Major mode for Ursa, using tree-sitter
+app-emacs/ursa-ts-mode 20240902.2216: Major mode for Ursa, using tree-sitter
 app-emacs/urscript-mode 20190219.1604: major mode for editing URScript.
 app-emacs/usage-memo 20170926.37: integration of Emacs help system and memo
 app-emacs/use-package 20230426.2324: A configuration macro for simplifying your .emacs
