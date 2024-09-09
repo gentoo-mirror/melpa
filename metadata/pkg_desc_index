@@ -71,7 +71,7 @@ app-emacs/ado-mode 20240103.1856: Major mode for editing Stata-related files
 app-emacs/adoc-mode 20240218.1035: a major-mode for editing AsciiDoc files
 app-emacs/adwaita-dark-theme 20231209.1033: A dark color scheme inspired by Adwaita
 app-emacs/aes 20211204.2348: Implementation of AES
-app-emacs/affe 20240718.1250: Asynchronous Fuzzy Finder for Emacs
+app-emacs/affe 20240908.1842: Asynchronous Fuzzy Finder for Emacs
 app-emacs/afterglow 20240312.953: Temporary Highlighting after Function Calls
 app-emacs/afternoon-theme 20140104.1859: Dark color theme with a deep blue background
 app-emacs/ag 20201031.2202: A front-end for ag ('the silver searcher'), the C ack replacement.
@@ -494,7 +494,8 @@ app-emacs/casual-info 20240828.1725: Transient UI for Info
 app-emacs/casual-isearch 20240904.1704: Transient UI for I-Search
 app-emacs/casual-lib 20240827.2223: Library routines for Casual user interfaces
 app-emacs/casual-re-builder 20240828.1905: Transient UI for RE-Builder
-app-emacs/casual-suite 20240901.2116: A suite of opinionated Transient UIs
+app-emacs/casual-suite 20240908.2222: A suite of opinionated Transient UIs
+app-emacs/casual-symbol-overlay 20240905.129: Transient UI for Symbol Overlay
 app-emacs/catmacs 20170826.1157: Simple CAT interface for Yaesu Transceivers.
 app-emacs/catppuccin-theme 20240829.2151: Catppuccin for Emacs - 🍄 Soothing pastel theme for Emacs
 app-emacs/cats 20230407.1316: Monads for Elisp
@@ -2837,7 +2838,7 @@ app-emacs/jetbrains 20180301.502: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default JetBrains Darcula theme
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file.
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
-app-emacs/jinx 20240824.808: Enchanted Spell Checker
+app-emacs/jinx 20240908.1905: Enchanted Spell Checker
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jirascope 20240122.2130: A Jira client
@@ -3351,7 +3352,7 @@ app-emacs/migemo 20231120.842: Japanese incremental search through dynamic patte
 app-emacs/milkode 20140927.529: Command line search and direct jump with Milkode
 app-emacs/mimetypes 20201115.1605: Guess a file's mimetype by extension
 app-emacs/mindre-theme 20240610.2131: Minimal, light theme
-app-emacs/mindstream 20240827.2004: Start writing, stay focused, don't worry
+app-emacs/mindstream 20240908.2036: Start writing, stay focused, don't worry
 app-emacs/minesweeper 20200416.2342: play minesweeper in Emacs
 app-emacs/mingus 20230518.1726: MPD Interface
 app-emacs/mini-echo 20240907.258: Echo buffer status in minibuffer window
@@ -3799,7 +3800,7 @@ app-emacs/org-books 20210408.1913: Reading list management with Org mode and hel
 app-emacs/org-brain 20230217.1908: Org-mode concept mapping
 app-emacs/org-bulletproof 20230615.640: Automatic plain list bullet cycling
 app-emacs/org-bullets 20200317.1740: Show bullets in org-mode as UTF-8 characters
-app-emacs/org-caldav 20240825.2327: Sync org files with external calendar through CalDAV
+app-emacs/org-caldav 20240908.2256: Sync org files with external calendar through CalDAV
 app-emacs/org-calibre-notes 20221202.1657: Extract highlights and notes from Calibre EPUB reader
 app-emacs/org-capture-pop-frame 20230516.236: Run org-capture in a new pop frame
 app-emacs/org-category-capture 20230830.1733: Contextualy capture of org-mode TODOs.
@@ -3877,7 +3878,7 @@ app-emacs/org-ml 20230410.30: Functional Org Mode API
 app-emacs/org-mobile-sync 20180606.524: automatically sync org-mobile on changes
 app-emacs/org-modern 20240803.1952: Modern looks for Org
 app-emacs/org-movies 20210920.101: Manage watchlist with Org mode
-app-emacs/org-mpv-notes 20240908.1612: Take notes in org mode while watching videos in mpv
+app-emacs/org-mpv-notes 20240908.1911: Take notes in org mode while watching videos in mpv
 app-emacs/org-mru-clock 20240522.826: Clock in/out of tasks with completion and persistent history
 app-emacs/org-msg 20240902.447: Org mode to send and reply to email in HTML.
 app-emacs/org-multi-wiki 20210324.1820: Multiple wikis based on Org mode
@@ -4012,7 +4013,7 @@ app-emacs/ormolu 20220530.921: Format Haskell source code using the "ormolu" pro
 app-emacs/orthodox-christian-new-calendar-holidays 20210830.1657: Feasts (NS)
 app-emacs/osa 20200522.2103: OSA (JavaScript / AppleScript) bridge
 app-emacs/osa-chrome 20230515.237: Google Chrome remote tab control
-app-emacs/osm 20240723.2207: OpenStreetMap viewer
+app-emacs/osm 20240908.1840: OpenStreetMap viewer
 app-emacs/osx-browse 20140508.2041: Web browsing helpers for OS X
 app-emacs/osx-clipboard 20141012.717: Use the OS X clipboard from terminal Emacs
 app-emacs/osx-dictionary 20240330.942: Interface for OSX Dictionary.app
@@ -4533,7 +4534,7 @@ app-emacs/read-aloud 20160923.500: A simple interface to TTS engines
 app-emacs/read-only-cfg 20210717.205: Make files read-only based on user config
 app-emacs/readable-numbers 20220711.911: Visually separate long integers
 app-emacs/readline-complete 20150708.1437: offers completions in shell mode
-app-emacs/ready-player 20240908.1653: Open media files in ready-player major mode
+app-emacs/ready-player 20240908.1748: Open media files in ready-player major mode
 app-emacs/real-auto-save 20200505.1537: Automatically save your buffers/files at regular intervals
 app-emacs/realgud 20231113.1910: A modular front-end for interacting with external debuggers
 app-emacs/realgud-byebug 20190520.1140: Realgud front-end to the Ruby byebug debugger
@@ -4560,7 +4561,7 @@ app-emacs/recover-buffers 20171009.437: revisit all buffers from an auto-save fi
 app-emacs/rect+ 20150621.44: Extensions to rect.el
 app-emacs/rectangle-utils 20240830.306: Some useful rectangle functions.
 app-emacs/recur 20230121.1836: Tail call optimization
-app-emacs/recursion-indicator 20240708.2119: Recursion indicator
+app-emacs/recursion-indicator 20240908.1829: Recursion indicator
 app-emacs/recursive-narrow 20190306.1521: narrow-to-region that operates recursively
 app-emacs/redacted 20220108.1037: Obscure text in buffer
 app-emacs/reddigg 20240730.2339: A reader for redditt
@@ -5188,7 +5189,7 @@ app-emacs/telephone-line 20240109.2021: Rewrite of Powerline
 app-emacs/teleport 20240718.652: Integration for tsh (goteleport.com)
 app-emacs/teletext 20231215.1524: Teletext broadcast viewer
 app-emacs/teletext-yle 20231215.1609: Teletext provider for Finnish national network YLE
-app-emacs/tempel 20240723.2206: Tempo templates/snippets with in-buffer field editing
+app-emacs/tempel 20240908.1848: Tempo templates/snippets with in-buffer field editing
 app-emacs/tempel-collection 20240903.1136: Collection of templates for Tempel
 app-emacs/templ-ts-mode 20240118.338: Major mode for editing Templ files
 app-emacs/template-dumper 20240630.2236: Create files from yasnippet templates
@@ -5331,7 +5332,7 @@ app-emacs/tree-sitter 20220212.1632: Incremental parsing system
 app-emacs/tree-sitter-ess-r 20221012.855: R with tree-sitter
 app-emacs/tree-sitter-indent 20220411.1439: Provide indentation with a Tree-sitter backend
 app-emacs/tree-sitter-ispell 20240610.2252: Run ispell on tree-sitter text nodes
-app-emacs/tree-sitter-langs 20240908.209: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 20240908.2020: Grammar bundle for tree-sitter
 app-emacs/treebundel 20240531.2321: Bundle related git-worktrees together
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
 app-emacs/treemacs 20240815.1227: A tree style file explorer package
