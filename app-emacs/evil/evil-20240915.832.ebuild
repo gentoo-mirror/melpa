@@ -18,5 +18,7 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/goto-chg"
-RDEPEND="app-emacs/goto-chg"
+DEPEND="app-emacs/goto-chg
+	app-emacs/nadvice"
+RDEPEND="app-emacs/goto-chg
+	app-emacs/nadvice"
