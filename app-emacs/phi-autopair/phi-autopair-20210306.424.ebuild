@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="another simple-minded autopair implementation"
+DESCRIPTION="Another simple-minded autopair implementation"
 
 HOMEPAGE="http://zk-phi.gitub.io/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

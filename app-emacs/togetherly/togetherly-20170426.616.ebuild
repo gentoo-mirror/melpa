@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="allow multiple clients to edit a single buffer online"
+DESCRIPTION="Allow multiple clients to edit a single buffer online"
 
 HOMEPAGE="http://hins11.yu-yake.com/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

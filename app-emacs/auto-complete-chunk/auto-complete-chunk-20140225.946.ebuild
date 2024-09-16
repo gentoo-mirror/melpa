@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Auto-completion for dot.separated.words."
+DESCRIPTION="Auto-completion for dot.separated.words"
 
 HOMEPAGE="https://github.com/tkf/auto-complete-chunk"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

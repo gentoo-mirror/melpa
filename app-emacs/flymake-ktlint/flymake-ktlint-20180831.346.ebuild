@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Flymake extension for Ktlint."
+DESCRIPTION="Flymake extension for Ktlint"
 
 HOMEPAGE="https://github.com/jojojames/flymake-ktlint"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

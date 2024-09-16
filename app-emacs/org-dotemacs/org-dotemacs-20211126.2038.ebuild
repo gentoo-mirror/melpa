@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Store your emacs config as an org file, and choose which bits to load."
+DESCRIPTION="Store your emacs config as an org file, and choose which bits to load"
 
 HOMEPAGE="https://github.com/vapniks/org-dotemacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

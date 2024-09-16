@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="major mode for RubyMotion enviroment"
+DESCRIPTION="Major mode for RubyMotion enviroment"
 
 HOMEPAGE="https://github.com/ainame/motion-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

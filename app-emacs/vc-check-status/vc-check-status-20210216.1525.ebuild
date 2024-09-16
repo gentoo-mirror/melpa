@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Warn you when quitting emacs and leaving repo dirty."
+DESCRIPTION="Warn you when quitting emacs and leaving repo dirty"
 
 HOMEPAGE="https://github.com/thisirs/vc-check-status"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

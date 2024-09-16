@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a simple static site generator based on org mode"
+DESCRIPTION="A simple static site generator based on org mode"
 
 HOMEPAGE="https://github.com/thiefuniverse/blog-minimal"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

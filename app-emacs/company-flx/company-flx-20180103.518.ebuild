@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="flx based fuzzy matching for company"
+DESCRIPTION="Flx based fuzzy matching for company"
 
 HOMEPAGE="https://github.com/PythonNut/company-flx"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

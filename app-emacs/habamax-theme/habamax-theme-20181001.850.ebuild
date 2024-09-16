@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Boring white background color that gets the job done."
+DESCRIPTION="Boring white background color that gets the job done"
 
 HOMEPAGE="https://github.com/habamax/habamax-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

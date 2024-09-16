@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Highlight bound variables and quoted exprs."
+DESCRIPTION="Highlight bound variables and quoted exprs"
 
 HOMEPAGE="https://github.com/Lindydancer/lisp-extra-font-lock"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

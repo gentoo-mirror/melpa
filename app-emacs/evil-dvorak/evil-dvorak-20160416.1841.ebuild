@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="evil keybindings for that work with dvorak mode"
+DESCRIPTION="Evil keybindings for that work with dvorak mode"
 
 HOMEPAGE="https://melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

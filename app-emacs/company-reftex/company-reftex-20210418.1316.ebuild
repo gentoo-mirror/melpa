@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Company backend based on RefTeX."
+DESCRIPTION="Company backend based on RefTeX"
 
 HOMEPAGE="https://github.com/TheBB/company-reftex"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

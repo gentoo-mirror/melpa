@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Framework of queued search tasks using GREP, ACK, AG and more."
+DESCRIPTION="Framework of queued search tasks using GREP, ACK, AG and more"
 
 HOMEPAGE="https://melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

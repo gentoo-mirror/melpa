@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Links buffers together for simultaneous editing."
+DESCRIPTION="Links buffers together for simultaneous editing"
 
 HOMEPAGE="https://github.com/killdash9/broadcast.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

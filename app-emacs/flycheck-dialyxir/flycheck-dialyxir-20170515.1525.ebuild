@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="flycheck checker for elixir dialyxir"
+DESCRIPTION="Flycheck checker for elixir dialyxir"
 
 HOMEPAGE="https://github.com/aaronjensen/flycheck-dialyxir"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

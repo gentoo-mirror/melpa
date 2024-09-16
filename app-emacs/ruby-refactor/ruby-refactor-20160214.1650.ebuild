@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A minor mode which presents various Ruby refactoring helpers."
+DESCRIPTION="A minor mode which presents various Ruby refactoring helpers"
 
 HOMEPAGE="https://github.com/ajvargo/ruby-refactor"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

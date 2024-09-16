@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Helm extension for Git."
+DESCRIPTION="Helm extension for Git"
 
 HOMEPAGE="https://github.com/maio/helm-git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

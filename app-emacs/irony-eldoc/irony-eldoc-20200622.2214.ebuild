@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="irony-mode support for eldoc-mode"
+DESCRIPTION="Irony-mode support for eldoc-mode"
 
 HOMEPAGE="https://github.com/ikirill/irony-eldoc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="major mode for Kixtart scripting files"
+DESCRIPTION="Major mode for Kixtart scripting files"
 
 HOMEPAGE="https://github.com/ryrun/kixtart-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

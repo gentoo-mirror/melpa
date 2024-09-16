@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org-babel functions for Elvish shell"
+DESCRIPTION="Org-babel functions for Elvish shell"
 
 HOMEPAGE="https://github.com/zzamboni/ob-elvish"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

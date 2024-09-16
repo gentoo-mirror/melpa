@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="thin wrapper for Pianobar, a Pandora Radio client"
+DESCRIPTION="Thin wrapper for Pianobar, a Pandora Radio client"
 
 HOMEPAGE="http://github.com/agrif/pianobar.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

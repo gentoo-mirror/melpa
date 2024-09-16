@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="winnow ag/grep results by matching/excluding lines"
+DESCRIPTION="Winnow ag/grep results by matching/excluding lines"
 
 HOMEPAGE="https://github.com/dgtized/winnow.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Provides column text objects."
+DESCRIPTION="Provides column text objects"
 
 HOMEPAGE="https://github.com/noctuid/evil-textobj-column"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

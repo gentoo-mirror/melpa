@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Provides syntax text objects."
+DESCRIPTION="Provides syntax text objects"
 
 HOMEPAGE="https://github.com/laishulu/evil-textobj-syntax"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

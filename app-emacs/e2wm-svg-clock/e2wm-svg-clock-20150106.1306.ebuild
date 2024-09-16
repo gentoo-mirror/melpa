@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="e2wm plugin for svg-clock"
+DESCRIPTION="E2wm plugin for svg-clock"
 
 HOMEPAGE="https://github.com/myuhe/e2wm-svg-clock.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

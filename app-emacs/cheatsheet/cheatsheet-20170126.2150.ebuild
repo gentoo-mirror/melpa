@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="create your own cheatsheet"
+DESCRIPTION="Create your own cheatsheet"
 
 HOMEPAGE="http://github.com/darksmile/cheatsheet/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

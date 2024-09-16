@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="access SWORD content via diatheke"
+DESCRIPTION="Access SWORD content via diatheke"
 
 HOMEPAGE="https://codeberg.org/thomp/dtk"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

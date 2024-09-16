@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Commands to navigate one-spaced sentences."
+DESCRIPTION="Commands to navigate one-spaced sentences"
 
 HOMEPAGE="https://github.com/noctuid/emacs-sentence-navigation"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

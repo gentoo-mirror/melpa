@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="major mode for editing Futhark source files"
+DESCRIPTION="Major mode for editing Futhark source files"
 
 HOMEPAGE="https://github.com/diku-dk/futhark-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

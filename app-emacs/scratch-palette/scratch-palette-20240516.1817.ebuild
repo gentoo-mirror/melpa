@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="make scratch buffer for each files"
+DESCRIPTION="Make scratch buffer for each files"
 
 HOMEPAGE="http://zk-phi.gitub.io/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="minor mode for the Closure Linter"
+DESCRIPTION="Minor mode for the Closure Linter"
 
 HOMEPAGE="https://github.com/r0man/closure-lint-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

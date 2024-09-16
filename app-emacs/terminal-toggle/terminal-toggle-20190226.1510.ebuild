@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="simple pop-up terminal"
+DESCRIPTION="Simple pop-up terminal"
 
 HOMEPAGE="https://github.com/mtekman/terminal-toggle.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

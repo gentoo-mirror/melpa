@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DEPEND=app-emacs/seq
-DESCRIPTION=capture Emacs network traffic
+DESCRIPTION=Capture Emacs network traffic
 EAPI=8
 HOMEPAGE=https://melpa.org/packages/
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/seq >=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/cabledolphin-20160204.938.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=2ed321834ec0dcbb64b175dfa51da139
+_md5_=8279c33b11d428ff42dc1ed49f51ba0b

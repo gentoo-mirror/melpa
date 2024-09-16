@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Quickly navigate the file system to find a file."
+DESCRIPTION="Quickly navigate the file system to find a file"
 
 HOMEPAGE="https://github.com/jeffgran/jg-quicknav"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

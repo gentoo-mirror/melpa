@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Real time BART departures info."
+DESCRIPTION="Real time BART departures info"
 
 HOMEPAGE="https://github.com/mschuldt/bart-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="shorten file-names in compilation type buffers"
+DESCRIPTION="Shorten file-names in compilation type buffers"
 
 HOMEPAGE="https://github.com/lewang/scf-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

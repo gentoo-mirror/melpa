@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Show coverage stats in the fringe."
+DESCRIPTION="Show coverage stats in the fringe"
 
 HOMEPAGE="https://github.com/AdamNiederer/cov"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

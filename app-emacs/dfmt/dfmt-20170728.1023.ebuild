@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs Interface to D indenting/formatting tool dfmt."
+DESCRIPTION="Emacs Interface to D indenting/formatting tool dfmt"
 
 HOMEPAGE="https://github.com/qsimpleq/elisp-dfmt"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

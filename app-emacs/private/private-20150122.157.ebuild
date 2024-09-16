@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="take care of your private configuration files."
+DESCRIPTION="Take care of your private configuration files"
 
 HOMEPAGE="https://github.com/cheunghy/private"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

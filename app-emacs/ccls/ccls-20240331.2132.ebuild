@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="ccls client for lsp-mode"
+DESCRIPTION="Ccls client for lsp-mode"
 
 HOMEPAGE="https://github.com/emacs-lsp/emacs-ccls"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

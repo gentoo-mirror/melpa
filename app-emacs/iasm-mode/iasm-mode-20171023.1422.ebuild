@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="interactive assembly major mode."
+DESCRIPTION="Interactive assembly major mode"
 
 HOMEPAGE="https://github.com/RAttab/iasm-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

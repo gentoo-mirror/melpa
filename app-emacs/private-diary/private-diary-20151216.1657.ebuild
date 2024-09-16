@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="maintain a private diary in Emacs"
+DESCRIPTION="Maintain a private diary in Emacs"
 
 HOMEPAGE="https://github.com/cacology/private-diary"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

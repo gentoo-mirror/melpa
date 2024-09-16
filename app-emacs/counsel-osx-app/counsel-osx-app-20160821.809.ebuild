@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="launch osx applications via ivy interface"
+DESCRIPTION="Launch osx applications via ivy interface"
 
 HOMEPAGE="https://github.com/d12frosted/counsel-osx-app"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

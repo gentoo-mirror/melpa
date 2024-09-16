@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Make marks visible."
+DESCRIPTION="Make marks visible"
 
 HOMEPAGE="https://gitlab.com/iankelling/visible-mark"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

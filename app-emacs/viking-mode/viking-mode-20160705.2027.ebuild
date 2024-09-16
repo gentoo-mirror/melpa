@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="kill first, ask later"
+DESCRIPTION="Kill first, ask later"
 
 HOMEPAGE="https://github.com/tlinden/viking-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

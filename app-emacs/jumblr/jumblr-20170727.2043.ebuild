@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="an anagram game for emacs"
+DESCRIPTION="An anagram game for emacs"
 
 HOMEPAGE="https://github.com/mkmcc/jumblr"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

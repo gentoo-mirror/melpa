@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Completion at point function (capf) for vhdl-mode."
+DESCRIPTION="Completion at point function (capf) for vhdl-mode"
 
 HOMEPAGE="https://github.com/sh-ow/vhdl-capf"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

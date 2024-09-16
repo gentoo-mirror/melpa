@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org-mode to mdx-deck exporter"
+DESCRIPTION="Org-mode to mdx-deck exporter"
 
 HOMEPAGE="https://github.com/WolfeCub/ox-mdx-deck/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

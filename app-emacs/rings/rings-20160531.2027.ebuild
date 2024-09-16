@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Buffer rings. Like tabs, but better."
+DESCRIPTION="Buffer rings. Like tabs, but better"
 
 HOMEPAGE="http://github.com/konr/rings"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

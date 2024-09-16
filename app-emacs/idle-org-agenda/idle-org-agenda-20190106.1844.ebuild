@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Shows your agenda when editor is idle."
+DESCRIPTION="Shows your agenda when editor is idle"
 
 HOMEPAGE="https://github.com/enisozgen/idle-org-agenda"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

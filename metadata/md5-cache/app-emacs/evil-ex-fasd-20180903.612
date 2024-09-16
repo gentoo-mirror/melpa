@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DEPEND=app-emacs/evil app-emacs/fasd
-DESCRIPTION=using fasd right from evil-ex
+DESCRIPTION=Using fasd right from evil-ex
 EAPI=8
 HOMEPAGE=https://github.com/yqrashawn/evil-ex-fasd
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/evil app-emacs/fasd >=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/evil-ex-fasd-20180903.612.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=0109adcfcbbbb40ecebbd13eefd4374a
+_md5_=7ce947523126c151a0626bc9e37daa55

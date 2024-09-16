@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="lxc integration with Emacs"
+DESCRIPTION="Lxc integration with Emacs"
 
 HOMEPAGE="https://github.com/nicferrier/emacs-lxc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

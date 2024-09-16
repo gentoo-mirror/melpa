@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helm extension to list svn files"
+DESCRIPTION="Helm extension to list svn files"
 
 HOMEPAGE="https://svn.macports.org/repository/macports/users/chunyang/helm-ls-svn.el/helm-ls-svn.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

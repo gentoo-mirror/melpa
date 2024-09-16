@@ -1,6 +1,6 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=locally override functions
+DESCRIPTION=Locally override functions
 EAPI=8
 HOMEPAGE=https://github.com/nicferrier/emacs-noflet
 INHERIT=g-sorcery gs-elpa
@@ -9,4 +9,4 @@ RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/noflet-20141102.1454.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=6c44f36f4bc5a9fad4613b5d057e808b
+_md5_=8e66b108585ab786cb5c9b7a6d3e989b

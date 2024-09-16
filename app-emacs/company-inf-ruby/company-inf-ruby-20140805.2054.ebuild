@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="company-mode completion back-end for inf-ruby"
+DESCRIPTION="Company-mode completion back-end for inf-ruby"
 
 HOMEPAGE="https://github.com/company-mode/company-inf-ruby"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

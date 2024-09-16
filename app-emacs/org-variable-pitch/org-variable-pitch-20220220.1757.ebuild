@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minor mode for variable pitch text in org mode."
+DESCRIPTION="Minor mode for variable pitch text in org mode"
 
 HOMEPAGE="https://dev.gkayaalp.com/elisp/index.html#ovp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

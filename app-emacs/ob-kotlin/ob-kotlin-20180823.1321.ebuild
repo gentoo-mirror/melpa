@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org-babel functions for kotlin evaluation"
+DESCRIPTION="Org-babel functions for kotlin evaluation"
 
 HOMEPAGE="http://github.com/zweifisch/ob-kotlin"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

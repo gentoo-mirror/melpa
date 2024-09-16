@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="interactively insert item from kill-ring"
+DESCRIPTION="Interactively insert item from kill-ring"
 
 HOMEPAGE="https://github.com/waymondo/popup-kill-ring"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

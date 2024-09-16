@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="run mbsync to fetch mails"
+DESCRIPTION="Run mbsync to fetch mails"
 
 HOMEPAGE="https://github.com/dimitri/mbsync-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

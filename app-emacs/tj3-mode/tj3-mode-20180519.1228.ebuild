@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="major mode for editing TaskJuggler 3 files"
+DESCRIPTION="Major mode for editing TaskJuggler 3 files"
 
 HOMEPAGE="https://github.com/csrhodes/tj3-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

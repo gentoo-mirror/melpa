@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Switch back and forth between similarly named buffers."
+DESCRIPTION="Switch back and forth between similarly named buffers"
 
 HOMEPAGE="https://github.com/julien-montmartin/related"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

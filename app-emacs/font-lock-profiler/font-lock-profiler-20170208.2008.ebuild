@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Coverage and timing tool for font-lock keywords."
+DESCRIPTION="Coverage and timing tool for font-lock keywords"
 
 HOMEPAGE="https://github.com/Lindydancer/font-lock-profiler"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

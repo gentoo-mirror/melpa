@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="decompilation extension for cider"
+DESCRIPTION="Decompilation extension for cider"
 
 HOMEPAGE="http://www.github.com/clojure-emacs/cider-decompile"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

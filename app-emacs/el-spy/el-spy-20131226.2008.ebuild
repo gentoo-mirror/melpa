@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Mocking framework for Emacs lisp. It also support spy, proxy."
+DESCRIPTION="Mocking framework for Emacs lisp. It also support spy, proxy"
 
 HOMEPAGE="https://github.com/uk-ar/el-spy"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Send org link file to ebook reader."
+DESCRIPTION="Send org link file to ebook reader"
 
 HOMEPAGE="https://repo.or.cz/org-kindle.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="automatically sync org-mobile on changes"
+DESCRIPTION="Automatically sync org-mobile on changes"
 
 HOMEPAGE="https://framagit.org/steckerhalter/org-mobile-sync"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="send & twiddle & resend HTTP requests"
+DESCRIPTION="Send & twiddle & resend HTTP requests"
 
 HOMEPAGE="https://github.com/hassy/http-twiddle/blob/master/http-twiddle.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

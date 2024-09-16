@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="vim-like window controlling plugin"
+DESCRIPTION="Vim-like window controlling plugin"
 
 HOMEPAGE="https://github.com/dryman/smart-window.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

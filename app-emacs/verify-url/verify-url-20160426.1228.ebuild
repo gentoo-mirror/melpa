@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="find out invalid urls in the buffer or region"
+DESCRIPTION="Find out invalid urls in the buffer or region"
 
 HOMEPAGE="https://github.com/lujun9972/verify-url"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

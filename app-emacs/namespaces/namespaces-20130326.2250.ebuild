@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="An implementation of namespaces for Elisp, with an emphasis on immutabilty."
+DESCRIPTION="An implementation of namespaces for Elisp, with an emphasis on immutabilty"
 
 HOMEPAGE="https://github.com/chrisbarrett/elisp-namespaces"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

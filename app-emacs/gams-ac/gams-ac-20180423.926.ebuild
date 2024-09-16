@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="auto-complete source file for GAMS mode"
+DESCRIPTION="Auto-complete source file for GAMS mode"
 
 HOMEPAGE="https://github.com/ShiroTakeda/gams-ac"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

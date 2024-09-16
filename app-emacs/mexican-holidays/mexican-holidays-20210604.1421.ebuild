@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Mexico holidays for Emacs calendar."
+DESCRIPTION="Mexico holidays for Emacs calendar"
 
 HOMEPAGE="https://github.com/sggutier/mexican-holidays"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

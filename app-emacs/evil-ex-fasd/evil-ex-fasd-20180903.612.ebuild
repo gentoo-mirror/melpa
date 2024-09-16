@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="using fasd right from evil-ex"
+DESCRIPTION="Using fasd right from evil-ex"
 
 HOMEPAGE="https://github.com/yqrashawn/evil-ex-fasd"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

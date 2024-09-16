@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Show gerrit reviews in a diff buffer."
+DESCRIPTION="Show gerrit reviews in a diff buffer"
 
 HOMEPAGE="https://github.com/chmouel/gerrit-download.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

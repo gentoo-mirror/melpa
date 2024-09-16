@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A lightweight wrapper for Jekyll and Octopress."
+DESCRIPTION="A lightweight wrapper for Jekyll and Octopress"
 
 HOMEPAGE="https://github.com/aaronbieber/octopress.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

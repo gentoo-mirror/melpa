@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="dakrone's custom dark theme"
+DESCRIPTION="Dakrone's custom dark theme"
 
 HOMEPAGE="https://github.com/dakrone/dakrone-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

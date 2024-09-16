@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="locally override functions"
+DESCRIPTION="Locally override functions"
 
 HOMEPAGE="https://github.com/nicferrier/emacs-noflet"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

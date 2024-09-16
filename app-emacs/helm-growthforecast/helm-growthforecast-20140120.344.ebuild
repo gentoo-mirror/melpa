@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helm extensions for growthforecast."
+DESCRIPTION="Helm extensions for growthforecast"
 
 HOMEPAGE="https://github.com/daic-h/helm-growthforecast"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="invoke shell-command right from evil-ex"
+DESCRIPTION="Invoke shell-command right from evil-ex"
 
 HOMEPAGE="https://github.com/yqrashawn/evil-ex-shell-command"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

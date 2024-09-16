@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="use ido with flex and migemo"
+DESCRIPTION="Use ido with flex and migemo"
 
 HOMEPAGE="https://github.com/ROCKTAKEY/ido-flex-with-migemo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

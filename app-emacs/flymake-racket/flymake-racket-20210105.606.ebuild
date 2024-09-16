@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Flymake extension for Racket."
+DESCRIPTION="Flymake extension for Racket"
 
 HOMEPAGE="https://github.com/jojojames/flymake-racket"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

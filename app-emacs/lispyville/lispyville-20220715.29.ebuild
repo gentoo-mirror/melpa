@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A minor mode for integrating evil with lispy."
+DESCRIPTION="A minor mode for integrating evil with lispy"
 
 HOMEPAGE="https://github.com/noctuid/lispyville"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

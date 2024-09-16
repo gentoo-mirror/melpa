@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="term+ intercept key mapping"
+DESCRIPTION="Term+ intercept key mapping"
 
 HOMEPAGE="http://github.com/tarao/term+-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

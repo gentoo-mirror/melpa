@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for PicoLisp programming."
+DESCRIPTION="Major mode for PicoLisp programming"
 
 HOMEPAGE="https://github.com/flexibeast/plisp-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

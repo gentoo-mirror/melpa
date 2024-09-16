@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="constant database (cdb) reader for Emacs Lisp"
+DESCRIPTION="Constant database (cdb) reader for Emacs Lisp"
 
 HOMEPAGE="https://github.com/skk-dev/ddskk"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

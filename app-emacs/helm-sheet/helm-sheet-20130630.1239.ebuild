@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helm sources for sheet"
+DESCRIPTION="Helm sources for sheet"
 
 HOMEPAGE="https://github.com/yasuyk/helm-sheet"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

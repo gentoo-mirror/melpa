@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="save opened files across sessions"
+DESCRIPTION="Save opened files across sessions"
 
 HOMEPAGE="http://github.com/nflath/save-visited-files"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

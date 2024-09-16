@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Theme with a dark background suitable for UI and terminal usage."
+DESCRIPTION="Theme with a dark background suitable for UI and terminal usage"
 
 HOMEPAGE="https://github.com/yveszoundi/emacs-rimero-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

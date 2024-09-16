@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major-mode for editing Djinni files."
+DESCRIPTION="Major-mode for editing Djinni files"
 
 HOMEPAGE="https://github.com/danielmartin/djinni-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

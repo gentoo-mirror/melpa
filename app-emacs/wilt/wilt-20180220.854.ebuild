@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="An extensions for calculating WILT in a buffer."
+DESCRIPTION="An extensions for calculating WILT in a buffer"
 
 HOMEPAGE="https://github.com/sixty-north/emacs-wilt"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

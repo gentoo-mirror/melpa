@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="useful HTTP client"
+DESCRIPTION="Useful HTTP client"
 
 HOMEPAGE="http://github.com/nicferrier/emacs-web"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="The fastest buffer-jumping Emacs lisp package around."
+DESCRIPTION="The fastest buffer-jumping Emacs lisp package around"
 
 HOMEPAGE="https://github.com/waymondo/frog-jump-buffer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

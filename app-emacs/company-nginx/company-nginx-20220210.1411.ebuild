@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="company-mode keywords support for nginx-mode"
+DESCRIPTION="Company-mode keywords support for nginx-mode"
 
 HOMEPAGE="https://repo.or.cz/company-nginx.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

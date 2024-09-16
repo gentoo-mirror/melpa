@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a library for parsing config file"
+DESCRIPTION="A library for parsing config file"
 
 HOMEPAGE="https://github.com/lujun9972/el-config-parser"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

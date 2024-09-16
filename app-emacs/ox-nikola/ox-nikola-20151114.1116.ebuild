@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Export Nikola articles using org-mode."
+DESCRIPTION="Export Nikola articles using org-mode"
 
 HOMEPAGE="https://github.com/masayuko/ox-nikola"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

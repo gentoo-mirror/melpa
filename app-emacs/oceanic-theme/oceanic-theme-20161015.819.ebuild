@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Oceanic theme."
+DESCRIPTION="Oceanic theme"
 
 HOMEPAGE="https://github.com/terry3/oceanic-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

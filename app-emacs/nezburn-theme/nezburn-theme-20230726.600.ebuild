@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A low contrast color theme for Emacs (inspired by zenburn)."
+DESCRIPTION="A low contrast color theme for Emacs (inspired by zenburn)"
 
 HOMEPAGE="http://github.com/lanjoni/nezburn"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

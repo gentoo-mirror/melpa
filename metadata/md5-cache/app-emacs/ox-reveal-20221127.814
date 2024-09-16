@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DEPEND=app-emacs/org-mode
-DESCRIPTION=reveal.js Presentation Back-End for Org Export Engine
+DESCRIPTION=Reveal.js Presentation Back-End for Org Export Engine
 EAPI=8
 HOMEPAGE=https://melpa.org/packages/
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/org-mode >=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/ox-reveal-20221127.814.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=ba6b4d4fd7365e73620c74f04cc72548
+_md5_=5232973a43b1fdaf760a3fc28995cc1f

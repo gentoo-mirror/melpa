@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Low-contrast color scheme based on Seoul Colors."
+DESCRIPTION="Low-contrast color scheme based on Seoul Colors"
 
 HOMEPAGE="http://github.com/anandpiyer/seoul256-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

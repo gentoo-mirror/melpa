@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="code to split customizations into different files"
+DESCRIPTION="Code to split customizations into different files"
 
 HOMEPAGE="http://www.gci-net.com/users/j/johnw/emacs.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

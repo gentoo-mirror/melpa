@@ -1,6 +1,6 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=display relative line number in emacs.
+DESCRIPTION=Display relative line number in emacs
 EAPI=8
 HOMEPAGE=http://github.com/coldnew/linum-relative
 INHERIT=g-sorcery gs-elpa
@@ -9,4 +9,4 @@ RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/linum-relative-20221025.517.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=99addb31b9a0f7f3aaa3a3a81cf2e8bd
+_md5_=4d1cb0c66444ed1062545d8a7b275054

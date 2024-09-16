@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="simple menubar integration for org-clock"
+DESCRIPTION="Simple menubar integration for org-clock"
 
 HOMEPAGE="https://github.com/jordonbiondo/osx-org-clock-menubar"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

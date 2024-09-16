@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Yet another emacs dark color theme."
+DESCRIPTION="Yet another emacs dark color theme"
 
 HOMEPAGE="https://github.com/pierre-lecocq/darkmine-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

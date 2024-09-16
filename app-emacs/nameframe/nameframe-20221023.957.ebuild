@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Manage frames by name."
+DESCRIPTION="Manage frames by name"
 
 HOMEPAGE="https://github.com/john2x/nameframe"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Choose a database to connect to via Helm."
+DESCRIPTION="Choose a database to connect to via Helm"
 
 HOMEPAGE="https://github.com/eric-hansen/helm-sql-connect"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

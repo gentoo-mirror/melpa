@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A command that is clone of \"ci\" in vim."
+DESCRIPTION="A command that is clone of \"ci\" in vim"
 
 HOMEPAGE="https://github.com/cs14095/ciel.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

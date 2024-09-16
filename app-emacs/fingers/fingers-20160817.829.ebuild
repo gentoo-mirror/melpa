@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Modal editing with universal text manipulation helpers."
+DESCRIPTION="Modal editing with universal text manipulation helpers"
 
 HOMEPAGE="http://github.com/fgeller/fingers.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

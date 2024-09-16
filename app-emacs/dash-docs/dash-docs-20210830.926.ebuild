@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Offline documentation browser using Dash docsets."
+DESCRIPTION="Offline documentation browser using Dash docsets"
 
 HOMEPAGE="http://github.com/areina/helm-dash"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="text object for entire lines of buffer for evil"
+DESCRIPTION="Text object for entire lines of buffer for evil"
 
 HOMEPAGE="https://github.com/supermomonga/evil-textobj-entire"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="C code style for CFEngine project."
+DESCRIPTION="C code style for CFEngine project"
 
 HOMEPAGE="https://github.com/cfengine/core"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

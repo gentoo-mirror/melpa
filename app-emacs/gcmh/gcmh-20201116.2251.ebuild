@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="the Garbage Collector Magic Hack"
+DESCRIPTION="The Garbage Collector Magic Hack"
 
 HOMEPAGE="https://gitlab.com/koral/gcmh"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

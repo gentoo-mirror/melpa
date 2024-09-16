@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Org-mode Babel support for SMILES."
+DESCRIPTION="Org-mode Babel support for SMILES"
 
 HOMEPAGE="https://repo.or.cz/ob-smiles.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

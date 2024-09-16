@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="eval-after-load for all files in a directory"
+DESCRIPTION="Eval-after-load for all files in a directory"
 
 HOMEPAGE="https://github.com/pd/easy-after-load"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

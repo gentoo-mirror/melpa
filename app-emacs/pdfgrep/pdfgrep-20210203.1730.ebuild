@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="run \`pdfgrep' and display the results."
+DESCRIPTION="Run \`pdfgrep' and display the results"
 
 HOMEPAGE="https://github.com/jeremy-compostella/pdfgrep"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

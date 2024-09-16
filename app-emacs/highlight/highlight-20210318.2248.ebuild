@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Highlighting commands."
+DESCRIPTION="Highlighting commands"
 
 HOMEPAGE="https://www.emacswiki.org/emacs/download/highlight.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

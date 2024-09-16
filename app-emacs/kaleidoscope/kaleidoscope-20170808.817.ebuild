@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Controlling Kaleidoscope-powered devices."
+DESCRIPTION="Controlling Kaleidoscope-powered devices"
 
 HOMEPAGE="https://github.com/algernon/kaleidoscope.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

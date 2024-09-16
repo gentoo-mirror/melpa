@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="company-mode for Arduino"
+DESCRIPTION="Company-mode for Arduino"
 
 HOMEPAGE="https://github.com/yuutayamada/company-arduino"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

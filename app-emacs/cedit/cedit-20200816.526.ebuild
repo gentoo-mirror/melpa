@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="paredit-like commands for c-like languages"
+DESCRIPTION="Paredit-like commands for c-like languages"
 
 HOMEPAGE="http://zk-phi.gitub.io/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

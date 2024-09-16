@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fork of subatomic-theme for terminals."
+DESCRIPTION="Fork of subatomic-theme for terminals"
 
 HOMEPAGE="https://github.com/cryon/subatomic256"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="samba log viewer"
+DESCRIPTION="Samba log viewer"
 
 HOMEPAGE="http://github.com/aaptel/smblog-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

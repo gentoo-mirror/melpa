@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DEPEND=app-emacs/company app-emacs/flx
-DESCRIPTION=flx based fuzzy matching for company
+DESCRIPTION=Flx based fuzzy matching for company
 EAPI=8
 HOMEPAGE=https://github.com/PythonNut/company-flx
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/company app-emacs/flx >=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/company-flx-20180103.518.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=32d44bce412bc40881c3bff05b9a8794
+_md5_=af985a870ddb7c5f90c25b990f697bce

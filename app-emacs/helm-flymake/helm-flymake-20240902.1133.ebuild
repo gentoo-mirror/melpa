@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helm sources for flymake"
+DESCRIPTION="Helm sources for flymake"
 
 HOMEPAGE="https://github.com/emacs-helm/helm-flymake"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

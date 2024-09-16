@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Sailfish OS scratchbox inside the emacs."
+DESCRIPTION="Sailfish OS scratchbox inside the emacs"
 
 HOMEPAGE="https://github.com/vityafx/sailfish-scratchbox.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

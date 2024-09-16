@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="parenthesis auto-pairing and wrapping"
+DESCRIPTION="Parenthesis auto-pairing and wrapping"
 
 HOMEPAGE="https://github.com/snosov1/dummyparens"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

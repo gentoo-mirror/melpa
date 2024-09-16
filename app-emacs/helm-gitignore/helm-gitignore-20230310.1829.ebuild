@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Generate .gitignore files with gitignore.io."
+DESCRIPTION="Generate .gitignore files with gitignore.io"
 
 HOMEPAGE="https://github.com/jupl/helm-gitignore"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

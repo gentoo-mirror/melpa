@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Evil friendly minor-mode for editing lisp."
+DESCRIPTION="Evil friendly minor-mode for editing lisp"
 
 HOMEPAGE="https://github.com/emacs-evil/evil-cleverparens"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

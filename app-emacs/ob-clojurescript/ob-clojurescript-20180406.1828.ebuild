@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org-babel functions for ClojureScript evaluation"
+DESCRIPTION="Org-babel functions for ClojureScript evaluation"
 
 HOMEPAGE="https://gitlab.com/statonjr/ob-clojurescript"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

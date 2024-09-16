@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="term-mode enhancement"
+DESCRIPTION="Term-mode enhancement"
 
 HOMEPAGE="https://github.com/tarao/term-plus-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

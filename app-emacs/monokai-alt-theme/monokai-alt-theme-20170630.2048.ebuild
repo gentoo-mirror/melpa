@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Theme with a dark background. Based on sublime monokai theme."
+DESCRIPTION="Theme with a dark background. Based on sublime monokai theme"
 
 HOMEPAGE="https://github.com/dawidof/emacs-monokai-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

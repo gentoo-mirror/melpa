@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Helm interface to major and minor modes."
+DESCRIPTION="Helm interface to major and minor modes"
 
 HOMEPAGE="https://github.com/emacs-helm/helm-describe-modes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

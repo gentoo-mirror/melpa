@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="mode for working with FIRRTL files"
+DESCRIPTION="Mode for working with FIRRTL files"
 
 HOMEPAGE="https://github.com/ibm/firrtl-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

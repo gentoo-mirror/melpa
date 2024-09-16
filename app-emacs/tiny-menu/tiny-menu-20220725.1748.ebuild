@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Display tiny menus."
+DESCRIPTION="Display tiny menus"
 
 HOMEPAGE="https://github.com/aaronbieber/tiny-menu.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

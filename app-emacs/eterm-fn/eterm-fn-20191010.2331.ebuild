@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Function keys (F1--F12) for term."
+DESCRIPTION="Function keys (F1--F12) for term"
 
 HOMEPAGE="https://github.com/oitofelix/eterm-fn"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

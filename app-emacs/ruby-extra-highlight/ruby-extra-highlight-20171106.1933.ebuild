@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Highlight Ruby parameters."
+DESCRIPTION="Highlight Ruby parameters"
 
 HOMEPAGE="https://github.com/Lindydancer/ruby-extra-highlight"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

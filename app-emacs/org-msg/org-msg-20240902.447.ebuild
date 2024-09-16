@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Org mode to send and reply to email in HTML."
+DESCRIPTION="Org mode to send and reply to email in HTML"
 
 HOMEPAGE="https://github.com/jeremy-compostella/org-msg"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

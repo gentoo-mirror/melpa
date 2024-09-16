@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="minor mode to repeat typing or commands"
+DESCRIPTION="Minor mode to repeat typing or commands"
 
 HOMEPAGE="https://github.com/wyrickre/dot-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

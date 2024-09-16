@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Use proportional fonts with space-based indentation."
+DESCRIPTION="Use proportional fonts with space-based indentation"
 
 HOMEPAGE="https://github.com/ikirill/propfont-mixed"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

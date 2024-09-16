@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="display icon for major-mode on mode-line."
+DESCRIPTION="Display icon for major-mode on mode-line"
 
 HOMEPAGE="https://repo.or.cz/major-mode-icons.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

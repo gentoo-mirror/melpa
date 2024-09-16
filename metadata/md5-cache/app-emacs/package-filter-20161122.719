@@ -1,6 +1,6 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=package archive whitelist and blacklist
+DESCRIPTION=Package archive whitelist and blacklist
 EAPI=8
 HOMEPAGE=https://github.com/milkypostman/package-filter
 INHERIT=g-sorcery gs-elpa
@@ -9,4 +9,4 @@ RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/package-filter-20161122.719.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=e7fec0986ae30286a53544a596039a1b
+_md5_=f196c49b0e293f08febe7ba4dc7ba0ac

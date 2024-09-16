@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs SQL client uses Clojure JDBC."
+DESCRIPTION="Emacs SQL client uses Clojure JDBC"
 
 HOMEPAGE="https://github.com/kostafey/ejc-sql"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

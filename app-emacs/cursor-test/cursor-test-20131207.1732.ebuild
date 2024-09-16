@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="testing library for cursor position in emacs."
+DESCRIPTION="Testing library for cursor position in emacs"
 
 HOMEPAGE="https://github.com/ainame/cursor-test.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

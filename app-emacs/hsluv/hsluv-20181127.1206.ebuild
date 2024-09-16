@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="hsluv color space conversions"
+DESCRIPTION="Hsluv color space conversions"
 
 HOMEPAGE="https://github.com/hsluv/hsluv-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

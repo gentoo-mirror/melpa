@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Handling of comment boxes in various styles."
+DESCRIPTION="Handling of comment boxes in various styles"
 
 HOMEPAGE="https://github.com/lewang/rebox2"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

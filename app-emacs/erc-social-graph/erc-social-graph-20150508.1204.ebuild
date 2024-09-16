@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A social network graph module for ERC."
+DESCRIPTION="A social network graph module for ERC"
 
 HOMEPAGE="https://github.com/vibhavp/erc-social-graph"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

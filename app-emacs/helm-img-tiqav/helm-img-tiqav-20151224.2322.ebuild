@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="An helm-source for joking."
+DESCRIPTION="An helm-source for joking"
 
 HOMEPAGE="https://github.com/l3msh0/helm-img"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

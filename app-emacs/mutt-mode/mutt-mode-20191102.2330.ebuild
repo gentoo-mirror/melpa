@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="major mode for editing mutt configuration"
+DESCRIPTION="Major mode for editing mutt configuration"
 
 HOMEPAGE="https://gitlab.com/flexw/mutt-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

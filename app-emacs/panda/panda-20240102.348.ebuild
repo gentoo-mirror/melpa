@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Client for Bamboo's REST API."
+DESCRIPTION="Client for Bamboo's REST API"
 
 HOMEPAGE="https://github.com/sebasmonia/panda"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

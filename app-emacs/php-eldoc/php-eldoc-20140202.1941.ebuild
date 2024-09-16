@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="eldoc backend for php"
+DESCRIPTION="Eldoc backend for php"
 
 HOMEPAGE="https://github.com/sabof/php-eldoc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

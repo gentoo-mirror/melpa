@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DEPEND=app-emacs/avy app-emacs/migemo
-DESCRIPTION=avy with migemo
+DESCRIPTION=Avy with migemo
 EAPI=8
 HOMEPAGE=https://github.com/momomo5717/avy-migemo
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/avy app-emacs/migemo >=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/avy-migemo-20180716.1455.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=bec25469b08dd0fe97830823df618d47
+_md5_=1bedd7a6fb629101a55722b4af3a1534

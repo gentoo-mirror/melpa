@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Ledger Recurring Transactions."
+DESCRIPTION="Ledger Recurring Transactions"
 
 HOMEPAGE="https://github.com/davidkeegan/dklrt"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

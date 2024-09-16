@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="binary line navigation minor mode for cursor movement in long lines"
+DESCRIPTION="Binary line navigation minor mode for cursor movement in long lines"
 
 HOMEPAGE="https://github.com/mgrachten/bln-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

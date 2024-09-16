@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for Simple Declarative Language files."
+DESCRIPTION="Major mode for Simple Declarative Language files"
 
 HOMEPAGE="https://github.com/CyberShadow/sdlang-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="load elisp libraries while Emacs is idle"
+DESCRIPTION="Load elisp libraries while Emacs is idle"
 
 HOMEPAGE="http://nschum.de/src/emacs/idle-require/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

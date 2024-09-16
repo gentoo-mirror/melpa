@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Shadowenv integration."
+DESCRIPTION="Shadowenv integration"
 
 HOMEPAGE="https://github.com/Shopify/shadowenv.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

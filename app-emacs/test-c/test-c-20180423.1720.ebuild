@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="quickly test c code"
+DESCRIPTION="Quickly test c code"
 
 HOMEPAGE="http://github.com/aaptel/test-c"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

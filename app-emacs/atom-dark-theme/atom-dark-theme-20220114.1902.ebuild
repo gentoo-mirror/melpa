@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="An Emacs port of the Atom Dark theme from Atom.io."
+DESCRIPTION="An Emacs port of the Atom Dark theme from Atom.io"
 
 HOMEPAGE="https://github.com/whitlockjc/atom-dark-theme-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

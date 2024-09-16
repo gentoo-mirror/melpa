@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for editing ejson files."
+DESCRIPTION="Major mode for editing ejson files"
 
 HOMEPAGE="https://github.com/dantecatalfamo/ejson-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

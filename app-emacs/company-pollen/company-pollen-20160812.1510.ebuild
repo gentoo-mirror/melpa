@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="company-mode completion backend for pollen"
+DESCRIPTION="Company-mode completion backend for pollen"
 
 HOMEPAGE="https://github.com/lijunsong/pollen-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

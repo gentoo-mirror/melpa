@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="run pydoc with counsel"
+DESCRIPTION="Run pydoc with counsel"
 
 HOMEPAGE="https://github.com/co-dh/pydoc_utils"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

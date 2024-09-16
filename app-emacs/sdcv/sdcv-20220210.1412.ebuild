@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Interface for sdcv (StartDict console version)."
+DESCRIPTION="Interface for sdcv (StartDict console version)"
 
 HOMEPAGE="https://repo.or.cz/sdcv.el.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

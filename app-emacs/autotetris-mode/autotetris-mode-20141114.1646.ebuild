@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="automatically play tetris"
+DESCRIPTION="Automatically play tetris"
 
 HOMEPAGE="https://github.com/skeeto/autotetris-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Local crystal playground for short code snippets."
+DESCRIPTION="Local crystal playground for short code snippets"
 
 HOMEPAGE="https://github.com/jasonrobot/crystal-playground"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

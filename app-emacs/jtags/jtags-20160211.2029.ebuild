@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="enhanced tags functionality for Java development"
+DESCRIPTION="Enhanced tags functionality for Java development"
 
 HOMEPAGE="http://jtags.sourceforge.net"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

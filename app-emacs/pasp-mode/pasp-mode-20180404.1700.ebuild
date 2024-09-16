@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="- A major mode for editing Answer Set Programs."
+DESCRIPTION="- A major mode for editing Answer Set Programs"
 
 HOMEPAGE="https://github.com/santifa/pasp-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

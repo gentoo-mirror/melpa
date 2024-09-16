@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A light color theme with muted, autumnal colors."
+DESCRIPTION="A light color theme with muted, autumnal colors"
 
 HOMEPAGE="http://github.com/aalpern/emacs-color-theme-autumn-light"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="mu4e jump-to-list extension"
+DESCRIPTION="Mu4e jump-to-list extension"
 
 HOMEPAGE="https://gitlab.com/wavexx/mu4e-jump-to-list.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

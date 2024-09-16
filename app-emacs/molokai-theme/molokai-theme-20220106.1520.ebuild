@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="molokai theme with Emacs theme engine"
+DESCRIPTION="Molokai theme with Emacs theme engine"
 
 HOMEPAGE="https://github.com/alloy-d/color-theme-molokai"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

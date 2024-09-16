@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="clojars.org search interface"
+DESCRIPTION="Clojars.org search interface"
 
 HOMEPAGE="https://github.com/joshuamiller/clojars.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="sync with Unison"
+DESCRIPTION="Sync with Unison"
 
 HOMEPAGE="http://github.com/unhammer/unison.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

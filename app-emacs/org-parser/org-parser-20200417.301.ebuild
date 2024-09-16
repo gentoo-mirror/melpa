@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="parse org files into structured datatypes."
+DESCRIPTION="Parse org files into structured datatypes"
 
 HOMEPAGE="https://hg.sr.ht/~zck/org-parser"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

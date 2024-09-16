@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Toggles between the vterm buffer and other buffers."
+DESCRIPTION="Toggles between the vterm buffer and other buffers"
 
 HOMEPAGE="https://github.com/jixiuf/vterm-toggle"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

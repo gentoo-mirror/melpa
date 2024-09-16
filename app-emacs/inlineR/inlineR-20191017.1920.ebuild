@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="insert Tag for inline image of R graphics"
+DESCRIPTION="Insert Tag for inline image of R graphics"
 
 HOMEPAGE="https://github.com/myuhe/inlineR.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

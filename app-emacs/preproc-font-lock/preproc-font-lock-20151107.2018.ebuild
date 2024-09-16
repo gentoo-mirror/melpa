@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Highlight C-style preprocessor directives."
+DESCRIPTION="Highlight C-style preprocessor directives"
 
 HOMEPAGE="https://github.com/Lindydancer/preproc-font-lock"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

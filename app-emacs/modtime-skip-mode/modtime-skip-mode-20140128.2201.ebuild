@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minor mode for disabling modtime and supersession checks on files."
+DESCRIPTION="Minor mode for disabling modtime and supersession checks on files"
 
 HOMEPAGE="http://www.github.com/jordonbiondo/modtime-skip-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="highlight alternating lines differently"
+DESCRIPTION="Highlight alternating lines differently"
 
 HOMEPAGE="http://git.smrk.net/stripes.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

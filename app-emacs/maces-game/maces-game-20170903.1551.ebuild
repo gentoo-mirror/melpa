@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="another anagram game."
+DESCRIPTION="Another anagram game"
 
 HOMEPAGE="https://github.com/pawelbx/anagram-game"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="export org-mode document to onenote."
+DESCRIPTION="Export org-mode document to onenote"
 
 HOMEPAGE="https://github.com/ifree/org-onenote"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

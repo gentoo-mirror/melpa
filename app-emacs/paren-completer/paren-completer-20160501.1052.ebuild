@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Automatically, language agnostically, fill in delimiters."
+DESCRIPTION="Automatically, language agnostically, fill in delimiters"
 
 HOMEPAGE="https://github.com/MatthewBregg/paren-completer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

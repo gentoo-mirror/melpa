@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Enable custom bindings when mark is active."
+DESCRIPTION="Enable custom bindings when mark is active"
 
 HOMEPAGE="https://github.com/fgallina/region-bindings-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

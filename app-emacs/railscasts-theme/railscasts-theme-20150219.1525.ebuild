@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Railscasts color theme for GNU Emacs."
+DESCRIPTION="Railscasts color theme for GNU Emacs"
 
 HOMEPAGE="https://github.com/mikenichols/railscasts-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

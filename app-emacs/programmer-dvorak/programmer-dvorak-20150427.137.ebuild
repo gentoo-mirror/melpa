@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Input method for Programmer Dvorak."
+DESCRIPTION="Input method for Programmer Dvorak"
 
 HOMEPAGE="https://github.com/yangchenyun/programmer-dvorak"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

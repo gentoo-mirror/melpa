@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Show inline contextual docs."
+DESCRIPTION="Show inline contextual docs"
 
 HOMEPAGE="https://repo.or.cz/inline-docs.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

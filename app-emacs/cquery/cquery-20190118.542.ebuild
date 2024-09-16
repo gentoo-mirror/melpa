@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="cquery client for lsp-mode"
+DESCRIPTION="Cquery client for lsp-mode"
 
 HOMEPAGE="https://github.com/jacobdufault/cquery"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

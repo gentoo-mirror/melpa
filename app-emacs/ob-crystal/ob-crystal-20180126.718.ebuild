@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org-babel functions for Crystal evaluation"
+DESCRIPTION="Org-babel functions for Crystal evaluation"
 
 HOMEPAGE="https://github.com/brantou/ob-crystal"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

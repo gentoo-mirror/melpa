@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Provide Java IDE features powered by JavaComp."
+DESCRIPTION="Provide Java IDE features powered by JavaComp"
 
 HOMEPAGE="https://github.com/tigersoldier/lsp-javacomp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

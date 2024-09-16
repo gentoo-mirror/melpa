@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="An M&M color theme."
+DESCRIPTION="An M&M color theme"
 
 HOMEPAGE="https://github.com/choppsv1/emacs-mandm-theme.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

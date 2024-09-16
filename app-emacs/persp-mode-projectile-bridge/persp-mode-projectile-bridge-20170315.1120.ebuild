@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="persp-mode + projectile integration."
+DESCRIPTION="Persp-mode + projectile integration"
 
 HOMEPAGE="https://github.com/Bad-ptr/persp-mode-projectile-bridge.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

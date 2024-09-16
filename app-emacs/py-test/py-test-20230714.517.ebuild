@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A test runner for Python code."
+DESCRIPTION="A test runner for Python code"
 
 HOMEPAGE="https://github.com/Bogdanp/py-test.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

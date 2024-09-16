@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DEPEND=app-emacs/seq
-DESCRIPTION=Send org link file to ebook reader.
+DESCRIPTION=Send org link file to ebook reader
 EAPI=8
 HOMEPAGE=https://repo.or.cz/org-kindle.git
 INHERIT=g-sorcery gs-elpa
@@ -10,4 +10,4 @@ RDEPEND=app-emacs/seq >=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/org-kindle-20220210.1408.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=abcee19a19ee28d281d713aefec98d61
+_md5_=4812aeaf4ed0225d73e9afb29b5e020f

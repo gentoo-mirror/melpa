@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="review and correct assignments received by mail"
+DESCRIPTION="Review and correct assignments received by mail"
 
 HOMEPAGE="http://arne.chark.eu/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a minor mode to evaluate PHP code in the Boris repl"
+DESCRIPTION="A minor mode to evaluate PHP code in the Boris repl"
 
 HOMEPAGE="https://github.com/steckerhalter/php-boris-minor-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

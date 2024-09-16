@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Cookbook and recipe management with org-mode."
+DESCRIPTION="Cookbook and recipe management with org-mode"
 
 HOMEPAGE="https://github.com/Chobbes/org-chef"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

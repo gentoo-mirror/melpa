@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="luarocks tools"
+DESCRIPTION="Luarocks tools"
 
 HOMEPAGE="https://github.com/emacs-pe/luarocks.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

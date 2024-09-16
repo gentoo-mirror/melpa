@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="navigation backwards and forwards across marks"
+DESCRIPTION="Navigation backwards and forwards across marks"
 
 HOMEPAGE="https://gitlab.com/vancan1ty/emacs-backward-forward/tree/master"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="enhances usability of current xwidget browser"
+DESCRIPTION="Enhances usability of current xwidget browser"
 
 HOMEPAGE="https://github.com/tuhdo/xwidgete"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

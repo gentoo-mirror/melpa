@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="verilog codebase navigation facility"
+DESCRIPTION="Verilog codebase navigation facility"
 
 HOMEPAGE="https://gitlab.com/koral/veri-kompass"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

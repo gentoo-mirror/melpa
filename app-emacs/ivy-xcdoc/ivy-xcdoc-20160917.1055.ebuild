@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Search Xcode documents with ivy interface."
+DESCRIPTION="Search Xcode documents with ivy interface"
 
 HOMEPAGE="https://github.com/hex2010/emacs-ivy-xcdoc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

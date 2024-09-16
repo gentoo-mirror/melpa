@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="An updated blue-green Laguna Theme."
+DESCRIPTION="An updated blue-green Laguna Theme"
 
 HOMEPAGE="https://github.com/HenryNewcomer/laguna-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

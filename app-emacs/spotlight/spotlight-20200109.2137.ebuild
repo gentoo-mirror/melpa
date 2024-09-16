@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="search files with Mac OS X spotlight"
+DESCRIPTION="Search files with Mac OS X spotlight"
 
 HOMEPAGE="http://www.pragmaticemacs.com"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

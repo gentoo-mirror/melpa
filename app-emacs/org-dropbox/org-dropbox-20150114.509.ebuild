@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="move Dropbox notes from phone into org-mode datetree"
+DESCRIPTION="Move Dropbox notes from phone into org-mode datetree"
 
 HOMEPAGE="https://github.com/heikkil/org-dropbox"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

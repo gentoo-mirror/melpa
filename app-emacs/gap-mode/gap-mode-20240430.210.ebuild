@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for editing files in the GAP programming language."
+DESCRIPTION="Major mode for editing files in the GAP programming language"
 
 HOMEPAGE="https://gitlab.com/gvol/gap-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

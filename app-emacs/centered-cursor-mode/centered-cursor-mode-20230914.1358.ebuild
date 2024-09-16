@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="cursor stays vertically centered"
+DESCRIPTION="Cursor stays vertically centered"
 
 HOMEPAGE="https://github.com/andre-r/centered-cursor-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="postcss-sorting interface"
+DESCRIPTION="Postcss-sorting interface"
 
 HOMEPAGE="https://github.com/P233/postcss-sorting.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="edit Google calendar for calfw.el."
+DESCRIPTION="Edit Google calendar for calfw.el"
 
 HOMEPAGE="https://github.com/myuhe/calfw-gcal.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

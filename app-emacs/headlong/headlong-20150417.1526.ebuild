@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="reckless completion"
+DESCRIPTION="Reckless completion"
 
 HOMEPAGE="https://github.com/abo-abo/headlong"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

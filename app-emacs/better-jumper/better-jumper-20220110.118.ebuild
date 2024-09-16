@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="configurable jump list"
+DESCRIPTION="Configurable jump list"
 
 HOMEPAGE="https://github.com/gilbertw1/better-jumper"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

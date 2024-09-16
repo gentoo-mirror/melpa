@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Bypass that mental block when writing your papers."
+DESCRIPTION="Bypass that mental block when writing your papers"
 
 HOMEPAGE="https://github.com/nashamri/academic-phrases"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="URL encoding/decoding utility for Emacs."
+DESCRIPTION="URL encoding/decoding utility for Emacs"
 
 HOMEPAGE="https://github.com/buzztaiki/urlenc-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

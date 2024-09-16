@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Phabricator/Arcanist helpers for Emacs."
+DESCRIPTION="Phabricator/Arcanist helpers for Emacs"
 
 HOMEPAGE="https://github.com/ajtulloch/phabricator.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

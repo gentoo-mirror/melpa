@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Interaction with an Io interpreter."
+DESCRIPTION="Interaction with an Io interpreter"
 
 HOMEPAGE="https://github.com/slackorama/io-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

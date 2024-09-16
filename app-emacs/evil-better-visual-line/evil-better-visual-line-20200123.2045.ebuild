@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="gj and gk visual line mode fix"
+DESCRIPTION="Gj and gk visual line mode fix"
 
 HOMEPAGE="https://github.com/yourfin/evil-better-visual-line"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

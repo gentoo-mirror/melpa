@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="find-dired alternative using fd"
+DESCRIPTION="Find-dired alternative using fd"
 
 HOMEPAGE="https://github.com/yqrashawn/fd-dired"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

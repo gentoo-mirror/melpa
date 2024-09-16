@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="lsp-mode client for python using pyre"
+DESCRIPTION="Lsp-mode client for python using pyre"
 
 HOMEPAGE="https://github.com/jra3/lsp-pyre"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
