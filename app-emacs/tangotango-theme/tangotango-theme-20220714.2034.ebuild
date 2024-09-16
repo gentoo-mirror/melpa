@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Tango Palette color theme for Emacs 24."
+DESCRIPTION="Tango Palette color theme for Emacs 24"
 
 HOMEPAGE="https://github.com/juba/color-theme-tangotango"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="auto-complete sources for emmet-mode's snippets"
+DESCRIPTION="Auto-complete sources for emmet-mode's snippets"
 
 HOMEPAGE="https://github.com/yasuyk/ac-emmet"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

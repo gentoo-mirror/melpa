@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="simplified find-file, revert-file, save-buffer interface"
+DESCRIPTION="Simplified find-file, revert-file, save-buffer interface"
 
 HOMEPAGE="http://www.emacswiki.org/emacs/DiskKey"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

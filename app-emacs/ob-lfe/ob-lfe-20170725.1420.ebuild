@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org-babel functions for lfe evaluation"
+DESCRIPTION="Org-babel functions for lfe evaluation"
 
 HOMEPAGE="http://github.com/zweifisch/ob-lfe"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

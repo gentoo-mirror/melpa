@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="set-based completion"
+DESCRIPTION="Set-based completion"
 
 HOMEPAGE="https://github.com/louy2/evil-avy"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helm sources for bm.el"
+DESCRIPTION="Helm sources for bm.el"
 
 HOMEPAGE="https://github.com/emacs-helm/helm-bm"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

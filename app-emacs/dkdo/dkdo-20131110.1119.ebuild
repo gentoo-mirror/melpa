@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Do List major mode based on org-mode."
+DESCRIPTION="Do List major mode based on org-mode"
 
 HOMEPAGE="https://github.com/davidkeegan/dkdo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="memolist.el is Emacs port of memolist.vim."
+DESCRIPTION="Memolist.el is Emacs port of memolist.vim"
 
 HOMEPAGE="http://github.com/mikanfactory/emacs-memolist"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

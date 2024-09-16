@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Colorful theme, inspired by Gruvbox."
+DESCRIPTION="Colorful theme, inspired by Gruvbox"
 
 HOMEPAGE="https://github.com/TheSuspiciousWombat/SusColors-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

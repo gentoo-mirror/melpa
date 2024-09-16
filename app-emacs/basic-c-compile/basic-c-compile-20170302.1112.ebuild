@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Quickly create a Makefile, compile and run C."
+DESCRIPTION="Quickly create a Makefile, compile and run C"
 
 HOMEPAGE="https://github.com/nick96/basic-c-compile"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="elscreen buffer group"
+DESCRIPTION="Elscreen buffer group"
 
 HOMEPAGE="https://github.com/jeffgran/elscreen-buffer-group"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

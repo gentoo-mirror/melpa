@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Render HTML in org-mode blocks."
+DESCRIPTION="Render HTML in org-mode blocks"
 
 HOMEPAGE="https://github.com/krisajenkins/ob-browser"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

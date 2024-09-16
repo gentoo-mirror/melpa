@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Export org-mode to HTML5 slide."
+DESCRIPTION="Export org-mode to HTML5 slide"
 
 HOMEPAGE="http://github.com/coldnew/org-html5slide"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

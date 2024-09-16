@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="log keyboard commands to buffer"
+DESCRIPTION="Log keyboard commands to buffer"
 
 HOMEPAGE="https://github.com/lewang/command-log-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

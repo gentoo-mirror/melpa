@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="git supported code archive and reference for org-mode"
+DESCRIPTION="Git supported code archive and reference for org-mode"
 
 HOMEPAGE="https://github.com/mschuldt/code-archive"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

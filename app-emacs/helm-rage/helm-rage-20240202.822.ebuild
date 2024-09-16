@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Helm command for rage characters."
+DESCRIPTION="Helm command for rage characters"
 
 HOMEPAGE="https://github.com/bomgar/helm-rage"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

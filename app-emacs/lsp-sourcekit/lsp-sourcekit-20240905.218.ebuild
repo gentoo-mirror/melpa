@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="sourcekit-lsp client for lsp-mode"
+DESCRIPTION="Sourcekit-lsp client for lsp-mode"
 
 HOMEPAGE="https://github.com/emacs-lsp/lsp-sourcekit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

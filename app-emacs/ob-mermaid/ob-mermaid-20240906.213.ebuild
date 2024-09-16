@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org-babel support for mermaid evaluation"
+DESCRIPTION="Org-babel support for mermaid evaluation"
 
 HOMEPAGE="https://github.com/arnm/ob-mermaid"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

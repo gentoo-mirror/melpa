@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Flymake extension for the v.Nu HTML validator."
+DESCRIPTION="Flymake extension for the v.Nu HTML validator"
 
 HOMEPAGE="https://github.com/theneosloth/flymake-vnu"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

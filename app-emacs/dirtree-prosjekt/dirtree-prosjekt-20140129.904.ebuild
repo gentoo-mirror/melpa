@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="dirtree integration for prosjekt."
+DESCRIPTION="Dirtree integration for prosjekt"
 
 HOMEPAGE="https://github.com/abingham/prosjekt"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

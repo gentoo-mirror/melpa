@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A dark and elegant theme for emacs."
+DESCRIPTION="A dark and elegant theme for emacs"
 
 HOMEPAGE="https://github.com/Lokaltog/distinguished-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

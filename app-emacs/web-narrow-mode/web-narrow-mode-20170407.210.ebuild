@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="quick narrow code block in web-mode"
+DESCRIPTION="Quick narrow code block in web-mode"
 
 HOMEPAGE="https://github.com/Qquanwei/web-narrow-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

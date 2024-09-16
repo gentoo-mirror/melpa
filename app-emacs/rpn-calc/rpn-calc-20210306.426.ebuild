@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="quick RPN calculator for hackers"
+DESCRIPTION="Quick RPN calculator for hackers"
 
 HOMEPAGE="https://github.com/zk-phi/rpn-calc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

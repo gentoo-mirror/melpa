@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="send the region content to a function"
+DESCRIPTION="Send the region content to a function"
 
 HOMEPAGE="https://github.com/lujun9972/sendto.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="import csv to bbdb version 3+"
+DESCRIPTION="Import csv to bbdb version 3+"
 
 HOMEPAGE="https://gitlab.com/iankelling/bbdb-csv-import"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

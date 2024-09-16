@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Flymake extension for Gradle."
+DESCRIPTION="Flymake extension for Gradle"
 
 HOMEPAGE="https://github.com/jojojames/flymake-gradle"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

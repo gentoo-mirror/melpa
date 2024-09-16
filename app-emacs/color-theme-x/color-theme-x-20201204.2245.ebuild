@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="convert color themes to X11 resource settings"
+DESCRIPTION="Convert color themes to X11 resource settings"
 
 HOMEPAGE="https://github.com/ajsquared/color-theme-x"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

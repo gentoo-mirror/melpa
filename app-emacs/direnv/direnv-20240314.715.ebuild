@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="direnv integration"
+DESCRIPTION="Direnv integration"
 
 HOMEPAGE="https://github.com/wbolster/emacs-direnv"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

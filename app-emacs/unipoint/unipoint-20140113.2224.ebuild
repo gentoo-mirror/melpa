@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a simple way to insert unicode characters by TeX name"
+DESCRIPTION="A simple way to insert unicode characters by TeX name"
 
 HOMEPAGE="https://github.com/apgwoz/unipoint"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

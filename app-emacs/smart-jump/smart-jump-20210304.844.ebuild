@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Smart go to definition."
+DESCRIPTION="Smart go to definition"
 
 HOMEPAGE="https://github.com/jojojames/smart-jump"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

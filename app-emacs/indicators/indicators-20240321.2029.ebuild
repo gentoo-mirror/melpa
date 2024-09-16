@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Display the buffer relative location of line in the fringe."
+DESCRIPTION="Display the buffer relative location of line in the fringe"
 
 HOMEPAGE="https://github.com/Fuco1/indicators.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="ghs with helm interface"
+DESCRIPTION="Ghs with helm interface"
 
 HOMEPAGE="https://github.com/iory/emacs-helm-ghs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

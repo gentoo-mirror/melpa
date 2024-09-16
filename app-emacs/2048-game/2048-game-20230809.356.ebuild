@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="play 2048 in Emacs"
+DESCRIPTION="Play 2048 in Emacs"
 
 HOMEPAGE="https://hg.sr.ht/~zck/game-2048"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

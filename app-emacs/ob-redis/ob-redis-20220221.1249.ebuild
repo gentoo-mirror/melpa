@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Execute Redis queries within org-mode blocks."
+DESCRIPTION="Execute Redis queries within org-mode blocks"
 
 HOMEPAGE="https://repo.or.cz/ob-redis.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="flycheck checker for elixir dogma"
+DESCRIPTION="Flycheck checker for elixir dogma"
 
 HOMEPAGE="https://github.com/aaronjensen/flycheck-dogma"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

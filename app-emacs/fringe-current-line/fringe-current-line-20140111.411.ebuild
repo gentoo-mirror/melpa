@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="show current line on the fringe."
+DESCRIPTION="Show current line on the fringe"
 
 HOMEPAGE="http://github.com/kyanagi/fringe-current-line/raw/master/fringe-current-line.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

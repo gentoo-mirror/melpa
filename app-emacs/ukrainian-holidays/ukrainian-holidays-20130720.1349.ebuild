@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Ukrainian holidays for Emacs calendar."
+DESCRIPTION="Ukrainian holidays for Emacs calendar"
 
 HOMEPAGE="https://github.com/abo-abo/ukrainian-holidays"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

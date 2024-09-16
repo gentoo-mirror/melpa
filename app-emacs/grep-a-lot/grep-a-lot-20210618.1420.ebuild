@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="manages multiple search results buffers for grep.el"
+DESCRIPTION="Manages multiple search results buffers for grep.el"
 
 HOMEPAGE="https://github.com/ZungBang/emacs-grep-a-lot"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

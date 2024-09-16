@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="evil-based key bindings for mu4e"
+DESCRIPTION="Evil-based key bindings for mu4e"
 
 HOMEPAGE="https://github.com/JorisE/evil-mu4e"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

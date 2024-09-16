@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="sudo support"
+DESCRIPTION="Sudo support"
 
 HOMEPAGE="http://www.emacswiki.org/cgi-bin/wiki/download/sudo-ext.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="network process tools"
+DESCRIPTION="Network process tools"
 
 HOMEPAGE="http://github.com/nicferrier/emacs-procnet"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

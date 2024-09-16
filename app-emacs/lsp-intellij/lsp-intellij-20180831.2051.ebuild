@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="intellij lsp client"
+DESCRIPTION="Intellij lsp client"
 
 HOMEPAGE="https://github.com/Ruin0x11/lsp-intellij"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

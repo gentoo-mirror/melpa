@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="play minesweeper in Emacs"
+DESCRIPTION="Play minesweeper in Emacs"
 
 HOMEPAGE="https://hg.sr.ht/~zck/minesweeper"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

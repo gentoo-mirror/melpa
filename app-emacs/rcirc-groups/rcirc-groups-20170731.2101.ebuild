@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="an emacs buffer in rcirc-groups major mode"
+DESCRIPTION="An emacs buffer in rcirc-groups major mode"
 
 HOMEPAGE="http://tapoueh.org/emacs/rcirc-groups.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Simulate Windows Notepad for logging."
+DESCRIPTION="Simulate Windows Notepad for logging"
 
 HOMEPAGE="https://github.com/dertuxmalwieder/logpad.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

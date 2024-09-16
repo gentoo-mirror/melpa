@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DEPEND=app-emacs/ivy
-DESCRIPTION=launch osx applications via ivy interface
+DESCRIPTION=Launch osx applications via ivy interface
 EAPI=8
 HOMEPAGE=https://github.com/d12frosted/counsel-osx-app
 INHERIT=g-sorcery gs-elpa
@@ -9,5 +9,5 @@ KEYWORDS=~amd64 ~x86
 RDEPEND=app-emacs/ivy >=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/counsel-osx-app-20160821.809.tar
-_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	abb2dda42f680fce87602c8273f832c7	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=aeaac8a71a1128a5eb5927b022ce460c
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
+_md5_=6ecb4ebb39585c8d198f2a64abbf846f

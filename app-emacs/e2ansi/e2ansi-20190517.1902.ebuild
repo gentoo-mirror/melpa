@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Syntax highlighting support for \`less', powered by Emacs."
+DESCRIPTION="Syntax highlighting support for \`less', powered by Emacs"
 
 HOMEPAGE="https://github.com/Lindydancer/e2ansi"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

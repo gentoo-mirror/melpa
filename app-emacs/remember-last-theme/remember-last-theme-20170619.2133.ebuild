@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Remember the last used theme between sessions."
+DESCRIPTION="Remember the last used theme between sessions"
 
 HOMEPAGE="https://github.com/anler/remember-last-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

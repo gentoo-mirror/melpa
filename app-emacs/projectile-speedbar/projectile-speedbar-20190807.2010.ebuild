@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="projectile integration for speedbar"
+DESCRIPTION="Projectile integration for speedbar"
 
 HOMEPAGE="https://github.com/anshulverma/projectile-speedbar"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

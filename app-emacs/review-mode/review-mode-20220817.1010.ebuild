@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="major mode for ReVIEW"
+DESCRIPTION="Major mode for ReVIEW"
 
 HOMEPAGE="https://github.com/kmuto/review-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

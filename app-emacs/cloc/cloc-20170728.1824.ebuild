@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="count lines of code over emacs buffers"
+DESCRIPTION="Count lines of code over emacs buffers"
 
 HOMEPAGE="https://github.com/cosmicexplorer/cloc-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

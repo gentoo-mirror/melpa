@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Help get Bitlbee (http://www.bitlbee.org) up and running."
+DESCRIPTION="Help get Bitlbee (http://www.bitlbee.org) up and running"
 
 HOMEPAGE="https://melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

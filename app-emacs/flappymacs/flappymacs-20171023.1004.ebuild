@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="flappybird clone for emacs"
+DESCRIPTION="Flappybird clone for emacs"
 
 HOMEPAGE="https://github.com/taksatou/flappymacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="lint for the Go source code"
+DESCRIPTION="Lint for the Go source code"
 
 HOMEPAGE="https://github.com/golang/lint"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

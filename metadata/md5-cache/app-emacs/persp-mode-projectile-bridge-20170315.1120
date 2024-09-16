@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DEPEND=app-emacs/persp-mode app-emacs/projectile
-DESCRIPTION=persp-mode + projectile integration.
+DESCRIPTION=Persp-mode + projectile integration
 EAPI=8
 HOMEPAGE=https://github.com/Bad-ptr/persp-mode-projectile-bridge.el
 INHERIT=g-sorcery gs-elpa
@@ -9,5 +9,5 @@ KEYWORDS=~amd64 ~x86
 RDEPEND=app-emacs/persp-mode app-emacs/projectile >=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/persp-mode-projectile-bridge-20170315.1120.tar
-_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	abb2dda42f680fce87602c8273f832c7	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=2541a07437abb95a3511fca218ce2502
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
+_md5_=c38aae435315a17465ca752438611886

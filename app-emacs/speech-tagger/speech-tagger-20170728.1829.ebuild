@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="tag parts of speech using coreNLP"
+DESCRIPTION="Tag parts of speech using coreNLP"
 
 HOMEPAGE="https://github.com/cosmicexplorer/speech-tagger"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

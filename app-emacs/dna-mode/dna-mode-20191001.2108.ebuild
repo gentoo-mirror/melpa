@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a major mode for editing dna sequences"
+DESCRIPTION="A major mode for editing dna sequences"
 
 HOMEPAGE="http://www.mahalito.net/~harley/elisp/dna-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="an Emacs 24 theme based on FireCode (tmTheme)"
+DESCRIPTION="An Emacs 24 theme based on FireCode (tmTheme)"
 
 HOMEPAGE="https://github.com/emacsfodder/tmtheme-to-deftheme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

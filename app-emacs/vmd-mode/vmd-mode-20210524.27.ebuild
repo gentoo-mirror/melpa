@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fast Github-flavored Markdown preview using a vmd subprocess."
+DESCRIPTION="Fast Github-flavored Markdown preview using a vmd subprocess"
 
 HOMEPAGE="https://github.com/blak3mill3r/vmd-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

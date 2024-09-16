@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Creating and managing multiple side-by-side windows."
+DESCRIPTION="Creating and managing multiple side-by-side windows"
 
 HOMEPAGE="https://github.com/Lindydancer/multicolumn"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A Flycheck checker difinition for ClangCheck."
+DESCRIPTION="A Flycheck checker difinition for ClangCheck"
 
 HOMEPAGE="https://github.com/kumar8600/flycheck-clangcheck"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

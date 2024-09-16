@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Helm extension for Rails projects."
+DESCRIPTION="Helm extension for Rails projects"
 
 HOMEPAGE="https://github.com/asok/helm-rails"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

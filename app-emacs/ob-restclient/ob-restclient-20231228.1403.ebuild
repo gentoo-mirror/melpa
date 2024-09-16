@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org-babel functions for restclient-mode"
+DESCRIPTION="Org-babel functions for restclient-mode"
 
 HOMEPAGE="https://github.com/alf/ob-restclient.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

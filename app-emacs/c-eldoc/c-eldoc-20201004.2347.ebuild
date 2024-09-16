@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helpful description of the arguments to C functions"
+DESCRIPTION="Helpful description of the arguments to C functions"
 
 HOMEPAGE="http://github.com/nflath/c-eldoc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

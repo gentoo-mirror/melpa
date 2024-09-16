@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="search for help in clojuredocs.org"
+DESCRIPTION="Search for help in clojuredocs.org"
 
 HOMEPAGE="https://github.com/mbuczko/helm-clojuredocs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

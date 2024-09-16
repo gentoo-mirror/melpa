@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="keep track of positions even after buffer changes"
+DESCRIPTION="Keep track of positions even after buffer changes"
 
 HOMEPAGE="https://github.com/rocky/emacs-loc-changes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

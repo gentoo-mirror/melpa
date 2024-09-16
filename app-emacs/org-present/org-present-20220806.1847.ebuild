@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minimalist presentation minor-mode for Emacs org-mode."
+DESCRIPTION="Minimalist presentation minor-mode for Emacs org-mode"
 
 HOMEPAGE="https://github.com/rlister/org-present"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

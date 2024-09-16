@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minor mode for PureScript's IDE server."
+DESCRIPTION="Minor mode for PureScript's IDE server"
 
 HOMEPAGE="https://github.com/purescript-emacs/psc-ide-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

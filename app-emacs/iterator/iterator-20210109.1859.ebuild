@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A library to create and use elisp iterators objects."
+DESCRIPTION="A library to create and use elisp iterators objects"
 
 HOMEPAGE="https://github.com/thierryvolpiatto/iterator"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

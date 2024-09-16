@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Install emacs24 color themes by buffer."
+DESCRIPTION="Install emacs24 color themes by buffer"
 
 HOMEPAGE="http://github.com/vic/color-theme-buffer-local"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

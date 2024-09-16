@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="auto-complete-mode source for DDSKK a.k.a Japanese input method"
+DESCRIPTION="Auto-complete-mode source for DDSKK a.k.a Japanese input method"
 
 HOMEPAGE="https://github.com/myuhe/ac-skk.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

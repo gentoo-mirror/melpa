@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A simple presentation tool for Emacs."
+DESCRIPTION="A simple presentation tool for Emacs"
 
 HOMEPAGE="https://github.com/pjones/bufshow"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

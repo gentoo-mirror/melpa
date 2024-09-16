@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="narrow-to-region that operates recursively"
+DESCRIPTION="Narrow-to-region that operates recursively"
 
 HOMEPAGE="http://github.com/nflath/recursive-narrow"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

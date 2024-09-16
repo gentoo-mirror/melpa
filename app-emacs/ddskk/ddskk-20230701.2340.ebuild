@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Simple Kana to Kanji conversion program."
+DESCRIPTION="Simple Kana to Kanji conversion program"
 
 HOMEPAGE="https://github.com/skk-dev/ddskk"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

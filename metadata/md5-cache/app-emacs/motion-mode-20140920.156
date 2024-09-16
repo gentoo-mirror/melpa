@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DEPEND=app-emacs/flymake-easy app-emacs/flymake-cursor
-DESCRIPTION=major mode for RubyMotion enviroment
+DESCRIPTION=Major mode for RubyMotion enviroment
 EAPI=8
 HOMEPAGE=https://github.com/ainame/motion-mode
 INHERIT=g-sorcery gs-elpa
@@ -9,5 +9,5 @@ KEYWORDS=~amd64 ~x86
 RDEPEND=app-emacs/flymake-easy app-emacs/flymake-cursor >=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/motion-mode-20140920.156.tar
-_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	abb2dda42f680fce87602c8273f832c7	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=239ab51f26628b04f5da703e8258fd52
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
+_md5_=602dac9a4117cd23b1ec9eb18362255b

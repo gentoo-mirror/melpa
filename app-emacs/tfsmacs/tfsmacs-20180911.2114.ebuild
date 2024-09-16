@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="MS TFS source control interaction."
+DESCRIPTION="MS TFS source control interaction"
 
 HOMEPAGE="http://github.com/sebasmonia/tfsmacs/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Provide weather and forecast information."
+DESCRIPTION="Provide weather and forecast information"
 
 HOMEPAGE="https://github.com/aaronbieber/sunshine.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

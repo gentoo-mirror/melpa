@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minimalistic minor mode to highlight current thing under point."
+DESCRIPTION="Minimalistic minor mode to highlight current thing under point"
 
 HOMEPAGE="https://github.com/fgeller/highlight-thing.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

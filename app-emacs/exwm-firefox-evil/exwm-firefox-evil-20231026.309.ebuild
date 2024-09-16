@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="evil-mode implementation of exwm-firefox-core"
+DESCRIPTION="Evil-mode implementation of exwm-firefox-core"
 
 HOMEPAGE="https://github.com/walseb/exwm-firefox-evil"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

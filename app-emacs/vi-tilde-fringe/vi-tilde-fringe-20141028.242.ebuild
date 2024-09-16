@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Displays tildes in the fringe on empty lines a la Vi."
+DESCRIPTION="Displays tildes in the fringe on empty lines a la Vi"
 
 HOMEPAGE="https://github.com/syl20bnr/vi-tilde-fringe"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

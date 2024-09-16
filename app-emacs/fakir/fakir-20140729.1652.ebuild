@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="fakeing bits of Emacs"
+DESCRIPTION="Fakeing bits of Emacs"
 
 HOMEPAGE="http://github.com/nicferrier/emacs-fakir"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

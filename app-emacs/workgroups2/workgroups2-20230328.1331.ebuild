@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="save&load multiple named workspaces (or \"workgroups\")"
+DESCRIPTION="Save&load multiple named workspaces (or \"workgroups\")"
 
 HOMEPAGE="https://github.com/pashinin/workgroups2"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

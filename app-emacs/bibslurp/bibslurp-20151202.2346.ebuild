@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="retrieve BibTeX entries from NASA ADS"
+DESCRIPTION="Retrieve BibTeX entries from NASA ADS"
 
 HOMEPAGE="https://github.com/mkmcc/bibslurp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

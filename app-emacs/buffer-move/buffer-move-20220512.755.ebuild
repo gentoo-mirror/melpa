@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="easily swap buffers"
+DESCRIPTION="Easily swap buffers"
 
 HOMEPAGE="https://github.com/lukhas/buffer-move/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

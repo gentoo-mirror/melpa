@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="get all completions from company backends"
+DESCRIPTION="Get all completions from company backends"
 
 HOMEPAGE="https://github.com/Wilfred/company-try-hard"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

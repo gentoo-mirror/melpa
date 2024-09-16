@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="challenger-deep Theme"
+DESCRIPTION="Challenger-deep Theme"
 
 HOMEPAGE="https://github.com/challenger-deep-theme/emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

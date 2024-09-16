@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="hook to install node modules in background"
+DESCRIPTION="Hook to install node modules in background"
 
 HOMEPAGE="https://github.com/meandavejustice/node-resolver.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

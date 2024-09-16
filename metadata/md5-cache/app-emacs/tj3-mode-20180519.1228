@@ -1,6 +1,6 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=major mode for editing TaskJuggler 3 files
+DESCRIPTION=Major mode for editing TaskJuggler 3 files
 EAPI=8
 HOMEPAGE=https://github.com/csrhodes/tj3-mode
 INHERIT=g-sorcery gs-elpa
@@ -8,5 +8,5 @@ KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/tj3-mode-20180519.1228.tar
-_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	abb2dda42f680fce87602c8273f832c7	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=2479cdf463a99216fb2f4edeaae30d31
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
+_md5_=ec148fc20f3943f42f7ddbfea0d3c1a3

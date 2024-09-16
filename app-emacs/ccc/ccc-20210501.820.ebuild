@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="buffer local cursor color control library"
+DESCRIPTION="Buffer local cursor color control library"
 
 HOMEPAGE="https://github.com/skk-dev/ddskk"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

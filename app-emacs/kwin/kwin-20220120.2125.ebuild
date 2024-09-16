@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="communicatewith the KWin window manager"
+DESCRIPTION="Communicatewith the KWin window manager"
 
 HOMEPAGE="http://github.com/reactormonk/kwin-minor-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

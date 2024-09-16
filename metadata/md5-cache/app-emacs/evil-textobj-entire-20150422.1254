@@ -1,7 +1,7 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DEPEND=app-emacs/evil
-DESCRIPTION=text object for entire lines of buffer for evil
+DESCRIPTION=Text object for entire lines of buffer for evil
 EAPI=8
 HOMEPAGE=https://github.com/supermomonga/evil-textobj-entire
 INHERIT=g-sorcery gs-elpa
@@ -9,5 +9,5 @@ KEYWORDS=~amd64 ~x86
 RDEPEND=app-emacs/evil >=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/evil-textobj-entire-20150422.1254.tar
-_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	abb2dda42f680fce87602c8273f832c7	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=890136ed4711f52fbfb6d12c60f09c32
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
+_md5_=90cbc7c645b2d95b77167975cc26e3f4

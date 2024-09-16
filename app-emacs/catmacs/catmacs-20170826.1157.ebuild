@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Simple CAT interface for Yaesu Transceivers."
+DESCRIPTION="Simple CAT interface for Yaesu Transceivers"
 
 HOMEPAGE="https://bitbucket.org/pymaximus/catmacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

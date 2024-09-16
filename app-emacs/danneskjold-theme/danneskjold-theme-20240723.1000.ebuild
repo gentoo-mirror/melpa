@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Beautiful high-contrast Emacs theme."
+DESCRIPTION="Beautiful high-contrast Emacs theme"
 
 HOMEPAGE="https://github.com/rails-to-cosmos/danneskjold-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

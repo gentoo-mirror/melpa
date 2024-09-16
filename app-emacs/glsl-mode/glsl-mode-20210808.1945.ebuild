@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="major mode for Open GLSL shader files"
+DESCRIPTION="Major mode for Open GLSL shader files"
 
 HOMEPAGE="https://github.com/jimhourihan/glsl-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

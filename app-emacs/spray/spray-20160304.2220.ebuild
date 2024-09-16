@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a speed reading mode"
+DESCRIPTION="A speed reading mode"
 
 HOMEPAGE="https://github.com/ian-kelling/spray"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

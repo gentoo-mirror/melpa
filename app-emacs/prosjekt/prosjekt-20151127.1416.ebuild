@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a software project tool for emacs"
+DESCRIPTION="A software project tool for emacs"
 
 HOMEPAGE="https://github.com/abingham/prosjekt"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

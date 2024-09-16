@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for editing Eve documents."
+DESCRIPTION="Major mode for editing Eve documents"
 
 HOMEPAGE="https://github.com/witheve/emacs-eve-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

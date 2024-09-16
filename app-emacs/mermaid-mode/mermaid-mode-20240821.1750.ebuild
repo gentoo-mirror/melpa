@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="major mode for working with mermaid graphs"
+DESCRIPTION="Major mode for working with mermaid graphs"
 
 HOMEPAGE="https://github.com/abrochard/mermaid-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

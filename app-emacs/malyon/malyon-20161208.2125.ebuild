@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="mode to execute Z-code files version 3, 5, 8"
+DESCRIPTION="Mode to execute Z-code files version 3, 5, 8"
 
 HOMEPAGE="https://github.com/speedenator/malyon"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

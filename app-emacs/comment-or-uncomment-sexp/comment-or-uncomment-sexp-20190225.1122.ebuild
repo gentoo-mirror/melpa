@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Command for commenting the sexp under point."
+DESCRIPTION="Command for commenting the sexp under point"
 
 HOMEPAGE="https://github.com/Malabarba/comment-or-uncomment-sexp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

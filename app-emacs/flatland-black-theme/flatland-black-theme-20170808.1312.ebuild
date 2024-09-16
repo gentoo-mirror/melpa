@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="an Emacs 24 theme based on Flatland Black (tmTheme)"
+DESCRIPTION="An Emacs 24 theme based on Flatland Black (tmTheme)"
 
 HOMEPAGE="https://github.com/emacsfodder/flatland-black-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

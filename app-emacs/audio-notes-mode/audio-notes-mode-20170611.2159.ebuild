@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Play audio notes synced from somewhere else."
+DESCRIPTION="Play audio notes synced from somewhere else"
 
 HOMEPAGE="http://github.com/Bruce-Connor/audio-notes-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

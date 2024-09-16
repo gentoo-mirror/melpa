@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Visualize ascii code (small integer) on buffer."
+DESCRIPTION="Visualize ascii code (small integer) on buffer"
 
 HOMEPAGE="https://github.com/Dewdrops/visual-ascii-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Simple and fast flashcards."
+DESCRIPTION="Simple and fast flashcards"
 
 HOMEPAGE="https://github.com/abo-abo/pamparam"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

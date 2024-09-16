@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="intellj like backspace"
+DESCRIPTION="Intellj like backspace"
 
 HOMEPAGE="https://github.com/itome/smart-backspace"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

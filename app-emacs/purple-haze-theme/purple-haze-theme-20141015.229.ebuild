@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="an overtly purple color theme for Emacs24."
+DESCRIPTION="An overtly purple color theme for Emacs24"
 
 HOMEPAGE="https://github.com/jasonm23/emacs-purple-haze-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

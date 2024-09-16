@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="preview inline latex in any mode"
+DESCRIPTION="Preview inline latex in any mode"
 
 HOMEPAGE="http://github.com/aaptel/preview-latex"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

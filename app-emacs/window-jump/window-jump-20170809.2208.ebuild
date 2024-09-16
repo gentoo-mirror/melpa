@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Move left/right/up/down through your windows."
+DESCRIPTION="Move left/right/up/down through your windows"
 
 HOMEPAGE="https://github.com/chumpage/chumpy-windows"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Interactive register commands for Emacs."
+DESCRIPTION="Interactive register commands for Emacs"
 
 HOMEPAGE="https://github.com/atykhonov/iregister.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

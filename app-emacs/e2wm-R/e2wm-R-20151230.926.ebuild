@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="some e2wm plugin and perspective for GNU R"
+DESCRIPTION="Some e2wm plugin and perspective for GNU R"
 
 HOMEPAGE="https://github.com/myuhe/e2wm-R.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

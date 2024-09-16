@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Yet Another Bignum package (A thin wrapper of calc.el)."
+DESCRIPTION="Yet Another Bignum package (A thin wrapper of calc.el)"
 
 HOMEPAGE="https://melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

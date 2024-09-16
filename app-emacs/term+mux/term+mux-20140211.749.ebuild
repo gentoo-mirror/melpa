@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="term+ terminal multiplexer and session management"
+DESCRIPTION="Term+ terminal multiplexer and session management"
 
 HOMEPAGE="http://github.com/tarao/term+-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

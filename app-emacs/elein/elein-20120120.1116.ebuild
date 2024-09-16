@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="running leiningen commands from emacs"
+DESCRIPTION="Running leiningen commands from emacs"
 
 HOMEPAGE="https://github.com/remvee/elein"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

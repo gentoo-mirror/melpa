@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Annotate buffer if indentation depth is beyond threshold."
+DESCRIPTION="Annotate buffer if indentation depth is beyond threshold"
 
 HOMEPAGE="https://github.com/netromdk/annotate-depth"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="navigation by char"
+DESCRIPTION="Navigation by char"
 
 HOMEPAGE="https://github.com/lewang/jump-char"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

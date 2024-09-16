@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a markup mode for creole"
+DESCRIPTION="A markup mode for creole"
 
 HOMEPAGE="https://github.com/nicferrier/creole-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

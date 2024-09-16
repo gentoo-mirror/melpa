@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org-babel functions for swift evaluation"
+DESCRIPTION="Org-babel functions for swift evaluation"
 
 HOMEPAGE="http://github.com/zweifisch/ob-swift"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

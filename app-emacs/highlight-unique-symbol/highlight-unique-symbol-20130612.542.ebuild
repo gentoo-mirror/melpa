@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="highlight symbols which not appear in the repository"
+DESCRIPTION="Highlight symbols which not appear in the repository"
 
 HOMEPAGE="https://github.com/hitode909/emacs-highlight-unique-symbol"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

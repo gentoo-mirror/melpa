@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Multi target interface to compile."
+DESCRIPTION="Multi target interface to compile"
 
 HOMEPAGE="https://github.com/ReanGD/emacs-multi-compile"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

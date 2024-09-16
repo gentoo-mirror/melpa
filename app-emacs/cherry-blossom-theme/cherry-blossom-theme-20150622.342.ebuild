@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a soothing color theme for Emacs24."
+DESCRIPTION="A soothing color theme for Emacs24"
 
 HOMEPAGE="https://github.com/inlinestyle/emacs-cherry-blossom-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

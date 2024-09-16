@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A dark theme focused on blue and orange colors."
+DESCRIPTION="A dark theme focused on blue and orange colors"
 
 HOMEPAGE="https://github.com/Northcode/northcode-theme.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

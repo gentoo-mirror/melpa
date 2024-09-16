@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="provides a simple interface to mpc"
+DESCRIPTION="Provides a simple interface to mpc"
 
 HOMEPAGE="https://github.com/jorenvo/simple-mpc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

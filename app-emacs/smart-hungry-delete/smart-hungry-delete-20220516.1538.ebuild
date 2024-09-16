@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="smart hungry deletion of whitespace"
+DESCRIPTION="Smart hungry deletion of whitespace"
 
 HOMEPAGE="https://github.com/hrehfeld/emacs-smart-hungry-delete"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Expansion of text by TeaCode program."
+DESCRIPTION="Expansion of text by TeaCode program"
 
 HOMEPAGE="https://github.com/raguay/TeaCode-Expand"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A colorful, dark and warm theme."
+DESCRIPTION="A colorful, dark and warm theme"
 
 HOMEPAGE="https://github.com/onurtemizkan/paganini"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

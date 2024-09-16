@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="vcsh integration"
+DESCRIPTION="Vcsh integration"
 
 HOMEPAGE="http://git.smrk.net/vcsh.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Systematic Literature Review Mode for Emacs."
+DESCRIPTION="Systematic Literature Review Mode for Emacs"
 
 HOMEPAGE="http://github.com/fbie/slirm"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

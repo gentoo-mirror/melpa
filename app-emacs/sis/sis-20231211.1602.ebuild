@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Less manual switch for native or OS input source (input method)."
+DESCRIPTION="Less manual switch for native or OS input source (input method)"
 
 HOMEPAGE="https://github.com/laishulu/emacs-smart-input-source"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

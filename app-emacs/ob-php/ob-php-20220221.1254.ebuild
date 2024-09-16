@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Execute PHP within org-mode source blocks."
+DESCRIPTION="Execute PHP within org-mode source blocks"
 
 HOMEPAGE="https://repo.or.cz/ob-php.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

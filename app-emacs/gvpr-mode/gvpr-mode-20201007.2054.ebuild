@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A major mode offering basic syntax coloring for gvpr scripts."
+DESCRIPTION="A major mode offering basic syntax coloring for gvpr scripts"
 
 HOMEPAGE="https://raw.github.com/rodw/gvpr-lib/master/extra/gvpr-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

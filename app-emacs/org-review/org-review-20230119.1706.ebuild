@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="schedule reviews for Org entries"
+DESCRIPTION="Schedule reviews for Org entries"
 
 HOMEPAGE="https://github.com/brabalan/org-review"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

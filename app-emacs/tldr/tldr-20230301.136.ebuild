@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="tldr client for Emacs"
+DESCRIPTION="Tldr client for Emacs"
 
 HOMEPAGE="https://github.com/kuanyui/tldr.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

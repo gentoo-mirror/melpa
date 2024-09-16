@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Zone out with rainbow."
+DESCRIPTION="Zone out with rainbow"
 
 HOMEPAGE="https://github.com/kawabata/zone-rainbow"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

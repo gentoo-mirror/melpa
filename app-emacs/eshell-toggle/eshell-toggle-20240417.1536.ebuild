@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Show/hide eshell under active window."
+DESCRIPTION="Show/hide eshell under active window"
 
 HOMEPAGE="https://github.com/4da/eshell-toggle"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

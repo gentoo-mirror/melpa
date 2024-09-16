@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="client for marmalade API from emacs"
+DESCRIPTION="Client for marmalade API from emacs"
 
 HOMEPAGE="https://github.com/nicferrier/emacs-marmalade-upload"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Trigger recompilation on file save."
+DESCRIPTION="Trigger recompilation on file save"
 
 HOMEPAGE="https://github.com/maio/recompile-on-save.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

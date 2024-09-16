@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Execute mongodb queries within org-mode blocks."
+DESCRIPTION="Execute mongodb queries within org-mode blocks"
 
 HOMEPAGE="https://github.com/krisajenkins/ob-mongo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

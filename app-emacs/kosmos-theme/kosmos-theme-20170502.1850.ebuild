@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Black and lightgray theme with not so much syntax highlighting."
+DESCRIPTION="Black and lightgray theme with not so much syntax highlighting"
 
 HOMEPAGE="https://github.com/habamax/kosmos-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

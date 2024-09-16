@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org-babel functions for typescript evaluation"
+DESCRIPTION="Org-babel functions for typescript evaluation"
 
 HOMEPAGE="https://github.com/lurdan/ob-typescript"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

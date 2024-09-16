@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Highlight Objective-C method calls."
+DESCRIPTION="Highlight Objective-C method calls"
 
 HOMEPAGE="https://github.com/Lindydancer/objc-font-lock"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

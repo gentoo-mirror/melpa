@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A handle for major-mode generic functions."
+DESCRIPTION="A handle for major-mode generic functions"
 
 HOMEPAGE="https://gitlab.com/jjzmajic/handle"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

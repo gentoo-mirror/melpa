@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="ivy interface for pass"
+DESCRIPTION="Ivy interface for pass"
 
 HOMEPAGE="https://github.com/ecraven/ivy-pass/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

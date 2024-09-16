@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="exhaustive log of interactions with Emacs"
+DESCRIPTION="Exhaustive log of interactions with Emacs"
 
 HOMEPAGE="https://github.com/michael-heerdegen/interaction-log.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

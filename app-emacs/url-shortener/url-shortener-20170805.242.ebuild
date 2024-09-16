@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="shorten long url and expand tinyurl"
+DESCRIPTION="Shorten long url and expand tinyurl"
 
 HOMEPAGE="https://github.com/yuyang0/url-shortener"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

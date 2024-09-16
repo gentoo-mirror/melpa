@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="run a shell command when saving a buffer"
+DESCRIPTION="Run a shell command when saving a buffer"
 
 HOMEPAGE="https://github.com/mjsteger/watch-buffer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

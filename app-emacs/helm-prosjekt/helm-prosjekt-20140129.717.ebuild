@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Helm integration for prosjekt."
+DESCRIPTION="Helm integration for prosjekt"
 
 HOMEPAGE="https://github.com/abingham/prosjekt"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

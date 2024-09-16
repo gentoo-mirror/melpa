@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="dark color theme that is easy on the eyes"
+DESCRIPTION="Dark color theme that is easy on the eyes"
 
 HOMEPAGE="https://github.com/madhat2r/madhat2r-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

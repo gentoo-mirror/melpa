@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="View Wikipedia summaries in Emacs easily."
+DESCRIPTION="View Wikipedia summaries in Emacs easily"
 
 HOMEPAGE="https://github.com/jozefg/wiki-summary.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

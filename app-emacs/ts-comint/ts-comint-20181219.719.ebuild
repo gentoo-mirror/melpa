@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Run a Typescript interpreter in an inferior process window."
+DESCRIPTION="Run a Typescript interpreter in an inferior process window"
 
 HOMEPAGE="https://github.com/josteink/ts-comint"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

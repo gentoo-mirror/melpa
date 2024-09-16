@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Korean holidays for calendar."
+DESCRIPTION="Korean holidays for calendar"
 
 HOMEPAGE="https://github.com/tttuuu888/korean-holidays"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

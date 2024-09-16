@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="An higher contrast version of the Zenburn theme."
+DESCRIPTION="An higher contrast version of the Zenburn theme"
 
 HOMEPAGE="https:github.com/edran/hc-zenburn-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

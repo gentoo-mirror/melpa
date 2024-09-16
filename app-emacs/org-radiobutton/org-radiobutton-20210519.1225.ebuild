@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Radiobutton for org-mode lists."
+DESCRIPTION="Radiobutton for org-mode lists"
 
 HOMEPAGE="https://github.com/Fuco1/org-radiobutton"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

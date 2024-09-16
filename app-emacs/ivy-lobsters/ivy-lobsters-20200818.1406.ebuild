@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Browse lobste.rs stories with ivy."
+DESCRIPTION="Browse lobste.rs stories with ivy"
 
 HOMEPAGE="https://github.com/julienXX/ivy-lobsters"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

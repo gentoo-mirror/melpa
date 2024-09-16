@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="discourse api"
+DESCRIPTION="Discourse api"
 
 HOMEPAGE="https://github.com/lujun9972/discourse-api"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

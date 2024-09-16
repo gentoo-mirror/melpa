@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Flycheck extension for Apple's Xcode."
+DESCRIPTION="Flycheck extension for Apple's Xcode"
 
 HOMEPAGE="https://github.com/jojojames/flycheck-xcode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

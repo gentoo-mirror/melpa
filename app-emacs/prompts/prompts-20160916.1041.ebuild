@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="utilities for working with text prompts."
+DESCRIPTION="Utilities for working with text prompts"
 
 HOMEPAGE="https://github.com/guiltydolphin/prompts.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

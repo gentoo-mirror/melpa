@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="ido interface for skk henkan"
+DESCRIPTION="Ido interface for skk henkan"
 
 HOMEPAGE="https://github.com/tsukimizake/ido-skk"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

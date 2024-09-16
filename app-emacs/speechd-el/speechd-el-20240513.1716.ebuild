@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Client to speech synthesizers and Braille displays."
+DESCRIPTION="Client to speech synthesizers and Braille displays"
 
 HOMEPAGE="https://github.com/brailcom/speechd-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

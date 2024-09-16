@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="portage viewer"
+DESCRIPTION="Portage viewer"
 
 HOMEPAGE="https://github.com/kiwanami/emacs-portage-navi"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

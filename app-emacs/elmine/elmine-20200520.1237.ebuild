@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Redmine API access via elisp."
+DESCRIPTION="Redmine API access via elisp"
 
 HOMEPAGE="http://github.com/leoc/elmine"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

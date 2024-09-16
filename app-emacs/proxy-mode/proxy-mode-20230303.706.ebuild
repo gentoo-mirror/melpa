@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A minor mode to toggle proxy."
+DESCRIPTION="A minor mode to toggle proxy"
 
 HOMEPAGE="https://repo.or.cz/proxy-mode.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

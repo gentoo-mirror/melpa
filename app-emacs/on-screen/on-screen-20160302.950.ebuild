@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="guide your eyes while scrolling"
+DESCRIPTION="Guide your eyes while scrolling"
 
 HOMEPAGE="https://github.com/michael-heerdegen/on-screen.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

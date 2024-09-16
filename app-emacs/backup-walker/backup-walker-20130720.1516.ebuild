@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="quickly traverse all backups of a file"
+DESCRIPTION="Quickly traverse all backups of a file"
 
 HOMEPAGE="https://github.com/lewang/backup-walker"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

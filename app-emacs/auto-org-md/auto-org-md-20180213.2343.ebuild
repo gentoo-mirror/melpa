@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="export a markdown file automatically when you save an org-file"
+DESCRIPTION="Export a markdown file automatically when you save an org-file"
 
 HOMEPAGE="https://github.com/jamcha-aa/auto-org-md"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

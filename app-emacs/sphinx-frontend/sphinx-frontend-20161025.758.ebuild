@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Launch build process for rst documents via sphinx."
+DESCRIPTION="Launch build process for rst documents via sphinx"
 
 HOMEPAGE="https://github.com/kostafey/sphinx-frontend"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

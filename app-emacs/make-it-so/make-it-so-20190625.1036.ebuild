@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Transform files with Makefile recipes."
+DESCRIPTION="Transform files with Makefile recipes"
 
 HOMEPAGE="https://github.com/abo-abo/make-it-so"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

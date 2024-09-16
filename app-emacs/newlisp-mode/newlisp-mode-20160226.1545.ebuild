@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="newLISP editing mode for Emacs"
+DESCRIPTION="NewLISP editing mode for Emacs"
 
 HOMEPAGE="https://github.com/kosh04/newlisp-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a [not so] simple chronometer"
+DESCRIPTION="A [not so] simple chronometer"
 
 HOMEPAGE="https://github.com/marcelotoledo/chronometer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

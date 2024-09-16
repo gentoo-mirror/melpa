@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Simple presentation mode based on org files."
+DESCRIPTION="Simple presentation mode based on org files"
 
 HOMEPAGE="https://hg.sr.ht/~zck/zpresent"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

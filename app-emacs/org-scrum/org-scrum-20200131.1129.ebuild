@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org mode extensions for scrum planning and reporting"
+DESCRIPTION="Org mode extensions for scrum planning and reporting"
 
 HOMEPAGE="https://github.com/ianxm/emacs-scrum"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

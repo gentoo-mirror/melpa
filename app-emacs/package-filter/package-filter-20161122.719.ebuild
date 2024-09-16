@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="package archive whitelist and blacklist"
+DESCRIPTION="Package archive whitelist and blacklist"
 
 HOMEPAGE="https://github.com/milkypostman/package-filter"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

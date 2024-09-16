@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="shell command queue"
+DESCRIPTION="Shell command queue"
 
 HOMEPAGE="https://github.com/Yuki-Inoue/command-queue"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

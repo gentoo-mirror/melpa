@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Export reStructuredText using org-mode."
+DESCRIPTION="Export reStructuredText using org-mode"
 
 HOMEPAGE="https://github.com/msnoigrs/ox-rst"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

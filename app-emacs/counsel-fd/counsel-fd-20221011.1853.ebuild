@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="counsel interface for fd"
+DESCRIPTION="Counsel interface for fd"
 
 HOMEPAGE="https://github.com/CsBigDataHub/counsel-fd"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

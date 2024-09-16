@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Query hayoo and show results in a tabulated buffer."
+DESCRIPTION="Query hayoo and show results in a tabulated buffer"
 
 HOMEPAGE="https://github.com/benma/hayoo.el/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

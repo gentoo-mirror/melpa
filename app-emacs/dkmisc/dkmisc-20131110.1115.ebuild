@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Miscellaneous functions required by dk* packages."
+DESCRIPTION="Miscellaneous functions required by dk* packages"
 
 HOMEPAGE="https://github.com/davidkeegan/dkmisc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

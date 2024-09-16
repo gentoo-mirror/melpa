@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helm extension for selected.el"
+DESCRIPTION="Helm extension for selected.el"
 
 HOMEPAGE="https://github.com/takaxp/helm-selected"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="flycheck checker for elixir credo"
+DESCRIPTION="Flycheck checker for elixir credo"
 
 HOMEPAGE="https://github.com/aaronjensen/flycheck-credo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="screencasting with \"avconv\" or \"ffmpeg\""
+DESCRIPTION="Screencasting with \"avconv\" or \"ffmpeg\""
 
 HOMEPAGE="https://melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

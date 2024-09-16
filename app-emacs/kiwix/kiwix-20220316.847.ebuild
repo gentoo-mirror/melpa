@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Searching offline Wikipedia through Kiwix."
+DESCRIPTION="Searching offline Wikipedia through Kiwix"
 
 HOMEPAGE="https://repo.or.cz/kiwix.el.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

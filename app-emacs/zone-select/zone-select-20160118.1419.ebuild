@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Select zone programs."
+DESCRIPTION="Select zone programs"
 
 HOMEPAGE="https://github.com/kawabata/zone-select"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

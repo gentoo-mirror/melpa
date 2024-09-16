@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="clusterssh implementation for emacs"
+DESCRIPTION="Clusterssh implementation for emacs"
 
 HOMEPAGE="http://tapoueh.org/emacs/cssh.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="emoji displaying module"
+DESCRIPTION="Emoji displaying module"
 
 HOMEPAGE="https://github.com/ikazuhiro/emoji-display"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="change the size of frames in Emacs"
+DESCRIPTION="Change the size of frames in Emacs"
 
 HOMEPAGE="http://github.com/nicferrier/emacs-framesize"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

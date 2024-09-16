@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A light/dark minimalistic Emacs 24 theme."
+DESCRIPTION="A light/dark minimalistic Emacs 24 theme"
 
 HOMEPAGE="http://github.com/ikame/minimal-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

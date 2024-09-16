@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="s operations for buffers"
+DESCRIPTION="S operations for buffers"
 
 HOMEPAGE="http://github.com/nicferrier/emacs-s-buffer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

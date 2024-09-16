@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="git-assembler major mode"
+DESCRIPTION="Git-assembler major mode"
 
 HOMEPAGE="https://gitlab.com/wavexx/git-assembler-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

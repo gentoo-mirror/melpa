@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helm interface for chronos timers"
+DESCRIPTION="Helm interface for chronos timers"
 
 HOMEPAGE="http://github.com/dxknight/helm-chronos"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

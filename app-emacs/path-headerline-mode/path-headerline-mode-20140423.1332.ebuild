@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Displaying file path on headerline."
+DESCRIPTION="Displaying file path on headerline"
 
 HOMEPAGE="https://github.com/7696122/path-headerline-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="flycheck integration for vale"
+DESCRIPTION="Flycheck integration for vale"
 
 HOMEPAGE="https://github.com/abingham/flycheck-vale"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

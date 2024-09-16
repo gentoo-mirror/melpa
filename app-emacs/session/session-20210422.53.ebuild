@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="use variables, registers and buffer places across sessions"
+DESCRIPTION="Use variables, registers and buffer places across sessions"
 
 HOMEPAGE="http://emacs-session.sourceforge.net/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

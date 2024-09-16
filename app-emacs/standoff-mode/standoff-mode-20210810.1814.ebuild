@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Create stand-off markup, also called external markup."
+DESCRIPTION="Create stand-off markup, also called external markup"
 
 HOMEPAGE="https://github.com/lueck/standoff-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

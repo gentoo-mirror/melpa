@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Convert commentary section of elisp files to markdown."
+DESCRIPTION="Convert commentary section of elisp files to markdown"
 
 HOMEPAGE="https://github.com/Lindydancer/el2markdown"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="a mode to interact with the Rally Software web site."
+DESCRIPTION="A mode to interact with the Rally Software web site"
 
 HOMEPAGE="https://pragcraft.wordpress.com/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

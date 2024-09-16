@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="sparkline generation"
+DESCRIPTION="Sparkline generation"
 
 HOMEPAGE="https://github.com/alvinfrancis/spark"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

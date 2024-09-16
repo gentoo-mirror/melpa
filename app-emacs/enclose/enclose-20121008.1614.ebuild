@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Enclose cursor within punctuation pairs."
+DESCRIPTION="Enclose cursor within punctuation pairs"
 
 HOMEPAGE="http://github.com/rejeep/enclose"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

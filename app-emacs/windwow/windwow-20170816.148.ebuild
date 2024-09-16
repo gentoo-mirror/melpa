@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="simple workspace management"
+DESCRIPTION="Simple workspace management"
 
 HOMEPAGE="github.com/vijumathew/windwow"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

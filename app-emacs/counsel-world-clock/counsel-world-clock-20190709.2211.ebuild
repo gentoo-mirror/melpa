@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Display world clock using Ivy."
+DESCRIPTION="Display world clock using Ivy"
 
 HOMEPAGE="https://github.com/kchenphy/counsel-world-clock"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

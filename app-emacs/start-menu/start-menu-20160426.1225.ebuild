@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="start-menu for executing external program like in windows"
+DESCRIPTION="Start-menu for executing external program like in windows"
 
 HOMEPAGE="https://github.com/lujun9972/el-start-menu"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

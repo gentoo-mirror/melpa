@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Image drag-and-drop for Org-mode."
+DESCRIPTION="Image drag-and-drop for Org-mode"
 
 HOMEPAGE="https://github.com/abo-abo/org-download"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="code completion, goto-definition and docs browsing for Rust via racer"
+DESCRIPTION="Code completion, goto-definition and docs browsing for Rust via racer"
 
 HOMEPAGE="https://github.com/racer-rust/emacs-racer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

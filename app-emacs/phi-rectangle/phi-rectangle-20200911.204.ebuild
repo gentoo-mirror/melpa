@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="another rectangle-mark command (rewrite of rect-mark)"
+DESCRIPTION="Another rectangle-mark command (rewrite of rect-mark)"
 
 HOMEPAGE="http://zk-phi.github.io/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

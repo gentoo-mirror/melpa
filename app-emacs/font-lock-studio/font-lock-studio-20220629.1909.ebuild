@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="interactive debugger for Font Lock keywords."
+DESCRIPTION="Interactive debugger for Font Lock keywords"
 
 HOMEPAGE="https://github.com/Lindydancer/font-lock-studio"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

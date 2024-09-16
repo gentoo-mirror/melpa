@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="tweak your sound card volume from Emacs"
+DESCRIPTION="Tweak your sound card volume from Emacs"
 
 HOMEPAGE="http://www.brockman.se/software/volume-el/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

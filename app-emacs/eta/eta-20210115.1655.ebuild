@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="standard and multi dispatch key bind"
+DESCRIPTION="Standard and multi dispatch key bind"
 
 HOMEPAGE="https://www.github.com/zcaudate/eta"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="major mode for FreeRadius server config files"
+DESCRIPTION="Major mode for FreeRadius server config files"
 
 HOMEPAGE="https://github.com/VersBinarii/freeradius-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

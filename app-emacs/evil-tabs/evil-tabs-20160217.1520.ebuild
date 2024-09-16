@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Integrating Vim-style tabs for Evil mode users."
+DESCRIPTION="Integrating Vim-style tabs for Evil mode users"
 
 HOMEPAGE="https://github.com/krisajenkins/evil-tabs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

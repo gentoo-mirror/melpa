@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="edit(copy,cut..) current things(word,symbol..) under cursor"
+DESCRIPTION="Edit(copy,cut..) current things(word,symbol..) under cursor"
 
 HOMEPAGE="http://github.com/enoson/edit-at-point.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

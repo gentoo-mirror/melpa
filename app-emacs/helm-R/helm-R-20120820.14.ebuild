@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helm-sources and some utilities for GNU R."
+DESCRIPTION="Helm-sources and some utilities for GNU R"
 
 HOMEPAGE="https://github.com/myuhe/helm-R.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

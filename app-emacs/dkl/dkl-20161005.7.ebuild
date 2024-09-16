@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Display keyboard layout."
+DESCRIPTION="Display keyboard layout"
 
 HOMEPAGE="https://github.com/flexibeast/dkl"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

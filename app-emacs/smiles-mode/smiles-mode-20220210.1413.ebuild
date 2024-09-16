@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for SMILES."
+DESCRIPTION="Major mode for SMILES"
 
 HOMEPAGE="https://repo.or.cz/smiles-mode.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

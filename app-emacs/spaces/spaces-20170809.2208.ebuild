@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Create and switch between named window configurations."
+DESCRIPTION="Create and switch between named window configurations"
 
 HOMEPAGE="https://github.com/chumpage/chumpy-windows"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Vim-like empty line indicator at end of files."
+DESCRIPTION="Vim-like empty line indicator at end of files"
 
 HOMEPAGE="https://github.com/jmickelin/vim-empty-lines-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Use ido where you choose."
+DESCRIPTION="Use ido where you choose"
 
 HOMEPAGE="https://github.com/abo-abo/ido-occasional"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

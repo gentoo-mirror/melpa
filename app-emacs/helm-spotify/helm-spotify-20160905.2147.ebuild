@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Control Spotify with Helm."
+DESCRIPTION="Control Spotify with Helm"
 
 HOMEPAGE="https://github.com/krisajenkins/helm-spotify"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

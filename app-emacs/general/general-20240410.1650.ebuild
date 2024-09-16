@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Convenience wrappers for keybindings."
+DESCRIPTION="Convenience wrappers for keybindings"
 
 HOMEPAGE="https://github.com/noctuid/general.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

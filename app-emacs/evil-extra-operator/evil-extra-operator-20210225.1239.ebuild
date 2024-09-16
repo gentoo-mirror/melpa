@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Evil operator for evaluating codes, taking notes, searching via google, etc."
+DESCRIPTION="Evil operator for evaluating codes, taking notes, searching via google, etc"
 
 HOMEPAGE="http://github.com/Dewdrops/evil-extra-operator"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

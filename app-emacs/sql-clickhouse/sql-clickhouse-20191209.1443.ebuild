@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="support ClickHouse as SQL interpreter"
+DESCRIPTION="Support ClickHouse as SQL interpreter"
 
 HOMEPAGE="https://github.com/leethargo/sql-clickhouse"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

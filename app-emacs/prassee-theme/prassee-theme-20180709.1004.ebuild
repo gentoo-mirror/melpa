@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A high contrast color theme for Emacs."
+DESCRIPTION="A high contrast color theme for Emacs"
 
 HOMEPAGE="https://github.com/prassee/prassee-emacs-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

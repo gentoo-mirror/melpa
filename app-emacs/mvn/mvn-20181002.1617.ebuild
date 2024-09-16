@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helpers for compiling with maven"
+DESCRIPTION="Helpers for compiling with maven"
 
 HOMEPAGE="https://github.com/apgwoz/mvn-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

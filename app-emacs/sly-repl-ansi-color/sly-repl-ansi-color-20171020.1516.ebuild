@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Add ANSI colors support to the sly mrepl."
+DESCRIPTION="Add ANSI colors support to the sly mrepl"
 
 HOMEPAGE="https://github.com/PuercoPop/sly-repl-ansi-color"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

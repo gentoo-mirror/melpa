@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Sidebar showing a \"table of contents\"."
+DESCRIPTION="Sidebar showing a \"table of contents\""
 
 HOMEPAGE="https://github.com/abingham/outline-toc.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

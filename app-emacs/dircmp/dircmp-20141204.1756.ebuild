@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Compare and sync directories."
+DESCRIPTION="Compare and sync directories"
 
 HOMEPAGE="https://github.com/matthewlmcclure/dircmp-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

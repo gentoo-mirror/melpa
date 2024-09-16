@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="use god-mode keybindings in evil-mode"
+DESCRIPTION="Use god-mode keybindings in evil-mode"
 
 HOMEPAGE="https://github.com/gridaphobe/evil-god-state"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

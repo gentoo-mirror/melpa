@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major modes for Itasca software data files."
+DESCRIPTION="Major modes for Itasca software data files"
 
 HOMEPAGE="http://github.com/jkfurtney/itasca-emacs/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="multi-buffer occur (grep) mode"
+DESCRIPTION="Multi-buffer occur (grep) mode"
 
 HOMEPAGE="http://www.bookshelf.jp/elc/color-moccur.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

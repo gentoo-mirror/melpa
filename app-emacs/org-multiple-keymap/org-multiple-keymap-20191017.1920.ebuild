@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Set keymap to elements, such as timestamp and priority."
+DESCRIPTION="Set keymap to elements, such as timestamp and priority"
 
 HOMEPAGE="https://github.com/myuhe/org-multiple-keymap.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

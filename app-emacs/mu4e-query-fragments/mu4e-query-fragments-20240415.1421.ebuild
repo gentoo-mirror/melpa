@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="mu4e query fragments extension"
+DESCRIPTION="Mu4e query fragments extension"
 
 HOMEPAGE="https://gitlab.com/wavexx/mu4e-query-fragments.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

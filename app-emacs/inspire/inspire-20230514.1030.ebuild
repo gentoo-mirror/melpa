@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="an interface for inspirehep.net"
+DESCRIPTION="An interface for inspirehep.net"
 
 HOMEPAGE="https://github.com/Simon-Lin/inspire.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

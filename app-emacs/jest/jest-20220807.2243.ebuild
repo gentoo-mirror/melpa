@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helpers to run jest"
+DESCRIPTION="Helpers to run jest"
 
 HOMEPAGE="https://github.com/emiller88/emacs-jest/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

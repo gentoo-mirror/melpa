@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="semaphore integration with promise"
+DESCRIPTION="Semaphore integration with promise"
 
 HOMEPAGE="http://github.com/webnf/semaphore.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

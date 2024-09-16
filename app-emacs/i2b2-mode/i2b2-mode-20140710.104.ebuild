@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Highlights corresponding PHI data in the text portion of an i2b2 XML Document."
+DESCRIPTION="Highlights corresponding PHI data in the text portion of an i2b2 XML Document"
 
 HOMEPAGE="https://melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

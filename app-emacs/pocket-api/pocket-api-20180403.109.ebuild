@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="another pocket api"
+DESCRIPTION="Another pocket api"
 
 HOMEPAGE="https://github.com/lujun9972/pocket-api.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minor mode that makes comments invisible."
+DESCRIPTION="Minor mode that makes comments invisible"
 
 HOMEPAGE="https://github.com/Lindydancer/nocomments-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

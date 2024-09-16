@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="use a proportional font everywhere"
+DESCRIPTION="Use a proportional font everywhere"
 
 HOMEPAGE="https://github.com/ksjogo/proportional"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

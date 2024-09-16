@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="fancy macro-expansion via macrostep.el"
+DESCRIPTION="Fancy macro-expansion via macrostep.el"
 
 HOMEPAGE="https://github.com/capitaomorte/sly-macrostep"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

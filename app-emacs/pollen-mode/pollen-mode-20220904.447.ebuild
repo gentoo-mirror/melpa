@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="major mode for editing pollen files"
+DESCRIPTION="Major mode for editing pollen files"
 
 HOMEPAGE="https://github.com/lijunsong/pollen-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

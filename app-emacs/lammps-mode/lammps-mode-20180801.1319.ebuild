@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="basic syntax highlighting for LAMMPS files"
+DESCRIPTION="Basic syntax highlighting for LAMMPS files"
 
 HOMEPAGE="https://github.com/lammps/lammps/tree/master/tools/emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

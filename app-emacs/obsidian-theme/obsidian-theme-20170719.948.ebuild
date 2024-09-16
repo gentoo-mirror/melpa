@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="port of the eclipse obsidian theme"
+DESCRIPTION="Port of the eclipse obsidian theme"
 
 HOMEPAGE="http://github.com/mswift42/obsidian-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

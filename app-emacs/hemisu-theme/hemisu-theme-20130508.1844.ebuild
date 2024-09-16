@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Hemisu for Emacs."
+DESCRIPTION="Hemisu for Emacs"
 
 HOMEPAGE="http://github/anrzejsliwa/django-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

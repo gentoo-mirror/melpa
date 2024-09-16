@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="extension for helm, the package manager for kubernetes"
+DESCRIPTION="Extension for helm, the package manager for kubernetes"
 
 HOMEPAGE="https://github.com/abrochard/kubernetes-helm"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

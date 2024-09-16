@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A warm color theme for Emacs 24+."
+DESCRIPTION="A warm color theme for Emacs 24+"
 
 HOMEPAGE="https://github.com/donderom/jazz-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

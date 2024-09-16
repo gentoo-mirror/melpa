@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Randomly sets splash image to *GNU Emacs* buffer on startup."
+DESCRIPTION="Randomly sets splash image to *GNU Emacs* buffer on startup"
 
 HOMEPAGE="https://github.com/kakakaya/random-splash-image"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

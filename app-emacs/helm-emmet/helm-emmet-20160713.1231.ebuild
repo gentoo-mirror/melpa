@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="helm sources for emmet-mode's snippets"
+DESCRIPTION="Helm sources for emmet-mode's snippets"
 
 HOMEPAGE="https://github.com/yasuyk/helm-emmet"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

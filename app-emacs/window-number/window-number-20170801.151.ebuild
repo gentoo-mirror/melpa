@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Select windows by numbers."
+DESCRIPTION="Select windows by numbers"
 
 HOMEPAGE="https://github.com/nikolas/window-number"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

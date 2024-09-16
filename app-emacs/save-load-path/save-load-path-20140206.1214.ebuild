@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="save load-path and reuse it to test"
+DESCRIPTION="Save load-path and reuse it to test"
 
 HOMEPAGE="http://www.emacswiki.org/cgi-bin/wiki/download/save-load-path.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

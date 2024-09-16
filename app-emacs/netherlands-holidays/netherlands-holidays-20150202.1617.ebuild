@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Netherlands holidays for Emacs calendar."
+DESCRIPTION="Netherlands holidays for Emacs calendar"
 
 HOMEPAGE="https://github.com/abo-abo/netherlands-holidays"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="toggle current window size between half and full"
+DESCRIPTION="Toggle current window size between half and full"
 
 HOMEPAGE="https://github.com/deadghost/toggle-window"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

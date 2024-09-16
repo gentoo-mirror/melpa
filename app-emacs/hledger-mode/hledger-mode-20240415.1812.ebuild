@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A mode for writing journal entries for hledger."
+DESCRIPTION="A mode for writing journal entries for hledger"
 
 HOMEPAGE="https://github.com/narendraj9/hledger-mode.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
