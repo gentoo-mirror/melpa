@@ -490,7 +490,7 @@ app-emacs/casual-avy 20240828.223: Transient UI for Avy
 app-emacs/casual-bookmarks 20240828.319: Transient UI for Bookmarks
 app-emacs/casual-calc 20240828.437: Transient UI for Calc
 app-emacs/casual-dired 20240917.401: Transient UI for Dired
-app-emacs/casual-editkit 20240923.224: Transient UI for Symbol Overlay
+app-emacs/casual-editkit 20240924.1809: Transient UI for Symbol Overlay
 app-emacs/casual-ibuffer 20240828.507: Transient UI for IBuffer
 app-emacs/casual-info 20240828.1725: Transient UI for Info
 app-emacs/casual-isearch 20240904.1704: Transient UI for I-Search
@@ -1477,7 +1477,7 @@ app-emacs/ergoemacs-mode 20240809.2246: Emacs mode based on common modern interf
 app-emacs/ergoemacs-status 20160318.538: Adaptive Status Bar / Mode Line
 app-emacs/eri 20240220.2129: Enhanced relative indentation (eri)
 app-emacs/erk 20231227.1449: Elisp (GitHub) Repository Kit
-app-emacs/erlang 20240913.845: Erlang major mode
+app-emacs/erlang 20240924.1319: Erlang major mode
 app-emacs/erlstack-mode 20230608.909: Minor mode for analysing Erlang stacktraces
 app-emacs/eros 20230309.615: Evaluation Result OverlayS for Emacs Lisp
 app-emacs/eros-inspector 20240923.613: Glue between eros and inspector
@@ -2327,7 +2327,7 @@ app-emacs/headlong 20150417.1526: Reckless completion
 app-emacs/heaven-and-hell 20190713.1830: Easy toggle light/dark themes
 app-emacs/heex-ts-mode 20240113.1104: Major mode for Heex with tree-sitter support
 app-emacs/helix-theme 20240814.1212: Color theme inspired by Helix editor's default colors
-app-emacs/helm 20240923.620: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20240924.629: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: Helm-sources and some utilities for GNU R
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: Helm source for Active Directory
@@ -2914,7 +2914,7 @@ app-emacs/jump-tree 20171014.1551: Treat position history as a tree
 app-emacs/jumplist 20151120.345: Jump like vim jumplist or ex jumplist
 app-emacs/jupyter 20240716.2028: Jupyter
 app-emacs/just-mode 20240424.1809: Justfile editing mode
-app-emacs/justl 20240701.1259: Major mode for driving just files
+app-emacs/justl 20240924.1513: Major mode for driving just files
 app-emacs/jvm-mode 20150422.708: Monitor and manage your JVMs
 app-emacs/k8s-mode 20230305.1039: Major mode for Kubernetes configuration file
 app-emacs/kaesar 20230626.2314: AES algorithm encrypt/decrypt
@@ -3899,7 +3899,7 @@ app-emacs/org-multi-wiki 20210324.1820: Multiple wikis based on Org mode
 app-emacs/org-multiple-keymap 20191017.1920: Set keymap to elements, such as timestamp and priority
 app-emacs/org-newtab 20240227.155: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 20240603.859: Org local nix-shell
-app-emacs/org-node 20240924.724: Link org-id entries into a network
+app-emacs/org-node 20240924.1224: Link org-id entries into a network
 app-emacs/org-node-fakeroam 20240923.1241: Stand-ins for org-roam-autosync-mode
 app-emacs/org-notebook 20170322.452: Ease the use of org-mode as a notebook
 app-emacs/org-noter 20240918.1703: A synchronized, Org-mode, document annotator
@@ -3968,7 +3968,7 @@ app-emacs/org-sync-snippets 20210111.1726: Export snippets to org-mode and vice 
 app-emacs/org-table-color 20220311.1927: Add color to your org-mode table cells
 app-emacs/org-table-comment 20120209.1851: Org table comment modes
 app-emacs/org-table-sticky-header 20190924.506: Sticky header for org-mode tables
-app-emacs/org-tag-beautify 20240924.635: Beautify Org mode tags
+app-emacs/org-tag-beautify 20240924.1346: Beautify Org mode tags
 app-emacs/org-tagged 20220926.2048: Dynamic block for tagged org-mode todos
 app-emacs/org-tanglesync 20200127.1616: Syncing org src blocks with tangled external files
 app-emacs/org-tfl 20170923.1218: Transport for London meets Orgmode
@@ -4512,7 +4512,7 @@ app-emacs/quiz 20190525.1206: Multiple choice quiz game
 app-emacs/qwen-chat-shell 20240612.343: Qwen-chat shell + buffer insert commands
 app-emacs/r-autoyas 20140101.1510: Provides automatically created yasnippets for R function argument lists
 app-emacs/racer 20210307.243: Code completion, goto-definition and docs browsing for Rust via racer
-app-emacs/racket-mode 20240923.1416: Racket editing, REPL, and more
+app-emacs/racket-mode 20240924.159: Racket editing, REPL, and more
 app-emacs/rails-i18n 20220126.1643: Seach and insert i18n on ruby code
 app-emacs/rails-log-mode 20140408.425: Major mode for viewing Rails log files
 app-emacs/rails-routes 20220126.1631: Search for and insert rails routes
@@ -4664,7 +4664,7 @@ app-emacs/robot-log 20220719.1301: Major mode for viewing RobotFramework debug l
 app-emacs/robot-mode 20240721.1023: Major-mode for Robot Framework files
 app-emacs/robots-txt-mode 20190812.1858: Major mode for editing robots.txt
 app-emacs/roc-ts-mode 20240820.1737: Roc programming language mode
-app-emacs/roguel-ike 20160120.302: A coffee-break roguelike
+app-emacs/roguel-ike 20240924.1706: A coffee-break roguelike
 app-emacs/rom-party 20240830.1225: Rendition of jklm.fun's "Bomb Party" game
 app-emacs/ron-mode 20200830.1554: Rusty Object Notation mode
 app-emacs/rope-read-mode 20211228.1126: Rearrange lines to read text smoothly
@@ -5176,7 +5176,7 @@ app-emacs/tabby-mode 20240107.2124: Minor mode for the Tabby AI coding assistant
 app-emacs/tabgo 20240204.1326: Jump to tabs, avy style
 app-emacs/tablist 20231019.1126: Extended tabulated-list-mode
 app-emacs/tabnine 20240629.1347: An unofficial TabNine package with TabNine Chat supported
-app-emacs/tabspaces 20240713.2215: Leverage tab-bar and project for buffer-isolated workspaces
+app-emacs/tabspaces 20240924.1414: Leverage tab-bar and project for buffer-isolated workspaces
 app-emacs/tabula-rasa 20141216.547: Distraction free writing mode
 app-emacs/tagedit 20161121.855: Some paredit-like features for html-mode
 app-emacs/take-off 20140531.917: Emacs remote web access
@@ -5790,6 +5790,7 @@ app-emacs/zetteldesk-remark 20230517.2020: Org-Remark integration for zetteldesk
 app-emacs/zettelkasten 20240517.1319: Helper functions to organise notes in a Zettelkasten style
 app-emacs/zetz-mode 20200823.536: A major mode for the ZetZ programming language
 app-emacs/zig-mode 20240416.1636: A major mode for the Zig programming language
+app-emacs/zig-ts-mode 20240924.1459: Tree Sitter support for Zig
 app-emacs/zim-wiki-mode 20240613.8: Zim Desktop Wiki edit mode
 app-emacs/zimports 20211011.2059: Reformat python imports with zimports
 app-emacs/zk 20240812.1148: Functions for working with Zettelkasten-style linked notes
