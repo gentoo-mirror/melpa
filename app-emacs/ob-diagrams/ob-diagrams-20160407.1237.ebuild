@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org-babel functions for diagrams evaluation"
 
-HOMEPAGE="http://orgmode.org"
+HOMEPAGE="https://github.com/bergey/org-babel-diagrams"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

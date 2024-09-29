@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Esmond dark theme"
 
-HOMEPAGE="https://github.com/xcatalyst/esmond-theme"
+HOMEPAGE="https://github.com/hsnovel/esmond-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

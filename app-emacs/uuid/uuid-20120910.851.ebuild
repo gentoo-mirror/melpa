@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="UUID's for EmacsLisp"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/nicferrier/emacs-uuid"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

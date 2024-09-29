@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A simple highlighting package for text/gemini"
 
-HOMEPAGE="https://git.carcosa.net/jmcbray/gemini.el"
+HOMEPAGE="https://git.carcosa.net/jmcbray/gemini.el.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

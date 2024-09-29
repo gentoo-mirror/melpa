@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Visually summarize progress in org files"
 
-HOMEPAGE="http://github.com/bard/org-dashboard"
+HOMEPAGE="https://github.com/bard/org-dashboard"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

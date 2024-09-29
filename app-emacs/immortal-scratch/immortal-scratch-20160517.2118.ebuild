@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Respawn the scratch buffer when it's killed"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/jpkotta/immortal-scratch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

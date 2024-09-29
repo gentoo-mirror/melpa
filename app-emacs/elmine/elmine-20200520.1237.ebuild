@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Redmine API access via elisp"
 
-HOMEPAGE="http://github.com/leoc/elmine"
+HOMEPAGE="https://github.com/leoc/elmine"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

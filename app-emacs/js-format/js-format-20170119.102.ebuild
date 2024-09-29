@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Format or transform code style using NodeJS server with different javascript formatter"
 
-HOMEPAGE="http://github.com/futurist/js-format.el"
+HOMEPAGE="https://github.com/futurist/js-format.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

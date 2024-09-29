@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ample regular expressions for Emacs"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/immerrr/ample-regexps.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

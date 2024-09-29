@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A web-based remote control for org-present"
 
-HOMEPAGE="https://gitlab.com/duncan-bayne/org-present-remote"
+HOMEPAGE="https://git.sr.ht/~duncan-bayne/org-present-remote"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

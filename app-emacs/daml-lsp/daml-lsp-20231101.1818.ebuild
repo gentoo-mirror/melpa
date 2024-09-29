@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="LSP client definition for daml"
 
-HOMEPAGE="https://github.com/bartfaitamas/daml-mode"
+HOMEPAGE="https://github.com/bartfailt/daml-lsp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

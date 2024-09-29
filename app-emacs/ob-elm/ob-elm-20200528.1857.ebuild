@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org-babel functions for elm evaluation"
 
-HOMEPAGE="https://www.bonfacemunyoki.com"
+HOMEPAGE="https://github.com/BonfaceKilz/ob-elm"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

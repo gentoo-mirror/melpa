@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Flycheck: ATS2 support"
 
-HOMEPAGE="http://github.com/drvink/flycheck-ats2"
+HOMEPAGE="https://github.com/drvink/flycheck-ats2"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

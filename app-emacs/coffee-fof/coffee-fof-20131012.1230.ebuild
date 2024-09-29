@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A coffee-mode configuration for \`ff-find-other-file'"
 
-HOMEPAGE="http://github.com/yasuyk/coffee-fof"
+HOMEPAGE="https://github.com/yasuyk/coffee-fof"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

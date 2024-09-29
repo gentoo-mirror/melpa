@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show whole days of world-time diffs"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/nicferrier/emacs-world-time-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

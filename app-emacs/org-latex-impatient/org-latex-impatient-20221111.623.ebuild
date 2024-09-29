@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Preview org-latex Fragments Instantly via MathJax"
 
-HOMEPAGE="https://github.com/yangsheng6810/org-latex-instant-preview"
+HOMEPAGE="https://github.com/yangsheng6810/org-latex-impatient"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

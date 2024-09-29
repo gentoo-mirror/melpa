@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Pacman for Emacs"
 
-HOMEPAGE="http://github.com/codingteam/pacmacs.el"
+HOMEPAGE="https://github.com/codingteam/pacmacs.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

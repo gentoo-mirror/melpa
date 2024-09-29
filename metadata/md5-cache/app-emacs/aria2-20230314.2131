@@ -2,11 +2,11 @@ BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
 DESCRIPTION=Control aria2c commandline tool from Emacs
 EAPI=8
-HOMEPAGE=https://bitbucket.org/ukaszg/aria2-mode
+HOMEPAGE=https://github.com/ukaszg/aria2
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/aria2-20230314.2131.tar
-_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	abb2dda42f680fce87602c8273f832c7	elisp	e7149f29f0c141396a0cec7cc59947a6	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=56297bbb12a708c4f09aa2b7c7407028
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
+_md5_=231fcd0126dd314ec65e541c7b85fa85

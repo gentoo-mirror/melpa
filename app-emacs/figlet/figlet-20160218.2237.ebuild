@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Annoy people with big, ascii art text"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/jpkotta/figlet"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for YNAB (you need a budget)"
 
-HOMEPAGE="https://github.com/janders223/ynab.el"
+HOMEPAGE="https://github.com/thoreinstein/ynab.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

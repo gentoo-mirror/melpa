@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interact with the AppNexus API from Emacs"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/rmloveland/emacs-appnexus-api"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

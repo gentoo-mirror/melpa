@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An OMDb API client with some convenience functions"
 
-HOMEPAGE="https://github.com/isamert/orgmdb"
+HOMEPAGE="https://github.com/isamert/orgmdb.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

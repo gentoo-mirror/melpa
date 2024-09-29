@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helm source for Active Directory"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/tnoda/helm-ad"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

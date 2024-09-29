@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Vega visualization viewer"
 
-HOMEPAGE="https://www.github.com/applied-science/emacs-vega-view"
+HOMEPAGE="https://github.com/applied-science/emacs-vega-view"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

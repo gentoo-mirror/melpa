@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Save recently visited files and buffers"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/Fuco1/autobookmarks"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Draw tokens as Unicode glyphs"
 
-HOMEPAGE="http://github.com/drothlis/pretty-symbols"
+HOMEPAGE="https://github.com/drothlis/pretty-symbols"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

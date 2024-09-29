@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A gray color theme"
 
-HOMEPAGE="https://github.com/thwg/goose-theme"
+HOMEPAGE="https://github.com/tokenrove/goose-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

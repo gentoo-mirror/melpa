@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Zen and art color theme for GNU Emacs 24"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/developernotes/zen-and-art-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

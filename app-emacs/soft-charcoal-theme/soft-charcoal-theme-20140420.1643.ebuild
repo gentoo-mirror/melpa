@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Dark charcoal theme with soft colors"
 
-HOMEPAGE="http://github.com/mswift42/soft-charcoal-theme"
+HOMEPAGE="https://github.com/mswift42/soft-charcoal-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

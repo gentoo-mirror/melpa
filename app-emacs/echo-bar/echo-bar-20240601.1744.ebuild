@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Turn the echo area into a custom status bar"
 
-HOMEPAGE="https://github.com/qaiviq/echo-bar.el"
+HOMEPAGE="https://github.com/benzanol/echo-bar.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

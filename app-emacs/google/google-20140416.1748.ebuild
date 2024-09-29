@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs interface to the Google API"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/hober/google-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

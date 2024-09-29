@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Manage your pocket"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/lujun9972/pocket-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

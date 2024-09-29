@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Reformat Clojure code using cljstyle"
 
-HOMEPAGE="http://www.github.com/dpassen/cljstyle-format"
+HOMEPAGE="https://github.com/dpassen/cljstyle-format"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Add interactive commands for every manpages installed in your computer"
 
-HOMEPAGE="http://github.com/nflath/man-commands"
+HOMEPAGE="https://github.com/nflath/man-commands"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

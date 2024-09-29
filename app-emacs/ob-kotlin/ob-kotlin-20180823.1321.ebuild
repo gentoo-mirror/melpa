@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org-babel functions for kotlin evaluation"
 
-HOMEPAGE="http://github.com/zweifisch/ob-kotlin"
+HOMEPAGE="https://github.com/zweifisch/ob-kotlin"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

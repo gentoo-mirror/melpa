@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Completion library for Erlang/Distel"
 
-HOMEPAGE="github.com/sebastiw/distel-completion"
+HOMEPAGE="https://github.com/sebastiw/distel-completion"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

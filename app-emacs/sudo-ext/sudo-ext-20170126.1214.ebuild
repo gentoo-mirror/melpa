@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Sudo support"
 
-HOMEPAGE="http://www.emacswiki.org/cgi-bin/wiki/download/sudo-ext.el"
+HOMEPAGE="https://github.com/rubikitch/sudo-ext"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

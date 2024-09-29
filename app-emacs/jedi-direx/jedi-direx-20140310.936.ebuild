@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Tree style source code viewer for Python buffer"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/tkf/emacs-jedi-direx"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

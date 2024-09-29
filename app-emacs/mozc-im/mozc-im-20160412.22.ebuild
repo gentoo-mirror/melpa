@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Mozc with input-method-function interface"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/d5884/mozc-im"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

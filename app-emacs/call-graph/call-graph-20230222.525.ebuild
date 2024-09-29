@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Generate call graph for c/c++ functions"
 
-HOMEPAGE="https://github.com/beacoder/call-graph"
+HOMEPAGE="https://github.com/emacsattic/call-graph"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

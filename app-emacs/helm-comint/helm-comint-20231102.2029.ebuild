@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Comint prompt navigation for helm"
 
-HOMEPAGE="https://github.com/benedicthw/helm-comint.git"
+HOMEPAGE="https://github.com/emacs-helm/helm-comint"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

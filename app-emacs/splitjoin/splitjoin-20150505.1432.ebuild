@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Transition between multiline and single-line code"
 
-HOMEPAGE="https://github.com/syohex/emacs-splitjoin"
+HOMEPAGE="https://github.com/emacsorphanage/splitjoin"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Modular emacs configuration framework"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/laynor/smotitah"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

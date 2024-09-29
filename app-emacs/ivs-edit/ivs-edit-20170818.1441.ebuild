@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="IVS (Ideographic Variation Sequence) editing tool"
 
-HOMEPAGE="http://github.com/kawabata/ivs-edit"
+HOMEPAGE="https://github.com/kawabata/ivs-edit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

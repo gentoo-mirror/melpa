@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for Gomfile"
 
-HOMEPAGE="https://github.com/syohex/emacs-gom-mode"
+HOMEPAGE="https://github.com/emacsorphanage/gom-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

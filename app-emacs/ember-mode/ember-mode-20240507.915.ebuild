@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ember navigation mode for emacs"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/madnificent/ember-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

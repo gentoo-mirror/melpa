@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Gerrit client"
 
-HOMEPAGE="https://github.com/thisch/gerrit.el"
+HOMEPAGE="https://github.com/twmr/gerrit.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

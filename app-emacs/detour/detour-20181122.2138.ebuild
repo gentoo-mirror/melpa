@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Take a quick detour and return"
 
-HOMEPAGE="https://github.com/ska2342/detour/"
+HOMEPAGE="https://github.com/ska2342/detour"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

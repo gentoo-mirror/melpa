@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Port of vim's mustang theme"
 
-HOMEPAGE="http://github.com/mswift42/busybee-theme"
+HOMEPAGE="https://github.com/mswift42/busybee-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

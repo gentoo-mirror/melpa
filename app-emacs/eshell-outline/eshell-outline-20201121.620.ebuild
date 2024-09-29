@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Enhanced outline-mode for Eshell"
 
-HOMEPAGE="https://git.jamzattack.xyz/eshell-outline"
+HOMEPAGE="https://github.com/emacsattic/eshell-outline"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

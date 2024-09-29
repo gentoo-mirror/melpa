@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A library to provide MIME features"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/ksato9700/mu-cite"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

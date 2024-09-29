@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Paste code on https://paste.ofcode.org"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/spebern/paste-of-code.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

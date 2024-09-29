@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Outline mode extensions for Emacs"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/tj64/outline-magic"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

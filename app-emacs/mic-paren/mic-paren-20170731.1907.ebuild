@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Advanced highlighting of matching parentheses"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/emacsattic/mic-paren"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Yet Another Message Interface on Emacsen"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/wanderlust/wanderlust"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

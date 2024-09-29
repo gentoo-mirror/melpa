@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Colorize untested ruby code"
 
-HOMEPAGE="https://github.org/zenspider/elisp"
+HOMEPAGE="https://github.com/zenspider/simplecov.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

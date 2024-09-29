@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An Emacs 24 theme based on Slime (tmTheme)"
 
-HOMEPAGE="https://github.com/emacsfodder/tmtheme-to-deftheme"
+HOMEPAGE="https://github.com/emacsfodder/emacs-slime-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

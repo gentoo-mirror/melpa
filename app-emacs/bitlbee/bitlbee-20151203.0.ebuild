@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Help get Bitlbee (http://www.bitlbee.org) up and running"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/pjones/bitlbee-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

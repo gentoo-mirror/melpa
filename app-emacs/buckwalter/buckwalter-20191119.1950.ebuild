@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Write arabic using Buckwalter transliteration"
 
-HOMEPAGE="https://github.com/joehakimrahme/buckwalter-arabic"
+HOMEPAGE="https://github.com/joehakimrahme/buckwalter.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

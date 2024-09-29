@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Front-end for MAME MESS"
 
-HOMEPAGE="https://github.com/Iacob/elmame"
+HOMEPAGE="https://github.com/Iacob/mess.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

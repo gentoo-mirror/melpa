@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Move region to archive file instead of killing"
 
-HOMEPAGE="http://www.emacswiki.org/cgi-bin/wiki/download/archive-region.el"
+HOMEPAGE="https://github.com/rubikitch/archive-region"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

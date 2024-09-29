@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interactive Emacs mode for Remember The Milk"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://gitlab.com/mbunkus/simple-rtm"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

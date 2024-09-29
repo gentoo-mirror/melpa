@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helpers for compiling with ant"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/apg/ant-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

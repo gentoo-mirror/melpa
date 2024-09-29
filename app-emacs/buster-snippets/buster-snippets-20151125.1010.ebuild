@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Yasnippets for the Buster javascript testing framework"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/magnars/buster-snippets.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A theme for prose"
 
-HOMEPAGE="https://github.com/kunalb/poet/"
+HOMEPAGE="https://github.com/kunalb/poet"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

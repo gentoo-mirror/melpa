@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Evil's f/F/t/T/evil-snipe commands with Pinyin support"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/cute-jumper/evil-find-char-pinyin"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

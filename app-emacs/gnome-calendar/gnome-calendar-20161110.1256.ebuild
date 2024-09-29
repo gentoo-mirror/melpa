@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Integration with the GNOME Shell calendar"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/NicolasPetton/gnome-calendar.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

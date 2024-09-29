@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs Major mode for working with Trac"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/merickson/tracwiki-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

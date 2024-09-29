@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Run compile in a specific directory"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/jamienicol/emacs-cd-compile"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

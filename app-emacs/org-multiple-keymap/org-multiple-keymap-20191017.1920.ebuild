@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Set keymap to elements, such as timestamp and priority"
 
-HOMEPAGE="https://github.com/myuhe/org-multiple-keymap.el"
+HOMEPAGE="https://github.com/emacsattic/org-multiple-keymap"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

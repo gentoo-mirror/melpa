@@ -3,11 +3,11 @@ DEFINED_PHASES=compile configure info install postinst postrm prepare setup test
 DEPEND=app-emacs/dash
 DESCRIPTION=Utilities for working with text prompts
 EAPI=8
-HOMEPAGE=https://github.com/guiltydolphin/prompts.el
+HOMEPAGE=https://github.com/GuiltyDolphin/prompts.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=app-emacs/dash >=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/prompts-20160916.1041.tar
-_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	abb2dda42f680fce87602c8273f832c7	elisp	e7149f29f0c141396a0cec7cc59947a6	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=341948cef4375114b93b9c0c276013b3
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
+_md5_=3f89a43bd60fc06a9be5d45fd7214e26

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Add score support to tracked channel buffers"
 
-HOMEPAGE="http://julien.danjou.info/erc-track-score.html"
+HOMEPAGE="https://github.com/jd/erc-track-score.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

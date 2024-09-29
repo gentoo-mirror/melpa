@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Theme with a dark background"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/mswift42/reykjavik-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

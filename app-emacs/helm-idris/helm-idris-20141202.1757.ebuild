@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A Helm datasource for Idris documentation, queried from the compiler"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/david-christiansen/helm-idris"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A thesaurus at your fingertips"
 
-HOMEPAGE="http://github.com/toroidal-code/synonymous.el"
+HOMEPAGE="https://github.com/toroidal-code/synonymous.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

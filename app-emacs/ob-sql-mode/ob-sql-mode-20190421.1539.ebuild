@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="SQL code blocks evaluated by sql-mode"
 
-HOMEPAGE="http://github.com/nikclayton/ob-sql-mode"
+HOMEPAGE="https://github.com/nikclayton/ob-sql-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

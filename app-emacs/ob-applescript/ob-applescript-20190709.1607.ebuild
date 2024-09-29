@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org-babel functions for AppleScript"
 
-HOMEPAGE="http://github.com/stig/ob-applescript.el"
+HOMEPAGE="https://github.com/stig/ob-applescript.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Write textual uml diagram from emacs using yuml.me"
 
-HOMEPAGE="http://github.com/antham/eyuml"
+HOMEPAGE="https://github.com/antham/eyuml"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

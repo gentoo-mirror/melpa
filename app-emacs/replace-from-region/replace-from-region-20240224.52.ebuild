@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Replace commands whose query is from region"
 
-HOMEPAGE="http://www.emacswiki.org/emacs/download/replace-from-region.el"
+HOMEPAGE="https://github.com/rubikitch/replace-from-region"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

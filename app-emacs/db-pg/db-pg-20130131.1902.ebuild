@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A PostgreSQL adapter for emacs-db"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/nicferrier/emacs-db-pg"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

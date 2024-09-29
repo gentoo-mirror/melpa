@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helm extension to list svn files"
 
-HOMEPAGE="https://svn.macports.org/repository/macports/users/chunyang/helm-ls-svn.el/helm-ls-svn.el"
+HOMEPAGE="https://github.com/emacsmirror/helm-ls-svn"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

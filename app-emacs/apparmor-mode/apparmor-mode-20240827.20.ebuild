@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing AppArmor policy files"
 
-HOMEPAGE="https://github.com/alexmurray/apparmor-mode"
+HOMEPAGE="https://gitlab.com/apparmor/apparmor-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for MATLAB(R) dot-m files"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://git.code.sf.net/p/matlab-emacs/src"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

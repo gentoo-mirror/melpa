@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A simple package for looking up kconfig symbol quickly"
 
-HOMEPAGE="https://github.com/seokbeomkim/kconfig-ref"
+HOMEPAGE="https://github.com/seokbeomKim/kconfig-ref"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

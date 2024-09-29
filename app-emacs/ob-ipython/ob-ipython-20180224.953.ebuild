@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org-babel functions for IPython evaluation"
 
-HOMEPAGE="http://www.gregsexton.org"
+HOMEPAGE="https://github.com/gregsexton/ob-ipython"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

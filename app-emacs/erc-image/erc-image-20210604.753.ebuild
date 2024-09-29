@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show received image urls in the ERC buffer"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/kidd/erc-image.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

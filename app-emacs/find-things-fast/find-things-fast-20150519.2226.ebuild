@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Find things fast, leveraging the power of git"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/eglaysher/find-things-fast"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

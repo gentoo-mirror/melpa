@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Browse and execute tests with ivy"
 
-HOMEPAGE="http://github.com/xmagpie/counsel-test"
+HOMEPAGE="https://github.com/xmagpie/counsel-test"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

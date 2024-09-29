@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Goto/copy/cut any word/symbol/line in view, similar to ace-jump/easymotion"
 
-HOMEPAGE="http://github.com/enoson/eno.el"
+HOMEPAGE="https://github.com/emacsattic/eno"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

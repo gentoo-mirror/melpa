@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An interface for the Mutant testing tool"
 
-HOMEPAGE="http://github.com/p-lambert/mutant.el"
+HOMEPAGE="https://github.com/p-lambert/mutant.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

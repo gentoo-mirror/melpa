@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A major mode for editing Breccian text"
 
-HOMEPAGE="http://reluk.ca/project/Breccia/Emacs/"
+HOMEPAGE="https://github.com/Michael-Allan/Breccia.Emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

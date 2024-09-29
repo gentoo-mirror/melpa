@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Incremental search on minibuffer history"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/knagano/minibuf-isearch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Quick navigation between workspaces"
 
-HOMEPAGE="https://github.com/thisirs/state.git"
+HOMEPAGE="https://github.com/thisirs/state"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

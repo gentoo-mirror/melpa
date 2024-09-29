@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A Portable Emacs Library provides support for portable Emacs Lisp programs"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/wanderlust/apel"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

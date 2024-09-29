@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A simple way to insert unicode characters by TeX name"
 
-HOMEPAGE="https://github.com/apgwoz/unipoint"
+HOMEPAGE="https://github.com/apg/unipoint"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

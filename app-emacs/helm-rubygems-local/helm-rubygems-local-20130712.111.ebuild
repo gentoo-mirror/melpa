@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Installed local rubygems find-file for helm"
 
-HOMEPAGE="https://github.com/f-kubotar/helm-rubygems-local"
+HOMEPAGE="https://github.com/hadashiA/helm-rubygems-local"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

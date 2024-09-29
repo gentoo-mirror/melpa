@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing todo.txt files"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/avillafiorita/todotxt-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Dark color theme"
 
-HOMEPAGE="http://github.com/kootenpv/emacs-kooten-theme"
+HOMEPAGE="https://github.com/kootenpv/emacs-kooten-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

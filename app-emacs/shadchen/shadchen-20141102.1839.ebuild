@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Pattern matching for elisp"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/VincentToups/shadchen-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

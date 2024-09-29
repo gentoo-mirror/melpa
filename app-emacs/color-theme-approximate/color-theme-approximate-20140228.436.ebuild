@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Makes Emacs theme works on terminal transparently"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/tungd/color-theme-approximate"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

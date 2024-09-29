@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An easier way to add images from the web in org mode"
 
-HOMEPAGE="https://github.com/tashrifsanil/org-easy-img-insert"
+HOMEPAGE="https://github.com/my7h3le/org-easy-img-insert"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

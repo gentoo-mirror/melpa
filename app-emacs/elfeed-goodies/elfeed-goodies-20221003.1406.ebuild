@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Elfeed goodies"
 
-HOMEPAGE="https://github.com/algernon/elfeed-goodies"
+HOMEPAGE="https://github.com/jeetelongname/elfeed-goodies"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

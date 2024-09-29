@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Check for unbalanced parens on the fly"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/jiyoo/flyparens"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

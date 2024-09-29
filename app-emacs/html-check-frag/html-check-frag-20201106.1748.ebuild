@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Check html-fragments"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/TobiasZawada/html-check-frag"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

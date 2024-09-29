@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Extension of hippie-expand"
 
-HOMEPAGE="http://www.emacswiki.org/emacs/download/hippie-exp-ext.el"
+HOMEPAGE="https://github.com/rubikitch/hippie-exp-ext"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

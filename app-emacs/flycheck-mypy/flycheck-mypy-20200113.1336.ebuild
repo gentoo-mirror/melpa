@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Support mypy in flycheck"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/lbolla/emacs-flycheck-mypy"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

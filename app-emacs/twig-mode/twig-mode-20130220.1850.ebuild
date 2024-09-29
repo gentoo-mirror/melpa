@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A major mode for twig"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/moljac024/twig-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

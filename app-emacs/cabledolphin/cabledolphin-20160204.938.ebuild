@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Capture Emacs network traffic"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/legoscia/cabledolphin"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

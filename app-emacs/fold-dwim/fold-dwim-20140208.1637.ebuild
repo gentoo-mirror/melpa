@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Unified user interface for Emacs folding modes"
 
-HOMEPAGE="http://www.dur.ac.uk/p.j.heslin/Software/Emacs"
+HOMEPAGE="https://github.com/emacsattic/fold-dwim"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

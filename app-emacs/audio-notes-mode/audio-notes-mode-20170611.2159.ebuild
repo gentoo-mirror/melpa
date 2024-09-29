@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Play audio notes synced from somewhere else"
 
-HOMEPAGE="http://github.com/Bruce-Connor/audio-notes-mode"
+HOMEPAGE="https://github.com/Malabarba/audio-notes-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

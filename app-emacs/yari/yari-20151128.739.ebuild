@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Yet Another RI interface for Emacs"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/hron/yari.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

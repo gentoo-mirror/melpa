@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Working with numbers at point"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/emacsattic/number"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

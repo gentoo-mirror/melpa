@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Base conversion made easy"
 
-HOMEPAGE="http://github.com/AdamNiederer/0xc"
+HOMEPAGE="https://github.com/AdamNiederer/0xc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

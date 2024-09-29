@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for .NET-based Cobra language"
 
-HOMEPAGE="http://github.com/Nekroze/cobra-mode"
+HOMEPAGE="https://github.com/Nekroze/cobra-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

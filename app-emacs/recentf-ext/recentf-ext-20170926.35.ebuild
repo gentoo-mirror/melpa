@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Recentf extensions"
 
-HOMEPAGE="http://www.emacswiki.org/cgi-bin/wiki/download/recentf-ext.el"
+HOMEPAGE="https://github.com/rubikitch/recentf-ext"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

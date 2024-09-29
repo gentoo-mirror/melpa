@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fixing weird quirks and poor defaults"
 
-HOMEPAGE="https://github.com/technomancy/better-defaults"
+HOMEPAGE="https://git.sr.ht/~technomancy/better-defaults"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

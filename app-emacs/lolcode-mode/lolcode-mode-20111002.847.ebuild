@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing LOLCODE"
 
-HOMEPAGE="http://github.com/bodil/lolcode-mode"
+HOMEPAGE="https://github.com/bodil/lolcode-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ujelly theme for GNU Emacs 24 (deftheme)"
 
-HOMEPAGE="http://github.com/marktran/color-theme-ujelly"
+HOMEPAGE="https://github.com/marktran/color-theme-ujelly"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

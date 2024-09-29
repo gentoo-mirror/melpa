@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing cypher scripts"
 
-HOMEPAGE="http://github.com/fxbois/cypher-mode"
+HOMEPAGE="https://github.com/fxbois/cypher-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

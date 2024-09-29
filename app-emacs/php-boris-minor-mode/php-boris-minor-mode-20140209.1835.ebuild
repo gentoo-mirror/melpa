@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A minor mode to evaluate PHP code in the Boris repl"
 
-HOMEPAGE="https://github.com/steckerhalter/php-boris-minor-mode"
+HOMEPAGE="https://framagit.org/steckerhalter/php-boris-minor-mode.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

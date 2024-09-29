@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Add Handlebars contextual indenting support to sgml-mode"
 
-HOMEPAGE="http://github.com/jacott/handlebars-sgml-mode"
+HOMEPAGE="https://github.com/jacott/handlebars-sgml-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

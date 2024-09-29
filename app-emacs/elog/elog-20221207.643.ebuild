@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Logging library extended from logito"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/lujun9972/elog"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

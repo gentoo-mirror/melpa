@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Create an aggregated Org table from another one"
 
-HOMEPAGE="https://github.com/tbanel/orgaggregate/blob/master/README.org"
+HOMEPAGE="https://github.com/tbanel/orgaggregate"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

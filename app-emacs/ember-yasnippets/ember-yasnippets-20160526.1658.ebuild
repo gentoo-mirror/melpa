@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Snippets for Ember.js development"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/ronco/ember-yasnippets.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

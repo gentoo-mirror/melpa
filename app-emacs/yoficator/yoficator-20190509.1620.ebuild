@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interactively yoficate Russian texts"
 
-HOMEPAGE="https://gitlab.com/link2xt/yoficator"
+HOMEPAGE="https://gitlab.com/alx.k/yoficator"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

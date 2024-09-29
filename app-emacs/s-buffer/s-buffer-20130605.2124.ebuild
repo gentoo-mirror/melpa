@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="S operations for buffers"
 
-HOMEPAGE="http://github.com/nicferrier/emacs-s-buffer"
+HOMEPAGE="https://github.com/nicferrier/emacs-s-buffer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

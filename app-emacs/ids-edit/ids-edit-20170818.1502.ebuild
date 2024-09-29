@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="IDS (Ideographic Description Sequence) editing tool"
 
-HOMEPAGE="http://github.com/kawabata/ids-edit"
+HOMEPAGE="https://github.com/kawabata/ids-edit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

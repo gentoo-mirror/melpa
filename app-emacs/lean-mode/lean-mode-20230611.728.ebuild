@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A major mode for the Lean 3 language"
 
-HOMEPAGE="https://github.com/leanprover/lean-mode"
+HOMEPAGE="https://github.com/leanprover/lean3-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

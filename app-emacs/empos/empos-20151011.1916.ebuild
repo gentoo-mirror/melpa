@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Locate bibtex citations from within emacs"
 
-HOMEPAGE="http://github.com/dimalik/empos/"
+HOMEPAGE="https://github.com/dimalik/empos"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

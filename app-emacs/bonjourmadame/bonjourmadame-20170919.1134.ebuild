@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Say \"Hello ma'am!\""
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/pierre-lecocq/bonjourmadame"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A notification-based Lingr client powered by symon.el"
 
-HOMEPAGE="http://hins11.yu-yake.com/"
+HOMEPAGE="https://github.com/zk-phi/symon-lingr"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

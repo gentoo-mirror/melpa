@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automatically save files in focus-out-hook"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/vifon/focus-autosave-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

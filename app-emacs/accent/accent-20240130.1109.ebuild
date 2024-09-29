@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Popup for accented characters (diacritics)"
 
-HOMEPAGE="https://github.com/elias94/accent"
+HOMEPAGE="https://github.com/eliascotto/accent"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

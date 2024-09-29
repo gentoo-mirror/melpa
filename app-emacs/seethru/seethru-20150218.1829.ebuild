@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Easily change Emacs' transparency"
 
-HOMEPAGE="http://github.com/benaiah/seethru"
+HOMEPAGE="https://github.com/Benaiah/seethru"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Company integration for racer"
 
-HOMEPAGE="https://github.com/emacs-pe/company-racer"
+HOMEPAGE="https://github.com/emacsattic/company-racer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

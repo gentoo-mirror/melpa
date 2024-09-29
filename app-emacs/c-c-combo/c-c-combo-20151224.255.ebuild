@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Make stuff happen when you reach a target wpm"
 
-HOMEPAGE="https://www.github.com/CestDiego/c-c-combo.el"
+HOMEPAGE="https://github.com/CestDiego/c-c-combo.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

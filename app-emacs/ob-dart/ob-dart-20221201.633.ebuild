@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Evaluate Dart source blocks in org-mode"
 
-HOMEPAGE="http://github.org/mzimmerm/ob-dart"
+HOMEPAGE="https://github.com/mzimmerm/ob-dart"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

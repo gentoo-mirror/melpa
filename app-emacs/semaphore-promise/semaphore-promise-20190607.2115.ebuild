@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Semaphore integration with promise"
 
-HOMEPAGE="http://github.com/webnf/semaphore.el"
+HOMEPAGE="https://github.com/webnf/semaphore.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

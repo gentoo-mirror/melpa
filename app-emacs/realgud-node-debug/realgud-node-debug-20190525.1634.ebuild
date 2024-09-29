@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Realgud front-end to older \"node debug\""
 
-HOMEPAGE="http://github.com/realgud/realgud-node-debug"
+HOMEPAGE="https://github.com/realgud/realgud-node-debug"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

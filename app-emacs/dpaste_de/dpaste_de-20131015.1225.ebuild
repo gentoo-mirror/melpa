@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs mode to paste to dpaste.de"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/theju/dpaste_de.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Adds discover context menu for js2-refactor"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/NicolasPetton/discover-js2-refactor"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

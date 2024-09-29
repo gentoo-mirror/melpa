@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Query JSON using jmespath"
 
-HOMEPAGE="https://github.com/unresolvedcold/jmespath"
+HOMEPAGE="https://github.com/UnresolvedCold/jmespath"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

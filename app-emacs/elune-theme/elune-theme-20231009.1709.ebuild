@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Elune theme"
 
-HOMEPAGE="https://github.com/xcatalyst/elune-theme"
+HOMEPAGE="https://github.com/hsnovel/elune-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Virtual projects for emacs"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://gitlab.com/gaudecker/mip-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

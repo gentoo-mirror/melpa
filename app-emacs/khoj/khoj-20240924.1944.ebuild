@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Your Second Brain"
 
-HOMEPAGE="https://github.com/khoj-ai/khoj/tree/master/src/interface/emacs"
+HOMEPAGE="https://github.com/khoj-ai/khoj"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

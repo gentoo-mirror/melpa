@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs integration for kerl"
 
-HOMEPAGE="http://github.com/correl/kerl.el/"
+HOMEPAGE="https://github.com/correl/kerl.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Create clojure projects from templates"
 
-HOMEPAGE="https://github.com/jpe90/emacs-deps-new"
+HOMEPAGE="https://github.com/jpe90/emacs-clj-deps-new"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

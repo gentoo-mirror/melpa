@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Visible active window mode"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/yoshida-mediba/hiwin-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

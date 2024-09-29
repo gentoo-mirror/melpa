@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Integration with shell history"
 
-HOMEPAGE="http://www.emacswiki.org/cgi-bin/wiki/download/shell-history.el"
+HOMEPAGE="https://github.com/emacsorphanage/shell-history"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

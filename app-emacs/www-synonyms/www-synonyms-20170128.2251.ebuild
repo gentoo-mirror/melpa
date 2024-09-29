@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Insert synonym for a word"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/spebern/www-synonyms"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

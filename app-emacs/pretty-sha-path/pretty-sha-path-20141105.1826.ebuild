@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Prettify Guix/Nix store paths"
 
-HOMEPAGE="https://gitorious.org/alezost-emacs/pretty-sha-path"
+HOMEPAGE="https://github.com/alezost/pretty-sha-path.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

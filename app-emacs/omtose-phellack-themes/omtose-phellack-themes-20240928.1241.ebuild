@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Two dark themes, with cold blusish touch"
 
-HOMEPAGE="http:/github.com/franksn/omtose-darker/"
+HOMEPAGE="https://github.com/emacsorphanage/omtose-phellack-themes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

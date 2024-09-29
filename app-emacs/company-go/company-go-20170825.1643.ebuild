@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Company-mode backend for Go (using gocode)"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/emacsattic/company-go"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

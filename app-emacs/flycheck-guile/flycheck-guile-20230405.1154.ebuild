@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A Flycheck checker for GNU Guile"
 
-HOMEPAGE="https://notabug.org/flatwhatson/flycheck-guile"
+HOMEPAGE="https://github.com/flatwhatson/flycheck-guile"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

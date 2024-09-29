@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Never blocks are comment"
 
-HOMEPAGE="http://stackoverflow.com/a/4554658/89376"
+HOMEPAGE="https://github.com/To1ne/never-comment"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

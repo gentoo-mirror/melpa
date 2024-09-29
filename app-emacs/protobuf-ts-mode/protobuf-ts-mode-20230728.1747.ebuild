@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Tree sitter support for Protocol Buffers (proto3 only)"
 
-HOMEPAGE="https://git.ookami.one/cgit/protobuf-ts-mode"
+HOMEPAGE="https://github.com/emacsattic/protobuf-ts-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

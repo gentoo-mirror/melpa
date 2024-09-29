@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing Plim files"
 
-HOMEPAGE="http://github.com/dongweiming/plim-mode"
+HOMEPAGE="https://github.com/dongweiming/plim-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

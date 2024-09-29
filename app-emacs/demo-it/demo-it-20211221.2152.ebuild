@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Create demonstrations"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/howardabrams/demo-it"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

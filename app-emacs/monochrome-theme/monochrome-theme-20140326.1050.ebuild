@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A dark Emacs 24 theme for your focused hacking sessions"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/fxn/monochrome-theme.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

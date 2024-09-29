@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Yasnippets for go"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/toumorokoshi/go-snippets"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

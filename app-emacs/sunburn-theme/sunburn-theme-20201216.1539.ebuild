@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A low contrast color theme"
 
-HOMEPAGE="http://github.com/mvarela/Sunburn-Theme"
+HOMEPAGE="https://github.com/mvarela/Sunburn-Theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

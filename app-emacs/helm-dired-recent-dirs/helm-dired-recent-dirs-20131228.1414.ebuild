@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show recent dirs with helm.el support"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/zonkyy/helm-dired-recent-dirs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

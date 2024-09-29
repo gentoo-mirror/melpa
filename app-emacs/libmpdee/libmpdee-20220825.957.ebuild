@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Client end library for mpd, a music playing daemon"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/andyetitmoves/libmpdee"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

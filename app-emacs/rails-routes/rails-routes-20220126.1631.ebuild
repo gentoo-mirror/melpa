@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Search for and insert rails routes"
 
-HOMEPAGE="https://github.com/otavioschwanck/rails-routes"
+HOMEPAGE="https://github.com/otavioschwanck/rails-routes.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Insert camelCase, snake_case words without \"Shift\"ing"
 
-HOMEPAGE="http://hins11.yu-yake.com/"
+HOMEPAGE="https://github.com/zk-phi/electric-case"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

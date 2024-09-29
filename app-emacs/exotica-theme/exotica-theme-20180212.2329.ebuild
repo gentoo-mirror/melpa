@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A dark theme with vibrant colors"
 
-HOMEPAGE="https://github.com/jbharat/exotica-theme"
+HOMEPAGE="https://github.com/zenobht/exotica-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

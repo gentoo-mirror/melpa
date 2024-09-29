@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Expand selection by line"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/victorteokw/expand-line"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

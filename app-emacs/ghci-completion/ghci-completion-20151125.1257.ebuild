@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Completion for GHCi commands in inferior-haskell buffers"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/manzyuk/ghci-completion"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

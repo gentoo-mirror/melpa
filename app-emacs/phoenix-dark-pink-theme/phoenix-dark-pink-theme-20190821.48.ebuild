@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Originally a port of the Sublime Text 2 theme"
 
-HOMEPAGE="http://github.com/j0ni/phoenix-dark-pink"
+HOMEPAGE="https://github.com/j0ni/phoenix-dark-pink"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

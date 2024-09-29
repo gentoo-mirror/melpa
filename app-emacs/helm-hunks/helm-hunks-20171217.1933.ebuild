@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A helm interface for git hunks - browsing, staging, unstaging and killing"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/torgeir/helm-hunks.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

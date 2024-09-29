@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Regression-fit a column in an Org Mode table"
 
-HOMEPAGE="https://github.com/tbanel/orgtblfit/blob/master/README.org"
+HOMEPAGE="https://github.com/tbanel/orgtblfit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

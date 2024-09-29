@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs backend for dropbox"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/pavpanchekha/dropbox.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

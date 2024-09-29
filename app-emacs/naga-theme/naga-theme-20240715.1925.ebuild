@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Dark color theme with green foreground color"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/kenranunderscore/emacs-naga-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

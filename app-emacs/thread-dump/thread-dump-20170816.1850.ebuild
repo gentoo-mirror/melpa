@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Java thread dump viewer"
 
-HOMEPAGE="http://github.com/nd/thread-dump.el"
+HOMEPAGE="https://github.com/nd/thread-dump.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

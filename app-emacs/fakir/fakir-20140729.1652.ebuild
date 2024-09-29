@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fakeing bits of Emacs"
 
-HOMEPAGE="http://github.com/nicferrier/emacs-fakir"
+HOMEPAGE="https://github.com/nicferrier/emacs-fakir"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

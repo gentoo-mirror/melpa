@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Improved word-jumping functions"
 
-HOMEPAGE="http://chud.wtf"
+HOMEPAGE="https://github.com/natelastname/bbww"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

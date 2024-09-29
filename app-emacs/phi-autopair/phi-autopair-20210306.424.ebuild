@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Another simple-minded autopair implementation"
 
-HOMEPAGE="http://zk-phi.gitub.io/"
+HOMEPAGE="https://github.com/zk-phi/phi-autopair"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

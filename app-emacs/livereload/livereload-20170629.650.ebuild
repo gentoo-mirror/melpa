@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Livereload server"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/joaotavora/emacs-livereload"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

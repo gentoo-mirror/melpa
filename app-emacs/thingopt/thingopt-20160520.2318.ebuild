@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Thing at Point optional utilities"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/emacsorphanage/thingopt"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

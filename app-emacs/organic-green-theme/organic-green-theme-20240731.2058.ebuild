@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Low-contrast green color theme"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://gitlab.com/kostafey/organic-green-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Create a byte array from a file"
 
-HOMEPAGE="https://github.com/dave-f/baff/"
+HOMEPAGE="https://github.com/dave-f/baff"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

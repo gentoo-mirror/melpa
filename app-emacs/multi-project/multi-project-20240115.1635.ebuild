@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Find files, compile, and search in multiple projects"
 
-HOMEPAGE="https://github.com/ellisvelo/multi-project.git"
+HOMEPAGE="https://github.com/ellisvelo/multi-project"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

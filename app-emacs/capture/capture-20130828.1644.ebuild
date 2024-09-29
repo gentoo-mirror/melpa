@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Screencasting with \"avconv\" or \"ffmpeg\""
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/pashinin/capture.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

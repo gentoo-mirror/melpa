@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Kubernetes API Documentation"
 
-HOMEPAGE="https://github.com/r0bobo/kubedoc.el/"
+HOMEPAGE="https://github.com/r0bobo/kubedoc.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

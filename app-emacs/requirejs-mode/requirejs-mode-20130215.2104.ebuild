@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Improved AMD module management"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/moricard/requirejs-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

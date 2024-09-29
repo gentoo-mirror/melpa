@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Highlighting commands"
 
-HOMEPAGE="https://www.emacswiki.org/emacs/download/highlight.el"
+HOMEPAGE="https://github.com/emacsmirror/highlight"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Shows text of a tweet when an url is posted in erc buffers"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/kidd/erc-tweet.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

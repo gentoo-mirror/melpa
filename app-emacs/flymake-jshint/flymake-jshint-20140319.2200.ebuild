@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Making flymake work with JSHint"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/Wilfred/flymake-jshint.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Color Theme with a dark blue background"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/mswift42/hamburg-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Backward delete like modern text editors"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://gitlab.com/nivaca/nv-delete-back"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="HTML code blocks converted to PNG using Chrome"
 
-HOMEPAGE="http://github.com/nikclayton/ob-html-chrome"
+HOMEPAGE="https://github.com/nikclayton/ob-html-chrome"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

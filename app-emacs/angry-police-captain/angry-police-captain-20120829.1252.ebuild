@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show quote from http://theangrypolicecaptain.com in the minibuffer"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/rolpereira/angry-police-captain-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

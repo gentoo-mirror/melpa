@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helpful description of the arguments to C functions"
 
-HOMEPAGE="http://github.com/nflath/c-eldoc"
+HOMEPAGE="https://github.com/nflath/c-eldoc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

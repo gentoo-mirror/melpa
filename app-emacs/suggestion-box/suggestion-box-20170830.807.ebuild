@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show tooltip on the cursor"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/yuutayamada/suggestion-box-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

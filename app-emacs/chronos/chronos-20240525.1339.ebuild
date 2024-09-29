@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Multiple simultaneous countdown / countup timers"
 
-HOMEPAGE="http://github.com/DarkBuffalo/chronos"
+HOMEPAGE="https://github.com/DarkBuffalo/chronos"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

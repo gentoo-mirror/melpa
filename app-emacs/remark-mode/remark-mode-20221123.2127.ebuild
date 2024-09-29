@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for the remark slideshow tool"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/torgeir/remark-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

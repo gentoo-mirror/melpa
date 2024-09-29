@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="(automatically) format python buffers using isort"
 
-HOMEPAGE="https://github.com/proofit404/isortify"
+HOMEPAGE="https://github.com/pythonic-emacs/isortify"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

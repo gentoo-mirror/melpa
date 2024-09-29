@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Jump to cucumber step definition"
 
-HOMEPAGE="http://orthogonal.me"
+HOMEPAGE="https://github.com/gstamp/cucumber-goto-step"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

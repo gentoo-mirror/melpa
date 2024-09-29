@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing elisp docstrings"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/Fuco1/elisp-docstring-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

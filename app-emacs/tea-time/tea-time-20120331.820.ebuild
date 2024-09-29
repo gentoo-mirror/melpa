@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Simple timer package, useful to make perfect tea"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/konzeptual/tea-time"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

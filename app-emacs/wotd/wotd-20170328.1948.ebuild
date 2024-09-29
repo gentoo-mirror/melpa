@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fetch word-of-the-day from multiple online sources"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/cute-jumper/emacs-word-of-the-day"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

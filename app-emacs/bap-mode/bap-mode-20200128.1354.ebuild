@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major-mode for BAP's IR"
 
-HOMEPAGE="https://github.com/fkie-cad/bap-mode"
+HOMEPAGE="https://github.com/BinaryAnalysisPlatform/bap-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

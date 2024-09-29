@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Cp50220, cp50221, cp50222 coding system"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/awasira/cp5022x.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

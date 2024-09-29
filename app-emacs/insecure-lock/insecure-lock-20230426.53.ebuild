@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Extensible screen lock framework"
 
-HOMEPAGE="https://github.com/BlueFlo0d/insecure-lock"
+HOMEPAGE="https://github.com/kchanqvq/insecure-lock"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

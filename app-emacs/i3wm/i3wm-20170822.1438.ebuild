@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="I3wm integration library"
 
-HOMEPAGE="https://git.flintfam.org/swf-projects/emacs-i3"
+HOMEPAGE="https://git.flintfam.org/swf-projects/emacs-i3.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Support for compilation database projects in EDE"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/randomphrase/ede-compdb"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

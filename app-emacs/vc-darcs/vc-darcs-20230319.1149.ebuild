@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A VC backend for darcs"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/velkyel/vc-darcs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

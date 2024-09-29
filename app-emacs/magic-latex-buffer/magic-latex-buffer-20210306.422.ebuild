@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing"
 
-HOMEPAGE="http://zk-phi.github.io/"
+HOMEPAGE="https://github.com/zk-phi/magic-latex-buffer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

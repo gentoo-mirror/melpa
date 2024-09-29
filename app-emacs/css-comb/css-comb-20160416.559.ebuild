@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Sort CSS properties in a particular order using CSS Comb"
 
-HOMEPAGE="https://github.com/channikhabra/css-comb.el"
+HOMEPAGE="https://github.com/bitspook/css-comb.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Sync with Unison"
 
-HOMEPAGE="http://github.com/unhammer/unison.el"
+HOMEPAGE="https://github.com/unhammer/unison.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

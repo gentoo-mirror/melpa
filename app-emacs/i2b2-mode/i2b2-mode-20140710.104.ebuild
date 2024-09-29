@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Highlights corresponding PHI data in the text portion of an i2b2 XML Document"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/danlamanna/i2b2-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

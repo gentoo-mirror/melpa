@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Django minor mode for commanding manage.py"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/gopar/django-manage"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

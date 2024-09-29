@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Remote Control for Kodi"
 
-HOMEPAGE="http://github.com/spiderbit/kodi-remote.el"
+HOMEPAGE="https://github.com/spiderbit/kodi-remote.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

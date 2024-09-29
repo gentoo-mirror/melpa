@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An alternative to gnus-posting-styles"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/hexmode/gnus-alias"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

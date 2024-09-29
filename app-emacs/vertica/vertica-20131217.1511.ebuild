@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Vertica SQL mode extension"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/r0man/vertica-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

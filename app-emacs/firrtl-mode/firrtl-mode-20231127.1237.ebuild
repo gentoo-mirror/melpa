@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Mode for working with FIRRTL files"
 
-HOMEPAGE="https://github.com/ibm/firrtl-mode"
+HOMEPAGE="https://github.com/IBM/firrtl-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

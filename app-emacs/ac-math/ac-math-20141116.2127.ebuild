@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Auto-complete sources for input of mathematical symbols and latex tags"
 
-HOMEPAGE="https://github.com/vitoshka/ac-math"
+HOMEPAGE="https://github.com/vspinu/ac-math"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

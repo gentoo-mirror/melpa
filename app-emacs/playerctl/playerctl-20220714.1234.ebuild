@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Control your music player (e.g. Spotify) with playerctl"
 
-HOMEPAGE="https://github.com/thomasluquet/playerctl.el"
+HOMEPAGE="https://github.com/thomas-louvigne/playerctl.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

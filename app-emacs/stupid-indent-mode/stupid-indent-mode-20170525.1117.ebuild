@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Plain stupid indentation minor mode"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://gist.github.com/5487564.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

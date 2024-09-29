@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Utility for *scratch* buffer"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/mori-dev/scratch-log"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

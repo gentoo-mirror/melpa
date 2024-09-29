@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Sorta lets you mark several regions at once"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/magnars/mark-multiple.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

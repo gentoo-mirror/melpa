@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Calls functions dependant on column position"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/phillord/wide-column"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

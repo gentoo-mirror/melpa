@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show the css of the html attribute the cursor is on"
 
-HOMEPAGE="https://github.com/smmcg/showcss-mode"
+HOMEPAGE="https://github.com/8cylinder/showcss-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

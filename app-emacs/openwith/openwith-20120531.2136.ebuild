@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Open files with external programs"
 
-HOMEPAGE="https://bitbucket.org/jpkotta/openwith"
+HOMEPAGE="https://github.com/jpkotta/openwith"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

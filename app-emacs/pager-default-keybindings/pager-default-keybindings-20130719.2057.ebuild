@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Add the default keybindings suggested for pager.el"
 
-HOMEPAGE="http://github.com/nflath/pager-default-keybindings"
+HOMEPAGE="https://github.com/nflath/pager-default-keybindings"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Copy or show the yaml path currently under cursor"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/RadekMolenda/yaml-tomato"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A folding-editor-like minor mode"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/jaalto/project-emacs--folding-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

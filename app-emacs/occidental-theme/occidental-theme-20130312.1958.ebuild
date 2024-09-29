@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Custom theme for faces based on Adwaita"
 
-HOMEPAGE="http://github.com/olcai/occidental-theme"
+HOMEPAGE="https://github.com/olcai/occidental-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Quick file viewer for image and text file browsing"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/petermao/look-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

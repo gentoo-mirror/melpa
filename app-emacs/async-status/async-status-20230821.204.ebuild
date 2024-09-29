@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A package for indicator support"
 
-HOMEPAGE="https://github.com/seokbeomkim/async-status"
+HOMEPAGE="https://github.com/seokbeomKim/async-status"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

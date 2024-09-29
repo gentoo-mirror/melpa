@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Evil align operator, port of vim-lion"
 
-HOMEPAGE="http://github.com/edkolev/evil-lion"
+HOMEPAGE="https://github.com/edkolev/evil-lion"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

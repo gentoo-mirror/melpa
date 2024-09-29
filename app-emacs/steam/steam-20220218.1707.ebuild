@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Organize and launch Steam games"
 
-HOMEPAGE="http://github.com/Kungsgeten/steam.el"
+HOMEPAGE="https://github.com/Kungsgeten/steam.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

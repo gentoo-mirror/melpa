@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Imenu tag selection a la ido"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/birkenfeld/idomenu"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

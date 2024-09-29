@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A simple interface to the www.pastebin.com webservice"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/nicferrier/elpastebin"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

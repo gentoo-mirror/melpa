@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="More function for time/date"
 
-HOMEPAGE="http://www.emacswiki.org/cgi-bin/wiki/download/time-ext.el"
+HOMEPAGE="https://github.com/rubikitch/time-ext"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

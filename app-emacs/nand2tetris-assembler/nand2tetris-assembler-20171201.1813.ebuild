@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Assembler For the Nand2tetris Course"
 
-HOMEPAGE="http://www.github.com/CestDiego/nand2tetris-assembler.el/"
+HOMEPAGE="https://github.com/CestDiego/nand2tetris.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

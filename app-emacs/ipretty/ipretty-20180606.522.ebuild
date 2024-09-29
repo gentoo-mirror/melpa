@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interactive Emacs Lisp pretty-printing"
 
-HOMEPAGE="https://framagit.org/steckerhalter/ipretty"
+HOMEPAGE="https://framagit.org/steckerhalter/ipretty.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

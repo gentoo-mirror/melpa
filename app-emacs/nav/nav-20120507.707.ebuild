@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs mode for filesystem navigation"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/ijt/emacs-nav"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

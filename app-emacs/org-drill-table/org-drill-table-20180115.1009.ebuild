@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Generate drill cards from org tables"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/chrisbarrett/org-drill-table"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

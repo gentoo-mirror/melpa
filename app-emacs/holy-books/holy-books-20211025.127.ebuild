@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org-mode links/tooltips/lookups for Quran & Bible"
 
-HOMEPAGE="https://alhassy.github.io/holy-books/"
+HOMEPAGE="https://github.com/alhassy/holy-books"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

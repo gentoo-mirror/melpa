@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Explore Denote files"
 
-HOMEPAGE="https://github.com/pprevos/denote-explore/"
+HOMEPAGE="https://github.com/pprevos/denote-explore"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A speed reading mode"
 
-HOMEPAGE="https://github.com/ian-kelling/spray"
+HOMEPAGE="https://git.sr.ht/~iank/spray"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

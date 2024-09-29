@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Provides org-mode like hide and show for hideshow.el"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/shanecelis/hideshow-org"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

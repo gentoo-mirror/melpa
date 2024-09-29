@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Open helm buffers in a dedicated frame"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/chee/helm-frame"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

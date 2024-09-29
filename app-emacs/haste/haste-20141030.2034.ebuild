@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs client for hastebin (http://hastebin.com/about.md)"
 
-HOMEPAGE="http://github.com/rlister/emacs-haste-client"
+HOMEPAGE="https://github.com/rlister/emacs-haste-client"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

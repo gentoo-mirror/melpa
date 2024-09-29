@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Lisp syntax for regexps"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/alk/elisp-regex-dsl"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

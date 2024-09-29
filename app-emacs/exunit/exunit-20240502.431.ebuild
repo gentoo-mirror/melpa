@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="ExUnit test runner"
 
-HOMEPAGE="http://github.com/ananthakumaran/exunit.el"
+HOMEPAGE="https://github.com/ananthakumaran/exunit.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

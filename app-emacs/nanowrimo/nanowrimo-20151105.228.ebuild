@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Track progress for nanowrimo"
 
-HOMEPAGE="https://bitbucket.org/gvol/nanowrimo-mode"
+HOMEPAGE="https://gitlab.com/gvol/nanowrimo.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

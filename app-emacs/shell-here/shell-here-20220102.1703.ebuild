@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Open a shell relative to the working directory"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://codeberg.org/emacs-weirdware/shell-here"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

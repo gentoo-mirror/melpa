@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Linter/problem finder for the Go source code"
 
-HOMEPAGE="https://godoc.org/golang.org/x/tools/cmd/vet"
+HOMEPAGE="https://github.com/meshelton/govet"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

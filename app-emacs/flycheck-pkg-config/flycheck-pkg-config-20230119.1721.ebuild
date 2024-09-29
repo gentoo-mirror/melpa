@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Configure flycheck using pkg-config"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/Wilfred/flycheck-pkg-config"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

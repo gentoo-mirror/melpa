@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Preview inline latex in any mode"
 
-HOMEPAGE="http://github.com/aaptel/preview-latex"
+HOMEPAGE="https://github.com/aaptel/preview-latex"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

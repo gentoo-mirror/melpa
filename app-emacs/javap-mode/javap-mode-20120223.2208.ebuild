@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Javap major mode"
 
-HOMEPAGE="http://github.com/hiredman/javap-mode"
+HOMEPAGE="https://github.com/hiredman/javap-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

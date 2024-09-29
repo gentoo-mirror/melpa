@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Display a random daily emacs command"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://gitlab.com/egh/emacs-totd"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

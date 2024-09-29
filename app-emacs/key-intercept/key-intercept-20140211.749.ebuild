@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Intercept prefix keys"
 
-HOMEPAGE="http://github.com/tarao/key-intercept-el"
+HOMEPAGE="https://github.com/tarao/key-intercept-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

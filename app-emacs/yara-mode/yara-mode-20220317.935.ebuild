@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing yara rule file"
 
-HOMEPAGE="not distributed yet"
+HOMEPAGE="https://github.com/binjo/yara-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

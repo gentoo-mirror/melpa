@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A minor mode and EDSL to manage your mode's indentation rules"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/kwrooijen/indy"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

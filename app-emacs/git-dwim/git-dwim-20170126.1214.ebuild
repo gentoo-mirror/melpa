@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Context-aware git commands such as branch handling"
 
-HOMEPAGE="http://www.emacswiki.org/cgi-bin/wiki/download/git-dwim.el"
+HOMEPAGE="https://github.com/rubikitch/emacs-git-dwim"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

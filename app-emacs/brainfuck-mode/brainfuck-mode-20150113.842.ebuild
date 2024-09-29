@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Brainfuck mode for Emacs"
 
-HOMEPAGE="https://github.com/tom-tan/brainfuck-mode/"
+HOMEPAGE="https://github.com/tom-tan/brainfuck-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

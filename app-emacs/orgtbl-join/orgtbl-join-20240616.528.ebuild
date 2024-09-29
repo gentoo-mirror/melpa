@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Join columns from another Org Mode table"
 
-HOMEPAGE="https://github.com/tbanel/orgtbljoin/blob/master/README.org"
+HOMEPAGE="https://github.com/tbanel/orgtbljoin"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

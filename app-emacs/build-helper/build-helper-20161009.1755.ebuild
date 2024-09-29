@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Utilities to help build code"
 
-HOMEPAGE="http://github.com/afonso360/build-helper"
+HOMEPAGE="https://github.com/afonso360/build-helper"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

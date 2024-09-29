@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Live-edit CSS, SCSS, Less, and friends"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/NateEag/skewer-reload-stylesheets"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

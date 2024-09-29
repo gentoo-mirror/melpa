@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode that assigns a unique number to each frame for easy switching"
 
-HOMEPAGE="http://github.com/liangzan/frame-tag.el"
+HOMEPAGE="https://github.com/liangzan/frame-tag.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

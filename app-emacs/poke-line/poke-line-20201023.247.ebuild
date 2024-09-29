@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode to show position in a buffer using a Pokemon"
 
-HOMEPAGE="https://github.com/RyanMillerC/poke-line/"
+HOMEPAGE="https://github.com/RyanMillerC/poke-line"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

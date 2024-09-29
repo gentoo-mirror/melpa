@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Package to write code for ROS systems"
 
-HOMEPAGE="https://github.com/DerBeutlin/ros.el"
+HOMEPAGE="https://github.com/mbeutelspacher/ros.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

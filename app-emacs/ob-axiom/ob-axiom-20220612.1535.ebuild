@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An org-babel backend for the axiom-environment system"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://bitbucket.org/pdo/axiom-environment"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Toodledo integration for Emacs Org mode"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/myuhe/org-toodledo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

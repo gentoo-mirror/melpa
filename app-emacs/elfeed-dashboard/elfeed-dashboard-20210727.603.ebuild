@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An extensible frontend for elfeed using org-mode"
 
-HOMEPAGE="https://github.com/Manoj321/elfeed-dashboard"
+HOMEPAGE="https://github.com/manojm321/elfeed-dashboard"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A minor mode for the ClojureScript 'lein cljsbuild' command"
 
-HOMEPAGE="http://github.com/kototama/cljsbuild-mode"
+HOMEPAGE="https://github.com/kototama/cljsbuild-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

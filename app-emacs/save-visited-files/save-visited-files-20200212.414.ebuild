@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Save opened files across sessions"
 
-HOMEPAGE="http://github.com/nflath/save-visited-files"
+HOMEPAGE="https://github.com/nflath/save-visited-files"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

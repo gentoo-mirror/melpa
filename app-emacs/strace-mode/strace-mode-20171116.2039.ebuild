@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Strace output syntax highlighting"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/pkmoore/strace-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="WDL (Workflow Definition Language) major mode"
 
-HOMEPAGE="http://github.com/zhanxw/wdl-mode"
+HOMEPAGE="https://github.com/zhanxw/wdl-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

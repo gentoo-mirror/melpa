@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Eastern Christian analog to holiday-easter-etc"
 
-HOMEPAGE="http://github.com/hexmode/holiday-pascha-etc"
+HOMEPAGE="https://github.com/hexmode/holiday-pascha-etc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

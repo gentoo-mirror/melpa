@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Create and manipulate digitalocean droplets"
 
-HOMEPAGE="https://github.com/olymk2/emacs-digitalocean"
+HOMEPAGE="https://gitlab.com/olymk2/emacs-digitalocean"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

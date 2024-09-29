@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode to automatically uncrustify"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/koko1000ban/emacs-uncrustify-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

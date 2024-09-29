@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show open Reviewboard reviews in Magit"
 
-HOMEPAGE="http://github.com/jtamagnan/magit-reviewboard"
+HOMEPAGE="https://github.com/jtamagnan/magit-reviewboard"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

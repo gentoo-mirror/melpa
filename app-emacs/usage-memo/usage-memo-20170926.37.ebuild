@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Integration of Emacs help system and memo"
 
-HOMEPAGE="http://www.emacswiki.org/cgi-bin/wiki/download/usage-memo.el"
+HOMEPAGE="https://github.com/rubikitch/usage-memo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

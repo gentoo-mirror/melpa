@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Shoulda test support for ruby"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/marcwebbie/shoulda.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

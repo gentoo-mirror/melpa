@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="View-mode extension"
 
-HOMEPAGE="http://github.com/rubikitch/viewer/"
+HOMEPAGE="https://github.com/rubikitch/viewer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

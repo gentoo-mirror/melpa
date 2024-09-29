@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Change in and out of LaTeX environments"
 
-HOMEPAGE="https://github.com/slotThe/change-env"
+HOMEPAGE="https://gitlab.com/slotThe/change-env"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

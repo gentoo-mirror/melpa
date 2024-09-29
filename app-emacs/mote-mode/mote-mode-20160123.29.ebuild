@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Mote minor mode"
 
-HOMEPAGE="http://inkel.github.com/mote-mode/"
+HOMEPAGE="https://github.com/inkel/mote-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Use Evernote in Emacs through geeknote"
 
-HOMEPAGE="http://github.com/avendael/emacs-geeknote"
+HOMEPAGE="https://github.com/avendael/emacs-geeknote"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

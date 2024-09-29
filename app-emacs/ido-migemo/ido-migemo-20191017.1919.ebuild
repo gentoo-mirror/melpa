@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Migemo plug-in for Ido"
 
-HOMEPAGE="https://github.com/myuhe/ido-migemo.el"
+HOMEPAGE="https://github.com/emacsattic/ido-migemo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

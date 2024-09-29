@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Run your Python tests any way you'd like"
 
-HOMEPAGE="https://www.github.com/quodlibetor/py-gnitset"
+HOMEPAGE="https://github.com/quodlibetor/py-gnitset"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

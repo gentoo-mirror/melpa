@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Indent Emacs Lisp on the fly"
 
-HOMEPAGE="https://github.com/jiahaowork/el-fly-indent-mode.el"
+HOMEPAGE="https://github.com/jiahaoli95/el-fly-indent-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

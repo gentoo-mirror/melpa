@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Support for MATLAB-like cells in python mode"
 
-HOMEPAGE="https://github.com/thisch/python-cell.el"
+HOMEPAGE="https://github.com/twmr/python-cell.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

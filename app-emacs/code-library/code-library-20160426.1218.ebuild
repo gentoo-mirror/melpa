@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Use org-mode to collect code snippets"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/lujun9972/code-library"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A simple typing game"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/lujun9972/el-typing-game"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

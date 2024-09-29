@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Set wallpapers with image-dired"
 
-HOMEPAGE="https://github.com/nryotaro/wallpreview"
+HOMEPAGE="https://github.com/ryotaro612/wallpreview"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

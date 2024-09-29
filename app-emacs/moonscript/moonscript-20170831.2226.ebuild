@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing MoonScript code"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/k2052/moonscript-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Clean useless buffers"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/lujun9972/clean-buffers"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

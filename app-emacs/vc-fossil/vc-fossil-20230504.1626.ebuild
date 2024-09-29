@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="VC backend for the fossil sofware configuraiton management system"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/venks1/emacs-fossil"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

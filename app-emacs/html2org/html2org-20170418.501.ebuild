@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Convert html to org format text"
 
-HOMEPAGE="http://github.com/lujun9972/html2org.el"
+HOMEPAGE="https://github.com/lujun9972/html2org.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

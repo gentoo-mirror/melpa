@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An erc module to display youtube links nicely"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/yhvh/erc-yt"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

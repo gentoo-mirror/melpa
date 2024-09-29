@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A minimal Emacs colour theme"
 
-HOMEPAGE="https://dev.gkayaalp.com/elisp/index.html#paper"
+HOMEPAGE="https://github.com/cadadr/elisp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

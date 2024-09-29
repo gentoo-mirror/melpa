@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="TQL mode"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/tiros-dev/tql-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

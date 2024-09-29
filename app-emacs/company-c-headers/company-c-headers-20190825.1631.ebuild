@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Company mode backend for C/C++ header files"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/randomphrase/company-c-headers"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

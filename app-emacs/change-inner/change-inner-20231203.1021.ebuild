@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Change contents based on semantic units"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/magnars/change-inner.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

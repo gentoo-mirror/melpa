@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for Gemtext-formatted text"
 
-HOMEPAGE="https://sr.ht/~arjca/gemtext-mode.el/"
+HOMEPAGE="https://git.sr.ht/~arjca/gemtext-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

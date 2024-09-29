@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Multiple scratches in any language"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/victorteokw/scratches"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

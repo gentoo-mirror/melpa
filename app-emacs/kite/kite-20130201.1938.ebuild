@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="WebKit inspector front-end"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/jscheid/kite"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="YANG flycheck checker"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/andaru/flycheck-yang"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Pervasive recentf using frecency"
 
-HOMEPAGE="https://launchpad.net/frecentf.el"
+HOMEPAGE="https://git.launchpad.net/frecentf.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

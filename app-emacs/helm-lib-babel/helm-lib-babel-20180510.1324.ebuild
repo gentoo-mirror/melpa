@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helm insertion of babel function references"
 
-HOMEPAGE="https://github.com/dfeich/helm-lib-babel.el"
+HOMEPAGE="https://github.com/dfeich/helm-lib-babel"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

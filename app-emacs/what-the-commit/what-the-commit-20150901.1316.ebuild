@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Random commit message generator"
 
-HOMEPAGE="http://barbarito.me/"
+HOMEPAGE="https://github.com/danbarbarito/what-the-commit.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

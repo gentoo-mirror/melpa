@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Utilities for better Evil support for Powerline"
 
-HOMEPAGE="http://github.com/johnson-christopher/powerline-evil/"
+HOMEPAGE="https://github.com/johnson-christopher/powerline-evil"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

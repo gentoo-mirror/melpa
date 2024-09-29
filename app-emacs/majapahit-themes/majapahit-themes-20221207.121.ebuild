@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Color theme with a dark and light versions"
 
-HOMEPAGE="http:/gitlab.com/franksn/majapahit-theme/"
+HOMEPAGE="https://github.com/emacsmirror/majapahit-themes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
