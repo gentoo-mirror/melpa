@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Virtualenv for Python"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/aculich/virtualenv.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Inline quick-peek windows"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/cpitclaudel/quick-peek"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

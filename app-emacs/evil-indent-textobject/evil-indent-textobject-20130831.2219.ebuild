@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Evil textobjects based on indentation"
 
-HOMEPAGE="http://github.com/cofi/evil-indent-textobject"
+HOMEPAGE="https://github.com/cofi/evil-indent-textobject"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

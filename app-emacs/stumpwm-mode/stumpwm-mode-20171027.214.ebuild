@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Special lisp mode for evaluating code into running stumpwm"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/stumpwm/stumpwm-contrib"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Adds a list of Czech public holidays to Emacs calendar"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/chkhd/czech-holidays"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

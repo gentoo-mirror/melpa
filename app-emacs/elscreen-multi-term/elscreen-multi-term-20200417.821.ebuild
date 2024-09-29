@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Multi term for elscreen"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/wamei/elscreen-multi-term"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

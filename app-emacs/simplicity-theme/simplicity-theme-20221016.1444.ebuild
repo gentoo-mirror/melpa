@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A minimalist dark theme"
 
-HOMEPAGE="http://github.com/smallwat3r/emacs-simplicity-theme"
+HOMEPAGE="https://github.com/smallwat3r/emacs-simplicity-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

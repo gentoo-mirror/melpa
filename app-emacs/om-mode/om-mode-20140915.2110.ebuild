@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Insert Om component template with life cycle"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/danielsz/om-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Redmine tools using Emacs OrgMode"
 
-HOMEPAGE="https://github.com/gongo/org-redmine"
+HOMEPAGE="https://github.com/emacsorphanage/org-redmine"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

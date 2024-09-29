@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Adaptive Status Bar / Mode Line"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/ergoemacs/ergoemacs-status"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

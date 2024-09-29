@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Narrow-to-region that operates recursively"
 
-HOMEPAGE="http://github.com/nflath/recursive-narrow"
+HOMEPAGE="https://github.com/nflath/recursive-narrow"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

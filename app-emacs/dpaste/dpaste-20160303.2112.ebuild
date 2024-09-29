@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs integration for dpaste.com"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/gregnewman/dpaste.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

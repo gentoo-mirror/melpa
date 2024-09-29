@@ -2,11 +2,11 @@ BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DESCRIPTION=Automatically switch scratch buffer mode
 EAPI=8
-HOMEPAGE=https://github.com/tlinden/autoscratch
+HOMEPAGE=https://github.com/TLINDEN/autoscratch
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/autoscratch-20230612.719.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=e2a68e9fc50bcf7e0d090f541573f80d
+_md5_=0a447d3671942678552e4b66d348d3d1

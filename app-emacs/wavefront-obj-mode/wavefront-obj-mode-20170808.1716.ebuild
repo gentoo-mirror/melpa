@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for Wavefront obj files"
 
-HOMEPAGE="http://github.com/abend/wavefront-obj-mode"
+HOMEPAGE="https://github.com/abend/wavefront-obj-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

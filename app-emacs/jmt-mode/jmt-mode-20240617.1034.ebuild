@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="JMT Mode"
 
-HOMEPAGE="http://reluk.ca/project/Java/Emacs/"
+HOMEPAGE="https://github.com/Michael-Allan/Java_Mode_Tamed"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

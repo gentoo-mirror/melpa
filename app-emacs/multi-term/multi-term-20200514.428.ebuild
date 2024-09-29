@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Managing multiple terminal buffers in Emacs"
 
-HOMEPAGE="http://www.emacswiki.org/emacs/download/multi-term.el"
+HOMEPAGE="https://github.com/manateelazycat/multi-term"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

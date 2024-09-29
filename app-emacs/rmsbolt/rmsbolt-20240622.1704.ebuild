@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A compiler output viewer"
 
-HOMEPAGE="http://gitlab.com/jgkamat/rmsbolt"
+HOMEPAGE="https://gitlab.com/jgkamat/rmsbolt"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

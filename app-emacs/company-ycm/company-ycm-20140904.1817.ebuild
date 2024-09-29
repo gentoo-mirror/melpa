@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Company-ycm"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/neuromage/ycm.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

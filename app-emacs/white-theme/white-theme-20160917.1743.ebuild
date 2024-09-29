@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minimalistic light color theme inspired by basic-theme"
 
-HOMEPAGE="http://github.com/anler/white-theme.el"
+HOMEPAGE="https://github.com/anler/white-theme.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

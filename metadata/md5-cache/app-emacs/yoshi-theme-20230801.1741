@@ -2,11 +2,11 @@ BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DESCRIPTION=Theme named after my cat
 EAPI=8
-HOMEPAGE=http://projects.ryuslash.org/yoshi-theme/
+HOMEPAGE=https://github.com/ryuslash/yoshi-theme
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/yoshi-theme-20230801.1741.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=19e7a1edf1b6d9d0545f608b14137c2c
+_md5_=fb68d5cd3d90bd49e9efc1d305a09d36

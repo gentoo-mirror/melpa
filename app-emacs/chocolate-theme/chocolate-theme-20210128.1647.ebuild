@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A dark chocolaty theme"
 
-HOMEPAGE="http://github.com/SavchenkoValeriy/emacs-chocolate-theme"
+HOMEPAGE="https://github.com/SavchenkoValeriy/emacs-chocolate-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

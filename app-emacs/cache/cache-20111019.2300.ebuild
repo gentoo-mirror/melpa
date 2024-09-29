@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Implementation of a hash table whose key-value pairs expire"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/nflath/cache"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

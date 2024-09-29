@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Dark theme"
 
-HOMEPAGE="https://github.com/GuidoSchmidt/emacs-nyx-theme"
+HOMEPAGE="https://github.com/guidoschmidt/emacs-nyx-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

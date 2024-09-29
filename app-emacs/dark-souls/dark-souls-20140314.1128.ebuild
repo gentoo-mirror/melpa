@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Prepare to die"
 
-HOMEPAGE="http://github.com/tomjakubowski/dark-souls.el"
+HOMEPAGE="https://github.com/tomjakubowski/dark-souls.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

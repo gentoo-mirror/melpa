@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for the HOA format"
 
-HOMEPAGE="https://gitlab.lrde.epita.fr/spot/emacs-modes"
+HOMEPAGE="https://gitlab.lrde.epita.fr/spot/emacs-modes.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

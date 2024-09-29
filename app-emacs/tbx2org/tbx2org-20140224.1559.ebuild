@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Tinderbox to org-mode conversion"
 
-HOMEPAGE="https://github.com/istib/tbx2org"
+HOMEPAGE="https://github.com/emacsattic/tbx2org"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

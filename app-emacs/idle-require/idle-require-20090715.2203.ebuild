@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Load elisp libraries while Emacs is idle"
 
-HOMEPAGE="http://nschum.de/src/emacs/idle-require/"
+HOMEPAGE="https://github.com/nschum/idle-require.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

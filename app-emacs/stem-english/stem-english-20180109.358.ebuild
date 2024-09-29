@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="- routines for stemming English word"
 
-HOMEPAGE="http://github.com/kawabata/stem-english"
+HOMEPAGE="https://github.com/kawabata/stem-english"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

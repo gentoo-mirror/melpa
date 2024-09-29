@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Per user colorization of whole message"
 
-HOMEPAGE="https://github.com/thisirs/erc-colorize.git"
+HOMEPAGE="https://github.com/thisirs/erc-colorize"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

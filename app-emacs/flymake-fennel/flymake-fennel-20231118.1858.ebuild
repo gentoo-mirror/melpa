@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Flymake backend for Fennel"
 
-HOMEPAGE="https://git.sr.ht/~mgmarlow/flymake-fennel"
+HOMEPAGE="https://github.com/mgmarlow/flymake-fennel"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

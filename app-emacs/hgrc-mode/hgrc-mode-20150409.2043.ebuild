@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing hgrc files"
 
-HOMEPAGE="http://github.com/omajid/hgrc-mode"
+HOMEPAGE="https://github.com/omajid/hgrc-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

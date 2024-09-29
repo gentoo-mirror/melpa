@@ -2,11 +2,11 @@ BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DESCRIPTION=Add a buffer stack feature to Eshell
 EAPI=8
-HOMEPAGE=https://melpa.org/packages/
+HOMEPAGE=https://github.com/tom-tan/esh-buf-stack
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/esh-buf-stack-20140107.1018.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=a58833ba64122dae4c11d93b70d238c8
+_md5_=1f622f4f50b9a68a9f55521d370d2afd

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helm interface for smex"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/ptrv/helm-smex"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

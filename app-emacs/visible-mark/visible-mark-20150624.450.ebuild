@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Make marks visible"
 
-HOMEPAGE="https://gitlab.com/iankelling/visible-mark"
+HOMEPAGE="https://git.sr.ht/~iank/visible-mark"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Evil ex commands"
 
-HOMEPAGE="http://github.com/edkolev/evil-expat"
+HOMEPAGE="https://github.com/edkolev/evil-expat"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

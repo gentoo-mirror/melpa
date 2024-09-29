@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor Mode for Modern Keybindings"
 
-HOMEPAGE="https://github.com/darkstego/wakib-keys/"
+HOMEPAGE="https://github.com/darkstego/wakib-keys"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

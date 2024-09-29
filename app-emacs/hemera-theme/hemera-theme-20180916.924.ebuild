@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Light theme"
 
-HOMEPAGE="https://github.com/GuidoSchmidt/emacs-hemera-theme"
+HOMEPAGE="https://github.com/guidoschmidt/emacs-hemera-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Flex matching (like ido) in isearch"
 
-HOMEPAGE="https://bitbucket.org/jpkotta/flex-isearch"
+HOMEPAGE="https://github.com/jpkotta/flex-isearch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Skype UI for emacs users."
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/kiwanami/emacs-skype"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

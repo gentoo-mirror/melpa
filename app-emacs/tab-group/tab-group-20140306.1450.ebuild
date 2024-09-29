@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Grouped tabs and their tabbar"
 
-HOMEPAGE="http://github.com/tarao/tab-group-el"
+HOMEPAGE="https://github.com/tarao/tab-group-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

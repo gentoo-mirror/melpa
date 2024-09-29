@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Simple and beautiful pomodoro timer"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/konr/tomatinho"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

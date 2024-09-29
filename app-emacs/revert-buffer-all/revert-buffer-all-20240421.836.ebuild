@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Revert all open buffers"
 
-HOMEPAGE="https://codeberg.org/ideasman42/emacs-buffer-revert-all"
+HOMEPAGE="https://codeberg.org/ideasman42/emacs-revert-buffer-all"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

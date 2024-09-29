@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode for ascii uml sequence diagrams"
 
-HOMEPAGE="http://github.com/ianxm/emacs-uml"
+HOMEPAGE="https://github.com/ianxm/emacs-uml"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A package for switching themes in Emacs interactively"
 
-HOMEPAGE="http://ismail.teamfluxion.com"
+HOMEPAGE="https://github.com/myTerminal/theme-looper"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

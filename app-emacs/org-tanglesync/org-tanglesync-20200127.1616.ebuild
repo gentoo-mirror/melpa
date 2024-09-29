@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Syncing org src blocks with tangled external files"
 
-HOMEPAGE="https://github.com/mtekman/org-tanglesync.el"
+HOMEPAGE="https://gitlab.com/mtekman/org-tanglesync.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

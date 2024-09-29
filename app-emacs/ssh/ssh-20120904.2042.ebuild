@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Support for remote logins using ssh"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://codeberg.org/emacs-weirdware-abandoned/ssh"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

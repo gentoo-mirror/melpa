@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org-babel functions for swift evaluation"
 
-HOMEPAGE="http://github.com/zweifisch/ob-swift"
+HOMEPAGE="https://github.com/zweifisch/ob-swift"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

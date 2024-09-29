@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Utilities for working with text prompts"
 
-HOMEPAGE="https://github.com/guiltydolphin/prompts.el"
+HOMEPAGE="https://github.com/GuiltyDolphin/prompts.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

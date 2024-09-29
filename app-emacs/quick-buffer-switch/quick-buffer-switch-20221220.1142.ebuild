@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Quick switch to file or dir buffers"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/renard/quick-buffer-switch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

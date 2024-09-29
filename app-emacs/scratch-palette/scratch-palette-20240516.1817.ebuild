@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Make scratch buffer for each files"
 
-HOMEPAGE="http://zk-phi.gitub.io/"
+HOMEPAGE="https://github.com/zk-phi/scratch-palette"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

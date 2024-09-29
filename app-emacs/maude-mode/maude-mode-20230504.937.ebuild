@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs mode for the programming language Maude"
 
-HOMEPAGE="https://github.com/rudi/abs-mode"
+HOMEPAGE="https://github.com/rudi/maude-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

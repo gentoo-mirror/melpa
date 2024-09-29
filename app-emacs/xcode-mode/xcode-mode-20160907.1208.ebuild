@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A minor mode for emacs to perform Xcode like actions"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/nicklanasa/xcode-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

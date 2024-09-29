@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode for running the seeing-is-believing ruby gem"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/jcinnamond/seeing-is-believing"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

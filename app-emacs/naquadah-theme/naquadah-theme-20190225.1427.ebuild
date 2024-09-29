@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A theme based on Tango color set"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/jd/naquadah-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

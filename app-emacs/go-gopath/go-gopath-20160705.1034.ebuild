@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Will guess GOPATH using gb and projectile"
 
-HOMEPAGE="http://github.com/iced/go-gopath/"
+HOMEPAGE="https://github.com/iced/go-gopath"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

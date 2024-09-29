@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode for Ruby test object generation libraries"
 
-HOMEPAGE="http://github.com/sshaw/ruby-factory-mode"
+HOMEPAGE="https://github.com/sshaw/ruby-factory-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

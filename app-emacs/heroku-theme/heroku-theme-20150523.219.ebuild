@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Heroku color theme"
 
-HOMEPAGE="https://github.com/jonathanchu/color-theme-heroku"
+HOMEPAGE="https://github.com/jonathanchu/heroku-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Weechat notifier using alerts"
 
-HOMEPAGE="https://github.com/kungi/weechat-alert"
+HOMEPAGE="https://github.com/Kungi/weechat-alert"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

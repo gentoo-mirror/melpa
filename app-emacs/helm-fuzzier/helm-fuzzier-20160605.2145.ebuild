@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Better fuzzy matching for Helm"
 
-HOMEPAGE="http://github.com/EphramPerdition/helm-fuzzier"
+HOMEPAGE="https://github.com/EphramPerdition/helm-fuzzier"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

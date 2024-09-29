@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Flycheck: DTrace support"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/juergenhoetzel/flycheck-dtrace"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Smart umlaut conversion for TeX"
 
-HOMEPAGE="http://hub.darcs.net/lyro/tex-smart-umlauts"
+HOMEPAGE="https://github.com/emacsmirror/tex-smart-umlauts"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

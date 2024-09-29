@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Network process tools"
 
-HOMEPAGE="http://github.com/nicferrier/emacs-procnet"
+HOMEPAGE="https://github.com/nicferrier/emacs-proc-net"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

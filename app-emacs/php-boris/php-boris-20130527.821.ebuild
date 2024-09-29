@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Run boris php REPL"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/tomterl/php-boris"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

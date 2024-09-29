@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Generate GObject descendants using a detailed form"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/gergelypolonkai/gobgen.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

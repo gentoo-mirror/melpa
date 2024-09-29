@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing POV-Ray scene files"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/melmothx/pov-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

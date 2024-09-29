@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A helm interface for running js-codemods"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/torgeir/helm-js-codemod.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

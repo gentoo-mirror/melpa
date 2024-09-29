@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A brainfuck development environment with interactive debugger"
 
-HOMEPAGE="http://zk-phi.gitub.io/"
+HOMEPAGE="https://github.com/zk-phi/bfbuilder"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

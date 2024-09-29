@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Company backend for QML files"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/cute-jumper/company-qml"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Sweet-looking theme"
 
-HOMEPAGE="https://github.com/2bruh4me/sweet-theme"
+HOMEPAGE="https://github.com/konkrotte/sweet-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Run Splunk search commands, export results to CSV/HTML/JSON"
 
-HOMEPAGE="https://github.com/sebasmonia/pepita.git"
+HOMEPAGE="https://github.com/sebasmonia/pepita"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

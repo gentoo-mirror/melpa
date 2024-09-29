@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Gateway to Tiny Tiny RSS"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/ryuslash/avandu"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

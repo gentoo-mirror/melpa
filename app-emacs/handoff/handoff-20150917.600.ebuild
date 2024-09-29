@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Get your hand off that mouse, damn it!"
 
-HOMEPAGE="http://github.com/rejeep/handoff.el"
+HOMEPAGE="https://github.com/rejeep/handoff.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

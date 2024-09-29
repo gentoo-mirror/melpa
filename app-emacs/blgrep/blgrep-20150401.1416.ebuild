@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Block grep"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/ataka/blgrep"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

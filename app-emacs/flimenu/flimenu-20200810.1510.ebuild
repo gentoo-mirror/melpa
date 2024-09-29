@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Flatten imenu automatically"
 
-HOMEPAGE="https://github.com/IvanMalison/flimenu"
+HOMEPAGE="https://github.com/colonelpanic8/flimenu"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

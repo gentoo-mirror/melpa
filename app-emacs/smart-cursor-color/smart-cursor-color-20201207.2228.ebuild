@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Change cursor color dynamically"
 
-HOMEPAGE="https://github.com/7696122/smart-cursor-color/"
+HOMEPAGE="https://github.com/7696122/smart-cursor-color"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

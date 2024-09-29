@@ -3,11 +3,11 @@ DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpa
 DEPEND=app-emacs/sly
 DESCRIPTION=Quicklisp support for SLY
 EAPI=8
-HOMEPAGE=https://github.com/capitaomorte/sly-quicklisp
+HOMEPAGE=https://github.com/joaotavora/sly-quicklisp
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=app-emacs/sly >=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/sly-quicklisp-20211206.948.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=533a43f2ed6903257a7c321dcdab7bdd
+_md5_=3a6e3d83e75937fcfc71ef99bb8f4122

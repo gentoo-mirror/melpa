@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ascii-art bar plots in org-mode tables"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/tbanel/orgtblasciiplot"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Insert a time of day with appropriate world-wide localization"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/ndw/wwtime"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

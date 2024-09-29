@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Useful HTTP client"
 
-HOMEPAGE="http://github.com/nicferrier/emacs-web"
+HOMEPAGE="https://github.com/nicferrier/emacs-web"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

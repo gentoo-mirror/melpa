@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Insert and adjust colors using Webkit Widgets"
 
-HOMEPAGE="https://github.com/osener/emacs-webkit-color-picker"
+HOMEPAGE="https://github.com/ozanmakes/emacs-webkit-color-picker"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

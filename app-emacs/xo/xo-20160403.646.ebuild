@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="XO linter integration with compilation mode"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/j-em/xo-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

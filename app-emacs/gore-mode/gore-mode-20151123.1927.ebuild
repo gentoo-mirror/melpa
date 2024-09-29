@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Simple mode for gore, a command-line evaluator for golang"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/sergey-pashaev/gore-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

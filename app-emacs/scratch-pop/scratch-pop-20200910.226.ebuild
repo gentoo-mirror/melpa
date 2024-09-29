@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Generate, popup (& optionally backup) scratch buffer(s)"
 
-HOMEPAGE="http://hins11.yu-yake.com/"
+HOMEPAGE="https://github.com/zk-phi/scratch-pop"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

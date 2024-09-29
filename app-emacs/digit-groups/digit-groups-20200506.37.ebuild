@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Highlight place-value positions in numbers"
 
-HOMEPAGE="https://github.com/adamsmd/digit-groups/"
+HOMEPAGE="https://github.com/adamsmd/digit-groups"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

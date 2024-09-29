@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Wedge whitespace between columns in text"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/aes/wedge-ws"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

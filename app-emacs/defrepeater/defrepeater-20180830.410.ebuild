@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Easily make commands repeatable"
 
-HOMEPAGE="http://github.com/alphapapa/defrepeater.el"
+HOMEPAGE="https://github.com/alphapapa/defrepeater.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

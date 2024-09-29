@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A tool to access repositories of premodern Chinese texts"
 
-HOMEPAGE="http://www.mandoku.org"
+HOMEPAGE="https://github.com/mandoku/mandoku"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

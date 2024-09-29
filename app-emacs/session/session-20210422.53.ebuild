@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Use variables, registers and buffer places across sessions"
 
-HOMEPAGE="http://emacs-session.sourceforge.net/"
+HOMEPAGE="https://github.com/emacsattic/session"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

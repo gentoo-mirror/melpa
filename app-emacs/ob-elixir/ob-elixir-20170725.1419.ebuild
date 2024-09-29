@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org-babel functions for elixir evaluation"
 
-HOMEPAGE="http://github.com/zweifisch/ob-elixir"
+HOMEPAGE="https://github.com/zweifisch/ob-elixir"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

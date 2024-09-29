@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Input method for flipping characters upside down"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/andre-r/fliptext.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

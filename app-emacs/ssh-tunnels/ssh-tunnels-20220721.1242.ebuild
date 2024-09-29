@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Manage SSH tunnels"
 
-HOMEPAGE="http://github.com/death/ssh-tunnels"
+HOMEPAGE="https://github.com/death/ssh-tunnels"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

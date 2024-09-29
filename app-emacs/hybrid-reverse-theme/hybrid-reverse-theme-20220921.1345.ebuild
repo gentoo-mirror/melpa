@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs theme with material color scheme"
 
-HOMEPAGE="https://github.com/riyyi/emacs-hybrid-reverse"
+HOMEPAGE="https://github.com/Riyyi/emacs-hybrid-reverse"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Vcsh integration"
 
-HOMEPAGE="http://git.smrk.net/vcsh.el"
+HOMEPAGE="https://git.smrk.net/vcsh.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

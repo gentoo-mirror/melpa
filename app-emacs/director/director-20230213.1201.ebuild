@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Simulate user sessions"
 
-HOMEPAGE="https://bard.github.io/emacs-director"
+HOMEPAGE="https://github.com/bard/emacs-director"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

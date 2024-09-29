@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Restrict eshell to a single fixed prompt"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/mallt/eshell-fixed-prompt-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

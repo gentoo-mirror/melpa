@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A major mode for editing dna sequences"
 
-HOMEPAGE="http://www.mahalito.net/~harley/elisp/dna-mode.el"
+HOMEPAGE="https://github.com/jhgorrell/dna-mode-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

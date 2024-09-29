@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Pcomplete for pip"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/zwild/pcmpl-pip"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

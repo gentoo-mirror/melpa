@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Auto-committing feature for your repository"
 
-HOMEPAGE="http://github.com/thisirs/vc-auto-commit.git"
+HOMEPAGE="https://github.com/thisirs/vc-auto-commit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

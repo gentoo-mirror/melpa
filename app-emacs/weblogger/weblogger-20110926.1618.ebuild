@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Weblog maintenance via XML-RPC APIs"
 
-HOMEPAGE="http://launchpad.net/weblogger-el"
+HOMEPAGE="https://github.com/hexmode/weblogger-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

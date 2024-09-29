@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Intelligent tab completion and indentation"
 
-HOMEPAGE="https://git.genehack.net/genehack/smart-tab"
+HOMEPAGE="https://git.genehack.net/genehack/smart-tab.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

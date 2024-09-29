@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Generate .gitignore files with gitignore.io"
 
-HOMEPAGE="https://github.com/jupl/helm-gitignore"
+HOMEPAGE="https://github.com/emacsorphanage/helm-gitignore"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

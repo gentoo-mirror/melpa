@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Examine the usage of org headings in a tree-like manner"
 
-HOMEPAGE="https://github.com/mtekman/org-treeusage.el"
+HOMEPAGE="https://gitlab.com/mtekman/org-treeusage.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

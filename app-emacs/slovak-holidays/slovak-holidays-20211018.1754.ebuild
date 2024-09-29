@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Adds a list of slovak holidays to Emacs calendar"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/Fuco1/slovak-holidays"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

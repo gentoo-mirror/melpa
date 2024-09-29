@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A flymake handler for asm-mode files using nasm"
 
-HOMEPAGE="http://github.com/juergenhoetzel/flymake-nasm"
+HOMEPAGE="https://github.com/juergenhoetzel/flymake-nasm"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A major mode for editing lurk files"
 
-HOMEPAGE="http://github.com/lurk-lang/lurk-emacs"
+HOMEPAGE="https://github.com/argumentcomputer/lurk-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

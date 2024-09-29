@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helm source for color-moccur.el"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/myuhe/helm-c-moccur.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An emacs major mode for editing gherkin files"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/candera/gherkin-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

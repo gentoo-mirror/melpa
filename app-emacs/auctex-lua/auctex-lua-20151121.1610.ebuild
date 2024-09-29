@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Lua editing support for AUCTeX"
 
-HOMEPAGE="http://github.com/vermiculus/auctex-lua"
+HOMEPAGE="https://github.com/vermiculus/auctex-lua"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

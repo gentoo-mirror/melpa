@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Smart Python docstring formatting"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/glyph/python-docstring-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

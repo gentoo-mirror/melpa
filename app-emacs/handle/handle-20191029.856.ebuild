@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A handle for major-mode generic functions"
 
-HOMEPAGE="https://gitlab.com/jjzmajic/handle"
+HOMEPAGE="https://github.com/cyruseuros/handle"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

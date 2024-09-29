@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Lightweight template expansion tool"
 
-HOMEPAGE="https://github.com/jiahaowork/muban.el"
+HOMEPAGE="https://github.com/jiahaoli95/muban.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

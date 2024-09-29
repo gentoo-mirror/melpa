@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Functionality for swapping two regions"
 
-HOMEPAGE="http://github.com/skitov/regswap"
+HOMEPAGE="https://github.com/skitov/regswap"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

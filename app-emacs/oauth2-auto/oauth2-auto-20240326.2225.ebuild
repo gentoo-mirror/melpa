@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automatically refreshing OAuth 2.0 tokens"
 
-HOMEPAGE="https://github.com/rhaps0dy/emacs-oauth2-auto"
+HOMEPAGE="https://github.com/telotortium/emacs-oauth2-auto"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Plain theme without syntax highlighting"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/yanateras/plain-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

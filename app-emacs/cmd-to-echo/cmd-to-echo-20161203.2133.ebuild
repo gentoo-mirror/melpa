@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show the output of long-running commands in the echo area"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/mallt/cmd-to-echo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Auto activate python virtualenvs"
 
-HOMEPAGE="http://github.com/marcwebbie/auto-virtualenv"
+HOMEPAGE="https://github.com/marcwebbie/auto-virtualenv"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

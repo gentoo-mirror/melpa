@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Sanma(triple) Zhengma dict for pyim"
 
-HOMEPAGE="https://github.com/p1uxtar/pyim-smzmdict"
+HOMEPAGE="https://github.com/con5tella/pyim-smzmdict"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

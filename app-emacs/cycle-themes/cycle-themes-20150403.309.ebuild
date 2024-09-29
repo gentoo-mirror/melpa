@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A global minor mode to make switching themes easier"
 
-HOMEPAGE="http://github.com/toroidal-code/cycle-themes.el"
+HOMEPAGE="https://github.com/toroidal-code/cycle-themes.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

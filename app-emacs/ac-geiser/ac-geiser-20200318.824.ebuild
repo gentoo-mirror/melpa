@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Auto-complete backend for geiser"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/xiaohanyu/ac-geiser"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

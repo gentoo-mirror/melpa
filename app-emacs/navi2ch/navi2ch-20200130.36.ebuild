@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Navigator for 2ch for Emacsen"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/naota/navi2ch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

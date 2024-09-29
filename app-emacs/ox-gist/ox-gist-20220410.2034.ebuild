@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Export Org mode buffers and subtrees to GitHub gists"
 
-HOMEPAGE="https://github.com/punchagan/org2gist/"
+HOMEPAGE="https://github.com/punchagan/ox-gist"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

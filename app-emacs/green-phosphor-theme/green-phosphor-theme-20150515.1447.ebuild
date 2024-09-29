@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A light color theme with muted, autumnal colors"
 
-HOMEPAGE="http://github.com/aalpern/emacs-color-theme-green-phosphor"
+HOMEPAGE="https://github.com/aalpern/emacs-color-theme-green-phosphor"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

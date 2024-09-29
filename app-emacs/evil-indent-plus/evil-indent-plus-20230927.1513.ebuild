@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Evil textobjects based on indentation"
 
-HOMEPAGE="http://github.com/TheBB/evil-indent-plus"
+HOMEPAGE="https://github.com/TheBB/evil-indent-plus"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

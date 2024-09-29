@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A mode to interact with the Rally Software web site"
 
-HOMEPAGE="https://pragcraft.wordpress.com/"
+HOMEPAGE="https://github.com/seanleblanc/rally-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

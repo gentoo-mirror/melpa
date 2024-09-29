@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Sort Ido's file list by modification time"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/pkkm/ido-sort-mtime"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

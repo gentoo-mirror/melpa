@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Run the Simple X Image Viewer, with Dired integration"
 
-HOMEPAGE="https://tildegit.org/contrapunctus/sxiv"
+HOMEPAGE="https://codeberg.org/contrapunctus/sxiv.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

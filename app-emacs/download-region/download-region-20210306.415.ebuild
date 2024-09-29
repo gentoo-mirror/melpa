@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Simple in-buffer download manager"
 
-HOMEPAGE="http://zk-phi.github.io/"
+HOMEPAGE="https://github.com/zk-phi/download-region"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

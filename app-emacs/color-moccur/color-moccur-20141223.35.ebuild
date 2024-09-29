@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Multi-buffer occur (grep) mode"
 
-HOMEPAGE="http://www.bookshelf.jp/elc/color-moccur.el"
+HOMEPAGE="https://github.com/myuhe/color-moccur.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

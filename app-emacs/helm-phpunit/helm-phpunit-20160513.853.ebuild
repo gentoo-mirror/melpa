@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helm integration for phpunit.el"
 
-HOMEPAGE="https://github.com/eric-hansen/phpunit-helm"
+HOMEPAGE="https://github.com/eric-hansen/helm-phpunit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

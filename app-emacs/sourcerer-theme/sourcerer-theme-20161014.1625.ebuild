@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A version of sourcerer by xero"
 
-HOMEPAGE="http://github.com/gilbertw1/sourcerer-emacs"
+HOMEPAGE="https://github.com/gilbertw1/sourcerer-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

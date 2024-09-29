@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing C0 files"
 
-HOMEPAGE="http://c0.typesafety.net/"
+HOMEPAGE="https://github.com/catern/c0-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

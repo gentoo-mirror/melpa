@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A major mode for editing JonPRL files"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/david-christiansen/jonprl-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

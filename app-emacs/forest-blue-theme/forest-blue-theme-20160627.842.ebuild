@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs theme with a dark background"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/olkinn/forest-blue-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

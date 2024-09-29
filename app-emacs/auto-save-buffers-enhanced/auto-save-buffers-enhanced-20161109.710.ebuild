@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automatically save buffers in a decent way"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/kentaro/auto-save-buffers-enhanced"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

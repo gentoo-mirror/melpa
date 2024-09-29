@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for Beans grammar"
 
-HOMEPAGE="https://github.com/TheBlackBeans/emacs-beans"
+HOMEPAGE="https://github.com/jthulhu/emacs-beans"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

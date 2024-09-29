@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Batch Mode eXtras"
 
-HOMEPAGE="http://github.com/josteink/bmx-mode"
+HOMEPAGE="https://github.com/josteink/bmx-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

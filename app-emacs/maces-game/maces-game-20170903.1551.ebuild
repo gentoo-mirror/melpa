@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Another anagram game"
 
-HOMEPAGE="https://github.com/pawelbx/anagram-game"
+HOMEPAGE="https://github.com/pawelbx/maces-game"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

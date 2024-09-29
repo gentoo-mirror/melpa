@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing Dyalog APL source code"
 
-HOMEPAGE="https://github.com/harsman/dyalog-mode.git"
+HOMEPAGE="https://github.com/harsman/dyalog-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

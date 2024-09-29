@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Exchange text more easily within Evil"
 
-HOMEPAGE="http://github.com/Dewdrops/evil-exchange"
+HOMEPAGE="https://github.com/Dewdrops/evil-exchange"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

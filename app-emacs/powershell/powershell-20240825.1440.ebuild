@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Mode for editing PowerShell scripts"
 
-HOMEPAGE="http://github.com/jschaf/powershell.el"
+HOMEPAGE="https://github.com/jschaf/powershell.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

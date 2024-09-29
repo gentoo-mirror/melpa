@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Adds a menu to paredit.el as memory aid"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/phillord/paredit-menu"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Find a random note in your Org-Mode files"
 
-HOMEPAGE="http://github.com/mwfogleman/org-randomnote"
+HOMEPAGE="https://github.com/mwfogleman/org-randomnote"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

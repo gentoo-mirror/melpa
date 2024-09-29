@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Browse magnatune's music catalog"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/eikek/magnatune.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

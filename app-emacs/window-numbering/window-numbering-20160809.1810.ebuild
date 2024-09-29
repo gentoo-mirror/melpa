@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Numbered window shortcuts"
 
-HOMEPAGE="http://nschum.de/src/emacs/window-numbering-mode/"
+HOMEPAGE="https://github.com/nschum/window-numbering.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode to speed up development when writing tests with Buster.js"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/magnars/buster-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Color theme based on IntelliJ IDEA Darkula color theme"
 
-HOMEPAGE="http://github.com/fourier/idea-darkula-theme"
+HOMEPAGE="https://codeberg.org/fourier/idea-darkula-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

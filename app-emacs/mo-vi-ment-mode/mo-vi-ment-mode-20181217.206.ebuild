@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Provide vi-like cursor movement that's easy on the fingers"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/AjayMT/mo-vi-ment"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Completion at point function for the AWS CLI"
 
-HOMEPAGE="https://github.com/sebasmonia/awscli-capf.git"
+HOMEPAGE="https://github.com/sebasmonia/awscli-capf"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

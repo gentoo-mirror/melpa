@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Web Server for Emacs Literate Source"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/phillord/lentic-server"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Send arbitrary code to a REPL in the background"
 
-HOMEPAGE="http://alhassy.com/repl-driven-development"
+HOMEPAGE="https://github.com/alhassy/repl-driven-development"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

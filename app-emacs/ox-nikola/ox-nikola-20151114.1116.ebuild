@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Export Nikola articles using org-mode"
 
-HOMEPAGE="https://github.com/masayuko/ox-nikola"
+HOMEPAGE="https://github.com/msnoigrs/ox-nikola"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

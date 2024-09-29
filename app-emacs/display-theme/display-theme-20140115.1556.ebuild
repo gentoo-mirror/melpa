@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Display current theme(s) at mode-line"
 
-HOMEPAGE="https://github.com/kawabata/emacs-display-theme/"
+HOMEPAGE="https://github.com/kawabata/emacs-display-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

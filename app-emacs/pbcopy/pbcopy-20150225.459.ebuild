@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs Interface to pbcopy"
 
-HOMEPAGE="https://github.com/jkp/pbcopy.el"
+HOMEPAGE="https://github.com/emacsfodder/pbcopy.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

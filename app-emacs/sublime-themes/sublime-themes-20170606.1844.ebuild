@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A collection of themes based on Sublime Text"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/owainlewis/emacs-color-themes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

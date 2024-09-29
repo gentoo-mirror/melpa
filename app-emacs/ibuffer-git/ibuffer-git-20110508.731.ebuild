@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show git status in ibuffer column"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/jrockway/ibuffer-git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

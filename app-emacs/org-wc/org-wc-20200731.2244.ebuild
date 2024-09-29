@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Count words in org mode trees"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/tesujimath/org-wc"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

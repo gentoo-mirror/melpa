@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automatically switch Python venvs"
 
-HOMEPAGE="https://github.com/nryotaro/pyvenv-auto"
+HOMEPAGE="https://github.com/ryotaro612/pyvenv-auto"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

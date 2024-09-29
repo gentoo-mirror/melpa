@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Maximize the emacs frame based on display size"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/rmm5t/maxframe.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

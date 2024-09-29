@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Kill first, ask later"
 
-HOMEPAGE="https://github.com/tlinden/viking-mode"
+HOMEPAGE="https://github.com/TLINDEN/viking-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

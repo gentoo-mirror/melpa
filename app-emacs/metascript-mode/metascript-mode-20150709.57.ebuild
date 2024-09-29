@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for the Metascript programming language"
 
-HOMEPAGE="http://github.com/metascript/metascript-mode"
+HOMEPAGE="https://github.com/metascript/metascript-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

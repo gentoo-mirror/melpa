@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helpers for compiling with maven"
 
-HOMEPAGE="https://github.com/apgwoz/mvn-el"
+HOMEPAGE="https://github.com/apg/mvn-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

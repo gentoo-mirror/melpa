@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Lightweight auto activate python virtualenvs"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/robert-zaremba/auto-virtualenvwrapper.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

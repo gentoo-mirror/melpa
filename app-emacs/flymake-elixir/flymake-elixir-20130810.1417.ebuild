@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A flymake handler for elixir-mode .ex files"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/syl20bnr/flymake-elixir"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

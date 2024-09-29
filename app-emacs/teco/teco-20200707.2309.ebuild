@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Teco interpreter"
 
-HOMEPAGE="https://github.com/mtk/teco.git"
+HOMEPAGE="https://github.com/mtk/teco"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

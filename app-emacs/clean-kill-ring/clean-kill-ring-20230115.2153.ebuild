@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Keep the kill ring clean"
 
-HOMEPAGE="http://github.com/NicholasBHubbard/clean-kill-ring.el"
+HOMEPAGE="https://github.com/NicholasBHubbard/clean-kill-ring.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

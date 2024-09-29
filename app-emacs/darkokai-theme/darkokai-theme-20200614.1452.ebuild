@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A darker variant on Monokai"
 
-HOMEPAGE="http://github.com/sjrmanning/darkokai"
+HOMEPAGE="https://github.com/sjrmanning/darkokai"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

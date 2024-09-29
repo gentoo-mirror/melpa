@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interface to launchctl on Mac OS X"
 
-HOMEPAGE="http://github.com/pekingduck/launchctl-el"
+HOMEPAGE="https://github.com/pekingduck/launchctl-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

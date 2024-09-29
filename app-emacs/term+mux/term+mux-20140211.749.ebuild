@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Term+ terminal multiplexer and session management"
 
-HOMEPAGE="http://github.com/tarao/term+-el"
+HOMEPAGE="https://github.com/tarao/term-plus-mux-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

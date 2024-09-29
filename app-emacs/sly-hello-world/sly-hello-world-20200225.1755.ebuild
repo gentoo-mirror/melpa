@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A template SLY contrib"
 
-HOMEPAGE="https://github.com/capitaomorte/sly-hello-world"
+HOMEPAGE="https://github.com/joaotavora/sly-hello-world"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

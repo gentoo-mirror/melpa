@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ruby string interpolation helpers"
 
-HOMEPAGE="http://github.com/leoc/ruby-interpolation.el"
+HOMEPAGE="https://github.com/leoc/ruby-interpolation.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Structure and Interpretation of Computer Programs in info format"
 
-HOMEPAGE="https://mitpress.mit.edu/sicp"
+HOMEPAGE="https://github.com/webframp/sicp-info"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

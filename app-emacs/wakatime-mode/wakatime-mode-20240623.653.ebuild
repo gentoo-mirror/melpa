@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automatic time tracking extension for WakaTime"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/wakatime/wakatime-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

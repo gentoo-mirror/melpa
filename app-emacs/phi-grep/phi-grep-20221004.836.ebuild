@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interactively-editable recursive grep implementation in elisp"
 
-HOMEPAGE="http://github.com/zk-phi/phi-grep"
+HOMEPAGE="https://github.com/zk-phi/phi-grep"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

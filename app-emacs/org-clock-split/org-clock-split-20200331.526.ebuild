@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Split clock entries"
 
-HOMEPAGE="https://github.com/justintaft/emacs-org-clock-split"
+HOMEPAGE="https://github.com/justintaft/org-clock-split"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

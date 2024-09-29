@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs interface to Gnome nmcli command"
 
-HOMEPAGE="http://github.com/nicferrier/emacs-nm"
+HOMEPAGE="https://github.com/nicferrier/emacs-nm"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

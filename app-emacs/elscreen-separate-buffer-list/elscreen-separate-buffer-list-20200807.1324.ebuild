@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Separate buffer list manager for elscreen"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/wamei/elscreen-separate-buffer-list"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

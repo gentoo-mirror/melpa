@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A regular expression evaluation tool for programmers"
 
-HOMEPAGE="http://www.newartisans.com/"
+HOMEPAGE="https://github.com/jwiegley/regex-tool"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

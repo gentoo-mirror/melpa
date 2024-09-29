@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Paredit-like commands for c-like languages"
 
-HOMEPAGE="http://zk-phi.gitub.io/"
+HOMEPAGE="https://github.com/zk-phi/cedit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

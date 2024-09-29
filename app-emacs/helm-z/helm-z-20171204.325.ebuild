@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show z directory list with helm.el support"
 
-HOMEPAGE="https://github.com/yynozk/helm-z"
+HOMEPAGE="https://github.com/zonkyy/helm-z"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

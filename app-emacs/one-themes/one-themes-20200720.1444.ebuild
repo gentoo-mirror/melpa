@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="One Colorscheme"
 
-HOMEPAGE="http://github.com/balajisivaraman/emacs-one-themes"
+HOMEPAGE="https://github.com/balajisivaraman/emacs-one-themes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

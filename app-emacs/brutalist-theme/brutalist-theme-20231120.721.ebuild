@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Brutalist theme"
 
-HOMEPAGE="https://git.madhouse-project.org/algernon/brutalist-theme.el"
+HOMEPAGE="https://git.madhouse-project.org/algernon/brutalist-theme.el.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

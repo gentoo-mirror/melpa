@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Silly walks for Renpy"
 
-HOMEPAGE="https://github.com/billywade/renpy-mode"
+HOMEPAGE="https://github.com/Reagankm/renpy-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A Password manager for Emacs"
 
-HOMEPAGE="http://github.com/PuercoPop/password-vault"
+HOMEPAGE="https://github.com/PuercoPop/password-vault"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

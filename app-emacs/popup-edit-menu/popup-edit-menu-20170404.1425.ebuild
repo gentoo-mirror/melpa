@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A popup context edit menu package"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/debugfan/popup-edit-menu"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

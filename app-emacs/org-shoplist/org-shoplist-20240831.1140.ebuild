@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Eat the world"
 
-HOMEPAGE="https://github.com/lordnik22"
+HOMEPAGE="https://github.com/lordnik22/org-shoplist"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

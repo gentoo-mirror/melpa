@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Execute (shell) commands on save"
 
-HOMEPAGE="https://depp.brause.cc/firestarter"
+HOMEPAGE="https://depp.brause.cc/firestarter.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

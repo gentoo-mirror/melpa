@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org-mode and Cua mode compatibility layer"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/mattfidler/org-cua-dwim.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

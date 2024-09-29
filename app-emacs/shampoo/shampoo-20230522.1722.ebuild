@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A remote Smalltalk development mode"
 
-HOMEPAGE="https://revival.sh/shampoo/"
+HOMEPAGE="https://github.com/dmatveev/shampoo-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

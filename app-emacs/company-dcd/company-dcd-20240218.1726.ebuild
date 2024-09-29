@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Company backend for Dlang using DCD"
 
-HOMEPAGE="http://github.com/tsukimizake/company-dcd"
+HOMEPAGE="https://github.com/tsukimizake/company-dcd"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Change the size of frames in Emacs"
 
-HOMEPAGE="http://github.com/nicferrier/emacs-framesize"
+HOMEPAGE="https://github.com/nicferrier/emacs-framesize"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

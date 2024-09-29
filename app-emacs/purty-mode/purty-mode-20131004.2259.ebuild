@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Safely pretty-print greek letters, mathematical symbols, or anything else"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/jcatw/purty-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

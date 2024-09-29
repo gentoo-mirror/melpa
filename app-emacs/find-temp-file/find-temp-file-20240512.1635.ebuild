@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Open quickly a temporary file"
 
-HOMEPAGE="https://github.com/thisirs/find-temp-file.git"
+HOMEPAGE="https://github.com/thisirs/find-temp-file"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

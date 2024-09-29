@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interfaces ROS with helm"
 
-HOMEPAGE="https://www.github.com/davidlandry93/helm-ros"
+HOMEPAGE="https://github.com/davidlandry93/helm-ros"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

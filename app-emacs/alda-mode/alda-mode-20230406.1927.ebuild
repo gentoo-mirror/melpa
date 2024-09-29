@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An Alda major mode"
 
-HOMEPAGE="http://gitlab.com/jgkamat/alda-mode"
+HOMEPAGE="https://gitlab.com/jgkamat/alda-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

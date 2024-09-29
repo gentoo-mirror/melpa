@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helm interface to Jps & Jstack for Java/JVM processes"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/raghavgautam/helm-jstack"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A major mode for editing hgignore files"
 
-HOMEPAGE="http://github.com/omajid/hgignore-mode"
+HOMEPAGE="https://github.com/omajid/hgignore-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

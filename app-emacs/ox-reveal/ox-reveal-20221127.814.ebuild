@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Reveal.js Presentation Back-End for Org Export Engine"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/yjwen/org-reveal"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

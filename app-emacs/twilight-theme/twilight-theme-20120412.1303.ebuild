@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Twilight theme for GNU Emacs 24 (deftheme)"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/developernotes/twilight-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

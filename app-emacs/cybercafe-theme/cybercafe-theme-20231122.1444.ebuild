@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Cybercafe color theme"
 
-HOMEPAGE="http://github.com/gboncoffee/cybercafe-emacs-theme"
+HOMEPAGE="https://github.com/gboncoffee/cybercafe-emacs-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

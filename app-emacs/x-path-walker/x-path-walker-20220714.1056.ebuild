@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Navigation feature for JSON/XML/HTML based on path (imenu like)"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/Lompik/x-path-walker"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

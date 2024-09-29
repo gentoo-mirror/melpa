@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Display the time clocked today in the modeline"
 
-HOMEPAGE="https://www.draketo.de/software/emacs-daytime"
+HOMEPAGE="https://github.com/ArneBab/emacs-org-clock-daytime"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Query YouTube via Invidious"
 
-HOMEPAGE="https://github.com/grastello/ytel"
+HOMEPAGE="https://github.com/manabiseijin/ytel"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

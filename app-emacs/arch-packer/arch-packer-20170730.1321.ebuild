@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Arch Linux package management frontend"
 
-HOMEPAGE="https://github.com/brotzeitmacher/arch-packer"
+HOMEPAGE="https://github.com/brotzeit/arch-packer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A CHIP-8 emulator"
 
-HOMEPAGE="http://github.com/gabrielelana/chip8.el"
+HOMEPAGE="https://github.com/gabrielelana/chip8.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

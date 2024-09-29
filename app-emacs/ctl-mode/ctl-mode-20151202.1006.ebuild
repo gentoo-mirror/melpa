@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing GrADS script files"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/yyr/emacs-grads"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

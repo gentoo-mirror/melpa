@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Blog admin for emacs with hexo/org-page supported"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/xcodebuild/blog-admin"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

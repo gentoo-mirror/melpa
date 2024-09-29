@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Mathematica editing and inferior mode"
 
-HOMEPAGE="https://github.com/kawabata/wolfram-mode/"
+HOMEPAGE="https://github.com/kawabata/wolfram-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automatically insert pair braces and quotes, insertion conditions & actions are highly customizable"
 
-HOMEPAGE="https://github.com/uk-ar/flex-autopair.el"
+HOMEPAGE="https://github.com/uk-ar/flex-autopair"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs 24 theme with a light background"
 
-HOMEPAGE="http://github.com/mswift42/soft-stone-theme"
+HOMEPAGE="https://github.com/mswift42/soft-stone-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing Cython files"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/cython/emacs-cython-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

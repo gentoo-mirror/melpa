@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Shows icons for in Gnus"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/nlamirault/all-the-icons-gnus"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

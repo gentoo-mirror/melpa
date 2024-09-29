@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Programming language mode for Forth"
 
-HOMEPAGE="http://github.com/larsbrinkhoff/forth-mode"
+HOMEPAGE="https://github.com/larsbrinkhoff/forth-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

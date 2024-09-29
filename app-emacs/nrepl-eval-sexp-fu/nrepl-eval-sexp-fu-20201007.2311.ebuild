@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Tiny functionality enhancements for evaluating sexps"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/samaaron/nrepl-eval-sexp-fu"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

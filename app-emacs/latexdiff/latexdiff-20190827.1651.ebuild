@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Latexdiff integration in Emacs"
 
-HOMEPAGE="http://github.com/galaunay/latexdiff.el"
+HOMEPAGE="https://github.com/galaunay/latexdiff.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

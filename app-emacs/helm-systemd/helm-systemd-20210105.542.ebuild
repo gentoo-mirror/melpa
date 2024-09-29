@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helm's systemd interface"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/Lompik/helm-systemd"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org-babel functions for coffee-script evaluation"
 
-HOMEPAGE="http://github.com/zweifisch/ob-coffee"
+HOMEPAGE="https://github.com/zweifisch/ob-coffee"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

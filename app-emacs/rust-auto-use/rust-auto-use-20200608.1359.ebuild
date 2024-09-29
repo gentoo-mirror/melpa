@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Utility to automatically insert Rust use statements"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/vmalloc/rust-auto-use.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Hippo color theme"
 
-HOMEPAGE="http://github.com/kimim/emacs-hippo-theme"
+HOMEPAGE="https://github.com/kimim/emacs-hippo-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Racket editing, REPL, and more"
 
-HOMEPAGE="https://www.racket-mode.com/"
+HOMEPAGE="https://github.com/greghendershott/racket-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

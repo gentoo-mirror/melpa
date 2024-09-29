@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Yasnippets for the Mocha JS Testing Framework"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/cowboyd/mocha-snippets.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

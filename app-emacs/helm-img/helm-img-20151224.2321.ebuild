@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Utilities for making image sources for helm"
 
-HOMEPAGE="https://github.com/l3msh0/helm-img"
+HOMEPAGE="https://github.com/mtmtcode/helm-img"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

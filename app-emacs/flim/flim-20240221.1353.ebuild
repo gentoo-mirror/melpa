@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A library to provide basic features about message representation or encoding"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/wanderlust/flim"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

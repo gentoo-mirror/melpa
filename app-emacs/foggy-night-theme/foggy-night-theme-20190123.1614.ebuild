@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Dark low contrast theme with soft and muted colors"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/mswift42/foggy-night-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

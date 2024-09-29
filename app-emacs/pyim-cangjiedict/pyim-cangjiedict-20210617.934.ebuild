@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Some cangjie dicts for pyim"
 
-HOMEPAGE="https://github.com/p1uxtar/pyim-cangjiedict"
+HOMEPAGE="https://github.com/con5tella/pyim-cangjiedict"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

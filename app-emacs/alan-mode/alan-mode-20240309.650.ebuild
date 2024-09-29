@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing Alan files"
 
-HOMEPAGE="https://github.com/Kjerner/AlanForEmacs"
+HOMEPAGE="https://github.com/alan-platform/AlanForEmacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Insert commit message prefix (issue number)"
 
-HOMEPAGE="http://github.com/kidd/git-msg-prefix.el"
+HOMEPAGE="https://github.com/kidd/git-msg-prefix.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

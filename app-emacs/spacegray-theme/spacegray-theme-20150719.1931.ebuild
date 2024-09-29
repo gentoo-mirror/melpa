@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A Hyperminimal UI Theme"
 
-HOMEPAGE="http://github.com/bruce/emacs-spacegray-theme"
+HOMEPAGE="https://github.com/bruce/emacs-spacegray-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs 24 theme with an 'oldlace' background"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/mswift42/oldlace-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs theme with a light background"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/mswift42/white-sand-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

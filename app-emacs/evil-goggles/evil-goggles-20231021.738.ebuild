@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Add a visual hint to evil operations"
 
-HOMEPAGE="http://github.com/edkolev/evil-goggles"
+HOMEPAGE="https://github.com/edkolev/evil-goggles"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

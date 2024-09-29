@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Bookmark plugin for e2wm.el"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/myuhe/e2wm-bookmark.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A stackoverflow and its sisters' sites reader"
 
-HOMEPAGE="https://github.com/thanhvg/howdoyou/"
+HOMEPAGE="https://github.com/thanhvg/emacs-howdoyou"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

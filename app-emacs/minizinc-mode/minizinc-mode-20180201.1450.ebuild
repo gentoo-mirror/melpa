@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for MiniZinc code"
 
-HOMEPAGE="http://github.com/m00nlight/minizinc-mode"
+HOMEPAGE="https://github.com/m00nlight/minizinc-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

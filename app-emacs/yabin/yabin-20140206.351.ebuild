@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Yet Another Bignum package (A thin wrapper of calc.el)"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/d5884/yabin"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

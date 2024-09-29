@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Import csv to bbdb version 3+"
 
-HOMEPAGE="https://gitlab.com/iankelling/bbdb-csv-import"
+HOMEPAGE="https://git.sr.ht/~iank/bbdb-csv-import"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

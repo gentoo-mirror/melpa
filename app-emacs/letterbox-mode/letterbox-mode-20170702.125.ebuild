@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Hide sensitive text on a buffer"
 
-HOMEPAGE="http://github.com/pacha64/letterbox-mode"
+HOMEPAGE="https://github.com/pacha64/letterbox-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

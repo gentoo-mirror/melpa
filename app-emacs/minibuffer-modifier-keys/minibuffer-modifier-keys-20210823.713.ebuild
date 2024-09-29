@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Use spacebar as a modifier key in the minibuffer"
 
-HOMEPAGE="https://github.com/SpringHan/minibuffer-modifier-keys.git"
+HOMEPAGE="https://github.com/SpringHan/minibuffer-modifier-keys"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Reminders for your init bindings"
 
-HOMEPAGE="https://github.com/mtekman/remind-bindings.el"
+HOMEPAGE="https://gitlab.com/mtekman/remind-bindings.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

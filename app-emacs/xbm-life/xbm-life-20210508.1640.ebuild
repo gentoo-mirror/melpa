@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A XBM version of Conway's Game of Life"
 
-HOMEPAGE="https://depp.brause.cc/xbm-life"
+HOMEPAGE="https://depp.brause.cc/xbm-life.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

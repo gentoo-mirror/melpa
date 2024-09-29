@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A low contrast color theme"
 
-HOMEPAGE="https://github.com/mvarela/Curry-On-Theme"
+HOMEPAGE="https://github.com/mvarela/Curry-On-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

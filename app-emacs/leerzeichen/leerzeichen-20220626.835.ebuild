@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode to display whitespace characters"
 
-HOMEPAGE="http://github.com/fgeller/leerzeichen.el"
+HOMEPAGE="https://github.com/fgeller/leerzeichen.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

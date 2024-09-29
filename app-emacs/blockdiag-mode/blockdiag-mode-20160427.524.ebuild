@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing blockdiag files"
 
-HOMEPAGE="https://github.com/xcezx/xdiag-mode"
+HOMEPAGE="https://github.com/xcezx/blockdiag-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Count number of inbox messages by day"
 
-HOMEPAGE="http://github.com/sje30/yesterbox"
+HOMEPAGE="https://github.com/sje30/yesterbox"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A package to manage Ghost blog"
 
-HOMEPAGE="https://github.com/javaguirre/ghost-blog"
+HOMEPAGE="https://github.com/javaguirre/ghost-blog-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

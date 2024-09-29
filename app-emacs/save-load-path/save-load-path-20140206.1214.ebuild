@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Save load-path and reuse it to test"
 
-HOMEPAGE="http://www.emacswiki.org/cgi-bin/wiki/download/save-load-path.el"
+HOMEPAGE="https://github.com/rubikitch/save-load-path"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

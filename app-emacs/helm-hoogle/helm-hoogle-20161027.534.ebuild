@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Use helm to navigate query results from Hoogle"
 
-HOMEPAGE="https://github.com/jwiegley/haskell-config"
+HOMEPAGE="https://github.com/jwiegley/helm-hoogle"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

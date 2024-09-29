@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Enhanced eval-expression command"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/jwiegley/eval-expr"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

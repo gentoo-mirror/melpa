@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Like multi-term.el but for vterm"
 
-HOMEPAGE="https://github.com/suonlight/multi-libvterm"
+HOMEPAGE="https://github.com/suonlight/multi-vterm"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

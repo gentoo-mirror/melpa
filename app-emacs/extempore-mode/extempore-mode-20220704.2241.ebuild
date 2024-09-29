@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs major mode for Extempore source files"
 
-HOMEPAGE="http://github.com/extemporelang/extempore-emacs-mode"
+HOMEPAGE="https://github.com/extemporelang/extempore-emacs-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

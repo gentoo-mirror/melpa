@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Rusty Object Notation mode"
 
-HOMEPAGE="https://chiselapp.com/user/Hutzdog/repository/ron-mode/home"
+HOMEPAGE="https://codeberg.org/Hutzdog/ron-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

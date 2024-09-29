@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Google Books backend for biblio.el"
 
-HOMEPAGE="http://github.com/jrasband/biblio-gbooks"
+HOMEPAGE="https://github.com/jrasband/biblio-gbooks"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

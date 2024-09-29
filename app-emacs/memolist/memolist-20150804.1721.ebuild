@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Memolist.el is Emacs port of memolist.vim"
 
-HOMEPAGE="http://github.com/mikanfactory/emacs-memolist"
+HOMEPAGE="https://github.com/mikanfactory/memolist.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

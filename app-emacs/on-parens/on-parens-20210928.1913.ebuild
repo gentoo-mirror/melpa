@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Smartparens wrapper to fit with evil-mode/vim normal-state"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/willghatch/emacs-on-parens"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

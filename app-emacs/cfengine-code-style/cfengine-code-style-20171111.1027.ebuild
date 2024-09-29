@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="C code style for CFEngine project"
 
-HOMEPAGE="https://github.com/cfengine/core"
+HOMEPAGE="https://github.com/cfengine/cfengine-code-style"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

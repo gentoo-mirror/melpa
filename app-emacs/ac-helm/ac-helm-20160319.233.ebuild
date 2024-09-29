@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helm interface for auto-complete"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/yasuyk/ac-helm"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

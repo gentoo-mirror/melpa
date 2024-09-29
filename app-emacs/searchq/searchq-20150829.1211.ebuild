@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Framework of queued search tasks using GREP, ACK, AG and more"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/tcw165/searchq"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="The Emacs webserver"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/jcaw/elnode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

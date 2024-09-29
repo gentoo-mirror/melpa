@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minimalistic and customizable project manager"
 
-HOMEPAGE="https://github.com/salorak/whaler.el"
+HOMEPAGE="https://github.com/SalOrak/whaler.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

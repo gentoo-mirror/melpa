@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode to edit JAR manifest files"
 
-HOMEPAGE="http://github.com/omajid/jar-manifest-mode"
+HOMEPAGE="https://github.com/omajid/jar-manifest-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Extra features for transient"
 
-HOMEPAGE="https://github.com/haji-ali/transient-extras.git"
+HOMEPAGE="https://github.com/haji-ali/transient-extras"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Info-method for EMMS using medianfo"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/fgallina/emms-info-mediainfo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

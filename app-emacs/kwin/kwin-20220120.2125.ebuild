@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Communicatewith the KWin window manager"
 
-HOMEPAGE="http://github.com/reactormonk/kwin-minor-mode"
+HOMEPAGE="https://github.com/reactormonk/kwin-minor-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

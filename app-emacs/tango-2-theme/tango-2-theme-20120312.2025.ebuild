@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Tango 2 color theme for GNU Emacs 24"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://gist.github.com/2024464.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

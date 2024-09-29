@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Copy file name into kill ring"
 
-HOMEPAGE="https://github.com/chyla/kill-file-path/kill-file-path.el"
+HOMEPAGE="https://github.com/chyla/kill-file-path"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

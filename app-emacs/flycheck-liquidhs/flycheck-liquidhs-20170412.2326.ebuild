@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A flycheck checker for Haskell using liquid (i.e. liquidhaskell)"
 
-HOMEPAGE="https://github.com/ucsd-progsys/liquidhaskell/flycheck-liquid.el"
+HOMEPAGE="https://github.com/ucsd-progsys/flycheck-liquidhs.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

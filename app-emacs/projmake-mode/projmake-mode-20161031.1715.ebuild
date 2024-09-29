@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Project oriented automatic builder and error highlighter, flymake for projects"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/ericbmerritt/projmake-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

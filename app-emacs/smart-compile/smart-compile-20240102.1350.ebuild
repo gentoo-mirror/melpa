@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An interface to \`compile'"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/zenitani/elisp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

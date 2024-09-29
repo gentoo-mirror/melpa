@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode to work with the mynt static site generator"
 
-HOMEPAGE="https://github.com/crshd/mynt-mode"
+HOMEPAGE="https://github.com/cbrst/mynt-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

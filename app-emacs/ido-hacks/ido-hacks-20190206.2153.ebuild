@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Put more IDO in your IDO"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/scottjad/ido-hacks"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

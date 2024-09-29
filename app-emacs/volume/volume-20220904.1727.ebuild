@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Tweak your sound card volume from Emacs"
 
-HOMEPAGE="http://www.brockman.se/software/volume-el/"
+HOMEPAGE="https://github.com/dbrock/volume.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

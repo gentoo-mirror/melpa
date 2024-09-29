@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Swap bindings between key pairs"
 
-HOMEPAGE="http://github.com/hardenedapple/keyswap.el"
+HOMEPAGE="https://github.com/hardenedapple/keyswap.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

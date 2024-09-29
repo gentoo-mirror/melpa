@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Config::General config file mode"
 
-HOMEPAGE="https://github.com/tlinden/config-general-mode"
+HOMEPAGE="https://github.com/TLINDEN/config-general-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

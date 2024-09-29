@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="ListenBrainz API interface"
 
-HOMEPAGE="https://github.com/zzkt/listenbrainz"
+HOMEPAGE="https://github.com/zzkt/metabrainz"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

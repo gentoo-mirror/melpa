@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode for editing an opscode chef repository"
 
-HOMEPAGE="https://melpa.org/packages/"
+HOMEPAGE="https://github.com/mpasternacki/chef-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

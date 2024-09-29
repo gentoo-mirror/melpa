@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Another rectangle-mark command (rewrite of rect-mark)"
 
-HOMEPAGE="http://zk-phi.github.io/"
+HOMEPAGE="https://github.com/zk-phi/phi-rectangle"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

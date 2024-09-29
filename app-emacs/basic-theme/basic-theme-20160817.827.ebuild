@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minimalistic light color theme"
 
-HOMEPAGE="http://github.com/fgeller/basic-theme.el"
+HOMEPAGE="https://github.com/fgeller/basic-theme.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

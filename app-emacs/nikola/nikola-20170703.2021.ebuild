@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Simple wrapper for nikola"
 
-HOMEPAGE=": https://git.daemons.it/drymer/nikola.el"
+HOMEPAGE="https://gitlab.com/drymerisnothere/nikola-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
