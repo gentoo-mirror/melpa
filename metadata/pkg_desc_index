@@ -490,13 +490,13 @@ app-emacs/casual-avy 20240828.223: Transient UI for Avy
 app-emacs/casual-bookmarks 20240828.319: Transient UI for Bookmarks
 app-emacs/casual-calc 20240828.437: Transient UI for Calc
 app-emacs/casual-dired 20240917.401: Transient UI for Dired
-app-emacs/casual-editkit 20240924.1809: Transient UI for Symbol Overlay
+app-emacs/casual-editkit 20240930.1654: Transient user interface library for editing commands
 app-emacs/casual-ibuffer 20240828.507: Transient UI for IBuffer
 app-emacs/casual-info 20240828.1725: Transient UI for Info
 app-emacs/casual-isearch 20240904.1704: Transient UI for I-Search
 app-emacs/casual-lib 20240827.2223: Library routines for Casual user interfaces
 app-emacs/casual-re-builder 20240828.1905: Transient UI for RE-Builder
-app-emacs/casual-suite 20240922.2209: A suite of opinionated Transient UIs
+app-emacs/casual-suite 20240930.1844: A suite of opinionated Transient UIs
 app-emacs/casual-symbol-overlay 20240905.129: Transient UI for Symbol Overlay
 app-emacs/catmacs 20170826.1157: Simple CAT interface for Yaesu Transceivers
 app-emacs/catppuccin-theme 20240829.2151: Catppuccin for Emacs - 🍄 Soothing pastel theme for Emacs
@@ -627,7 +627,7 @@ app-emacs/clojure-mode 20240526.1825: Major mode for Clojure code
 app-emacs/clojure-mode-extra-font-locking 20240526.1824: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 20150814.736: Quickly create Clojure and ClojureScript repls for a project
 app-emacs/clojure-snippets 20220914.950: Yasnippets for clojure
-app-emacs/clojure-ts-mode 20240930.724: Major mode for Clojure code
+app-emacs/clojure-ts-mode 20240930.1316: Major mode for Clojure code
 app-emacs/clomacs 20220415.1035: Simplifies Emacs Lisp interaction with Clojure
 app-emacs/closql 20240808.1934: Store EIEIO objects using EmacSQL
 app-emacs/closure-lint-mode 20101118.2124: Minor mode for the Closure Linter
@@ -790,7 +790,7 @@ app-emacs/consult-eglot 20240324.1211: A consulting-read interface for eglot
 app-emacs/consult-eglot-embark 20240324.1211: Embark integration for `consult-eglot'
 app-emacs/consult-flycheck 20240926.917: Provides the command `consult-flycheck'
 app-emacs/consult-flyspell 20230322.204: Consult integration for flyspell
-app-emacs/consult-gh 20240929.1621: Consulting GitHub Client
+app-emacs/consult-gh 20240930.1649: Consulting GitHub Client
 app-emacs/consult-gh-embark 20240929.803: Embark Actions for consult-gh
 app-emacs/consult-gh-forge 20240927.1004: Magit/Forge Integration for consult-gh
 app-emacs/consult-ghq 20231111.1303: Ghq interface using consult
@@ -3184,7 +3184,7 @@ app-emacs/lsp-julia 20230915.654: Julia support for lsp-mode
 app-emacs/lsp-latex 20240803.1436: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20240425.2049: LSP Clients for LTEX
 app-emacs/lsp-metals 20240821.1959: Scala Client settings
-app-emacs/lsp-mode 20240928.428: LSP mode
+app-emacs/lsp-mode 20240930.1803: LSP mode
 app-emacs/lsp-mssql 20230510.1124: MSSQL LSP bindings
 app-emacs/lsp-origami 20230815.704: Origami.el support for lsp-mode
 app-emacs/lsp-p4 20190127.1049: P4 support for lsp-mode
@@ -3224,7 +3224,7 @@ app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-mode 20240930.1146: Emacs major mode for Smallworld Magik files
-app-emacs/magit 20240928.1355: A Git porcelain inside Emacs
+app-emacs/magit 20240930.1805: A Git porcelain inside Emacs
 app-emacs/magit-annex 20240811.1850: Control git-annex from Magit
 app-emacs/magit-commit-mark 20240421.931: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3391,7 +3391,7 @@ app-emacs/mint-mode 20221031.411: Major mode for the Mint programming language
 app-emacs/mip-mode 20151127.617: Virtual projects for emacs
 app-emacs/mips-mode 20220608.1204: Major-mode for MIPS assembly
 app-emacs/mise 20240707.1428: Support for `mise' cli
-app-emacs/mistty 20240926.2044: Shell/Comint alternative based on term.el
+app-emacs/mistty 20240930.1245: Shell/Comint alternative based on term.el
 app-emacs/mix 20240122.720: Mix Major Mode. Build Elixir using Mix
 app-emacs/mixed-pitch 20210304.1900: Use a variable pitch, keeping fixed pitch where it's sensible
 app-emacs/mkdown 20140517.1418: Pretty Markdown previews based on mkdown.com
@@ -3902,8 +3902,8 @@ app-emacs/org-multi-wiki 20210324.1820: Multiple wikis based on Org mode
 app-emacs/org-multiple-keymap 20191017.1920: Set keymap to elements, such as timestamp and priority
 app-emacs/org-newtab 20240227.155: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 20240603.859: Org local nix-shell
-app-emacs/org-node 20240930.903: Link org-id entries into a network
-app-emacs/org-node-fakeroam 20240925.1302: Stand-ins for org-roam-autosync-mode
+app-emacs/org-node 20240930.1359: Link org-id entries into a network
+app-emacs/org-node-fakeroam 20240930.1353: Stand-ins for org-roam-autosync-mode
 app-emacs/org-notebook 20170322.452: Ease the use of org-mode as a notebook
 app-emacs/org-noter 20240918.1703: A synchronized, Org-mode, document annotator
 app-emacs/org-noter-pdftools 20230725.1433: Integration between org-pdftools and org-noter
@@ -4022,7 +4022,7 @@ app-emacs/orgstrap 20230408.2232: Bootstrap an Org file using file local variabl
 app-emacs/orgtbl-aggregate 20240616.506: Create an aggregated Org table from another one
 app-emacs/orgtbl-ascii-plot 20230122.816: Ascii-art bar plots in org-mode tables
 app-emacs/orgtbl-fit 20240228.716: Regression-fit a column in an Org Mode table
-app-emacs/orgtbl-join 20240616.528: Join columns from another Org Mode table
+app-emacs/orgtbl-join 20240930.1502: Join columns from another Org Mode table
 app-emacs/orgtbl-show-header 20230903.903: Show the header of the current column in the minibuffer
 app-emacs/origami 20200331.1019: Flexible text folding
 app-emacs/origami-predef 20200615.1044: Apply folding when finding (opening) files
@@ -4108,7 +4108,7 @@ app-emacs/pacdiff 20240219.1606: Manage pacdiff files
 app-emacs/pacfiles-mode 20230503.1523: The pacnew and pacsave merging tool
 app-emacs/pack 20191017.456: Pack and unpack archive files
 app-emacs/package+ 20230805.2115: Extensions for the package library
-app-emacs/package-build 20240930.1102: Tools for assembling a package archive
+app-emacs/package-build 20240930.1924: Tools for assembling a package archive
 app-emacs/package-filter 20161122.719: Package archive whitelist and blacklist
 app-emacs/package-lint 20240923.1044: A linting library for elisp package authors
 app-emacs/package-lint-flymake 20240923.931: A package-lint Flymake backend
@@ -5257,7 +5257,7 @@ app-emacs/thinks 20170802.1128: Insert text in a think bubble
 app-emacs/third-time 20240207.1621: Third Time: A Better Way to Work
 app-emacs/thread-dump 20170816.1850: Java thread dump viewer
 app-emacs/threes 20160820.1242: A clone of Threes (a tiny puzzle game)
-app-emacs/thrift 20240923.914: Major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 20240930.1251: Major mode for fbthrift and Apache Thrift files
 app-emacs/thumb-through 20120119.534: Plain text reader of HTML documents
 app-emacs/tickscript-mode 20171219.203: A major mode for Tickscript files
 app-emacs/tidal 20240407.1952: Interact with TidalCycles for live coding patterns
@@ -5350,7 +5350,7 @@ app-emacs/tree-sitter 20220212.1632: Incremental parsing system
 app-emacs/tree-sitter-ess-r 20221012.855: R with tree-sitter
 app-emacs/tree-sitter-indent 20220411.1439: Provide indentation with a Tree-sitter backend
 app-emacs/tree-sitter-ispell 20240610.2252: Run ispell on tree-sitter text nodes
-app-emacs/tree-sitter-langs 20240923.145: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 20240930.1727: Grammar bundle for tree-sitter
 app-emacs/treebundel 20240531.2321: Bundle related git-worktrees together
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
 app-emacs/treemacs 20240815.1227: A tree style file explorer package
