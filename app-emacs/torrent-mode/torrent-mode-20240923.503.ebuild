@@ -5,18 +5,20 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="sticky-shell"
+REALNAME="torrent-mode"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minor mode to keep track of previous prompt in your shell"
+DESCRIPTION="Display torrent files in a tabulated view"
 
-HOMEPAGE="https://github.com/andrewdea/sticky-shell"
+HOMEPAGE="https://github.com/sarg/torrent-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/tablist
+	app-emacs/bencoding"
+RDEPEND="app-emacs/tablist
+	app-emacs/bencoding"
