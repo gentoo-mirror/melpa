@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="sticky-shell"
+REALNAME="jwt"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minor mode to keep track of previous prompt in your shell"
+DESCRIPTION="Interact with JSON Web Tokens"
 
-HOMEPAGE="https://github.com/andrewdea/sticky-shell"
+HOMEPAGE="https://github.com/joshbax189/jwt-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
