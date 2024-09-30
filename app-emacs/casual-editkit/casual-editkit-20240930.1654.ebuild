@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Transient UI for Symbol Overlay"
+DESCRIPTION="Transient user interface library for editing commands"
 
 HOMEPAGE="https://github.com/kickingvegas/casual-editkit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
