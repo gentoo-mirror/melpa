@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Global minor mode to facilitate multi-file writing projects"
 
-HOMEPAGE="https://github.com/rnkn/binder"
+HOMEPAGE="https://codeberg.org/divyaranjan/binder"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
