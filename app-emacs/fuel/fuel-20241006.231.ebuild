@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for the Factor programming language"
 
-HOMEPAGE="https://github.com/factor/factor"
+HOMEPAGE="https://github.com/factor/fuel"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
