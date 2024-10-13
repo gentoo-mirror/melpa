@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Text accumulation enhancements for GPTel"
 
-HOMEPAGE="https://github.com/rob137/corsair"
+HOMEPAGE="https://github.com/rob137/Corsair"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
