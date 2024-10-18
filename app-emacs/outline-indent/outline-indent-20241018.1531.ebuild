@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Outline and fold text using indentation"
+DESCRIPTION="Fold text using indentation"
 
 HOMEPAGE="https://github.com/jamescherti/outline-indent.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
