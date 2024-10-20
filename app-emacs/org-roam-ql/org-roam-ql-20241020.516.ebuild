@@ -22,9 +22,11 @@ DEPEND="app-emacs/org-roam
 	app-emacs/s
 	app-emacs/magit-section
 	app-emacs/transient
-	app-emacs/org-super-agenda"
+	app-emacs/org-super-agenda
+	app-emacs/dash"
 RDEPEND="app-emacs/org-roam
 	app-emacs/s
 	app-emacs/magit-section
 	app-emacs/transient
-	app-emacs/org-super-agenda"
+	app-emacs/org-super-agenda
+	app-emacs/dash"
