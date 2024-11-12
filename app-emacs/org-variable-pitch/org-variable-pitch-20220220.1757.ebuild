@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode for variable pitch text in org mode"
 
-HOMEPAGE="https://github.com/cadadr/elisp"
+HOMEPAGE="https://codeberg.org/kutuptiyini/elisp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
