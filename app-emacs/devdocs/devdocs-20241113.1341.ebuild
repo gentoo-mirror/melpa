@@ -5,18 +5,20 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="bind-key"
+REALNAME="devdocs"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A simple way to manage personal keybindings"
+DESCRIPTION="Emacs viewer for DevDocs"
 
-HOMEPAGE="https://github.com/jwiegley/use-package"
+HOMEPAGE="https://github.com/astoff/devdocs.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/compat
+	app-emacs/mathjax"
+RDEPEND="app-emacs/compat
+	app-emacs/mathjax"
