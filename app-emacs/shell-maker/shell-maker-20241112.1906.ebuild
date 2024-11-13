@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="emacsql-sqlite-builtin"
+REALNAME="shell-maker"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="This package has been merged into emacsql"
+DESCRIPTION="Interaction mode for making comint shells"
 
-HOMEPAGE="https://github.com/magit/emacsql"
+HOMEPAGE="https://github.com/xenodium/shell-maker"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

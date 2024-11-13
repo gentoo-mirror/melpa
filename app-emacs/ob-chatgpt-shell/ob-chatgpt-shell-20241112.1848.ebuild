@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="emacsql-mysql"
+REALNAME="ob-chatgpt-shell"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="This package has been merged into emacsql"
+DESCRIPTION="Org babel functions for ChatGPT evaluation"
 
-HOMEPAGE="https://github.com/magit/emacsql"
+HOMEPAGE="https://github.com/xenodium/ob-chatgpt-shell"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/chatgpt-shell"
+RDEPEND="app-emacs/chatgpt-shell"
