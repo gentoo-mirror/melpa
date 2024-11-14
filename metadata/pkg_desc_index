@@ -332,7 +332,7 @@ app-emacs/bibliothek 20190124.1828: Managing a digital library of PDFs
 app-emacs/bibretrieve 20191124.1855: Retrieve BibTeX entries from the internet
 app-emacs/bibslurp 20151202.2346: Retrieve BibTeX entries from NASA ADS
 app-emacs/bibtex-capf 20240122.1558: Completion at point for bibtex
-app-emacs/bibtex-completion 20240220.1216: A BibTeX backend for completion frameworks
+app-emacs/bibtex-completion 20241114.748: A BibTeX backend for completion frameworks
 app-emacs/bibtex-utils 20190703.2117: Provides utilities for extending BibTeX mode
 app-emacs/bicycle 20240831.2208: Cycle outline and code visibility
 app-emacs/bifocal 20200325.539: Split-screen scrolling for comint-mode buffers
@@ -526,7 +526,7 @@ app-emacs/chaos-mode 20221227.223: A major mode for the Chaos programming langua
 app-emacs/chapel-mode 20210513.457: A major mode for the Chapel programming language
 app-emacs/char-menu 20210321.1657: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 20200616.1418: Unicode table for Emacs
-app-emacs/chatgpt-shell 20241112.1907: ChatGPT shell + buffer insert commands
+app-emacs/chatgpt-shell 20241113.2229: ChatGPT shell + buffer insert commands
 app-emacs/chatu 20240518.615: Convert and insert any images to org-mode or markdown buffer
 app-emacs/chatwork 20240910.1531: ChatWork client for Emacs
 app-emacs/cheat-sh 20210607.1307: Interact with cheat.sh
@@ -777,10 +777,10 @@ app-emacs/consult-codesearch 20230315.1424: Consult interface for codesearch
 app-emacs/consult-company 20230606.1824: Consult frontend for company
 app-emacs/consult-compile-multi 20240923.1814: Consulting read support for `compile-multi'
 app-emacs/consult-dash 20230529.1419: Consult front-end for dash-docs
-app-emacs/consult-dir 20240506.236: Insert paths into the minibuffer prompt
+app-emacs/consult-dir 20241114.454: Insert paths into the minibuffer prompt
 app-emacs/consult-eglot 20241107.2125: A consulting-read interface for eglot
 app-emacs/consult-eglot-embark 20241107.2125: Embark integration for `consult-eglot'
-app-emacs/consult-flycheck 20240926.917: Provides the command `consult-flycheck'
+app-emacs/consult-flycheck 20241114.1120: Provides the command `consult-flycheck'
 app-emacs/consult-flyspell 20230322.204: Consult integration for flyspell
 app-emacs/consult-gh 20241001.23: Consulting GitHub Client
 app-emacs/consult-gh-embark 20240929.803: Embark Actions for consult-gh
@@ -924,7 +924,7 @@ app-emacs/dakrone-theme 20170801.1933: Dakrone's custom dark theme
 app-emacs/dall-e-shell 20241112.1928: Interaction mode for DALL-E
 app-emacs/daml-lsp 20231101.1818: LSP client definition for daml
 app-emacs/daml-mode 20231106.916: Major mode for daml
-app-emacs/danneskjold-theme 20240723.1000: Beautiful high-contrast Emacs theme
+app-emacs/danneskjold-theme 20241114.749: Beautiful high-contrast Emacs theme
 app-emacs/dante 20230808.658: Development mode for Haskell
 app-emacs/dap-mode 20241101.659: Debug Adapter Protocol mode
 app-emacs/darcsum 20190316.2215: A pcl-cvs like interface for managing darcs patches
@@ -1202,7 +1202,7 @@ app-emacs/e2wm-term 20240107.850: Perspective of e2wm.el for work in terminal
 app-emacs/eacl 20220526.1434: Auto-complete lines by grepping project
 app-emacs/earl 20241020.1847: Erlang distribution protocol implementation
 app-emacs/earthfile-mode 20230809.2250: Major mode for editing Earthly file
-app-emacs/eask 20241102.912: Core Eask APIs, for Eask CLI development
+app-emacs/eask 20241114.423: Core Eask APIs, for Eask CLI development
 app-emacs/eask-mode 20240101.819: Major mode for editing Eask files
 app-emacs/easky 20240608.744: Control the Eask command-line interface
 app-emacs/easy-after-load 20170817.1231: Eval-after-load for all files in a directory
@@ -2604,7 +2604,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around
-app-emacs/hyperbole 20241112.1433: GNU Hyperbole: The Everyday Hypertextual Information Manager
+app-emacs/hyperbole 20241114.529: GNU Hyperbole: The Everyday Hypertextual Information Manager
 app-emacs/hyperdrive 20241101.2353: P2P filesystem
 app-emacs/hyperdrive-org-transclusion 20241028.427: Tranclude hyperdrive content
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
@@ -3894,7 +3894,7 @@ app-emacs/org-multi-wiki 20210324.1820: Multiple wikis based on Org mode
 app-emacs/org-multiple-keymap 20191017.1920: Set keymap to elements, such as timestamp and priority
 app-emacs/org-newtab 20240227.155: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 20240603.859: Org local nix-shell
-app-emacs/org-node 20241103.2000: Link org-id entries into a network
+app-emacs/org-node 20241114.1152: Link org-id entries into a network
 app-emacs/org-node-fakeroam 20241103.2000: Stand-ins for org-roam-autosync-mode
 app-emacs/org-notebook 20170322.452: Ease the use of org-mode as a notebook
 app-emacs/org-noter 20240918.1703: A synchronized, Org-mode, document annotator
@@ -4427,7 +4427,7 @@ app-emacs/pungi 20150222.1246: Integrates jedi with virtualenv and buildout pyth
 app-emacs/puni 20241007.1609: Parentheses Universalistic
 app-emacs/punpun-themes 20240929.2238: A set of bleak themes
 app-emacs/puppet-mode 20210305.645: Major mode for Puppet manifests
-app-emacs/puppet-ts-mode 20241112.1430: Major mode for Puppet using Tree-sitter
+app-emacs/puppet-ts-mode 20241114.641: Major mode for Puppet using Tree-sitter
 app-emacs/purescript-mode 20240930.737: A PureScript editing mode
 app-emacs/purp-theme 20210912.1940: A dark color theme with few colors
 app-emacs/purple-haze-theme 20141015.229: An overtly purple color theme for Emacs24
@@ -5348,7 +5348,7 @@ app-emacs/tree-sitter-ispell 20240610.2252: Run ispell on tree-sitter text nodes
 app-emacs/tree-sitter-langs 20241110.1307: Grammar bundle for tree-sitter
 app-emacs/treebundel 20240531.2321: Bundle related git-worktrees together
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
-app-emacs/treemacs 20241028.2122: A tree style file explorer package
+app-emacs/treemacs 20241113.2139: A tree style file explorer package
 app-emacs/treemacs-all-the-icons 20240131.2042: All-the-icons integration for treemacs
 app-emacs/treemacs-evil 20240131.2042: Evil mode integration for treemacs
 app-emacs/treemacs-icons-dired 20241017.2046: Treemacs icons for dired
@@ -5433,7 +5433,7 @@ app-emacs/unicode-whitespace 20140508.2041: Teach whitespace-mode about fancy ch
 app-emacs/unidecode 20201213.1449: Transliterate Unicode to ASCII
 app-emacs/unifdef 20200517.514: Delete code guarded by processor directives
 app-emacs/unify-opening 20230903.844: Unify the mechanism to open files
-app-emacs/uniline 20241109.1405: Draw UNICODE lines, boxes, arrows onto existing text
+app-emacs/uniline 20241114.1213: Draw UNICODE lines, boxes, arrows onto existing text
 app-emacs/unipoint 20140113.2224: A simple way to insert unicode characters by TeX name
 app-emacs/unison 20160704.740: Sync with Unison
 app-emacs/unison-mode 20160513.1501: Syntax highlighting for unison file synchronization program
