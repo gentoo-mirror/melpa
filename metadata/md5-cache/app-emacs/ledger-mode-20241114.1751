@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/eglot app-emacs/tempel app-emacs/peg
-DESCRIPTION=Use tempel to expand snippets from eglot
+DESCRIPTION=Helper code for use with the "ledger" command-line tool
 EAPI=8
-HOMEPAGE=https://github.com/fejfighter/eglot-tempel
+HOMEPAGE=https://github.com/ledger/ledger-mode
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/eglot app-emacs/tempel app-emacs/peg >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/eglot-tempel-20241012.1053.tar
+SRC_URI=https://melpa.org/packages/ledger-mode-20241114.1751.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=c4c6d6077e054886acd8ff8ffd7f74f7
+_md5_=b6acdca7d5764dcebfdf07c1021b63a1
