@@ -1136,7 +1136,7 @@ app-emacs/dokuwiki 20180102.59: Edit Remote DokuWiki Pages Using XML-RPC
 app-emacs/dokuwiki-mode 20170223.1301: Major mode for DokuWiki document
 app-emacs/dollaro 20151123.1302: Simple text templates
 app-emacs/doom 20180301.2308: DOM implementation and manipulation library
-app-emacs/doom-modeline 20241102.1416: A minimal and modern mode-line
+app-emacs/doom-modeline 20241117.1101: A minimal and modern mode-line
 app-emacs/doom-modeline-now-playing 20240522.1704: Segment for Doom Modeline to show playerctl information
 app-emacs/doom-themes 20240909.2117: An opinionated pack of modern color-themes
 app-emacs/dot-env 20230820.2014: Dotenv functionality
@@ -1881,7 +1881,7 @@ app-emacs/flymake-bashate 20240918.1343: A Flymake backend for bashate, a Bash s
 app-emacs/flymake-biome 20241007.1626: A flymake plugin for Javascript files using biome
 app-emacs/flymake-clippy 20231102.1616: Flymake backend for Clippy
 app-emacs/flymake-coffee 20170723.146: A flymake handler for coffee script
-app-emacs/flymake-collection 20240903.1828: Collection of checkers for flymake, bringing flymake to the level of flycheck
+app-emacs/flymake-collection 20241117.1157: Collection of checkers for flymake, bringing flymake to the level of flycheck
 app-emacs/flymake-cspell 20240304.1349: A Flymake backend for CSpell
 app-emacs/flymake-css 20170723.146: Flymake support for css using csslint
 app-emacs/flymake-cursor 20220506.1458: Show flymake messages in the minibuffer after delay
@@ -3276,7 +3276,7 @@ app-emacs/mark-thing-at 20241022.2232: Mark a pattern at the current point
 app-emacs/mark-tools 20130614.1025: Some simple tools to access the mark-ring in Emacs
 app-emacs/mark-yank 20231105.2027: Set region to the last yank
 app-emacs/markdown-changelog 20230805.1720: Maintain changelog entries
-app-emacs/markdown-mode 20241107.349: Major mode for Markdown-formatted text
+app-emacs/markdown-mode 20241117.307: Major mode for Markdown-formatted text
 app-emacs/markdown-preview-eww 20160111.1502: Realtime preview by eww
 app-emacs/markdown-preview-mode 20230707.803: Markdown realtime preview minor mode
 app-emacs/markdown-soma 20240215.228: Live preview for Markdown
@@ -3323,7 +3323,7 @@ app-emacs/memento-mori 20240702.2332: Reminder of our mortality
 app-emacs/memoize 20200103.2036: Memoization functions
 app-emacs/memolist 20150804.1721: Memolist.el is Emacs port of memolist.vim
 app-emacs/mentor 20230103.1146: Frontend for the rTorrent bittorrent client
-app-emacs/meow 20241109.2346: Yet Another modal editing
+app-emacs/meow 20241117.201: Yet Another modal editing
 app-emacs/meow-tree-sitter 20240701.1422: Tree-sitter powered motions for Meow
 app-emacs/merlin 20240925.900: Mode for Merlin, an assistant for OCaml
 app-emacs/merlin-ac 20221123.1408: Merlin and auto-complete integration
@@ -3409,7 +3409,7 @@ app-emacs/modern-fringes 20220401.202: Replaces default fringe bitmaps with bett
 app-emacs/modern-sh 20211101.1001: Minor mode for editing shell script
 app-emacs/modtime-skip-mode 20140128.2201: Minor mode for disabling modtime and supersession checks on files
 app-emacs/modular-config 20210726.1614: Organize your config into small and loadable modules
-app-emacs/modus-themes 20241107.816: Elegant, highly legible and customizable themes
+app-emacs/modus-themes 20241117.743: Elegant, highly legible and customizable themes
 app-emacs/moe-theme 20240716.854: A colorful eye-candy theme. Moe, moe, kyun!
 app-emacs/molar-mass 20220922.1752: Calculates molar mass of a molecule
 app-emacs/molecule 20180527.743: Simple wrapper for molecule
@@ -5010,7 +5010,7 @@ app-emacs/spark 20230406.2307: Sparkline generation
 app-emacs/sparkline 20150101.1319: Make sparkline images from a list of numbers
 app-emacs/sparql-mode 20230104.1113: Edit and interactively evaluate SPARQL queries
 app-emacs/spatial-navigate 20240421.908: Directional navigation between white-space blocks
-app-emacs/spdx 20241116.121: Insert SPDX license and copyright headers
+app-emacs/spdx 20241117.126: Insert SPDX license and copyright headers
 app-emacs/speech-tagger 20170728.1829: Tag parts of speech using coreNLP
 app-emacs/speechd-el 20240513.1716: Client to speech synthesizers and Braille displays
 app-emacs/speed-type 20230926.838: Practice touch and speed typing
@@ -5182,7 +5182,7 @@ app-emacs/talonscript-mode 20231015.2358: Major mode for Talon Voice's .talon fi
 app-emacs/tango-2-theme 20120312.2025: Tango 2 color theme for GNU Emacs 24
 app-emacs/tango-plus-theme 20240703.1443: A color theme based on the tango palette
 app-emacs/tangonov-theme 20230425.1456: A 256 color dark theme featuring bright pastels
-app-emacs/tangotango-theme 20220714.2034: Tango Palette color theme for Emacs 24
+app-emacs/tangotango-theme 20241117.1143: Tango Palette color theme for Emacs 24
 app-emacs/tao-theme 20240615.517: This package provides two parametrized uncoloured color themes for Emacs: tao-yin and tao-yang
 app-emacs/tardis-theme 20230212.2152: Quantum Country Theme
 app-emacs/taskpaper-mode 20241007.837: Major mode for working with TaskPaper files
@@ -5434,7 +5434,7 @@ app-emacs/unicode-whitespace 20140508.2041: Teach whitespace-mode about fancy ch
 app-emacs/unidecode 20201213.1449: Transliterate Unicode to ASCII
 app-emacs/unifdef 20200517.514: Delete code guarded by processor directives
 app-emacs/unify-opening 20230903.844: Unify the mechanism to open files
-app-emacs/uniline 20241116.1049: Draw UNICODE lines, boxes, arrows onto existing text
+app-emacs/uniline 20241116.1149: Draw UNICODE lines, boxes, arrows onto existing text
 app-emacs/unipoint 20140113.2224: A simple way to insert unicode characters by TeX name
 app-emacs/unison 20160704.740: Sync with Unison
 app-emacs/unison-mode 20160513.1501: Syntax highlighting for unison file synchronization program
