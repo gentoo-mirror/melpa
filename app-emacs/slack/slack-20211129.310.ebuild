@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Slack client for Emacs"
 
-HOMEPAGE="https://github.com/yuya373/emacs-slack"
+HOMEPAGE="https://github.com/emacs-slack/emacs-slack"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
