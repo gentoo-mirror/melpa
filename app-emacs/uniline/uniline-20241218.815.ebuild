@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Draw plain text UNICODE diagrams within existing text"
+DESCRIPTION="Draw text diagrams using UNICODE characters"
 
 HOMEPAGE="https://github.com/tbanel/uniline"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
