@@ -5,20 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="denote-explore"
+REALNAME="uniline"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Explore Denote files"
+DESCRIPTION="Add UNICODE based diagrams to text files"
 
-HOMEPAGE="https://github.com/pprevos/denote-explore"
+HOMEPAGE="https://github.com/tbanel/uniline"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/denote
-	app-emacs/dash"
-RDEPEND="app-emacs/denote
-	app-emacs/dash"
+DEPEND="app-emacs/hydra"
+RDEPEND="app-emacs/hydra"
