@@ -3,11 +3,11 @@ DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpa
 DEPEND=app-emacs/s app-emacs/f app-emacs/lf app-emacs/dash app-emacs/eros app-emacs/bind-key app-emacs/f app-emacs/devdocs app-emacs/pulsar app-emacs/peg app-emacs/json-navigator
 DESCRIPTION=Send arbitrary code to a REPL in the background
 EAPI=8
-HOMEPAGE=https://github.com/alhassy/repl-driven-development
+HOMEPAGE=http://alhassy.com/repl-driven-development
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=app-emacs/s app-emacs/f app-emacs/lf app-emacs/dash app-emacs/eros app-emacs/bind-key app-emacs/f app-emacs/devdocs app-emacs/pulsar app-emacs/peg app-emacs/json-navigator >=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/repl-driven-development-20241110.1611.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=41ab75f5de8278a89dca0fb331b39661
+_md5_=f06ed72ffc18df62244733b81b0d5f87

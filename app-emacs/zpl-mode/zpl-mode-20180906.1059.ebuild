@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="ZIMPL major mode"
 
-HOMEPAGE="https://github.com/ax487/zpl-mode"
+HOMEPAGE="https://github.com/ax487/zpl-mode.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A port of vim's inkpot theme"
 
-HOMEPAGE="https://codeberg.org/ideasman42/emacs-theme-inkpot"
+HOMEPAGE="https://codeberg.org/ideasman42/emacs-inkpot-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

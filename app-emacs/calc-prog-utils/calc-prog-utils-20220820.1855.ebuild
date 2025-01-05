@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Calc programmers utilities"
 
-HOMEPAGE="https://github.com/Jesse-Millwood/calc-prog-utils"
+HOMEPAGE="https://github.com/Jesse-Millwood/calc-prog"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

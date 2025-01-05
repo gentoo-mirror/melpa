@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode for running Node.js tests using jest"
 
-HOMEPAGE="https://github.com/rymndhng/jest-test-mode"
+HOMEPAGE="https://github.com/rymndhng/jest-test-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

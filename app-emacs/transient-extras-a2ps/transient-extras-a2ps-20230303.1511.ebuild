@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A transient interface to a2ps"
 
-HOMEPAGE="https://github.com/haji-ali/transient-extras"
+HOMEPAGE="https://git.sr.ht/~swflint/transient-extras-a2ps"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Instant coding answers via Emacs"
 
-HOMEPAGE="https://github.com/atykhonov/emacs-howdoi"
+HOMEPAGE="https://github.com/atykhonov/emacs-howdoi/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

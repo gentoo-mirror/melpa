@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Add org auto export with pandoc"
 
-HOMEPAGE="https://github.com/Y0ngg4n/org-auto-export-pandoc"
+HOMEPAGE="https://github.com/Y0ngg4n/org-auto-export-pandoc.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

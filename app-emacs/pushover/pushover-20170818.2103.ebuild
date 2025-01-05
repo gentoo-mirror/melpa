@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Pushover API Access"
 
-HOMEPAGE="https://git.flintfam.org/swf-projects/emacs-pushover.git"
+HOMEPAGE="http://github.com/swflint/pushover.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

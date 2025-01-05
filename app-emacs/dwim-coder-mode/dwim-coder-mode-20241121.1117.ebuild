@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="DWIM keybindings for C, Python, Rust, and more"
 
-HOMEPAGE="https://gitlab.com/sadiq/dwim-coder-mode"
+HOMEPAGE="https://sadiqpk.org/projects/dwim-coder-mode.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

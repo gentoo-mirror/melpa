@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Save kill ring to disk"
 
-HOMEPAGE="https://github.com/rubikitch/savekill"
+HOMEPAGE="http://www.emacswiki.org/cgi-bin/wiki/download/savekill.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

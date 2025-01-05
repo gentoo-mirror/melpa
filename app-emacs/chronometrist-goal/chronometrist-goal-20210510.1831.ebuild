@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Adds support for time goals to Chronometrist"
 
-HOMEPAGE="https://codeberg.org/contrapunctus/chronometrist-goal"
+HOMEPAGE="https://tildegit.org/contrapunctus/chronometrist-goal"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

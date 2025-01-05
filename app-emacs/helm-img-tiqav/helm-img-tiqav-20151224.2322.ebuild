@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An helm-source for joking"
 
-HOMEPAGE="https://github.com/mtmtcode/helm-img-tiqav"
+HOMEPAGE="https://github.com/l3msh0/helm-img"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

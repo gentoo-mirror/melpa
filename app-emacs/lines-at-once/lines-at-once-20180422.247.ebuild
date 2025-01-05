@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Insert and edit multiple lines at once"
 
-HOMEPAGE="https://github.com/jiahaoli95/lines-at-once.el"
+HOMEPAGE="https://github.com/jiahaowork/lines-at-once.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

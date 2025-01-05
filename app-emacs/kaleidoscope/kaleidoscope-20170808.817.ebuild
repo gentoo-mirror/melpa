@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Controlling Kaleidoscope-powered devices"
 
-HOMEPAGE="https://git.madhouse-project.org/algernon/kaleidoscope.el"
+HOMEPAGE="https://github.com/algernon/kaleidoscope.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

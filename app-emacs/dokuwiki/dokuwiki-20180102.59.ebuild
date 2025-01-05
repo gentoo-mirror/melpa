@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Edit Remote DokuWiki Pages Using XML-RPC"
 
-HOMEPAGE="https://github.com/accidentalrebel/emacs-dokuwiki"
+HOMEPAGE="http://www.github.com/accidentalrebel/emacs-dokuwiki"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

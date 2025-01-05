@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Auto complete angular15 data for \`ac-html' and \`company-web'"
 
-HOMEPAGE="https://github.com/osv/ac-html-angular"
+HOMEPAGE="https://github.com/osv/ac-html-bootstrap"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

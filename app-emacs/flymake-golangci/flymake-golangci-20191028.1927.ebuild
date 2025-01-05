@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A flymake handler for go-mode files using Golang CI lint"
 
-HOMEPAGE="https://github.com/emacsattic/flymake-golangci"
+HOMEPAGE="https://gitlab.com/shackra/flymake-golangci"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

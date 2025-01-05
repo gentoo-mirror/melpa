@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Basic syntax highlighting for LAMMPS files"
 
-HOMEPAGE="https://github.com/HaoZeke/lammps-mode"
+HOMEPAGE="https://github.com/lammps/lammps/tree/master/tools/emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

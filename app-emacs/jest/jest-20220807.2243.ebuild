@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helpers to run jest"
 
-HOMEPAGE="https://github.com/edmundmiller/emacs-jest"
+HOMEPAGE="https://github.com/emiller88/emacs-jest/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

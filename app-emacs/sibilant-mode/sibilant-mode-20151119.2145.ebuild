@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Support for the Sibilant programming language"
 
-HOMEPAGE="https://github.com/jbr/sibilant-mode"
+HOMEPAGE="http://sibilantjs.info"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

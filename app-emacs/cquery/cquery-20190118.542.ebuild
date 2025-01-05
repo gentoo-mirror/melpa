@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Cquery client for lsp-mode"
 
-HOMEPAGE="https://github.com/cquery-project/emacs-cquery"
+HOMEPAGE="https://github.com/jacobdufault/cquery"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

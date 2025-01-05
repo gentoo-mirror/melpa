@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Rsync projects to remote machines"
 
-HOMEPAGE="https://github.com/r-zip/rsync-mode"
+HOMEPAGE="https://github.com/r-zip/rsync-mode.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -2,11 +2,11 @@ BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DESCRIPTION=A major mode for editing dna sequences
 EAPI=8
-HOMEPAGE=https://github.com/jhgorrell/dna-mode-el
+HOMEPAGE=http://www.mahalito.net/~harley/elisp/dna-mode.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/dna-mode-20191001.2108.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=f4867433969ecccbc7aaf9909f740601
+_md5_=751e58defdb9c591d06e6123b25d024b

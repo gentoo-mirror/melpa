@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="OAuth 1.0 client library"
 
-HOMEPAGE="https://gitlab.com/fvdbeek/emacs-oauth"
+HOMEPAGE="https://github.com/fvdbeek/emacs-oauth"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

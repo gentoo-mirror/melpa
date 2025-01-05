@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="IP subnet calculator"
 
-HOMEPAGE="https://github.com/dotemacs/ipcalc.el"
+HOMEPAGE="http://github.com/dotemacs/ipcalc.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

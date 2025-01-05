@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Control Integrative Genomic Viewer within Emacs"
 
-HOMEPAGE="https://bitbucket.org/sbarbit/eigv"
+HOMEPAGE="https://melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

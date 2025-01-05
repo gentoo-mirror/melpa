@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A company-mode backend for TabNine"
 
-HOMEPAGE="https://github.com/TommyX12/company-tabnine"
+HOMEPAGE="https://github.com/TommyX12/company-tabnine/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

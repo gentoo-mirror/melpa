@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for viewing ERC logs"
 
-HOMEPAGE="https://github.com/Niluge-KiWi/erc-view-log"
+HOMEPAGE="http://github.com/Niluge-KiWi/erc-view-log/raw/master/erc-view-log.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

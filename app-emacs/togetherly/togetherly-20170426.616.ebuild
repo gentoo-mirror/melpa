@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Allow multiple clients to edit a single buffer online"
 
-HOMEPAGE="https://github.com/zk-phi/togetherly"
+HOMEPAGE="http://hins11.yu-yake.com/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Punish yourself for using Emacs inefficiently"
 
-HOMEPAGE="https://depp.brause.cc/jammer.git"
+HOMEPAGE="https://depp.brause.cc/jammer"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

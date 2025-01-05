@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Clojure Java decompiler expansion"
 
-HOMEPAGE="https://github.com/bsless/clj-decompiler.el"
+HOMEPAGE="https://www.github.com/bsless/clj-decompiler.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

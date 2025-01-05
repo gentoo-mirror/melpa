@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org-babel functions for go evaluation"
 
-HOMEPAGE="https://github.com/pope/ob-go"
+HOMEPAGE="http://orgmode.org"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

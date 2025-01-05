@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Provides an interface for turning line-numbering off"
 
-HOMEPAGE="https://github.com/mattfidler/linum-off"
+HOMEPAGE="http://www.emacswiki.org/emacs/auto-indent-mode.el "
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Play GO, translate and transfer between GO back ends"
 
-HOMEPAGE="https://github.com/eschulte/el-go"
+HOMEPAGE="http://eschulte.github.io/el-go/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

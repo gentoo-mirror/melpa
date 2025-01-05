@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An emacs configuration system"
 
-HOMEPAGE="https://github.com/czipperz/kfg"
+HOMEPAGE="https://github.com/abingham/kfg"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

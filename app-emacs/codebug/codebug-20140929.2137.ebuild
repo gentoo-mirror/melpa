@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interact with codebug"
 
-HOMEPAGE="https://github.com/shano/emacs-codebug"
+HOMEPAGE="http://www.shanedowling.com/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Launch build process for rst documents via sphinx"
 
-HOMEPAGE="https://gitlab.com/kostafey/sphinx-frontend"
+HOMEPAGE="https://github.com/kostafey/sphinx-frontend"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Keep track of modification times for org-roam"
 
-HOMEPAGE="https://github.com/tefkah/org-roam-timestamps"
+HOMEPAGE="https://github.com/ThomasFKJorna/org-roam-timestamps/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

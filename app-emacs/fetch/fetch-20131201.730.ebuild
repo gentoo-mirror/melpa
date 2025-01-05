@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fetch and unpack resources"
 
-HOMEPAGE="https://github.com/cbrst/fetch.el"
+HOMEPAGE="https://github.com/crshd/fetch.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

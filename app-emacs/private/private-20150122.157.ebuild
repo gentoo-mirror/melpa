@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Take care of your private configuration files"
 
-HOMEPAGE="https://github.com/victorteokw/private"
+HOMEPAGE="https://github.com/cheunghy/private"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

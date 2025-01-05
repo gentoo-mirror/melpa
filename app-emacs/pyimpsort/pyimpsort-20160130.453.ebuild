@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Sort python imports"
 
-HOMEPAGE="https://github.com/emacsorphanage/pyimpsort"
+HOMEPAGE="https://github.com/emacs-pe/pyimpsort.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A hackernews reader"
 
-HOMEPAGE="https://github.com/thanhvg/emacs-hnreader"
+HOMEPAGE="https://github.com/thanhvg/emacs-hnreader/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

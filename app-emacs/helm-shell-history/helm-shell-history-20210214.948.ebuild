@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Find shell history from helm"
 
-HOMEPAGE="https://github.com/anoopemacs/helm-shell-history"
+HOMEPAGE="https://github.com/yuutayamada/helm-shell-history"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

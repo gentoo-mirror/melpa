@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Blue/yellow theme based on old DOS Borland/Turbo C IDE"
 
-HOMEPAGE="https://codeberg.org/fourier/borland-blue-theme"
+HOMEPAGE="http://github.com/fourier/borland-blue-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode to keep track of previous prompt in your shell"
 
-HOMEPAGE="https://github.com/andrewdea/sticky-shell"
+HOMEPAGE="https://github.com/andyjda/sticky-shell"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

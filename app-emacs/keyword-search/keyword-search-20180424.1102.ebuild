@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Browser keyword search from Emacs"
 
-HOMEPAGE="https://github.com/keyword-search/keyword-search"
+HOMEPAGE="https://github.com/juhp/keyword-search"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

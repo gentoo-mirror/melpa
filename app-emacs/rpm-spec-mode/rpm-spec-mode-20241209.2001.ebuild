@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="RPM spec mode for Emacs/XEmacs"
 
-HOMEPAGE="https://github.com/Thaodan/rpm-spec-mode"
+HOMEPAGE="https://github.com/Thaodan/rpm-spec-mode/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

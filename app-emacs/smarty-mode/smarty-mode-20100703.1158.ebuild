@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing smarty templates"
 
-HOMEPAGE="https://github.com/emacsorphanage/smarty-mode"
+HOMEPAGE="none yet"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

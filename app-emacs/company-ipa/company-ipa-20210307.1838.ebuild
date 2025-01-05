@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="IPA backend for company"
 
-HOMEPAGE="https://gitlab.com/mguzmann89/company-ipa"
+HOMEPAGE="https://github.com/mguzmann/company-ipa"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Support named readtables in Common Lisp files"
 
-HOMEPAGE="https://github.com/joaotavora/sly-named-readtables"
+HOMEPAGE="https://github.com/capitaomorte/sly-named-readtables"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

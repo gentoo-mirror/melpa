@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for Markless documents"
 
-HOMEPAGE="https://github.com/Shirakumo/markless.el"
+HOMEPAGE="http://github.com/shirakumo/markless.el/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

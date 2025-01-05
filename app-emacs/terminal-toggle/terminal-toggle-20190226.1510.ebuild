@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Simple pop-up terminal"
 
-HOMEPAGE="https://gitlab.com/mtekman/terminal-toggle.el"
+HOMEPAGE="https://github.com/mtekman/terminal-toggle.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

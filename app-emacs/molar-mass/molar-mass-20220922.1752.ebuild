@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Calculates molar mass of a molecule"
 
-HOMEPAGE="https://github.com/sergiruiztrepat/molar-mass"
+HOMEPAGE="https://github.com/sergiruiztrepat/molar-mass.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

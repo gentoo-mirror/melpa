@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show last status in fringe"
 
-HOMEPAGE="https://github.com/ryuslash/eshell-fringe-status"
+HOMEPAGE="http://projects.ryuslash.org/eshell-fringe-status/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

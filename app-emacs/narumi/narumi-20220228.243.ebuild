@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A dashboard that displays a ramdom sampled image"
 
-HOMEPAGE="https://github.com/ryotaro612/narumi"
+HOMEPAGE="https://github.com/nryotaro/narumi"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

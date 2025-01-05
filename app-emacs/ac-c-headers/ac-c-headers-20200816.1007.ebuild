@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Auto-complete source for C headers"
 
-HOMEPAGE="https://github.com/zk-phi/ac-c-headers"
+HOMEPAGE="http://zk-phi.gitub.io/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A dark, pastel color theme"
 
-HOMEPAGE="https://github.com/muirdm/emacs-nova-theme"
+HOMEPAGE="https://github.com/muirmanders/emacs-nova-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

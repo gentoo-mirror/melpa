@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Precision Lisp editing with Evil and Lispy"
 
-HOMEPAGE="https://github.com/mikavilpas/evil-lispy"
+HOMEPAGE="https://github.com/sp3ctum/evil-lispy"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

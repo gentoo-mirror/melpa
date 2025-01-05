@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Change priority of minor-mode keymaps"
 
-HOMEPAGE="https://github.com/rubikitch/minor-mode-hack"
+HOMEPAGE="http://www.emacswiki.org/cgi-bin/wiki/download/minor-mode-hack.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

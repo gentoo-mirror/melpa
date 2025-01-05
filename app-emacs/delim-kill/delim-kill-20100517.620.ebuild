@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Kill text between delimiters"
 
-HOMEPAGE="https://github.com/thomas11/delim-kill"
+HOMEPAGE="http://github.com/thomas11/delim-kill/tree/master"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

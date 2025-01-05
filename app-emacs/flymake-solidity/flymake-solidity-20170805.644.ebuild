@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A flymake handler for solidity using solc"
 
-HOMEPAGE="https://github.com/kootenpv/flymake-solidity"
+HOMEPAGE="https://github.com/kootenvp/flymake-solidity"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

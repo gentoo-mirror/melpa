@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing HAL files"
 
-HOMEPAGE="https://github.com/machinekoder/hal-mode"
+HOMEPAGE="https://github.com/strahlex/hal-mode/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Visualize a list"
 
-HOMEPAGE="https://github.com/zainab-ali/pair-tree.el"
+HOMEPAGE="https://github.com/zainab-ali/pair-tree"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

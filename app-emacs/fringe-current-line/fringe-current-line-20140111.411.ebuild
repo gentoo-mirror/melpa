@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show current line on the fringe"
 
-HOMEPAGE="https://github.com/kyanagi/fringe-current-line"
+HOMEPAGE="http://github.com/kyanagi/fringe-current-line/raw/master/fringe-current-line.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

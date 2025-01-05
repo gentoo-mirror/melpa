@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Indent, navigate (and more) by blocks of indentation: yaml, python etc"
 
-HOMEPAGE="https://gitlab.com/emacs-stuff/indent-tools"
+HOMEPAGE="https://gitlab.com/emacs-stuff/indent-tools/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

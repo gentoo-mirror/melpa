@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Hemisu for Emacs"
 
-HOMEPAGE="https://github.com/andrzejsliwa/hemisu-theme"
+HOMEPAGE="http://github/anrzejsliwa/django-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

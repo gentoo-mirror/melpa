@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Review and correct assignments received by mail"
 
-HOMEPAGE="https://gitlab.com/akoehn/abgaben"
+HOMEPAGE="http://arne.chark.eu/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

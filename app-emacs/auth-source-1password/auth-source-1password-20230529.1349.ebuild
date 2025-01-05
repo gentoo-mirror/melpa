@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="1password integration for auth-source"
 
-HOMEPAGE="https://github.com/dlobraico/auth-source-1password"
+HOMEPAGE="https://github.com/dlobraico"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

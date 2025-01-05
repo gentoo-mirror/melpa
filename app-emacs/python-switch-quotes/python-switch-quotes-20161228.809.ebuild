@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Cycle between ' and \" quotes in python strings"
 
-HOMEPAGE="https://github.com/vladimirlagunov/python-switch-quotes"
+HOMEPAGE="https://github.com/werehuman/python-switch-quotes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

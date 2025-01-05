@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Company-mode auto-completion for AUCTeX"
 
-HOMEPAGE="https://github.com/alexeyr/company-auctex"
+HOMEPAGE="https://github.com/alexeyr/company-auctex/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

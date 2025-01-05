@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Use campfire from Emacs"
 
-HOMEPAGE="https://github.com/joaotavora/efire"
+HOMEPAGE="https://github.com/capitaomorte/efire"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

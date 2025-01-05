@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A Language Features library for Emacs Lisp"
 
-HOMEPAGE="https://github.com/alhassy/lf"
+HOMEPAGE="https://alhassy.github.io/lf.el/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

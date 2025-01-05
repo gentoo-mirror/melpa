@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Use file manager bookmarks (eg Dolphin, Nautilus, PCManFM) in Dired"
 
-HOMEPAGE="https://github.com/kuanyui/fm-bookmarks.el"
+HOMEPAGE="http://github.com/kuanyui/fm-bookmarks.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

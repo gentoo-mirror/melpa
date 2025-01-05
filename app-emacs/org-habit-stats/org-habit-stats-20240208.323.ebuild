@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Display info about habits"
 
-HOMEPAGE="https://github.com/ml729/org-habit-stats"
+HOMEPAGE="https://github.com/ml729/org-habit-stats/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="ASN.1/GDMO mode for GNU Emacs"
 
-HOMEPAGE="https://github.com/kawabata/asn1-mode"
+HOMEPAGE="https://github.com/kawabata/asn1-mode/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

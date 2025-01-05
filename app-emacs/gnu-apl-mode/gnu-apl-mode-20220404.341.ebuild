@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Integrate GNU APL with Emacs"
 
-HOMEPAGE="https://github.com/lokedhs/gnu-apl-mode"
+HOMEPAGE="http://www.gnu.org/software/apl/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

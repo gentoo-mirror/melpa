@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Switch to other buffers and files via popup"
 
-HOMEPAGE="https://gitlab.com/kostafey/popup-switcher"
+HOMEPAGE="https://github.com/kostafey/popup-switcher"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

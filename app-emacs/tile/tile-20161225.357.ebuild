@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Tile windows with layouts"
 
-HOMEPAGE="https://github.com/colonelpanic8/tile"
+HOMEPAGE="https://github.com/IvanMalison/tile"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A plugin using baidu-translate-api"
 
-HOMEPAGE="https://github.com/suxiaogang223/baidu-translate"
+HOMEPAGE="https://github.com/liShiZhensPi/baidu-translate"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

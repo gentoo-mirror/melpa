@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Simplified find-file, revert-file, save-buffer interface"
 
-HOMEPAGE="https://github.com/kensanata/disk"
+HOMEPAGE="http://www.emacswiki.org/emacs/DiskKey"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Flymake backend for Clippy"
 
-HOMEPAGE="https://github.com/mgmarlow/flymake-clippy"
+HOMEPAGE="https://sr.ht/~mgmarlow/flymake-clippy/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

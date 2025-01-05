@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode to interact with Django projects"
 
-HOMEPAGE="https://github.com/pythonic-emacs/djangonaut"
+HOMEPAGE="https://github.com/proofit404/djangonaut"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show a complete thread in a single buffer"
 
-HOMEPAGE="https://gitlab.com/ambrevar/mu4e-conversation"
+HOMEPAGE="https://gitlab.com/Ambrevar/mu4e-conversation"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

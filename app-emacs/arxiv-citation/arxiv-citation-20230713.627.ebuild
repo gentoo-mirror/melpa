@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Utility functions for dealing with arXiv papers"
 
-HOMEPAGE="https://gitlab.com/slotThe/arxiv-citation"
+HOMEPAGE="https://gitlab.com/slotThe/arXiv-citation"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

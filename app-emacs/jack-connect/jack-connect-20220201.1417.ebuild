@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Manage jack connections within Emacs"
 
-HOMEPAGE="https://bitbucket.org/sbarbit/jack-connect"
+HOMEPAGE="https://melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

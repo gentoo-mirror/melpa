@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing Protein Data Bank files"
 
-HOMEPAGE="https://github.com/sixpi/pdb-mode"
+HOMEPAGE="http://bondxray.org/software/pdb-mode/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

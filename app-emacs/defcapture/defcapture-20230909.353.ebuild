@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A convenience macro for the Doct DSL"
 
-HOMEPAGE="https://github.com/aaguilarss/defcapture"
+HOMEPAGE="https://github.com/aggu4/defcapture"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

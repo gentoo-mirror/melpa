@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Flycheck support for pact-mode"
 
-HOMEPAGE="https://github.com/kadena-io/flycheck-pact"
+HOMEPAGE="http://github.com/kadena-io/flycheck-pact"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

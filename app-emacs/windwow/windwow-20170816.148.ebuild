@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Simple workspace management"
 
-HOMEPAGE="https://github.com/vijumathew/windwow"
+HOMEPAGE="github.com/vijumathew/windwow"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A calm, dark, almost monochrome color theme"
 
-HOMEPAGE="https://github.com/Jannis/emacs-constant-theme"
+HOMEPAGE="https://github.com/jannis/emacs-constant-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

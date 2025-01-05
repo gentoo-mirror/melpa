@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Key-chord binding helper for use-package-chords"
 
-HOMEPAGE="https://github.com/waymondo/use-package-chords"
+HOMEPAGE="https://github.com/jwiegley/use-package"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

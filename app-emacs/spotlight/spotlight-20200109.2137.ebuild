@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Search files with Mac OS X spotlight"
 
-HOMEPAGE="https://github.com/benmaughan/spotlight.el"
+HOMEPAGE="http://www.pragmaticemacs.com"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

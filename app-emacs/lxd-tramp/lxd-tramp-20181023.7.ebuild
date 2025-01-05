@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="TRAMP integration for LXD containers"
 
-HOMEPAGE="https://github.com/onixie/lxd-tramp"
+HOMEPAGE="https://github.com/onixie/lxd-tramp.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

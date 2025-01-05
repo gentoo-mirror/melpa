@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for Angular.js"
 
-HOMEPAGE="https://github.com/emacsattic/angular-mode"
+HOMEPAGE="https://github.com/omouse/angularjs-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

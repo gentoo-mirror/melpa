@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Evaluate lurk code blocks in org mode"
 
-HOMEPAGE="https://github.com/argumentcomputer/lurk-emacs"
+HOMEPAGE="http://github.com/lurk-lang/lurk-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

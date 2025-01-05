@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Silently upgrade package in the background"
 
-HOMEPAGE="https://github.com/mola-T/SPU"
+HOMEPAGE="https://github.com/mola-T/spu"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

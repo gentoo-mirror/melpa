@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Query neo4j using cypher in org-mode blocks"
 
-HOMEPAGE="https://github.com/zweifisch/ob-cypher"
+HOMEPAGE="http://github.com/zweifisch/ob-cypher"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

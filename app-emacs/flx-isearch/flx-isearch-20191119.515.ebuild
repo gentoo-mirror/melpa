@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fuzzy incremental searching for emacs"
 
-HOMEPAGE="https://github.com/PythonNut/flx-isearch"
+HOMEPAGE="https://github.com/pythonnut/flx-isearch"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

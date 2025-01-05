@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Mode for editing APT source.list files"
 
-HOMEPAGE="https://gitlab.com/joewreschnig/apt-sources-list-mode"
+HOMEPAGE="https://git.korewanetadesu.com/apt-sources-list.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

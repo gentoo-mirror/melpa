@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Enhanced tags functionality for Java development"
 
-HOMEPAGE="https://git.code.sf.net/p/jtags/code"
+HOMEPAGE="http://jtags.sourceforge.net"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

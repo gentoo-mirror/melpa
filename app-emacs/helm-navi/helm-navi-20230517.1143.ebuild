@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helm for navi-mode"
 
-HOMEPAGE="https://github.com/emacs-helm/helm-navi"
+HOMEPAGE="http://github.com/emacs-helm/helm-navi"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

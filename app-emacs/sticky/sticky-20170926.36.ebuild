@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Sticky key for capital letters"
 
-HOMEPAGE="https://github.com/rubikitch/sticky"
+HOMEPAGE="http://www.emacswiki.org/cgi-bin/wiki/download/sticky.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

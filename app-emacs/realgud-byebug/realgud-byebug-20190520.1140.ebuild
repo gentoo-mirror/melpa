@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Realgud front-end to the Ruby byebug debugger"
 
-HOMEPAGE="https://github.com/realgud/realgud-byebug"
+HOMEPAGE="http://github.com/rocky/realgud-byebug"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

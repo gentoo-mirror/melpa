@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automatic setup of directory tracking in ssh sessions"
 
-HOMEPAGE="https://github.com/cuspymd/tramp-term.el"
+HOMEPAGE="https://github.com/randymorris/tramp-term.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

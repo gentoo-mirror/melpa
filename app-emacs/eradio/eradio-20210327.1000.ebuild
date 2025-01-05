@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A simple Internet radio player"
 
-HOMEPAGE="https://github.com/olavfosse/eradio"
+HOMEPAGE="https://github.com/fossegrim/eradio"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

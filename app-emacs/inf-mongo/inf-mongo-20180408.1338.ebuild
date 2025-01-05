@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Run a MongoDB shell process in a buffer"
 
-HOMEPAGE="https://github.com/endofunky/inf-mongo"
+HOMEPAGE="http://github.com/endofunky/inf-mongo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

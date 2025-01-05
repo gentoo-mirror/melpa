@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Detect similar colors in CSS"
 
-HOMEPAGE="https://github.com/Simplify/flycheck-css-colorguard"
+HOMEPAGE="https://github.com/Simplify/flycheck-css-colorguard/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Consult integration for git log grep"
 
-HOMEPAGE="https://github.com/ghosty141/consult-git-log-grep"
+HOMEPAGE="https://github.com/Ghosty141/consult-git-log-grep"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

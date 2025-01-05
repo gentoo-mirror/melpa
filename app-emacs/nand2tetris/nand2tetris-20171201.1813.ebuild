@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for HDL files in the nand2tetris course"
 
-HOMEPAGE="https://github.com/CestDiego/nand2tetris.el"
+HOMEPAGE="http://www.github.com/CestDiego/nand2tetris.el/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

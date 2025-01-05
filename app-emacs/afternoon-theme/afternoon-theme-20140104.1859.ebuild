@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Dark color theme with a deep blue background"
 
-HOMEPAGE="https://github.com/ozanmakes/emacs-afternoon-theme"
+HOMEPAGE="http://github.com/osener/emacs-afternoon-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

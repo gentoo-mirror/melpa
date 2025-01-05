@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing .ninja files"
 
-HOMEPAGE="https://github.com/ninja-build/ninja-emacs"
+HOMEPAGE="https://github.com/jhasse/ninja-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

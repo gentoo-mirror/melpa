@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org sync with Wunderlist"
 
-HOMEPAGE="https://github.com/emacsattic/org-wunderlist"
+HOMEPAGE="https://github.com/myuhe/org-wunderlist.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
