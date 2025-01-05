@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Integrate uv with python-mode"
 
-HOMEPAGE="https://github.com/z80dev/uv-mode"
+HOMEPAGE="https://github.com/z80/uv-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

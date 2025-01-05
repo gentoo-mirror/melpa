@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Hands-eased united editing method"
 
-HOMEPAGE="https://github.com/SpringHan/sniem"
+HOMEPAGE="https://github.com/SpringHan/sniem.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

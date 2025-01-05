@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Clone gitolite repositories from a completing list"
 
-HOMEPAGE="https://github.com/colonelpanic8/gitolite-clone"
+HOMEPAGE="https://github.com/IvanMalison/gitolite-clone"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

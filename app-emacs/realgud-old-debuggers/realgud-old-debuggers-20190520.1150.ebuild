@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Realgud front-end to older lesser-used debuggers"
 
-HOMEPAGE="https://github.com/realgud/realgud-old-debuggers"
+HOMEPAGE="http://github.com/rocky/realgud-old-debuggers"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

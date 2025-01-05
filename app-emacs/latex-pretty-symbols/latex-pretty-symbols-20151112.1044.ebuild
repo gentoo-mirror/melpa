@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Display many latex symbols as their unicode counterparts"
 
-HOMEPAGE="https://github.com/epa095/latex-pretty-symbols.el"
+HOMEPAGE="https://bitbucket.org/mortiferus/latex-pretty-symbols.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

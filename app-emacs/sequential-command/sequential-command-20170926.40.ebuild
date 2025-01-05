@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Many commands into one command"
 
-HOMEPAGE="https://github.com/rubikitch/sequential-command"
+HOMEPAGE="http://www.emacswiki.org/cgi-bin/wiki/download/sequential-command.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

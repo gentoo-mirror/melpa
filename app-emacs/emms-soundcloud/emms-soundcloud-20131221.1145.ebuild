@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="EMMS source for Soundcloud audio sharing platform"
 
-HOMEPAGE="https://github.com/ozanmakes/emms-soundcloud"
+HOMEPAGE="http://github.com/osener/emms-soundcloud"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

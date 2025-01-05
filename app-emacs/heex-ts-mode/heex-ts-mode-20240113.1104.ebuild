@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for Heex with tree-sitter support"
 
-HOMEPAGE="https://github.com/wkirschbaum/heex-ts-mode"
+HOMEPAGE="https://github.com/wkirschbaum/elixir-ts-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Easy realtime C++ syntax check and IntelliSense with CMake"
 
-HOMEPAGE="https://github.com/redguardtoo/cpputils-cmake"
+HOMEPAGE="http://github.com/redguardtoo/cpputils-cmake"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

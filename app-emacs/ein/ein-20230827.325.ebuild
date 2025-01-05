@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Jupyter notebook client"
 
-HOMEPAGE="https://github.com/millejoh/emacs-ipython-notebook"
+HOMEPAGE="https://github.com/dickmao/emacs-ipython-notebook"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

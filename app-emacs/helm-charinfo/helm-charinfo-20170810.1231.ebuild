@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A helm source for character information"
 
-HOMEPAGE="https://github.com/mandoku/helm-charinfo"
+HOMEPAGE="https://github.com/cwittern/helm-charinfo"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

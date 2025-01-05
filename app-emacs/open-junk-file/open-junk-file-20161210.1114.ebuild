@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Open a junk (memo) file to try-and-error"
 
-HOMEPAGE="https://github.com/rubikitch/open-junk-file"
+HOMEPAGE="http://www.emacswiki.org/cgi-bin/wiki/download/open-junk-file.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

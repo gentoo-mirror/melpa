@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="JS test mode"
 
-HOMEPAGE="https://github.com/victorteokw/jst-mode"
+HOMEPAGE="https://github.com/cheunghy/jst-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

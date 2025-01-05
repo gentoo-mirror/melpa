@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Highlight text that extends beyond a  column"
 
-HOMEPAGE="https://github.com/jordonbiondo/column-enforce-mode"
+HOMEPAGE="www.github.com/jordonbiondo/column-enforce-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

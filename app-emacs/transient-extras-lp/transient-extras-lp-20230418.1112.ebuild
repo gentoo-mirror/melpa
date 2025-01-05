@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A transient interface to lp"
 
-HOMEPAGE="https://github.com/haji-ali/transient-extras"
+HOMEPAGE="https://github.com/haji-ali/transient-extras.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

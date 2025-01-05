@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An Emacs editing mode mode for GATE's JAPE files"
 
-HOMEPAGE="https://github.com/tanzoniteblack/jape-mode"
+HOMEPAGE="http://github.com/tanzoniteblack/jape-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

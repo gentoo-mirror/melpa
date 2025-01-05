@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Simple and safe undo navigation"
 
-HOMEPAGE="https://github.com/jackkamm/undo-propose-el"
+HOMEPAGE="https://github.com/jackkamm/undo-propose.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

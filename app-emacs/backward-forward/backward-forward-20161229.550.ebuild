@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Navigation backwards and forwards across marks"
 
-HOMEPAGE="https://gitlab.com/vancan1ty/emacs-backward-forward"
+HOMEPAGE="https://gitlab.com/vancan1ty/emacs-backward-forward/tree/master"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

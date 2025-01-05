@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ivy interface for pass"
 
-HOMEPAGE="https://github.com/ecraven/ivy-pass"
+HOMEPAGE="https://github.com/ecraven/ivy-pass/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

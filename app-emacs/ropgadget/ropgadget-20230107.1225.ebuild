@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Display and filter ROP gadgets of a binary"
 
-HOMEPAGE="https://github.com/yvie-k/ropgadget-el"
+HOMEPAGE="https://github.com/Dragoncraft89/ropgadget-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

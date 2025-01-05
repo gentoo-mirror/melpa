@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A trip down to New Orleans.."
 
-HOMEPAGE="https://github.com/xjackk/caroline-theme"
+HOMEPAGE="https://github.com/xjackk/carolines-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

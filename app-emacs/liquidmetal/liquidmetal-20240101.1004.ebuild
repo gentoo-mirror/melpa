@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A mimetic poly-alloy of the Quicksilver scoring algorithm"
 
-HOMEPAGE="https://github.com/jcs-legacy/liquidmetal"
+HOMEPAGE="https://github.com/jcs-elpa/liquidmetal"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

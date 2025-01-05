@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Markdown-formatted READMEs for your ELisp"
 
-HOMEPAGE="https://github.com/thomas11/md-readme"
+HOMEPAGE="http://github.com/thomas11/md-readme/tree/master"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

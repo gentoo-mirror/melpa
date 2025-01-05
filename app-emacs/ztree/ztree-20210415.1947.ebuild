@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Text mode directory tree"
 
-HOMEPAGE="https://codeberg.org/fourier/ztree"
+HOMEPAGE="https://github.com/fourier/ztree"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

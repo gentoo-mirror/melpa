@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Create your own cheatsheet"
 
-HOMEPAGE="https://github.com/mykyta-shyrin/cheatsheet"
+HOMEPAGE="http://github.com/darksmile/cheatsheet/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

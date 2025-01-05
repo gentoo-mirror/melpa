@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Control aria2c commandline tool from Emacs"
 
-HOMEPAGE="https://github.com/ukaszg/aria2"
+HOMEPAGE="https://bitbucket.org/ukaszg/aria2-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

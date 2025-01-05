@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Navigate Log Error Messages"
 
-HOMEPAGE="https://github.com/ellisvelo/lognav-mode"
+HOMEPAGE="https://github.com/ellisvelo/lognav-mode.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

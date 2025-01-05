@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="One time pad encryption within file"
 
-HOMEPAGE="https://github.com/garvinguan/emacs-one-time-pad"
+HOMEPAGE="https://github.com/garvinguan/emacs-one-time-pad/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

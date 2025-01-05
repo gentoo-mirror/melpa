@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Extension for linum.el to highlight current line number"
 
-HOMEPAGE="https://github.com/tom-tan/hlinum-mode"
+HOMEPAGE="https://github.com/tom-tan/hlinum-mode/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

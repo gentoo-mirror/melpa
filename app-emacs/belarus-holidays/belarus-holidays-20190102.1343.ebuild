@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Belarus holidays whith transfers"
 
-HOMEPAGE="https://bitbucket.org/EugeneMakei/belarus-holidays.el"
+HOMEPAGE="http://bitbucket.org/EugeneMakei/belarus-holidays.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

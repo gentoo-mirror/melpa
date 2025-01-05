@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor-mode for handling Japanese words better"
 
-HOMEPAGE="https://github.com/zk-phi/jaword"
+HOMEPAGE="http://zk-phi.github.io/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

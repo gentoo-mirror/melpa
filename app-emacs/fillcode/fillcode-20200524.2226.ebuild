@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fill (wrap) function calls and expressions in source code"
 
-HOMEPAGE="https://github.com/snarfed/fillcode"
+HOMEPAGE="https://snarfed.org/fillcode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

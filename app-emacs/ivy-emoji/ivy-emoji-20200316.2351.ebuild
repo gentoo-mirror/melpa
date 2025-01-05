@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Insert emojis with ivy"
 
-HOMEPAGE="https://github.com/Sbozzolo/ivy-emoji"
+HOMEPAGE="https://github.com/sbozzolo/ivy-emoji.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

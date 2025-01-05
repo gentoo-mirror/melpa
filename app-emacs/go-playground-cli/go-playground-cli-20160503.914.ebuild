@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Go Playground client tool"
 
-HOMEPAGE="https://github.com/kosh04/emacs-go-playground"
+HOMEPAGE="https://github.com/kosh04/go-playground-cli"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

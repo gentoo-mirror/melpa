@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Search of the C/C++ file header by the source and vice versa"
 
-HOMEPAGE="https://codeberg.org/fourier/cff"
+HOMEPAGE="https://github.com/fourier/cff"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

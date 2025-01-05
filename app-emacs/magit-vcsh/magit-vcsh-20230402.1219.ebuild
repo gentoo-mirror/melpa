@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Magit vcsh integration"
 
-HOMEPAGE="https://git.smrk.net/magit-vcsh.el"
+HOMEPAGE="http://git.smrk.net/magit-vcsh.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

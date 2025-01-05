@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interact with DigitalOcean from Emacs"
 
-HOMEPAGE="https://github.com/emacsorphanage/docean"
+HOMEPAGE="https://github.com/emacs-pe/docean.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

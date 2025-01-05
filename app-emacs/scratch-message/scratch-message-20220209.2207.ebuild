@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Changing message in your scratch buffer"
 
-HOMEPAGE="https://github.com/thisirs/scratch-message"
+HOMEPAGE="https://github.com/thisirs/scratch-message.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

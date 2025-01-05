@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Leader key configuration (e.g. for god-mode)"
 
-HOMEPAGE="https://github.com/Havner/leader-key"
+HOMEPAGE="https://github.com/havner/leader-key"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

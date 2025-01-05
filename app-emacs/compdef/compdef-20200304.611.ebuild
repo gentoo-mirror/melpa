@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A local completion definer"
 
-HOMEPAGE="https://github.com/cyruseuros/compdef"
+HOMEPAGE="https://gitlab.com/jjzmajic/compdef"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

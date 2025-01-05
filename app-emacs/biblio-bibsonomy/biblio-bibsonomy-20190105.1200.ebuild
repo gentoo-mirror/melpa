@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Lookup bibliographic entries from Bibsonomy"
 
-HOMEPAGE="https://github.com/andreasjansson/biblio-bibsonomy.el"
+HOMEPAGE="http://github.com/andreasjansson/biblio-bibsonomy/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

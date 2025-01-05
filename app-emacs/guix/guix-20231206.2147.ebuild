@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interface for GNU Guix"
 
-HOMEPAGE="https://git.savannah.gnu.org/git/guix/emacs-guix.git"
+HOMEPAGE="https://emacs-guix.gitlab.io/website/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Easy window config switching"
 
-HOMEPAGE="https://depp.brause.cc/eyebrowse.git"
+HOMEPAGE="https://depp.brause.cc/eyebrowse"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Support for p5js in org-babel"
 
-HOMEPAGE="https://github.com/alejandrogallo/ob-p5js"
+HOMEPAGE="https://github.com/alejandrogallo/p5js"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

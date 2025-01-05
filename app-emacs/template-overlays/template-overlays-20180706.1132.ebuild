@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Display template regions using overlays"
 
-HOMEPAGE="https://github.com/mmontone/template-overlays"
+HOMEPAGE="http://www.github.com/mmontone/template-overlays"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

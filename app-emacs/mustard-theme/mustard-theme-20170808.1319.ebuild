@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An Emacs 24 theme based on Mustard (tmTheme)"
 
-HOMEPAGE="https://github.com/emacsfodder/emacs-mustard-theme"
+HOMEPAGE="https://github.com/emacsfodder/tmtheme-to-deftheme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

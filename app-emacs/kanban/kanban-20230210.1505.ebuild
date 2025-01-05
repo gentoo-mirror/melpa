@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Parse org-todo headlines to use org-tables as Kanban tables"
 
-HOMEPAGE="https://hg.sr.ht/~arnebab/kanban.el"
+HOMEPAGE="https://melpa.org/packages/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

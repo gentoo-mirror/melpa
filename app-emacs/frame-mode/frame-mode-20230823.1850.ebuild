@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Use frames instead of windows"
 
-HOMEPAGE="https://github.com/colonelpanic8/frame-mode"
+HOMEPAGE="https://github.com/IvanMalison/frame-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Help to define help document mode for various languages"
 
-HOMEPAGE="https://github.com/tom-tan/langdoc"
+HOMEPAGE="https://github.com/tom-tan/langdoc/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

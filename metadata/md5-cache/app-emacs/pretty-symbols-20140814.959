@@ -2,11 +2,11 @@ BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
 DESCRIPTION=Draw tokens as Unicode glyphs
 EAPI=8
-HOMEPAGE=https://github.com/drothlis/pretty-symbols
+HOMEPAGE=http://github.com/drothlis/pretty-symbols
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://melpa.org/packages/pretty-symbols-20140814.959.tar
-_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	4ee3453b022aae73f4d827a0f98920c2	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=de55d31f7ca26a576650dd73becd2a21
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
+_md5_=58ac61ddb086cace1e27c90b3d3005b4

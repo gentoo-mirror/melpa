@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Automagic emacs lisp code annotation"
 
-HOMEPAGE="https://github.com/rubikitch/lispxmp"
+HOMEPAGE="http://www.emacswiki.org/cgi-bin/wiki/download/lispxmp.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

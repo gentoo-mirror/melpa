@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A soothing dark grey theme"
 
-HOMEPAGE="https://github.com/credmp/arjen-grey-theme"
+HOMEPAGE="https://github.com/credmp/arjen-grey"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

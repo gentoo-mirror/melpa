@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Samba log viewer"
 
-HOMEPAGE="https://github.com/aaptel/smblog-mode"
+HOMEPAGE="http://github.com/aaptel/smblog-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Prettify math formula"
 
-HOMEPAGE="https://github.com/shaqtsui/prettify-math"
+HOMEPAGE="https://github.com/shaqxu/prettify-math"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

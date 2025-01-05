@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org babel functions for DALL-E evaluation"
 
-HOMEPAGE="https://github.com/xenodium/ob-dall-e-shell"
+HOMEPAGE="https://github.com/xenodium/chatgpt-shell"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

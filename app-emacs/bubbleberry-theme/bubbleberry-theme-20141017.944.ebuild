@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A theme based on LightTable for Emacs24"
 
-HOMEPAGE="https://github.com/emacsfodder/emacs-bubbleberry-theme"
+HOMEPAGE="https://github.com/jasonm23/emacs-bubbleberry-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

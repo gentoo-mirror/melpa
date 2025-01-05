@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Add D unittest support to flycheck"
 
-HOMEPAGE="https://github.com/flycheck/flycheck-d-unittest"
+HOMEPAGE="https://github.com/tom-tan/flycheck-d-unittest/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

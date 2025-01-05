@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Roll your own modal mode"
 
-HOMEPAGE="https://github.com/Kungsgeten/ryo-modal"
+HOMEPAGE="http://github.com/Kungsgeten/ryo-modal"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

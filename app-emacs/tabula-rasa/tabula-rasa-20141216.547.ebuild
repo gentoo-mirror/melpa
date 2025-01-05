@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Distraction free writing mode"
 
-HOMEPAGE="https://github.com/dppdppd/Tabula-Rasa"
+HOMEPAGE="https://github.com/idomagal/Tabula-Rasa/blob/master/tabula-rasa.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

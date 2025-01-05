@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Quick preview using GNOME sushi, gloobus or quick look"
 
-HOMEPAGE="https://github.com/emacsattic/quick-preview"
+HOMEPAGE="https://github.com/myuhe/quick-preview.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

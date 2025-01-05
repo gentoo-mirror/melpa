@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Quicklisp support for SLY"
 
-HOMEPAGE="https://github.com/joaotavora/sly-quicklisp"
+HOMEPAGE="https://github.com/capitaomorte/sly-quicklisp"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

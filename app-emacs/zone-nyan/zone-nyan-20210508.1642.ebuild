@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Zone out with nyan cat"
 
-HOMEPAGE="https://depp.brause.cc/zone-nyan.git"
+HOMEPAGE="https://depp.brause.cc/zone-nyan"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

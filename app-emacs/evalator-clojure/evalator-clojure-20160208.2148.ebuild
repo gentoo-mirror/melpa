@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Clojure evaluation context for evalator via CIDER"
 
-HOMEPAGE="https://github.com/seanirby/evalator-clojure"
+HOMEPAGE="http://www.github.com/seanirby/evalator-clojure"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

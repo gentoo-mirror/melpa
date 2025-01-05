@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Karma Test Runner Integration"
 
-HOMEPAGE="https://github.com/shiren/upbo"
+HOMEPAGE="http://github.com/shiren"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

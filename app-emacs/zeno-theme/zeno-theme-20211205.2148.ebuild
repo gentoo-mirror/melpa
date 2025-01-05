@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A dark theme using different shades of blue"
 
-HOMEPAGE="https://github.com/sacredyak/zeno-theme"
+HOMEPAGE="https://github.com/jbharat/zeno-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

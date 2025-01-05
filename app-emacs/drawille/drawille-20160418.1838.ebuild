@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Drawille implementation in elisp"
 
-HOMEPAGE="https://github.com/emacsattic/drawille"
+HOMEPAGE="https://github.com/sshbio/elisp-drawille"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

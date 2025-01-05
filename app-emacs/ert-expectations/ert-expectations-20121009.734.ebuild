@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="The simplest unit test framework in the world"
 
-HOMEPAGE="https://github.com/emacsorphanage/ert-expectations"
+HOMEPAGE="http://www.emacswiki.org/emacs/download/ert-expectations.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

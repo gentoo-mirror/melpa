@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Bencode encoding / decoding"
 
-HOMEPAGE="https://github.com/rorokimdim/emacs-bencode"
+HOMEPAGE="https://github.com/skeeto/emacs-bencode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

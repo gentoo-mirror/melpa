@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Run babel REPL"
 
-HOMEPAGE="https://github.com/hung-phan/babel-repl"
+HOMEPAGE="https://github.com/hung-phan/babel-repl/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

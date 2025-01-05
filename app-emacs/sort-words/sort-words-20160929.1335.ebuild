@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Sort words in a selected region"
 
-HOMEPAGE="https://github.com/dotemacs/sort-words.el"
+HOMEPAGE="http://github.org/dotemacs/sort-words.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

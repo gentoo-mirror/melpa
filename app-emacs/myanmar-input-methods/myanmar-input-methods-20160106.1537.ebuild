@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs Input Method for Myanmar"
 
-HOMEPAGE="https://github.com/yelinkyaw/emacs-myanmar-input-methods"
+HOMEPAGE="http://github.com/yelinkyaw/emacs-myanmar-input-methods"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ergonomic, efficient data processing"
 
-HOMEPAGE="https://github.com/fosskers/transducers.el"
+HOMEPAGE="https://codeberg.org/fosskers/transducers.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

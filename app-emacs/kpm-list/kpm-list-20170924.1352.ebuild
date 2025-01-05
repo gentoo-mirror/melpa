@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An emacs buffer list that tries to intelligently group together buffers"
 
-HOMEPAGE="https://github.com/KMahoney/kpm-list"
+HOMEPAGE="https://github.com/KMahoney/kpm-list/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

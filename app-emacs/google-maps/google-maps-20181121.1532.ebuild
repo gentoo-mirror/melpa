@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Access Google Maps from Emacs"
 
-HOMEPAGE="https://github.com/jd/google-maps.el"
+HOMEPAGE="https://julien.danjou.info/projects/emacs-packages#google-maps"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

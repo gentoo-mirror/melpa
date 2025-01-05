@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Bindings for the CircleCI API"
 
-HOMEPAGE="https://github.com/sulami/circleci-api.el"
+HOMEPAGE="https://github.com/sulami/circleci-api"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

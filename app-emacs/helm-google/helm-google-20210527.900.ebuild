@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs Helm Interface for quick Google searches"
 
-HOMEPAGE="https://framagit.org/steckerhalter/helm-google.git"
+HOMEPAGE="https://framagit.org/steckerhalter/helm-google"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

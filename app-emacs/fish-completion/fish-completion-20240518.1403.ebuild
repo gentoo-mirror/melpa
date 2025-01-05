@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fish completion for pcomplete (shell and Eshell)"
 
-HOMEPAGE="https://github.com/LemonBreezes/emacs-fish-completion"
+HOMEPAGE="https://gitlab.com/Ambrevar/emacs-fish-completion"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

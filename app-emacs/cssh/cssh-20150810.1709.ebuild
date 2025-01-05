@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Clusterssh implementation for emacs"
 
-HOMEPAGE="https://github.com/dimitri/cssh"
+HOMEPAGE="http://tapoueh.org/emacs/cssh.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

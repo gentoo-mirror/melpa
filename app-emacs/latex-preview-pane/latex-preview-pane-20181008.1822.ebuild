@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Makes LaTeX editing less painful by providing a updatable preview pane"
 
-HOMEPAGE="https://github.com/jsinglet/latex-preview-pane"
+HOMEPAGE="http://www.emacswiki.org/emacs/LaTeXPreviewPane"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Easily swap buffers"
 
-HOMEPAGE="https://github.com/lukhas/buffer-move"
+HOMEPAGE="https://github.com/lukhas/buffer-move/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

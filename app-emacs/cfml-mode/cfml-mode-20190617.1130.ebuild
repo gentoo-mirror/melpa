@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs mode for editing CFML files"
 
-HOMEPAGE="https://github.com/amyers634/cfml-mode"
+HOMEPAGE="https://github.com/am2605/cfml-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

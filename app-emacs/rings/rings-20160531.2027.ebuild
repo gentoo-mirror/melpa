@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Buffer rings. Like tabs, but better"
 
-HOMEPAGE="https://github.com/konr/rings"
+HOMEPAGE="http://github.com/konr/rings"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

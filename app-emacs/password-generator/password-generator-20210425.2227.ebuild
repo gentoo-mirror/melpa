@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Password generator for humans. Good, Bad, Phonetic passwords included"
 
-HOMEPAGE="https://github.com/vandrlexay/emacs-password-genarator"
+HOMEPAGE="http://github.com/vandrlexay/emacs-password-genarator"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

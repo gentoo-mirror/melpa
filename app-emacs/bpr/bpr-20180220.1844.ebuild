@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Background Process Runner"
 
-HOMEPAGE="https://github.com/iliabv/emacs-bpr"
+HOMEPAGE="https://github.com/ilya-babanov/emacs-bpr"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

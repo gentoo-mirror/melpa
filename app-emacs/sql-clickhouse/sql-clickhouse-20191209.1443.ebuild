@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Support ClickHouse as SQL interpreter"
 
-HOMEPAGE="https://github.com/rschwarz/sql-clickhouse"
+HOMEPAGE="https://github.com/leethargo/sql-clickhouse"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Creates a directed graph from org-mode files"
 
-HOMEPAGE="https://github.com/the-ted/org-mind-map"
+HOMEPAGE="https://github.com/theodorewiles/org-mind-map"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

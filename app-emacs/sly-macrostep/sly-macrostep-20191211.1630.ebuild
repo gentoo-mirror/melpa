@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Fancy macro-expansion via macrostep.el"
 
-HOMEPAGE="https://github.com/joaotavora/sly-macrostep"
+HOMEPAGE="https://github.com/capitaomorte/sly-macrostep"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

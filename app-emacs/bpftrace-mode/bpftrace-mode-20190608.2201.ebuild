@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing bpftrace script files"
 
-HOMEPAGE="https://gitlab.com/jgkamat/bpftrace-mode"
+HOMEPAGE="http://gitlab.com/jgkamat/bpftrace-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

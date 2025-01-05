@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Create files from yasnippet templates"
 
-HOMEPAGE="https://github.com/natelastname/template-dumper"
+HOMEPAGE="https://resultsmotivated.com/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

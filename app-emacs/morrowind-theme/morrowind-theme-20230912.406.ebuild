@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Theme"
 
-HOMEPAGE="https://github.com/SamuelBanya/morrowind-theme"
+HOMEPAGE="https://github.com/samuelbanya/morrowind-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

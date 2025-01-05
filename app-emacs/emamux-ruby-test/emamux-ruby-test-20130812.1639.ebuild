@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ruby test with emamux"
 
-HOMEPAGE="https://github.com/emacsorphanage/emamux-ruby-test"
+HOMEPAGE="https://github.com/syohex/emamux-ruby-test"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

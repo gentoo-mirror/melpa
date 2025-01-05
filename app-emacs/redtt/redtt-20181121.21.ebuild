@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing redtt proofs"
 
-HOMEPAGE="https://github.com/RedPRL/redtt"
+HOMEPAGE="http://github.com/RedPRL/redtt"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

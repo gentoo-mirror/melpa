@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Insert Tag for inline image of R graphics"
 
-HOMEPAGE="https://github.com/emacsattic/inlineR"
+HOMEPAGE="https://github.com/myuhe/inlineR.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

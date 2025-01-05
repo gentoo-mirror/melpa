@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Coq commenting minor mode for proof"
 
-HOMEPAGE="https://github.com/Ailrun/coq-commenter"
+HOMEPAGE="http://github.com/ailrun/coq-commenter"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

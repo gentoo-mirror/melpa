@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="OSX notifications via the terminal-notifier gem for Emacs ERC"
 
-HOMEPAGE="https://github.com/julienXX/erc-terminal-notifier.el"
+HOMEPAGE="http://github.com/julienXX/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

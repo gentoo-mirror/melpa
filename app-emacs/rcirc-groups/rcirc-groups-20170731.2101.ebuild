@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An emacs buffer in rcirc-groups major mode"
 
-HOMEPAGE="https://github.com/dimitri/rcirc-groups"
+HOMEPAGE="http://tapoueh.org/emacs/rcirc-groups.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

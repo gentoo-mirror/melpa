@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A simple theme for Emacs based on the Flatland theme for Sublime Text"
 
-HOMEPAGE="https://github.com/gchp/flatland-emacs"
+HOMEPAGE="http://github.com/gregchapple/flatland-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

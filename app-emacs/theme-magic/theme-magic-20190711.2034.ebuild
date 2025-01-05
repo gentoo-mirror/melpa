@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Apply your Emacs theme to the rest of Linux"
 
-HOMEPAGE="https://github.com/jcaw/theme-magic"
+HOMEPAGE="https://github.com/jcaw/theme-magic.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

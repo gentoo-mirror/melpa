@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="RSS 2.0 Back-End for Org Export Engine"
 
-HOMEPAGE="https://github.com/BenedictHW/ox-rss"
+HOMEPAGE="https://github.com/benedicthw/ox-rss.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

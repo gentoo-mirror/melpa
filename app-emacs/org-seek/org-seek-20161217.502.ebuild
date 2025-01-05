@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Searching Org-mode files with search tools"
 
-HOMEPAGE="https://repo.or.cz/org-seek.el.git"
+HOMEPAGE="https://github.com/stardiviner/org-seek.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

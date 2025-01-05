@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Insert org-mode links from the clipboard"
 
-HOMEPAGE="https://github.com/rexim/org-cliplink"
+HOMEPAGE="http://github.com/rexim/org-cliplink"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

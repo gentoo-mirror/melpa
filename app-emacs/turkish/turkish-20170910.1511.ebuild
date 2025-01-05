@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Convert to Turkish characters on-the-fly"
 
-HOMEPAGE="https://github.com/emres/turkish-mode"
+HOMEPAGE="http://www.denizyuret.com/2006/11/emacs-turkish-mode.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

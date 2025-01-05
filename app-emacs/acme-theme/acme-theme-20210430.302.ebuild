@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A color theme based on Acme & Sam from Plan 9"
 
-HOMEPAGE="https://github.com/ianyepan/acme-emacs-theme"
+HOMEPAGE="https://github.com/ianpan870102/acme-emacs-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

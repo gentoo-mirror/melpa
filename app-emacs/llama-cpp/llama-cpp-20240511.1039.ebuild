@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A client for llama-cpp server"
 
-HOMEPAGE="https://github.com/kurnevsky/llama-cpp.el"
+HOMEPAGE="https://github.com/kurnevsky/llama.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

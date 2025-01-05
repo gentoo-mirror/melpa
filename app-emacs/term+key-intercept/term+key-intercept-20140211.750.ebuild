@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Term+ intercept key mapping"
 
-HOMEPAGE="https://github.com/tarao/term-plus-ki-el"
+HOMEPAGE="http://github.com/tarao/term+-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

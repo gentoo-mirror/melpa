@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Keep temp notes buffers persistent"
 
-HOMEPAGE="https://gitlab.com/kostafey/temporary-persistent"
+HOMEPAGE="https://github.com/kostafey/temporary-persistent"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

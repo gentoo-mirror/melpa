@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Analyze source code based on font-lock text-properties"
 
-HOMEPAGE="https://github.com/vapniks/simple-call-tree"
+HOMEPAGE="http://www.emacswiki.org/emacs/download/simple-call-tree.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

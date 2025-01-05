@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Ideographic variants editor and browser"
 
-HOMEPAGE="https://github.com/kawabata/emacs-ivariants"
+HOMEPAGE="http://github.com/kawabata/ivariants"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

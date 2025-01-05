@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A D&D (Dark and Dusty) Theme"
 
-HOMEPAGE="https://github.com/mtreca/emacs-theme-sorcery"
+HOMEPAGE="http://github.com/vxid/emacs-theme-sorcery"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

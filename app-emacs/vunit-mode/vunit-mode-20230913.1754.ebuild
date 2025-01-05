@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="VUnit Runner Interface"
 
-HOMEPAGE="https://github.com/embed-me/vunit-mode"
+HOMEPAGE="https://github.com/embed-me"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

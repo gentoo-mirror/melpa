@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Some c++ namespace utility functions"
 
-HOMEPAGE="https://github.com/articuluxe/outrespace"
+HOMEPAGE="https://github.com/articuluxe/outrespace.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

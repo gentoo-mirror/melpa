@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Monochromatic version of the Phoenix theme"
 
-HOMEPAGE="https://github.com/j0ni/phoenix-dark-mono"
+HOMEPAGE="http://github.com/j0ni/phoenix-dark-mono"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

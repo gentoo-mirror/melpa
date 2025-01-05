@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Keep track of what you're doing"
 
-HOMEPAGE="https://github.com/emacsattic/org-doing"
+HOMEPAGE="https://github.com/omouse/org-doing"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

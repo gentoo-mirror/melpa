@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Time scoping sparse trees within org"
 
-HOMEPAGE="https://gitlab.com/mtekman/org-treescope.el"
+HOMEPAGE="https://github.com/mtekman/org-treescope.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

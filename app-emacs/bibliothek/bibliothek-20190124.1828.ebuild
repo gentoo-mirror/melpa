@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Managing a digital library of PDFs"
 
-HOMEPAGE="https://codeberg.org/kutuptiyini/elisp"
+HOMEPAGE="https://dev.gkayaalp.com/elisp/index.html#bibliothek-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

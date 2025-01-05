@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interaction mode for DALL-E"
 
-HOMEPAGE="https://github.com/xenodium/dall-e-shell"
+HOMEPAGE="https://github.com/xenodium/chatgpt-shell"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

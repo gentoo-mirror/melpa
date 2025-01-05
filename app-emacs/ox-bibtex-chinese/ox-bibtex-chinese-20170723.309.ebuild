@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Let ox-bibtex work well for Chinese users"
 
-HOMEPAGE="https://github.com/tumashu/ox-bibtex-chinese"
+HOMEPAGE="https://github.com/tumashu/ox-bibtex-chinese.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

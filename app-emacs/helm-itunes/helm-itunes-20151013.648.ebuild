@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Play local iTunes and Spotify tracks"
 
-HOMEPAGE="https://github.com/anschwa/helm-itunes"
+HOMEPAGE="https://github.com/daschwa/helm-itunes"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

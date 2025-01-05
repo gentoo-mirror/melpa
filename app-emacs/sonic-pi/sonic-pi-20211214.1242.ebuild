@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A Emacs client for SonicPi"
 
-HOMEPAGE="https://github.com/repl-electric/sonic-pi.el"
+HOMEPAGE="http://www.github.com/repl-electric/sonic-pi.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

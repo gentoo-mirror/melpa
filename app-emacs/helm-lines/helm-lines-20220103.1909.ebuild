@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A helm interface for completing by lines"
 
-HOMEPAGE="https://github.com/torgeir/helm-lines.el"
+HOMEPAGE="https://github.com/torgeir/helm-lines.el/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

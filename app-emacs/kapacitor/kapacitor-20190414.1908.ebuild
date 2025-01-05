@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Main file for kapacitor-mode"
 
-HOMEPAGE="https://github.com/manojm321/kapacitor-el"
+HOMEPAGE="http://github.com/Manoj321/kapacitor-el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

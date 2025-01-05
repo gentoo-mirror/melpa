@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Simple wrapper for molecule"
 
-HOMEPAGE="https://gitlab.com/drymerisnothere/molecule-el"
+HOMEPAGE="https://git.daemons.it/drymer/molecule.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

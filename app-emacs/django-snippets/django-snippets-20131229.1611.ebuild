@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Yasnippets for django"
 
-HOMEPAGE="https://github.com/unrelentingtech/django-mode"
+HOMEPAGE="https://github.com/myfreeweb/django-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

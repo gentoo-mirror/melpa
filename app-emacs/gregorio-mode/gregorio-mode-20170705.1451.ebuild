@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Gregorio Mode for .gabc files"
 
-HOMEPAGE="https://github.com/jsrjenkins/gregorio-mode"
+HOMEPAGE="https://jsrjenkins.github.io/gregorio-mode/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

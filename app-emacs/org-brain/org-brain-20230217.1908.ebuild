@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Org-mode concept mapping"
 
-HOMEPAGE="https://github.com/Kungsgeten/org-brain"
+HOMEPAGE="http://github.com/Kungsgeten/org-brain"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An OBSOLETE color-theme implementation"
 
-HOMEPAGE="https://github.com/emacsattic/color-theme"
+HOMEPAGE="http://www.emacswiki.org/cgi-bin/wiki.pl?ColorTheme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

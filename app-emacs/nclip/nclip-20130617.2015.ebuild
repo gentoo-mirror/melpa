@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Network (HTTP) Clipboard"
 
-HOMEPAGE="https://github.com/maio/nclip.el"
+HOMEPAGE="http://www.github.com/maio/nclip.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

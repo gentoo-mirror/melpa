@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Python code generation using Elpy and Python-mode"
 
-HOMEPAGE="https://github.com/JackCrawley/pygen"
+HOMEPAGE="https://github.com/JackCrawley/pygen/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

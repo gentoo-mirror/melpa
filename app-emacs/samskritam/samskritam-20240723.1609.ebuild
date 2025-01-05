@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show samskrit word definitions and translations"
 
-HOMEPAGE="https://github.com/thapakrish/samskritam.el"
+HOMEPAGE="https://github.com/thapakrish/samskritam"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

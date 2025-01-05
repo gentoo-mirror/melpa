@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Code for dealing with Haxe imports"
 
-HOMEPAGE="https://github.com/accidentalrebel/emacs-haxe-imports"
+HOMEPAGE="http://www.github.com/accidentalrebel/emacs-haxe-imports"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
