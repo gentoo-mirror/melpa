@@ -796,7 +796,7 @@ app-emacs/consult-projectile 20230821.406: Consult integration for projectile
 app-emacs/consult-recoll 20250106.1724: Recoll queries using consult
 app-emacs/consult-spotify 20211114.2258: Spotify queries using consult
 app-emacs/consult-tex 20240808.1300: Consult powered completion for tex
-app-emacs/consult-todo 20241029.409: Search hl-todo keywords in consult
+app-emacs/consult-todo 20250119.1127: Search hl-todo keywords in consult
 app-emacs/consult-vc-modified-files 20241216.928: Show git modified files in a vc project with consult
 app-emacs/consult-yasnippet 20240314.1838: A consulting-read interface for yasnippet
 app-emacs/context-transient 20240530.1344: Context specific transients
@@ -1301,7 +1301,7 @@ app-emacs/elcord 20250113.131: Allows you to integrate Rich Presence from Discor
 app-emacs/elcouch 20230903.750: View and manipulate CouchDB databases
 app-emacs/elcute 20241115.1459: Commands for marking and killing lines electrically
 app-emacs/eldev 20241217.1230: Elisp development tool
-app-emacs/eldoc-box 20250113.1944: Display documentation in childframe
+app-emacs/eldoc-box 20250119.653: Display documentation in childframe
 app-emacs/eldoc-cmake 20190419.2244: Eldoc support for CMake
 app-emacs/eldoc-eask 20250101.837: Eldoc support for Eask-file
 app-emacs/eldoc-eval 20220106.1951: Enable eldoc support when minibuffer is in use
@@ -2039,7 +2039,7 @@ app-emacs/gdscript-mode 20241207.610: Major mode for Godot's GDScript language
 app-emacs/geben 20220827.105: DBGp protocol frontend, a script debugger
 app-emacs/geben-helm-projectile 20170524.334: Integrate helm-projectile with geben
 app-emacs/geeknote 20220213.612: Use Evernote in Emacs through geeknote
-app-emacs/geiser 20250105.1533: GNU Emacs and Scheme talk to each other
+app-emacs/geiser 20250119.1424: GNU Emacs and Scheme talk to each other
 app-emacs/geiser-chez 20230707.1334: Chez and Geiser talk to each other
 app-emacs/geiser-chibi 20240521.2252: Chibi Scheme's implementation of the geiser protocols
 app-emacs/geiser-chicken 20241204.1442: Chicken's implementation of the geiser protocols
@@ -2285,7 +2285,7 @@ app-emacs/habitica 20240601.2029: Interface for habitica.com
 app-emacs/hack-mode 20240905.2225: Major mode for the Hack programming language
 app-emacs/hacker-typer 20170206.1520: Pretend to write code like a pro
 app-emacs/hackernews 20240405.807: Hacker News Client for Emacs
-app-emacs/haki-theme 20241204.736: An elegant, high-contrast dark theme in modern sense
+app-emacs/haki-theme 20250119.823: An elegant, high-contrast dark theme in modern sense
 app-emacs/hal-mode 20160704.1746: Major mode for editing HAL files
 app-emacs/halloweenie-theme 20231011.1252: Dark and spooky Halloween color theme
 app-emacs/ham-mode 20150811.1306: Html As Markdown. Transparently edit an html file using markdown
@@ -2608,7 +2608,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20220910.1206: Make bindings that stick around
-app-emacs/hyperbole 20250109.1748: GNU Hyperbole: The Everyday Hypertextual Information Manager
+app-emacs/hyperbole 20250119.536: GNU Hyperbole: The Everyday Hypertextual Information Manager
 app-emacs/hyperdrive 20241101.2353: P2P filesystem
 app-emacs/hyperdrive-org-transclusion 20241028.427: Tranclude hyperdrive content
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
@@ -3371,7 +3371,7 @@ app-emacs/mindre-theme 20240610.2131: Minimal, light theme
 app-emacs/mindstream 20241121.19: Start writing, stay focused, don't worry
 app-emacs/minesweeper 20200416.2342: Play minesweeper in Emacs
 app-emacs/mingus 20230518.1726: MPD Interface
-app-emacs/mini-echo 20250118.1838: Echo buffer status in minibuffer window
+app-emacs/mini-echo 20250119.1122: Echo buffer status in minibuffer window
 app-emacs/mini-frame 20220627.2041: Show minibuffer in child frame on read-from-minibuffer
 app-emacs/mini-header-line 20170621.1221: A minimal header-line
 app-emacs/mini-modeline 20230306.1521: Display modeline in minibuffer
@@ -4160,7 +4160,7 @@ app-emacs/password-generator 20210425.2227: Password generator for humans. Good,
 app-emacs/password-menu 20240407.2241: Password Menu for auth-source secrets
 app-emacs/password-mode 20220706.507: Hide password text using overlays
 app-emacs/password-store 20231201.954: Password store (pass) support
-app-emacs/password-store-menu 20250118.1728: A better, more complete UI for password-store
+app-emacs/password-store-menu 20250119.943: A better, more complete UI for password-store
 app-emacs/password-store-otp 20220128.1320: Password store (pass) OTP extension support
 app-emacs/password-vault 20220321.1521: A Password manager for Emacs
 app-emacs/paste-of-code 20170709.2355: Paste code on https://paste.ofcode.org
@@ -4500,7 +4500,7 @@ app-emacs/pythonic 20230821.1733: Utility functions for writing pythonic emacs p
 app-emacs/pythontest 20240813.1322: Testing executor for python
 app-emacs/pyvenv 20211014.707: Python virtual environment interface
 app-emacs/pyvenv-auto 20230106.415: Automatically switch Python venvs
-app-emacs/q-mode 20250108.312: A q editing mode
+app-emacs/q-mode 20250119.1512: A q editing mode
 app-emacs/qml-mode 20161016.31: Major mode for editing QT Declarative (QML) code
 app-emacs/qrencode 20240922.1231: QRCode encoder
 app-emacs/qt-pro-mode 20170604.1841: Qt Pro/Pri major mode
@@ -4584,7 +4584,7 @@ app-emacs/recentf-ext 20170926.35: Recentf extensions
 app-emacs/recentf-remove-sudo-tramp-prefix 20220621.749: Normalise recentf history
 app-emacs/recently 20210930.207: Track recently opened files to visit them again
 app-emacs/recompile-on-save 20151126.1446: Trigger recompilation on file save
-app-emacs/recomplete 20241208.454: Immediately (re)complete actions
+app-emacs/recomplete 20250119.1158: Immediately (re)complete actions
 app-emacs/recover-buffers 20171009.437: Revisit all buffers from an auto-save file
 app-emacs/rect+ 20150621.44: Extensions to rect.el
 app-emacs/rectangle-utils 20240830.306: Some useful rectangle functions
@@ -4985,7 +4985,7 @@ app-emacs/snap-indent 20230704.1833: Simple automatic indentation
 app-emacs/snapshot-timemachine 20161221.929: Step through (Btrfs, ZFS, ...) snapshots of files
 app-emacs/snapshot-timemachine-rsnapshot 20170324.1213: Rsnapshot backend for snapshot-timemachine
 app-emacs/snazzy-theme 20170828.757: An elegant syntax theme with bright colors
-app-emacs/sniem 20240814.931: Hands-eased united editing method
+app-emacs/sniem 20250119.739: Hands-eased united editing method
 app-emacs/snitch 20210202.1730: An Emacs firewall
 app-emacs/snoopy 20171008.2004: Minor mode for number row unshifted character insertion
 app-emacs/snow 20221226.2238: Let it snow in Emacs!
@@ -5459,7 +5459,7 @@ app-emacs/unicode-whitespace 20140508.2041: Teach whitespace-mode about fancy ch
 app-emacs/unidecode 20201213.1449: Transliterate Unicode to ASCII
 app-emacs/unifdef 20250102.1047: Delete code guarded by processor directives
 app-emacs/unify-opening 20230903.844: Unify the mechanism to open files
-app-emacs/uniline 20250108.938: Add UNICODE based diagrams to text files
+app-emacs/uniline 20250119.1148: Add UNICODE based diagrams to text files
 app-emacs/unipoint 20140113.2224: A simple way to insert unicode characters by TeX name
 app-emacs/unison 20160704.740: Sync with Unison
 app-emacs/unison-mode 20160513.1501: Syntax highlighting for unison file synchronization program
@@ -5593,7 +5593,7 @@ app-emacs/wacspace 20180311.2350: The WACky WorkSPACE manager for emACS
 app-emacs/waf-mode 20170403.1940: Waf integration for Emacs
 app-emacs/waher-theme 20141115.1230: Emacs 24 theme based on waher for st2 by dduckster
 app-emacs/wakatime-mode 20240623.653: Automatic time tracking extension for WakaTime
-app-emacs/wakib-keys 20220211.1304: Minor Mode for Modern Keybindings
+app-emacs/wakib-keys 20240609.1601: Minor Mode for Modern Keybindings
 app-emacs/wal-mode 20220409.1214: A major mode for the WAL programming language
 app-emacs/walkclj 20220719.1610: Manipulate Clojure parse trees
 app-emacs/walkman 20241204.2234: Write HTTP requests in Org mode
