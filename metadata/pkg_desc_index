@@ -152,7 +152,7 @@ app-emacs/aozora-view 20140310.1317: Aozora Bunko text Emacs viewer
 app-emacs/apache-mode 20210519.1931: Major mode for editing Apache httpd configuration files
 app-emacs/apdl-mode 20211023.1831: Major mode for the APDL programming language
 app-emacs/apel 20241127.1623: Support for portable Emacs Lisp programs
-app-emacs/apheleia 20250113.650: Reformat buffer stably
+app-emacs/apheleia 20250118.1908: Reformat buffer stably
 app-emacs/apib-mode 20200101.1017: Major mode for API Blueprint files
 app-emacs/apiwrap 20180602.2231: Api-wrapping macros
 app-emacs/app-monochrome-themes 20241110.1142: Low contrast monochrome themes
@@ -769,7 +769,7 @@ app-emacs/conllu-mode 20200501.2328: Editing mode for CoNLL-U files
 app-emacs/connection 20191111.446: TCP-based client connection
 app-emacs/conner 20240828.123: Define and run project specific commands
 app-emacs/constant-theme 20180921.1012: A calm, dark, almost monochrome color theme
-app-emacs/consult 20250114.2121: Consulting completing-read
+app-emacs/consult 20250119.9: Consulting completing-read
 app-emacs/consult-ag 20230227.406: The silver searcher integration using Consult
 app-emacs/consult-codesearch 20230315.1424: Consult interface for codesearch
 app-emacs/consult-company 20230606.1824: Consult frontend for company
@@ -1973,7 +1973,7 @@ app-emacs/forecast 20191004.1850: Weather forecasts
 app-emacs/foreign-regexp 20200325.50: Search and replace by foreign regexp
 app-emacs/foreman-mode 20170725.1422: View and manage Procfile-based applications
 app-emacs/forest-blue-theme 20160627.842: Emacs theme with a dark background
-app-emacs/forge 20250116.1212: Access Git forges from Magit
+app-emacs/forge 20250118.1853: Access Git forges from Magit
 app-emacs/form-feed 20210508.1627: Display ^L glyphs as horizontal lines
 app-emacs/form-feed-st 20231002.2211: Display ^L glyphs as full-width horizontal lines
 app-emacs/format-all 20241126.829: Auto-format C, C++, JS, Python, Ruby and 50 other languages
@@ -2001,7 +2001,7 @@ app-emacs/friendly-remote-shell 20230916.1426: Human-friendly remote interactive
 app-emacs/friendly-shell 20230916.1426: Better shell-mode API
 app-emacs/friendly-shell-command 20230916.1426: Better shell-command API
 app-emacs/friendly-tramp-path 20200502.1032: Human-friendly TRAMP path construction
-app-emacs/frimacs 20250118.1009: An environment for the FriCAS computer algebra system
+app-emacs/frimacs 20250118.1725: An environment for the FriCAS computer algebra system
 app-emacs/fringe-current-line 20140111.411: Show current line on the fringe
 app-emacs/fringe-helper 20140620.2109: Helper functions for fringe bitmaps
 app-emacs/frog-jump-buffer 20221114.141: The fastest buffer-jumping Emacs lisp package around
@@ -2850,7 +2850,7 @@ app-emacs/jetbrains 20180301.502: JetBrains IDE bridge
 app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default JetBrains Darcula theme
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
-app-emacs/jinx 20250101.920: Enchanted Spell Checker
+app-emacs/jinx 20250119.257: Enchanted Spell Checker
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jirascope 20240122.2130: A Jira client
@@ -3163,7 +3163,7 @@ app-emacs/look-dired 20160729.2323: Extensions to look-mode for dired buffers
 app-emacs/look-mode 20220626.641: Quick file viewer for image and text file browsing
 app-emacs/loop 20160813.1407: Friendly imperative loop structures
 app-emacs/loophole 20221126.1556: Manage temporary key bindings
-app-emacs/loopy 20250115.37: A looping macro
+app-emacs/loopy 20250119.135: A looping macro
 app-emacs/loopy-dash 20241228.323: Dash destructuring for `loopy'
 app-emacs/lorem-ipsum 20221214.1857: Insert dummy pseudo Latin text
 app-emacs/lox-mode 20200619.1700: Major mode for the Lox programming language
@@ -3371,7 +3371,7 @@ app-emacs/mindre-theme 20240610.2131: Minimal, light theme
 app-emacs/mindstream 20241121.19: Start writing, stay focused, don't worry
 app-emacs/minesweeper 20200416.2342: Play minesweeper in Emacs
 app-emacs/mingus 20230518.1726: MPD Interface
-app-emacs/mini-echo 20241213.1102: Echo buffer status in minibuffer window
+app-emacs/mini-echo 20250118.1838: Echo buffer status in minibuffer window
 app-emacs/mini-frame 20220627.2041: Show minibuffer in child frame on read-from-minibuffer
 app-emacs/mini-header-line 20170621.1221: A minimal header-line
 app-emacs/mini-modeline 20230306.1521: Display modeline in minibuffer
@@ -3392,7 +3392,7 @@ app-emacs/mint-mode 20221031.411: Major mode for the Mint programming language
 app-emacs/mip-mode 20151127.617: Virtual projects for emacs
 app-emacs/mips-mode 20220608.1204: Major-mode for MIPS assembly
 app-emacs/mise 20250102.1433: Support for `mise' cli
-app-emacs/mistty 20250117.1632: Shell/Comint alternative based on term.el
+app-emacs/mistty 20250118.1658: Shell/Comint alternative based on term.el
 app-emacs/mix 20240122.720: Mix Major Mode. Build Elixir using Mix
 app-emacs/mixed-pitch 20210304.1900: Use a variable pitch, keeping fixed pitch where it's sensible
 app-emacs/mkdown 20140517.1418: Pretty Markdown previews based on mkdown.com
@@ -4160,7 +4160,7 @@ app-emacs/password-generator 20210425.2227: Password generator for humans. Good,
 app-emacs/password-menu 20240407.2241: Password Menu for auth-source secrets
 app-emacs/password-mode 20220706.507: Hide password text using overlays
 app-emacs/password-store 20231201.954: Password store (pass) support
-app-emacs/password-store-menu 20240820.1055: A better, more complete UI for password-store
+app-emacs/password-store-menu 20250118.1728: A better, more complete UI for password-store
 app-emacs/password-store-otp 20220128.1320: Password store (pass) OTP extension support
 app-emacs/password-vault 20220321.1521: A Password manager for Emacs
 app-emacs/paste-of-code 20170709.2355: Paste code on https://paste.ofcode.org
@@ -5088,7 +5088,7 @@ app-emacs/steam 20220218.1707: Organize and launch Steam games
 app-emacs/stem 20131102.1109: Routines for stemming
 app-emacs/stem-english 20180109.358: - routines for stemming English word
 app-emacs/stem-reading-mode 20220522.1053: Highlight word stems for speed-reading
-app-emacs/stgit 20250102.253: Major mode for StGit interaction
+app-emacs/stgit 20250118.2328: Major mode for StGit interaction
 app-emacs/sticky 20170926.36: Sticky key for capital letters
 app-emacs/sticky-scroll-mode 20241213.1543: Sticky scrolling
 app-emacs/sticky-shell 20240928.427: Minor mode to keep track of previous prompt in your shell
@@ -5417,7 +5417,7 @@ app-emacs/twitch-api 20220420.1547: An elisp interface for the Twitch.tv API
 app-emacs/twittering-mode 20181121.1402: Major mode for Twitter
 app-emacs/twtxt 20241219.937: A twtxt client for Emacs
 app-emacs/txl 20240916.618: Provides machine translation via DeepL's REST API
-app-emacs/typescript-mode 20240603.630: Major mode for editing typescript
+app-emacs/typescript-mode 20250118.2056: Major mode for editing typescript
 app-emacs/typewriter-roll-mode 20241127.1742: Aid for distraction-free writing
 app-emacs/typing 20180830.2203: The Typing Of Emacs
 app-emacs/typing-game 20160426.1220: A simple typing game
