@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A Zettelkasten mode leveraging Org"
 
-HOMEPAGE="https://git.sr.ht/~ymherklotz/org-zettelkasten"
+HOMEPAGE="https://sr.ht/~ymherklotz/org-zettelkasten"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Emacs - Common Lisp interop using SLIME or SLY"
 
-HOMEPAGE="https://git.sr.ht/~hajovonta/glue"
+HOMEPAGE="https://git.sr.ht/~hajovonta/glue/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

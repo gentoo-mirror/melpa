@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Tree-sitter support for GraphQL"
 
-HOMEPAGE="https://git.sr.ht/~joram/graphql-ts-mode"
+HOMEPAGE="https://sr.ht/~joram/graphql-ts-mode/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
