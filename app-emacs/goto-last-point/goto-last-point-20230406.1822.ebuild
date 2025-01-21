@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Record and jump to the last point in the buffer"
 
-HOMEPAGE="https://git.sr.ht/~gitmux/goto-last-point"
+HOMEPAGE="https://github.com/manuel-uberti/goto-last-point"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

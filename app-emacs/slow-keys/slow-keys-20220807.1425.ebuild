@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Slow keys mode to avoid RSI"
 
-HOMEPAGE="https://git.sr.ht/~gitmux/slow-keys"
+HOMEPAGE="https://github.com/manuel-uberti/slow-keys"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Counsel interface for Mairix"
 
-HOMEPAGE="https://git.sr.ht/~ane/counsel-mairix"
+HOMEPAGE="https://sr.ht/~ane/counsel-mairix"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A 256 color dark theme featuring bright pastels"
 
-HOMEPAGE="https://git.sr.ht/~trevdev/tangonov-theme"
+HOMEPAGE="https://sr.ht/~trevdev/tangonov-theme/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
