@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs major mode for TypeSpec (using tree-sitter)"
+DESCRIPTION="Major mode for TypeSpec (using tree-sitter)"
 
 HOMEPAGE="https://github.com/pradyuman/typespec-ts-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
