@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="iso-639"
+REALNAME="uv-mode"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="ISO 639"
+DESCRIPTION="Integrate uv with python-mode"
 
-HOMEPAGE="https://codeberg.org/WammKD/emacs-iso-639"
+HOMEPAGE="https://github.com/z80dev/uv-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/levenshtein"
-RDEPEND="app-emacs/levenshtein"
+DEPEND="app-emacs/pythonic"
+RDEPEND="app-emacs/pythonic"
