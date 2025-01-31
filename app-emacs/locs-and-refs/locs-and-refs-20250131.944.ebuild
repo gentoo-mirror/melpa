@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Define locations and references for text files and buffers"
+DESCRIPTION="Define locations and references for files and buffers"
 
 HOMEPAGE="https://github.com/phf-1/locs-and-refs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
