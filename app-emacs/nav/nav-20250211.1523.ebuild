@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="twittering-mode"
+REALNAME="nav"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for Twitter"
+DESCRIPTION="Emacs mode for filesystem navigation"
 
-HOMEPAGE="http://twmode.sf.net/"
+HOMEPAGE="https://github.com/emacsorphanage/nav"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
