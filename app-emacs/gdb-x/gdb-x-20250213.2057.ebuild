@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Improve GDB-MI user interface"
 
-HOMEPAGE="https://codeberg.org/shepherd/gdb-x"
+HOMEPAGE="https://codeberg.org/pastor/gdb-x"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
