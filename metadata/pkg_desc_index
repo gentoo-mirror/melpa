@@ -464,7 +464,7 @@ app-emacs/calfw-gcal 20120111.1000: Edit Google calendar for calfw.el
 app-emacs/calfw-howm 20170704.4: Calendar view for howm
 app-emacs/calfw-ical 20170411.220: Calendar view for ical format
 app-emacs/calfw-org 20170411.220: Calendar view for org-agenda
-app-emacs/calibredb 20250213.1519: Yet another calibre client
+app-emacs/calibredb 20250214.215: Yet another calibre client
 app-emacs/call-graph 20250106.1659: Generate call graph for c/c++ functions
 app-emacs/calmer-forest-theme 20230302.2149: Darkish theme with green/orange tint
 app-emacs/camcorder 20190317.2138: Record screencasts in gif or other formats
@@ -1086,7 +1086,7 @@ app-emacs/direx 20230409.1425: Simple Directory Explorer
 app-emacs/direx-grep 20140515.1506: Grep node of direx.el using incremental search like anything.el/helm.el
 app-emacs/dirtree 20140129.832: Directory tree views
 app-emacs/dirtree-prosjekt 20140129.904: Dirtree integration for prosjekt
-app-emacs/dirvish 20250213.1652: A modern file manager based on dired mode
+app-emacs/dirvish 20250214.843: A modern file manager based on dired mode
 app-emacs/disable-mouse 20240604.900: Disable mouse commands globally
 app-emacs/disaster 20240822.708: Disassemble C, C++ or Fortran code under cursor
 app-emacs/discourse 20160911.819: Discourse api
@@ -1098,7 +1098,7 @@ app-emacs/disk 20171116.731: Simplified find-file, revert-file, save-buffer inte
 app-emacs/dispass 20140202.1531: Emacs wrapper for DisPass
 app-emacs/display-theme 20140115.1556: Display current theme(s) at mode-line
 app-emacs/display-wttr 20221102.1426: Display wttr(weather) in the mode line
-app-emacs/disproject 20241226.2043: Dispatch project commands with Transient
+app-emacs/disproject 20250214.457: Dispatch project commands with Transient
 app-emacs/dispwatch 20210305.342: Watch displays for configuration changes
 app-emacs/dist-file-mode 20240107.2040: Dispatch major mode for *.dist files
 app-emacs/distel-completion-lib 20180827.1344: Completion library for Erlang/Distel
@@ -1348,7 +1348,7 @@ app-emacs/elisp-slime-nav 20210510.528: Make M-. and M-, work in elisp like they
 app-emacs/elixir-mode 20230626.1738: Major mode for editing Elixir files
 app-emacs/elixir-ts-mode 20241228.919: Major mode for Elixir with tree-sitter support
 app-emacs/elixir-yasnippets 20150417.1239: Yasnippets for Elixir
-app-emacs/ellama 20250213.840: Tool for interacting with LLMs
+app-emacs/ellama 20250213.2251: Tool for interacting with LLMs
 app-emacs/ellocate 20200112.1931: The locate command reimplemented in Emacs Lisp
 app-emacs/elm-mode 20230315.1122: Major mode for Elm
 app-emacs/elm-test-runner 20230905.331: Enhanced support for running elm-test
@@ -2036,7 +2036,7 @@ app-emacs/gap-mode 20240430.210: Major mode for editing files in the GAP program
 app-emacs/gather 20141230.1338: Gather string in buffer
 app-emacs/gcmh 20201116.2251: The Garbage Collector Magic Hack
 app-emacs/gcode-mode 20230823.2141: Simple G-Code major mode
-app-emacs/gdb-x 20240814.2137: Improve GDB-MI user interface
+app-emacs/gdb-x 20250213.2057: Improve GDB-MI user interface
 app-emacs/gdscript-mode 20241207.610: Major mode for Godot's GDScript language
 app-emacs/geben 20220827.105: DBGp protocol frontend, a script debugger
 app-emacs/geben-helm-projectile 20170524.334: Integrate helm-projectile with geben
@@ -2228,7 +2228,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20250112.2218: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20230530.1853: Integrate with the OpenAI API
-app-emacs/gptel 20250213.103: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20250214.332: Interact with ChatGPT or other LLMs
 app-emacs/gpx 20240609.2200: Major mode for GPX files
 app-emacs/grab-mac-link 20210511.1303: Grab link from Mac Apps and insert it into Emacs
 app-emacs/grab-x-link 20241223.1442: Grab links from X11 apps and insert into Emacs
@@ -3012,7 +3012,7 @@ app-emacs/kuronami-theme 20240104.2022: A deep blue theme with cool autumnal col
 app-emacs/kv 20140108.1534: Key/value data structure functions
 app-emacs/kwin 20220120.2125: Communicatewith the KWin window manager
 app-emacs/laas 20241212.1314: A bundle of as-you-type LaTeX snippets
-app-emacs/lab 20250121.1920: An interface for GitLab
+app-emacs/lab 20250213.1900: An interface for GitLab
 app-emacs/lab-themes 20200815.2104: A custom theme carefully constructed in the LAB space
 app-emacs/labburn-theme 20221208.1611: A lab color space zenburn theme
 app-emacs/lacquer 20230824.725: Switch theme/font by selecting from a cache
@@ -3391,11 +3391,11 @@ app-emacs/minizinc-ts-mode 20241227.1909: Major mode for the MiniZinc constraint
 app-emacs/minor-mode-hack 20170926.34: Change priority of minor-mode keymaps
 app-emacs/minsk-theme 20200306.1220: Minsk, a theme in deep muted greens
 app-emacs/mint-mode 20221031.411: Major mode for the Mint programming language
-app-emacs/minuet 20250212.2307: Code completion using LLM
+app-emacs/minuet 20250214.142: Code completion using LLM
 app-emacs/mip-mode 20151127.617: Virtual projects for emacs
 app-emacs/mips-mode 20220608.1204: Major-mode for MIPS assembly
 app-emacs/mise 20250123.1922: Support for `mise' cli
-app-emacs/mistty 20250211.2020: Shell/Comint alternative based on term.el
+app-emacs/mistty 20250213.2203: Shell/Comint alternative based on term.el
 app-emacs/mix 20240122.720: Mix Major Mode. Build Elixir using Mix
 app-emacs/mixed-pitch 20210304.1900: Use a variable pitch, keeping fixed pitch where it's sensible
 app-emacs/mkdown 20140517.1418: Pretty Markdown previews based on mkdown.com
