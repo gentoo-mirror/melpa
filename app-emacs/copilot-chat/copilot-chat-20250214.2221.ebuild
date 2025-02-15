@@ -20,15 +20,15 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/request
 	app-emacs/markdown-mode
-	app-emacs/chatgpt-shell
 	app-emacs/magit
 	app-emacs/transient
 	app-emacs/org-mode
+	app-emacs/polymode
 	app-emacs/shell-maker"
 RDEPEND="app-emacs/request
 	app-emacs/markdown-mode
-	app-emacs/chatgpt-shell
 	app-emacs/magit
 	app-emacs/transient
 	app-emacs/org-mode
+	app-emacs/polymode
 	app-emacs/shell-maker"
