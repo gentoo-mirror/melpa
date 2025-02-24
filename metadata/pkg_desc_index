@@ -77,7 +77,7 @@ app-emacs/afterglow 20240312.953: Temporary Highlighting after Function Calls
 app-emacs/afternoon-theme 20140104.1859: Dark color theme with a deep blue background
 app-emacs/ag 20201031.2202: A front-end for ag ('the silver searcher'), the C ack replacement
 app-emacs/agda-editor-tactics 20211024.2357: An editor tactic to produce Σ-types from Agda records
-app-emacs/age 20240410.433: The Age Encryption Library
+app-emacs/age 20250224.1713: The Age Encryption Library
 app-emacs/agenix 20250209.551: Decrypt and encrypt agenix secrets
 app-emacs/aggressive-fill-paragraph 20240213.2320: A mode to automatically keep paragraphs filled
 app-emacs/aggressive-indent 20230112.1300: Minor mode to aggressively keep your code always indented
@@ -1088,7 +1088,7 @@ app-emacs/direx 20230409.1425: Simple Directory Explorer
 app-emacs/direx-grep 20140515.1506: Grep node of direx.el using incremental search like anything.el/helm.el
 app-emacs/dirtree 20140129.832: Directory tree views
 app-emacs/dirtree-prosjekt 20140129.904: Dirtree integration for prosjekt
-app-emacs/dirvish 20250224.136: A modern file manager based on dired mode
+app-emacs/dirvish 20250224.1620: A modern file manager based on dired mode
 app-emacs/disable-mouse 20240604.900: Disable mouse commands globally
 app-emacs/disaster 20240822.708: Disassemble C, C++ or Fortran code under cursor
 app-emacs/discourse 20160911.819: Discourse api
@@ -2313,7 +2313,7 @@ app-emacs/harvest 20170822.1746: Harvest integration
 app-emacs/haskell-emacs 20240205.2225: Write emacs extensions in haskell
 app-emacs/haskell-emacs-base 20160904.2026: Haskell functions from Prelude
 app-emacs/haskell-emacs-text 20160904.2026: Haskell functions from Data.Text
-app-emacs/haskell-mode 20250210.1927: A Haskell editing mode
+app-emacs/haskell-mode 20250224.1548: A Haskell editing mode
 app-emacs/haskell-snippets 20210228.344: Yasnippets for Haskell
 app-emacs/haskell-tab-indent 20200514.1424: Tab-based indentation for haskell-mode
 app-emacs/hass 20230529.1312: Interact with Home Assistant
@@ -2569,7 +2569,7 @@ app-emacs/hl-indent-scope 20250121.2358: Highlight indentation by scope
 app-emacs/hl-printf 20250121.1818: Minor mode for highlighting "printf" format specifiers
 app-emacs/hl-prog-extra 20240829.101: Customizable highlighting for source-code
 app-emacs/hl-sentence 20171018.1519: Highlight a sentence based on customizable face
-app-emacs/hl-todo 20250219.1920: Highlight TODO and similar keywords
+app-emacs/hl-todo 20250223.1917: Highlight TODO and similar keywords
 app-emacs/hledger-mode 20240415.1812: A mode for writing journal entries for hledger
 app-emacs/hlint-refactor 20190115.900: Apply HLint suggestions
 app-emacs/hlinum 20180422.412: Extension for linum.el to highlight current line number
@@ -3193,7 +3193,7 @@ app-emacs/lsp-jedi 20230824.1908: Lsp client plugin for Python Jedi Language Ser
 app-emacs/lsp-julia 20230915.654: Julia support for lsp-mode
 app-emacs/lsp-latex 20250126.1416: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20250222.1746: LSP Clients for LTEX
-app-emacs/lsp-metals 20250224.1304: Scala Client settings
+app-emacs/lsp-metals 20250224.1407: Scala Client settings
 app-emacs/lsp-mode 20250223.1819: LSP mode
 app-emacs/lsp-mssql 20230510.1124: MSSQL LSP bindings
 app-emacs/lsp-origami 20230815.704: Origami.el support for lsp-mode
@@ -3233,7 +3233,7 @@ app-emacs/madhat2r-theme 20170203.30: Dark color theme that is easy on the eyes
 app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
-app-emacs/magik-mode 20250224.1054: Emacs major mode for Smallworld Magik files
+app-emacs/magik-mode 20250224.1430: Emacs major mode for Smallworld Magik files
 app-emacs/magit 20250221.105: A Git porcelain inside Emacs
 app-emacs/magit-annex 20240811.1850: Control git-annex from Magit
 app-emacs/magit-commit-mark 20241110.245: Support marking commits as read
@@ -3587,7 +3587,7 @@ app-emacs/nice-org-html 20250203.848: Prettier org-to-html export
 app-emacs/niceify-info 20160416.1244: Improve usability of Info pages
 app-emacs/nickel-mode 20240514.1236: A major mode for editing Nickel source code
 app-emacs/niconama 20170910.1501: Tools for Niconico Live Broadcast
-app-emacs/night-owl-theme 20200622.1943: A color theme for the night owls out there
+app-emacs/night-owl-theme 20250224.1841: A color theme for the night owls out there
 app-emacs/nikki 20210228.428: A simple diary mode
 app-emacs/nikola 20170703.2021: Simple wrapper for nikola
 app-emacs/nim-mode 20240220.1033: A major mode for the Nim programming language
@@ -4126,9 +4126,9 @@ app-emacs/pacdiff 20240219.1606: Manage pacdiff files
 app-emacs/pacfiles-mode 20230503.1523: The pacnew and pacsave merging tool
 app-emacs/pack 20191017.456: Pack and unpack archive files
 app-emacs/package+ 20230805.2115: Extensions for the package library
-app-emacs/package-build 20250221.1523: Tools for assembling a package archive
+app-emacs/package-build 20250224.1710: Tools for assembling a package archive
 app-emacs/package-filter 20161122.719: Package archive whitelist and blacklist
-app-emacs/package-lint 20250212.1515: A linting library for elisp package authors
+app-emacs/package-lint 20250224.1723: A linting library for elisp package authors
 app-emacs/package-lint-flymake 20240923.931: A package-lint Flymake backend
 app-emacs/package-loading-notifier 20230809.446: Notify a package is being loaded
 app-emacs/package-utils 20250106.1354: Extensions for package.el
@@ -5289,7 +5289,7 @@ app-emacs/thinks 20170802.1128: Insert text in a think bubble
 app-emacs/third-time 20240207.1621: Third Time: A Better Way to Work
 app-emacs/thread-dump 20170816.1850: Java thread dump viewer
 app-emacs/threes 20160820.1242: A clone of Threes (a tiny puzzle game)
-app-emacs/thrift 20250130.2231: Major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 20250224.1428: Major mode for fbthrift and Apache Thrift files
 app-emacs/thumb-through 20120119.534: Plain text reader of HTML documents
 app-emacs/tickscript-mode 20171219.203: A major mode for Tickscript files
 app-emacs/tidal 20250120.1406: Interact with TidalCycles for live coding patterns
