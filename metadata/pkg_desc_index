@@ -800,7 +800,7 @@ app-emacs/consult-recoll 20250205.1712: Recoll queries using consult
 app-emacs/consult-spotify 20211114.2258: Spotify queries using consult
 app-emacs/consult-tex 20240808.1300: Consult powered completion for tex
 app-emacs/consult-todo 20250201.1342: Search hl-todo keywords in consult
-app-emacs/consult-vc-modified-files 20250225.1133: Show git modified files in a vc project with consult
+app-emacs/consult-vc-modified-files 20250225.1211: Show git modified files in a vc project with consult
 app-emacs/consult-yasnippet 20240314.1838: A consulting-read interface for yasnippet
 app-emacs/context-transient 20240530.1344: Context specific transients
 app-emacs/contextual 20180726.800: Contextual profile management system
@@ -1088,7 +1088,7 @@ app-emacs/direx 20230409.1425: Simple Directory Explorer
 app-emacs/direx-grep 20140515.1506: Grep node of direx.el using incremental search like anything.el/helm.el
 app-emacs/dirtree 20140129.832: Directory tree views
 app-emacs/dirtree-prosjekt 20140129.904: Dirtree integration for prosjekt
-app-emacs/dirvish 20250225.711: A modern file manager based on dired mode
+app-emacs/dirvish 20250225.1709: A modern file manager based on dired mode
 app-emacs/disable-mouse 20240604.900: Disable mouse commands globally
 app-emacs/disaster 20240822.708: Disassemble C, C++ or Fortran code under cursor
 app-emacs/discourse 20160911.819: Discourse api
@@ -1131,7 +1131,7 @@ app-emacs/docker-api 20160525.720: Emacs interface to the Docker API
 app-emacs/docker-cli 20190524.1624: Running various commands in docker containers
 app-emacs/docker-compose-mode 20200830.1336: Major mode for editing docker-compose files
 app-emacs/docker-tramp 20230809.511: TRAMP integration for docker containers for Emacs 28 and earlier
-app-emacs/dockerfile-mode 20240914.1549: Major mode for editing Docker's Dockerfiles
+app-emacs/dockerfile-mode 20250225.1527: Major mode for editing Docker's Dockerfiles
 app-emacs/docopt 20230216.957: A Docopt implementation in Elisp
 app-emacs/docsim 20240906.421: Search and compare notes with a local search engine
 app-emacs/docstr 20250101.908: A document string minor mode
@@ -1424,7 +1424,7 @@ app-emacs/emoji-recall 20160723.2208: How many emoji can you recall from memory?
 app-emacs/emojify 20210108.1111: Display emojis in Emacs
 app-emacs/emojify-logos 20180814.917: Add logos to emojify
 app-emacs/empos 20151011.1916: Locate bibtex citations from within emacs
-app-emacs/empv 20250217.1236: A multimedia player/manager, YouTube interface
+app-emacs/empv 20250225.1652: A multimedia player/manager, YouTube interface
 app-emacs/emr 20220108.548: Emacs refactoring system
 app-emacs/enclose 20121008.1614: Enclose cursor within punctuation pairs
 app-emacs/encourage-mode 20151128.905: Encourages you in your work. :D
@@ -2329,7 +2329,7 @@ app-emacs/headlong 20150417.1526: Reckless completion
 app-emacs/heaven-and-hell 20190713.1830: Easy toggle light/dark themes
 app-emacs/heex-ts-mode 20240113.1104: Major mode for Heex with tree-sitter support
 app-emacs/helix-theme 20240814.1212: Color theme inspired by Helix editor's default colors
-app-emacs/helm 20250225.833: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20250225.1446: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: Helm-sources and some utilities for GNU R
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: Helm source for Active Directory
@@ -2363,7 +2363,7 @@ app-emacs/helm-codesearch 20221219.1219: Helm interface for codesearch
 app-emacs/helm-comint 20231102.2029: Comint prompt navigation for helm
 app-emacs/helm-commandlinefu 20150611.545: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 20231113.701: Helm interface for company-mode
-app-emacs/helm-core 20250225.750: Development files for Helm
+app-emacs/helm-core 20250225.1446: Development files for Helm
 app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
@@ -3401,7 +3401,7 @@ app-emacs/minuet 20250218.526: Code completion using LLM
 app-emacs/mip-mode 20151127.617: Virtual projects for emacs
 app-emacs/mips-mode 20220608.1204: Major-mode for MIPS assembly
 app-emacs/mise 20250216.2030: Support for `mise' cli
-app-emacs/mistty 20250213.2203: Shell/Comint alternative based on term.el
+app-emacs/mistty 20250225.1739: Shell/Comint alternative based on term.el
 app-emacs/mix 20240122.720: Mix Major Mode. Build Elixir using Mix
 app-emacs/mixed-pitch 20210304.1900: Use a variable pitch, keeping fixed pitch where it's sensible
 app-emacs/mkdown 20140517.1418: Pretty Markdown previews based on mkdown.com
@@ -3748,7 +3748,7 @@ app-emacs/objed 20200911.1435: Navigate and edit text objects
 app-emacs/oblivion-theme 20240320.1152: A port of GEdit oblivion theme
 app-emacs/obsidian 20250220.2245: Obsidian Notes interface
 app-emacs/obsidian-theme 20170719.948: Port of the eclipse obsidian theme
-app-emacs/ocaml-eglot 20250124.1030: An OCaml companion for Eglot
+app-emacs/ocaml-eglot 20250225.1308: An OCaml companion for Eglot
 app-emacs/ocaml-ts-mode 20230820.1946: Major mode for OCaml using tree-sitter
 app-emacs/ocamlformat 20241202.1532: Utility functions to format ocaml code
 app-emacs/occidental-theme 20130312.1958: Custom theme for faces based on Adwaita
@@ -4060,7 +4060,7 @@ app-emacs/otama 20160404.1032: Org-table Manipulator
 app-emacs/other-emacs-eval 20180408.1348: Evaluate the Emacs Lisp expression in other Emacs
 app-emacs/otpp 20241212.2306: One tab per project, with unique names
 app-emacs/ouroboros 20230606.1150: Ouroboros network mini-protocol
-app-emacs/outline-indent 20250211.2022: Folding text based on indentation (origami alternative)
+app-emacs/outline-indent 20250225.1551: Folding text based on indentation (origami alternative)
 app-emacs/outline-magic 20180619.1819: Outline mode extensions for Emacs
 app-emacs/outline-minor-faces 20250101.1421: Highlight only section headings
 app-emacs/outline-toc 20200401.1208: Sidebar showing a "table of contents"
@@ -5339,7 +5339,7 @@ app-emacs/tomatinho 20180621.1748: Simple and beautiful pomodoro timer
 app-emacs/toml 20230411.1449: TOML (Tom's Obvious, Minimal Language) parser
 app-emacs/toml-mode 20161107.1800: Major mode for editing TOML files
 app-emacs/tommyh-theme 20131004.2330: A bright, bold-colored theme for emacs
-app-emacs/tomorrow-night-deepblue-theme 20250124.1956: The Tomorrow Night Deepblue color theme
+app-emacs/tomorrow-night-deepblue-theme 20250225.1311: The Tomorrow Night Deepblue color theme
 app-emacs/tongbu 20200414.507: A web server to share text or files between two devices
 app-emacs/topspace 20220824.134: Recenter line 1 with scrollable upper margin/padding
 app-emacs/topsy 20231214.843: Simple sticky header
