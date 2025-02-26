@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A dark theme with lambent color highlights and incremental grays"
 
-HOMEPAGE="https://codeberg.org/Nzgg/emacs-klere-theme"
+HOMEPAGE="https://github.com/tomenzgg/emacs-klere-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
