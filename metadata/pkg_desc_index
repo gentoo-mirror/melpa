@@ -525,7 +525,7 @@ app-emacs/chaos-mode 20221227.223: A major mode for the Chaos programming langua
 app-emacs/chapel-mode 20210513.457: A major mode for the Chapel programming language
 app-emacs/char-menu 20210321.1657: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 20200616.1418: Unicode table for Emacs
-app-emacs/chatgpt-shell 20250228.1402: A multi-LLM shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations
+app-emacs/chatgpt-shell 20250228.2131: A multi-LLM shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations
 app-emacs/chatu 20250114.505: Convert and insert any images to org-mode or markdown buffer
 app-emacs/chatwork 20240910.1531: ChatWork client for Emacs
 app-emacs/cheat-sh 20210607.1307: Interact with cheat.sh
@@ -809,7 +809,7 @@ app-emacs/contrast-color 20160903.1807: Pick best contrast color for you
 app-emacs/control-mode 20160624.1710: A "control" mode, similar to vim's "normal" mode
 app-emacs/cool-mode 20231026.456: Major mode for cool compiler language
 app-emacs/copilot 20250223.139: An unofficial Copilot plugin
-app-emacs/copilot-chat 20250227.825: Copilot chat interface
+app-emacs/copilot-chat 20250228.1744: Copilot chat interface
 app-emacs/copy-as-format 20231112.1710: Copy buffer locations as GitHub/Slack/JIRA etc... formatted code
 app-emacs/copy-file-on-save 20230402.1829: Copy file on save, automatic deployment it
 app-emacs/copyit 20241030.543: Copy it, yank anything!
@@ -930,7 +930,7 @@ app-emacs/daml-lsp 20231101.1818: LSP client definition for daml
 app-emacs/daml-mode 20231106.916: Major mode for daml
 app-emacs/danneskjold-theme 20241114.749: Beautiful high-contrast Emacs theme
 app-emacs/dante 20230808.658: Development mode for Haskell
-app-emacs/dap-mode 20250218.1822: Debug Adapter Protocol mode
+app-emacs/dap-mode 20250228.2153: Debug Adapter Protocol mode
 app-emacs/darcsum 20190316.2215: A pcl-cvs like interface for managing darcs patches
 app-emacs/darcula-theme 20171227.1845: Inspired by IntelliJ's Darcula theme
 app-emacs/dark-krystal-theme 20170808.1300: An Emacs 24 theme based on Dark Krystal (tmTheme)
@@ -1754,7 +1754,7 @@ app-emacs/fleetish-theme 20230407.1438: A take on the JetBrains Fleet theme
 app-emacs/flex-autopair 20120809.1218: Automatically insert pair braces and quotes, insertion conditions & actions are highly customizable
 app-emacs/flex-compile 20241018.2140: Run, evaluate and compile across many languages
 app-emacs/flex-isearch 20170308.2010: Flex matching (like ido) in isearch
-app-emacs/flexoki-themes 20250114.959: An inky color scheme for prose and code
+app-emacs/flexoki-themes 20250228.1934: An inky color scheme for prose and code
 app-emacs/flim 20241125.2201: Basic message representation and encoding features
 app-emacs/flimenu 20200810.1510: Flatten imenu automatically
 app-emacs/fliptext 20171124.2056: Input method for flipping characters upside down
@@ -3181,19 +3181,19 @@ app-emacs/lox-ts-mode 20240820.345: Major mode for Lox using tree-sitter
 app-emacs/lpy 20231026.1525: A lispy interface to Python
 app-emacs/lsp-cfn 20240112.921: LSP integration for cfn-lsp-extra
 app-emacs/lsp-dart 20241114.2005: Dart support lsp-mode
-app-emacs/lsp-docker 20240806.702: LSP Docker integration
+app-emacs/lsp-docker 20250228.2210: LSP Docker integration
 app-emacs/lsp-focus 20241119.1451: Focus.el support for lsp-mode
 app-emacs/lsp-grammarly 20250226.2340: LSP Clients for Grammarly
 app-emacs/lsp-haskell 20250216.1625: Haskell support for lsp-mode
 app-emacs/lsp-intellij 20180831.2051: Intellij lsp client
 app-emacs/lsp-ivy 20241119.1452: LSP ivy integration
-app-emacs/lsp-java 20240524.2207: Java support for lsp-mode
+app-emacs/lsp-java 20250228.2147: Java support for lsp-mode
 app-emacs/lsp-javacomp 20190124.1755: Provide Java IDE features powered by JavaComp
 app-emacs/lsp-jedi 20230824.1908: Lsp client plugin for Python Jedi Language Server
 app-emacs/lsp-julia 20230915.654: Julia support for lsp-mode
 app-emacs/lsp-latex 20250126.1416: LSP-mode client for LaTeX, on texlab
-app-emacs/lsp-ltex 20250222.1746: LSP Clients for LTEX
-app-emacs/lsp-metals 20250227.1615: Scala Client settings
+app-emacs/lsp-ltex 20250228.2215: LSP Clients for LTEX
+app-emacs/lsp-metals 20250228.2145: Scala Client settings
 app-emacs/lsp-mode 20250228.854: LSP mode
 app-emacs/lsp-mssql 20230510.1124: MSSQL LSP bindings
 app-emacs/lsp-origami 20230815.704: Origami.el support for lsp-mode
@@ -3208,7 +3208,7 @@ app-emacs/lsp-sonarlint 20240806.305: Emacs SonarLint lsp client
 app-emacs/lsp-sourcekit 20240905.218: Sourcekit-lsp client for lsp-mode
 app-emacs/lsp-tailwindcss 20241018.200: A lsp-mode client for tailwindcss
 app-emacs/lsp-treemacs 20240406.2141: LSP treemacs
-app-emacs/lsp-ui 20241204.1808: UI modules for lsp-mode
+app-emacs/lsp-ui 20250228.2155: UI modules for lsp-mode
 app-emacs/lte 20250112.2154: Large Table Edition in Org and Markdown buffers
 app-emacs/lua-mode 20231023.947: A major-mode for editing Lua scripts
 app-emacs/luarocks 20170430.2305: Luarocks tools
@@ -3291,7 +3291,7 @@ app-emacs/mark-thing-at 20250126.2020: Mark a pattern at the current point
 app-emacs/mark-tools 20130614.1025: Some simple tools to access the mark-ring in Emacs
 app-emacs/mark-yank 20231105.2027: Set region to the last yank
 app-emacs/markdown-changelog 20230805.1720: Maintain changelog entries
-app-emacs/markdown-mode 20250226.231: Major mode for Markdown-formatted text
+app-emacs/markdown-mode 20250228.1513: Major mode for Markdown-formatted text
 app-emacs/markdown-preview-eww 20160111.1502: Realtime preview by eww
 app-emacs/markdown-preview-mode 20230707.803: Markdown realtime preview minor mode
 app-emacs/markdown-soma 20240215.228: Live preview for Markdown
@@ -3401,7 +3401,7 @@ app-emacs/minuet 20250218.526: Code completion using LLM
 app-emacs/mip-mode 20151127.617: Virtual projects for emacs
 app-emacs/mips-mode 20220608.1204: Major-mode for MIPS assembly
 app-emacs/mise 20250216.2030: Support for `mise' cli
-app-emacs/mistty 20250225.1739: Shell/Comint alternative based on term.el
+app-emacs/mistty 20250228.1847: Shell/Comint alternative based on term.el
 app-emacs/mix 20240122.720: Mix Major Mode. Build Elixir using Mix
 app-emacs/mixed-pitch 20210304.1900: Use a variable pitch, keeping fixed pitch where it's sensible
 app-emacs/mkdown 20140517.1418: Pretty Markdown previews based on mkdown.com
@@ -3770,7 +3770,7 @@ app-emacs/olc 20200818.1221: Open location code library
 app-emacs/old-norse-input 20170816.1842: An input method for Old Norse
 app-emacs/oldlace-theme 20150705.1300: Emacs 24 theme with an 'oldlace' background
 app-emacs/olivetti 20241030.542: Minor mode to automatically balance window margins
-app-emacs/ollama-buddy 20250228.1443: Ollama Buddy: Your Friendly AI Assistant
+app-emacs/ollama-buddy 20250228.1527: Ollama Buddy: Your Friendly AI Assistant
 app-emacs/om-mode 20140915.2110: Insert Om component template with life cycle
 app-emacs/omni-kill 20171016.2140: Kill all the things
 app-emacs/omni-log 20200304.2229: Logging utilities
@@ -5339,7 +5339,7 @@ app-emacs/tomatinho 20180621.1748: Simple and beautiful pomodoro timer
 app-emacs/toml 20230411.1449: TOML (Tom's Obvious, Minimal Language) parser
 app-emacs/toml-mode 20161107.1800: Major mode for editing TOML files
 app-emacs/tommyh-theme 20131004.2330: A bright, bold-colored theme for emacs
-app-emacs/tomorrow-night-deepblue-theme 20250228.1431: The Tomorrow Night Deepblue color theme
+app-emacs/tomorrow-night-deepblue-theme 20250228.1557: The Tomorrow Night Deepblue color theme
 app-emacs/tongbu 20200414.507: A web server to share text or files between two devices
 app-emacs/topspace 20220824.134: Recenter line 1 with scrollable upper margin/padding
 app-emacs/topsy 20231214.843: Simple sticky header
@@ -5364,7 +5364,7 @@ app-emacs/tramp-term 20220725.1441: Automatic setup of directory tracking in ssh
 app-emacs/transducers 20250215.1046: Ergonomic, efficient data processing
 app-emacs/transfer-sh 20200601.1708: Simple interface for sending buffer contents to transfer.sh
 app-emacs/transform-symbol-at-point 20241202.1802: Transforming your symbols at point
-app-emacs/transient 20250227.2138: Transient commands
+app-emacs/transient 20250228.1901: Transient commands
 app-emacs/transient-dwim 20221225.1630: Useful preset transient commands
 app-emacs/transient-extras 20230721.839: Extra features for transient
 app-emacs/transient-extras-a2ps 20230303.1511: A transient interface to a2ps
