@@ -496,7 +496,7 @@ app-emacs/cbm 20171116.1240: Switch to similar buffers
 app-emacs/cbor 20230810.1653: CBOR utilities
 app-emacs/cc-cedict 20241221.1256: Interface to CC-CEDICT (a Chinese-English dictionary)
 app-emacs/ccc 20210501.820: Buffer local cursor color control library
-app-emacs/ccls 20240331.2132: Ccls client for lsp-mode
+app-emacs/ccls 20250301.131: Ccls client for lsp-mode
 app-emacs/cd-compile 20141108.1957: Run compile in a specific directory
 app-emacs/cdb 20230318.2152: Constant database (cdb) reader for Emacs Lisp
 app-emacs/cdlatex 20241007.1623: Fast input methods for LaTeX environments and math
@@ -526,7 +526,7 @@ app-emacs/chapel-mode 20210513.457: A major mode for the Chapel programming lang
 app-emacs/char-menu 20210321.1657: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 20200616.1418: Unicode table for Emacs
 app-emacs/chatgpt-shell 20250228.2131: A multi-LLM shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations
-app-emacs/chatu 20250114.505: Convert and insert any images to org-mode or markdown buffer
+app-emacs/chatu 20250301.319: Convert and insert any images to org-mode or markdown buffer
 app-emacs/chatwork 20240910.1531: ChatWork client for Emacs
 app-emacs/cheat-sh 20210607.1307: Interact with cheat.sh
 app-emacs/cheatsheet 20170126.2150: Create your own cheatsheet
@@ -809,7 +809,7 @@ app-emacs/contrast-color 20160903.1807: Pick best contrast color for you
 app-emacs/control-mode 20160624.1710: A "control" mode, similar to vim's "normal" mode
 app-emacs/cool-mode 20231026.456: Major mode for cool compiler language
 app-emacs/copilot 20250223.139: An unofficial Copilot plugin
-app-emacs/copilot-chat 20250228.1744: Copilot chat interface
+app-emacs/copilot-chat 20250228.2322: Copilot chat interface
 app-emacs/copy-as-format 20231112.1710: Copy buffer locations as GitHub/Slack/JIRA etc... formatted code
 app-emacs/copy-file-on-save 20230402.1829: Copy file on save, automatic deployment it
 app-emacs/copyit 20241030.543: Copy it, yank anything!
@@ -2230,7 +2230,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20250112.2218: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20250220.1735: Integrate with the OpenAI API
-app-emacs/gptel 20250227.938: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20250301.512: Interact with ChatGPT or other LLMs
 app-emacs/gptel-aibo 20250228.1407: An AI Writing Assistant
 app-emacs/gptel-fn-complete 20250219.1755: Complete the function at point using gptel
 app-emacs/gpx 20240609.2200: Major mode for GPX files
@@ -3184,7 +3184,7 @@ app-emacs/lsp-dart 20241114.2005: Dart support lsp-mode
 app-emacs/lsp-docker 20250228.2210: LSP Docker integration
 app-emacs/lsp-focus 20241119.1451: Focus.el support for lsp-mode
 app-emacs/lsp-grammarly 20250226.2340: LSP Clients for Grammarly
-app-emacs/lsp-haskell 20250216.1625: Haskell support for lsp-mode
+app-emacs/lsp-haskell 20250301.213: Haskell support for lsp-mode
 app-emacs/lsp-intellij 20180831.2051: Intellij lsp client
 app-emacs/lsp-ivy 20241119.1452: LSP ivy integration
 app-emacs/lsp-java 20250228.2147: Java support for lsp-mode
@@ -3195,19 +3195,19 @@ app-emacs/lsp-latex 20250126.1416: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20250228.2215: LSP Clients for LTEX
 app-emacs/lsp-metals 20250228.2145: Scala Client settings
 app-emacs/lsp-mode 20250228.854: LSP mode
-app-emacs/lsp-mssql 20230510.1124: MSSQL LSP bindings
+app-emacs/lsp-mssql 20250301.131: MSSQL LSP bindings
 app-emacs/lsp-origami 20230815.704: Origami.el support for lsp-mode
 app-emacs/lsp-pascal 20200422.1610: LSP client for Pascal
 app-emacs/lsp-pyre 20190406.335: Lsp-mode client for python using pyre
-app-emacs/lsp-pyright 20241102.1425: Python LSP client using Pyright
+app-emacs/lsp-pyright 20250301.131: Python LSP client using Pyright
 app-emacs/lsp-python-ms 20230731.1458: The lsp-mode client for Microsoft python-language-server
 app-emacs/lsp-rescript 20220314.1957: LSP client configuration for lsp-mode and rescript-vscode
 app-emacs/lsp-scheme 20230606.1722: Scheme support for lsp-mode
 app-emacs/lsp-shader 20250101.926: LSP Clients for ShaderLab
-app-emacs/lsp-sonarlint 20240806.305: Emacs SonarLint lsp client
-app-emacs/lsp-sourcekit 20240905.218: Sourcekit-lsp client for lsp-mode
+app-emacs/lsp-sonarlint 20250301.131: Emacs SonarLint lsp client
+app-emacs/lsp-sourcekit 20250301.131: Sourcekit-lsp client for lsp-mode
 app-emacs/lsp-tailwindcss 20241018.200: A lsp-mode client for tailwindcss
-app-emacs/lsp-treemacs 20240406.2141: LSP treemacs
+app-emacs/lsp-treemacs 20250301.131: LSP treemacs
 app-emacs/lsp-ui 20250228.2155: UI modules for lsp-mode
 app-emacs/lte 20250112.2154: Large Table Edition in Org and Markdown buffers
 app-emacs/lua-mode 20231023.947: A major-mode for editing Lua scripts
@@ -3234,7 +3234,7 @@ app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-mode 20250224.1430: Emacs major mode for Smallworld Magik files
-app-emacs/magit 20250227.2140: A Git porcelain inside Emacs
+app-emacs/magit 20250328.2210: A Git porcelain inside Emacs
 app-emacs/magit-annex 20240811.1850: Control git-annex from Magit
 app-emacs/magit-commit-mark 20241110.245: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -4928,7 +4928,7 @@ app-emacs/slack 20250221.2334: Slack client
 app-emacs/slideview 20250121.324: File slideshow
 app-emacs/slim-mode 20240513.2118: Major mode for editing Slim files
 app-emacs/slime 20250218.1312: Superior Lisp Interaction Mode for Emacs
-app-emacs/slime-company 20210124.1627: Slime completion backend for company mode
+app-emacs/slime-company 20250301.21: Slime completion backend for company mode
 app-emacs/slime-docker 20210426.1422: Integration of SLIME with Docker containers
 app-emacs/slime-repl-ansi-color 20230214.1453: Turn on ANSI colors in REPL output;
 app-emacs/slime-theme 20170808.1322: An Emacs 24 theme based on Slime (tmTheme)
