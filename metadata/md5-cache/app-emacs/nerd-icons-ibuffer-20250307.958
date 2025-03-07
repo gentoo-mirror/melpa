@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Tree Sitter support for Zig
+DEPEND=app-emacs/nerd-icons
+DESCRIPTION=Display nerd icons in ibuffer
 EAPI=8
-HOMEPAGE=https://codeberg.org/meow_king/zig-ts-mode
+HOMEPAGE=https://github.com/seagle0128/nerd-icons-ibuffer
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/nerd-icons >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/zig-ts-mode-20241026.1427.tar
+SRC_URI=https://melpa.org/packages/nerd-icons-ibuffer-20250307.958.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=7509137a316b9ea0c516d86cb14e6abb
+_md5_=6227c3dd2e567a7561760fb4d91b10db

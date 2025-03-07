@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/consult
-DESCRIPTION=Show git modified files with consult and vc
+DESCRIPTION=Call rifle(1) from dired
 EAPI=8
-HOMEPAGE=https://github.com/chmouel/consult-vc-modified-files
+HOMEPAGE=https://github.com/vifon/dired-rifle.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/consult >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/consult-vc-modified-files-20250226.2110.tar
+SRC_URI=https://melpa.org/packages/dired-rifle-20250307.130.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=3eeae28f84a8c49186a85c6f0b871b0d
+_md5_=3cefc137c9934907738b3b8a1f2d17e1
