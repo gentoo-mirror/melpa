@@ -788,7 +788,7 @@ app-emacs/consult-gh-embark 20250201.1318: Embark Actions for consult-gh
 app-emacs/consult-gh-forge 20250202.1941: Magit/Forge Integration for consult-gh
 app-emacs/consult-gh-with-pr-review 20250301.1917: "pr-review" Integration for consult-gh
 app-emacs/consult-ghq 20231111.1303: Ghq interface using consult
-app-emacs/consult-git-log-grep 20250116.1919: Consult integration for git log grep
+app-emacs/consult-git-log-grep 20250307.1159: Consult integration for git log grep
 app-emacs/consult-hatena-bookmark 20221125.109: Consult commands for the Hatena Bookmark
 app-emacs/consult-ls-git 20241023.1113: Consult integration for git
 app-emacs/consult-lsp 20250121.707: LSP-mode Consult integration
@@ -1090,7 +1090,7 @@ app-emacs/direx 20230409.1425: Simple Directory Explorer
 app-emacs/direx-grep 20140515.1506: Grep node of direx.el using incremental search like anything.el/helm.el
 app-emacs/dirtree 20140129.832: Directory tree views
 app-emacs/dirtree-prosjekt 20140129.904: Dirtree integration for prosjekt
-app-emacs/dirvish 20250307.1053: A modern file manager based on dired mode
+app-emacs/dirvish 20250307.1303: A modern file manager based on dired mode
 app-emacs/disable-mouse 20240604.900: Disable mouse commands globally
 app-emacs/disaster 20250302.1549: Disassemble C, C++ or Fortran code under cursor
 app-emacs/discourse 20160911.819: Discourse api
@@ -1275,7 +1275,7 @@ app-emacs/eglot-tempel 20241115.1110: Use tempel to expand snippets from eglot
 app-emacs/ego 20200803.1101: A static site generator based on org mode, forked from org-page
 app-emacs/eide 20250215.2014: IDE features
 app-emacs/eimp 20120826.2039: Emacs Image Manipulation Package
-app-emacs/ein 20230827.325: Jupyter notebook client
+app-emacs/ein 20250307.1731: Jupyter notebook client
 app-emacs/eink-theme 20190219.858: E Ink color theme
 app-emacs/ejc-sql 20241111.117: Emacs SQL client uses Clojure JDBC
 app-emacs/ejson-mode 20190720.2138: Major mode for editing ejson files
@@ -1285,7 +1285,7 @@ app-emacs/el-fly-indent-mode 20180422.243: Indent Emacs Lisp on the fly
 app-emacs/el-get 20240408.837: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 20150728.920: A loader inspired by init-loader
 app-emacs/el-init-viewer 20150303.828: Record viewer for el-init
-app-emacs/el-job 20250307.1038: Contrived way to call a function using all CPU cores
+app-emacs/el-job 20250307.1151: Contrived way to call a function using all CPU cores
 app-emacs/el-mock 20220625.1949: Tiny Mock and Stub framework in Emacs Lisp
 app-emacs/el-patch 20231123.2216: Future-proof your Elisp
 app-emacs/el-secretario 20220426.1905: Unify all your inboxes with the Emacs secretary
@@ -3145,7 +3145,7 @@ app-emacs/livereload 20170629.650: Livereload server
 app-emacs/livescript-mode 20221015.1316: Major mode for editing LiveScript files
 app-emacs/livid-mode 20131116.1344: Live browser eval of JavaScript every time a buffer changes
 app-emacs/ll-debug 20211002.1031: Low level debug tools
-app-emacs/llama 20250306.1919: Compact syntax for short lambda
+app-emacs/llama 20250307.1729: Compact syntax for short lambda
 app-emacs/llama-cpp 20240511.1039: A client for llama-cpp server
 app-emacs/llvm-ts-mode 20231120.1251: LLVM major mode using tree-sitter
 app-emacs/lms 20210820.2200: Squeezebox / Logitech Media Server frontend
@@ -3235,8 +3235,8 @@ app-emacs/madhat2r-theme 20170203.30: Dark color theme that is easy on the eyes
 app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
-app-emacs/magik-mode 20250305.904: Emacs major mode for Smallworld Magik files
-app-emacs/magit 20250302.1612: A Git porcelain inside Emacs
+app-emacs/magik-mode 20250307.1601: Emacs major mode for Smallworld Magik files
+app-emacs/magit 20250307.1746: A Git porcelain inside Emacs
 app-emacs/magit-annex 20240811.1850: Control git-annex from Magit
 app-emacs/magit-commit-mark 20241110.245: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3256,7 +3256,7 @@ app-emacs/magit-patch-changelog 20221209.123: Generate a patch according to emac
 app-emacs/magit-popup 20200719.1015: Define prefix-infix-suffix command combos
 app-emacs/magit-rbr 20181009.2016: Support for git rbr in Magit
 app-emacs/magit-reviewboard 20200727.1748: Show open Reviewboard reviews in Magit
-app-emacs/magit-section 20250301.2315: Sections for read-only buffers
+app-emacs/magit-section 20250307.1739: Sections for read-only buffers
 app-emacs/magit-stats 20230223.1819: Generates GIT Repo Statistics Report
 app-emacs/magit-stgit 20250215.2223: StGit extension for Magit
 app-emacs/magit-svn 20250210.1141: Git-Svn extension for Magit
@@ -3378,7 +3378,7 @@ app-emacs/migemo 20250228.324: Japanese incremental search through dynamic patte
 app-emacs/milkode 20140927.529: Command line search and direct jump with Milkode
 app-emacs/mimetypes 20201115.1605: Guess a file's mimetype by extension
 app-emacs/mindre-theme 20240610.2131: Minimal, light theme
-app-emacs/mindstream 20250306.58: Start writing, stay focused, don't worry
+app-emacs/mindstream 20250307.1736: Start writing, stay focused, don't worry
 app-emacs/minesweeper 20200416.2342: Play minesweeper in Emacs
 app-emacs/mingus 20230518.1726: MPD Interface
 app-emacs/mini-echo 20250216.1955: Echo buffer status in minibuffer window
@@ -3403,7 +3403,7 @@ app-emacs/minuet 20250306.2114: Code completion using LLM
 app-emacs/mip-mode 20151127.617: Virtual projects for emacs
 app-emacs/mips-mode 20220608.1204: Major-mode for MIPS assembly
 app-emacs/mise 20250216.2030: Support for `mise' cli
-app-emacs/mistty 20250306.2300: Shell/Comint alternative based on term.el
+app-emacs/mistty 20250307.1753: Shell/Comint alternative based on term.el
 app-emacs/mix 20240122.720: Mix Major Mode. Build Elixir using Mix
 app-emacs/mixed-pitch 20210304.1900: Use a variable pitch, keeping fixed pitch where it's sensible
 app-emacs/mkdown 20140517.1418: Pretty Markdown previews based on mkdown.com
@@ -3480,7 +3480,7 @@ app-emacs/mpdel-embark 20230103.2021: Integrate MPDel with Embark
 app-emacs/mpdmacs 20240917.310: A lightweight MPD client
 app-emacs/mpmc-queue 20180303.2029: A multiple-producer-multiple-consumer queue
 app-emacs/mpv 20241121.2308: Control mpv for easy note-taking
-app-emacs/mpvi 20250307.1128: Media tool based on EMMS and MPV
+app-emacs/mpvi 20250307.1610: Media tool based on EMMS and MPV
 app-emacs/mqr 20180527.1204: Multi-dimensional query and replace
 app-emacs/mqtt-mode 20180611.1735: Client for interaction with MQTT servers
 app-emacs/msgpack 20200323.515: Read and write MessagePack object
@@ -3773,7 +3773,7 @@ app-emacs/olc 20200818.1221: Open location code library
 app-emacs/old-norse-input 20170816.1842: An input method for Old Norse
 app-emacs/oldlace-theme 20150705.1300: Emacs 24 theme with an 'oldlace' background
 app-emacs/olivetti 20241030.542: Minor mode to automatically balance window margins
-app-emacs/ollama-buddy 20250307.1146: Ollama Buddy: Your Friendly AI Assistant
+app-emacs/ollama-buddy 20250307.1336: Ollama Buddy: Your Friendly AI Assistant
 app-emacs/om-mode 20140915.2110: Insert Om component template with life cycle
 app-emacs/omni-kill 20171016.2140: Kill all the things
 app-emacs/omni-log 20200304.2229: Logging utilities
@@ -3855,7 +3855,7 @@ app-emacs/org-context 20220606.1339: Contextual capture and agenda commands for 
 app-emacs/org-cua-dwim 20120203.534: Org-mode and Cua mode compatibility layer
 app-emacs/org-custom-cookies 20240414.44: Custom cookies for org-mode
 app-emacs/org-d20 20240726.255: Minor mode for d20 tabletop roleplaying games
-app-emacs/org-daily-reflection 20250303.347: Concurrent display of org(-roam) dailies
+app-emacs/org-daily-reflection 20250307.1733: Concurrent display of org(-roam) dailies
 app-emacs/org-dashboard 20171223.1924: Visually summarize progress in org files
 app-emacs/org-doing 20161017.1620: Keep track of what you're doing
 app-emacs/org-dotemacs 20211126.2038: Store your emacs config as an org file, and choose which bits to load
@@ -4255,7 +4255,7 @@ app-emacs/php-quickhelp 20210819.2025: Quickhelp at point for php
 app-emacs/php-refactor-mode 20171124.635: Minor mode to quickly and safely perform common refactorings
 app-emacs/php-runtime 20241024.1622: Language binding bridge to PHP
 app-emacs/php-scratch 20210706.459: A scratch buffer to interactively evaluate php code
-app-emacs/phpactor 20250112.201: Interface to Phpactor
+app-emacs/phpactor 20250307.1931: Interface to Phpactor
 app-emacs/phpstan 20241107.408: Interface to PHPStan
 app-emacs/phpt-mode 20190512.1809: Major mode for editing PHPT test code
 app-emacs/phpunit 20230801.1523: Launch PHP unit tests using phpunit
@@ -5110,7 +5110,7 @@ app-emacs/sticky 20170926.36: Sticky key for capital letters
 app-emacs/sticky-scroll-mode 20241213.1543: Sticky scrolling
 app-emacs/sticky-shell 20240928.427: Minor mode to keep track of previous prompt in your shell
 app-emacs/stickyfunc-enhance 20150429.1814: An enhancement to stock `semantic-stickyfunc-mode'
-app-emacs/stillness-mode 20250126.2133: Prevent windows from jumping on minibuffer activation
+app-emacs/stillness-mode 20250307.1608: Prevent windows from jumping on minibuffer activation
 app-emacs/stimmung-themes 20241030.823: Themes tuned to inner harmonies
 app-emacs/stock-ticker 20150204.1052: Show stock prices in mode line
 app-emacs/stock-tracker 20250206.814: Track stock price
@@ -5343,7 +5343,7 @@ app-emacs/tomatinho 20180621.1748: Simple and beautiful pomodoro timer
 app-emacs/toml 20230411.1449: TOML (Tom's Obvious, Minimal Language) parser
 app-emacs/toml-mode 20161107.1800: Major mode for editing TOML files
 app-emacs/tommyh-theme 20131004.2330: A bright, bold-colored theme for emacs
-app-emacs/tomorrow-night-deepblue-theme 20250302.307: The Tomorrow Night Deepblue color theme
+app-emacs/tomorrow-night-deepblue-theme 20250307.2015: The Tomorrow Night Deepblue color theme
 app-emacs/tongbu 20200414.507: A web server to share text or files between two devices
 app-emacs/topspace 20220824.134: Recenter line 1 with scrollable upper margin/padding
 app-emacs/topsy 20231214.843: Simple sticky header
