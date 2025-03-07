@@ -525,7 +525,7 @@ app-emacs/chaos-mode 20221227.223: A major mode for the Chaos programming langua
 app-emacs/chapel-mode 20210513.457: A major mode for the Chapel programming language
 app-emacs/char-menu 20210321.1657: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 20200616.1418: Unicode table for Emacs
-app-emacs/chatgpt-shell 20250306.1140: A multi-LLM shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations
+app-emacs/chatgpt-shell 20250307.822: A multi-LLM shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations
 app-emacs/chatu 20250301.319: Convert and insert any images to org-mode or markdown buffer
 app-emacs/chatwork 20240910.1531: ChatWork client for Emacs
 app-emacs/cheat-sh 20210607.1307: Interact with cheat.sh
@@ -801,7 +801,7 @@ app-emacs/consult-recoll 20250205.1712: Recoll queries using consult
 app-emacs/consult-spotify 20211114.2258: Spotify queries using consult
 app-emacs/consult-tex 20250306.1724: Consult powered completion for tex
 app-emacs/consult-todo 20250201.1342: Search hl-todo keywords in consult
-app-emacs/consult-vc-modified-files 20250226.2110: Show git modified files with consult and vc
+app-emacs/consult-vc-modified-files 20250307.905: Show git modified files with consult and vc
 app-emacs/consult-yasnippet 20240314.1838: A consulting-read interface for yasnippet
 app-emacs/context-transient 20240530.1344: Context specific transients
 app-emacs/contextual 20180726.800: Contextual profile management system
@@ -1072,7 +1072,7 @@ app-emacs/dired-quick-sort 20250212.2155: Persistent quick sorting of Dired buff
 app-emacs/dired-rainbow 20240629.1857: Extended file highlighting according to its type
 app-emacs/dired-ranger 20240629.1857: Implementation of useful ranger features for dired
 app-emacs/dired-recent 20211004.1924: Dired visited paths history
-app-emacs/dired-rifle 20210316.1452: Call rifle(1) from dired
+app-emacs/dired-rifle 20250307.130: Call rifle(1) from dired
 app-emacs/dired-rmjunk 20191007.1232: A home directory cleanup utility for Dired
 app-emacs/dired-rsync 20230822.1350: Allow rsync from dired buffers
 app-emacs/dired-rsync-transient 20230714.1459: Transient command for dired-rsync
@@ -1090,7 +1090,7 @@ app-emacs/direx 20230409.1425: Simple Directory Explorer
 app-emacs/direx-grep 20140515.1506: Grep node of direx.el using incremental search like anything.el/helm.el
 app-emacs/dirtree 20140129.832: Directory tree views
 app-emacs/dirtree-prosjekt 20140129.904: Dirtree integration for prosjekt
-app-emacs/dirvish 20250306.1300: A modern file manager based on dired mode
+app-emacs/dirvish 20250307.1053: A modern file manager based on dired mode
 app-emacs/disable-mouse 20240604.900: Disable mouse commands globally
 app-emacs/disaster 20250302.1549: Disassemble C, C++ or Fortran code under cursor
 app-emacs/discourse 20160911.819: Discourse api
@@ -1285,7 +1285,7 @@ app-emacs/el-fly-indent-mode 20180422.243: Indent Emacs Lisp on the fly
 app-emacs/el-get 20240408.837: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 20150728.920: A loader inspired by init-loader
 app-emacs/el-init-viewer 20150303.828: Record viewer for el-init
-app-emacs/el-job 20250306.1343: Contrived way to call a function using all CPU cores
+app-emacs/el-job 20250307.1038: Contrived way to call a function using all CPU cores
 app-emacs/el-mock 20220625.1949: Tiny Mock and Stub framework in Emacs Lisp
 app-emacs/el-patch 20231123.2216: Future-proof your Elisp
 app-emacs/el-secretario 20220426.1905: Unify all your inboxes with the Emacs secretary
@@ -2232,7 +2232,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20250301.2043: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20250220.1735: Integrate with the OpenAI API
-app-emacs/gptel 20250306.310: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20250307.803: Interact with ChatGPT or other LLMs
 app-emacs/gptel-aibo 20250306.1405: An AI Writing Assistant
 app-emacs/gptel-fn-complete 20250219.1755: Complete the function at point using gptel
 app-emacs/gpx 20240609.2200: Major mode for GPX files
@@ -2262,7 +2262,7 @@ app-emacs/gregorio-mode 20170705.1451: Gregorio Mode for .gabc files
 app-emacs/grep-a-lot 20210618.1420: Manages multiple search results buffers for grep.el
 app-emacs/grey-paper-theme 20230415.1115: A greyscale theme with look-n-feel of an eink display
 app-emacs/greymatters-theme 20150621.1123: Emacs 24 theme with a light background
-app-emacs/grip-mode 20250224.329: Instant GitHub-flavored Markdown/Org preview using grip
+app-emacs/grip-mode 20250307.1011: Instant GitHub-flavored Markdown/Org preview using grip
 app-emacs/grizzl 20160818.737: Fast fuzzy search index for Emacs
 app-emacs/groovy-imports 20210505.1807: Code for dealing with Groovy imports
 app-emacs/groovy-mode 20230318.533: Major mode for Groovy source files
@@ -3399,11 +3399,11 @@ app-emacs/minizinc-ts-mode 20241227.1909: Major mode for the MiniZinc constraint
 app-emacs/minor-mode-hack 20170926.34: Change priority of minor-mode keymaps
 app-emacs/minsk-theme 20200306.1220: Minsk, a theme in deep muted greens
 app-emacs/mint-mode 20221031.411: Major mode for the Mint programming language
-app-emacs/minuet 20250303.235: Code completion using LLM
+app-emacs/minuet 20250306.2114: Code completion using LLM
 app-emacs/mip-mode 20151127.617: Virtual projects for emacs
 app-emacs/mips-mode 20220608.1204: Major-mode for MIPS assembly
 app-emacs/mise 20250216.2030: Support for `mise' cli
-app-emacs/mistty 20250306.1930: Shell/Comint alternative based on term.el
+app-emacs/mistty 20250306.2300: Shell/Comint alternative based on term.el
 app-emacs/mix 20240122.720: Mix Major Mode. Build Elixir using Mix
 app-emacs/mixed-pitch 20210304.1900: Use a variable pitch, keeping fixed pitch where it's sensible
 app-emacs/mkdown 20140517.1418: Pretty Markdown previews based on mkdown.com
@@ -3480,7 +3480,7 @@ app-emacs/mpdel-embark 20230103.2021: Integrate MPDel with Embark
 app-emacs/mpdmacs 20240917.310: A lightweight MPD client
 app-emacs/mpmc-queue 20180303.2029: A multiple-producer-multiple-consumer queue
 app-emacs/mpv 20241121.2308: Control mpv for easy note-taking
-app-emacs/mpvi 20250217.830: Media tool based on EMMS and MPV
+app-emacs/mpvi 20250307.1128: Media tool based on EMMS and MPV
 app-emacs/mqr 20180527.1204: Multi-dimensional query and replace
 app-emacs/mqtt-mode 20180611.1735: Client for interaction with MQTT servers
 app-emacs/msgpack 20200323.515: Read and write MessagePack object
@@ -3566,12 +3566,12 @@ app-emacs/neil 20241209.1218: Companion for Babashka Neil
 app-emacs/nemerle 20161029.2023: Major mode for editing nemerle programs
 app-emacs/neon-mode 20241220.1304: Simple major mode for editing neon files
 app-emacs/neotree 20240721.233: A tree plugin like NerdTree for Vim
-app-emacs/nerd-icons 20250305.618: Emacs Nerd Font Icons Library
+app-emacs/nerd-icons 20250307.804: Emacs Nerd Font Icons Library
 app-emacs/nerd-icons-completion 20241221.1846: Add icons to completion candidates
 app-emacs/nerd-icons-corfu 20250226.1715: Icons for Corfu via nerd-icons
 app-emacs/nerd-icons-dired 20241013.212: Shows icons for each file in dired mode
-app-emacs/nerd-icons-ibuffer 20230417.1549: Display nerd icons in ibuffer
-app-emacs/nerd-icons-ivy-rich 20230721.357: Excellent experience with nerd icons for ivy/counsel
+app-emacs/nerd-icons-ibuffer 20250307.958: Display nerd icons in ibuffer
+app-emacs/nerd-icons-ivy-rich 20250307.1005: Excellent experience with nerd icons for ivy/counsel
 app-emacs/nerdtab 20180811.339: Keyboard-oriented tabs
 app-emacs/netease-music 20210411.603: Listen netease music
 app-emacs/netherlands-holidays 20150202.1617: Netherlands holidays for Emacs calendar
@@ -3594,7 +3594,7 @@ app-emacs/night-owl-theme 20250224.1841: A color theme for the night owls out th
 app-emacs/nikki 20210228.428: A simple diary mode
 app-emacs/nikola 20170703.2021: Simple wrapper for nikola
 app-emacs/nim-mode 20240220.1033: A major mode for the Nim programming language
-app-emacs/nimbus-theme 20250306.232: Nimbus dark theme
+app-emacs/nimbus-theme 20250307.659: Nimbus dark theme
 app-emacs/ninja-mode 20241103.1737: Major mode for editing .ninja files
 app-emacs/nix-buffer 20180212.1518: Set up buffer environments with nix
 app-emacs/nix-env-install 20200812.1305: Install packages using nix-env
@@ -3773,7 +3773,7 @@ app-emacs/olc 20200818.1221: Open location code library
 app-emacs/old-norse-input 20170816.1842: An input method for Old Norse
 app-emacs/oldlace-theme 20150705.1300: Emacs 24 theme with an 'oldlace' background
 app-emacs/olivetti 20241030.542: Minor mode to automatically balance window margins
-app-emacs/ollama-buddy 20250306.1810: Ollama Buddy: Your Friendly AI Assistant
+app-emacs/ollama-buddy 20250307.1146: Ollama Buddy: Your Friendly AI Assistant
 app-emacs/om-mode 20140915.2110: Insert Om component template with life cycle
 app-emacs/omni-kill 20171016.2140: Kill all the things
 app-emacs/omni-log 20200304.2229: Logging utilities
@@ -3921,8 +3921,8 @@ app-emacs/org-multi-wiki 20210324.1820: Multiple wikis based on Org mode
 app-emacs/org-multiple-keymap 20191017.1920: Set keymap to elements, such as timestamp and priority
 app-emacs/org-newtab 20240227.155: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 20240603.859: Org local nix-shell
-app-emacs/org-node 20250306.1904: Fast org-roam replacement
-app-emacs/org-node-fakeroam 20250305.1347: Stand-ins for org-roam-autosync-mode
+app-emacs/org-node 20250306.2140: Fast org-roam replacement
+app-emacs/org-node-fakeroam 20250306.2208: Stand-ins for org-roam-autosync-mode
 app-emacs/org-notebook 20170322.452: Ease the use of org-mode as a notebook
 app-emacs/org-noter 20240918.1703: A synchronized, Org-mode, document annotator
 app-emacs/org-noter-pdftools 20230725.1433: Integration between org-pdftools and org-noter
@@ -4132,8 +4132,8 @@ app-emacs/pack 20191017.456: Pack and unpack archive files
 app-emacs/package+ 20230805.2115: Extensions for the package library
 app-emacs/package-build 20250224.2129: Tools for assembling a package archive
 app-emacs/package-filter 20161122.719: Package archive whitelist and blacklist
-app-emacs/package-lint 20250303.1353: A linting library for elisp package authors
-app-emacs/package-lint-flymake 20240923.931: A package-lint Flymake backend
+app-emacs/package-lint 20250307.912: A linting library for elisp package authors
+app-emacs/package-lint-flymake 20250307.912: A package-lint Flymake backend
 app-emacs/package-loading-notifier 20230809.446: Notify a package is being loaded
 app-emacs/package-utils 20250106.1354: Extensions for package.el
 app-emacs/pacmacs 20220106.2248: Pacman for Emacs
@@ -4462,7 +4462,7 @@ app-emacs/puni 20241007.1609: Parentheses Universalistic
 app-emacs/punpun-themes 20240929.2238: A set of bleak themes
 app-emacs/puppet-mode 20210305.645: Major mode for Puppet manifests
 app-emacs/puppet-ts-mode 20250226.723: Major mode for Puppet using Tree-sitter
-app-emacs/purescript-mode 20250228.410: A PureScript editing mode
+app-emacs/purescript-mode 20250307.416: A PureScript editing mode
 app-emacs/purp-theme 20210912.1940: A dark color theme with few colors
 app-emacs/purple-haze-theme 20141015.229: An overtly purple color theme for Emacs24
 app-emacs/purty-mode 20131004.2259: Safely pretty-print greek letters, mathematical symbols, or anything else
@@ -5833,7 +5833,7 @@ app-emacs/zetteldesk-remark 20230517.2020: Org-Remark integration for zetteldesk
 app-emacs/zettelkasten 20240517.1319: Helper functions to organise notes in a Zettelkasten style
 app-emacs/zetz-mode 20200823.536: A major mode for the ZetZ programming language
 app-emacs/zig-mode 20241104.1624: A major mode for the Zig programming language
-app-emacs/zig-ts-mode 20241026.1427: Tree Sitter support for Zig
+app-emacs/zig-ts-mode 20250307.505: Tree Sitter support for Zig
 app-emacs/zim-wiki-mode 20241020.2315: Zim Desktop Wiki edit mode
 app-emacs/zimports 20211011.2059: Reformat python imports with zimports
 app-emacs/zk 20241205.926: Functions for working with Zettelkasten-style linked notes
