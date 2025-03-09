@@ -152,7 +152,7 @@ app-emacs/aozora-view 20140310.1317: Aozora Bunko text Emacs viewer
 app-emacs/apache-mode 20210519.1931: Major mode for editing Apache httpd configuration files
 app-emacs/apdl-mode 20211023.1831: Major mode for the APDL programming language
 app-emacs/apel 20241127.1623: Support for portable Emacs Lisp programs
-app-emacs/apheleia 20250304.2044: Reformat buffer stably
+app-emacs/apheleia 20250308.1920: Reformat buffer stably
 app-emacs/apib-mode 20200101.1017: Major mode for API Blueprint files
 app-emacs/apiwrap 20180602.2231: Api-wrapping macros
 app-emacs/app-monochrome-themes 20241110.1142: Low contrast monochrome themes
@@ -181,7 +181,7 @@ app-emacs/asilea 20150105.1525: Find best compiler options using simulated annea
 app-emacs/asm-blox 20240106.1930: Programming game involving WAT
 app-emacs/asn1-mode 20170729.226: ASN.1/GDMO mode for GNU Emacs
 app-emacs/assess 20240303.1454: Test support functions
-app-emacs/astro-ts-mode 20241230.256: Major mode for editing Astro templates
+app-emacs/astro-ts-mode 20250308.2341: Major mode for editing Astro templates
 app-emacs/astute 20241015.444: A minor mode to redisplay `smart' typography
 app-emacs/astyle 20200328.616: Astyle formatter functions
 app-emacs/asx 20191024.1100: Ask StackExchange/StackOverflow
@@ -525,7 +525,7 @@ app-emacs/chaos-mode 20221227.223: A major mode for the Chaos programming langua
 app-emacs/chapel-mode 20210513.457: A major mode for the Chapel programming language
 app-emacs/char-menu 20210321.1657: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 20200616.1418: Unicode table for Emacs
-app-emacs/chatgpt-shell 20250307.822: A multi-LLM shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations
+app-emacs/chatgpt-shell 20250308.1556: A multi-LLM shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations
 app-emacs/chatu 20250301.319: Convert and insert any images to org-mode or markdown buffer
 app-emacs/chatwork 20240910.1531: ChatWork client for Emacs
 app-emacs/cheat-sh 20210607.1307: Interact with cheat.sh
@@ -583,7 +583,7 @@ app-emacs/clang-format 20250223.1620: Format code using clang-format
 app-emacs/clang-format+ 20190824.2216: Minor mode for automatic clang-format application
 app-emacs/clang-format-lite 20240708.223: Format code on-save with clang-format, supports remote files
 app-emacs/claude-shell 20241130.2024: Integration with Anthropic's Claude LLM
-app-emacs/claudia 20241216.2112: Claude AI integration
+app-emacs/claudia 20250308.2212: Claude AI integration
 app-emacs/clause 20241020.1144: Functions to move, mark, kill by clause
 app-emacs/clay 20240409.1321: Emacs commands Clay - literate in Clojure
 app-emacs/clean-aindent-mode 20171017.2043: Simple indent and unindent, trims indent white-space
@@ -618,7 +618,7 @@ app-emacs/clojure-mode 20241211.1522: Major mode for Clojure code
 app-emacs/clojure-mode-extra-font-locking 20240526.1824: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 20150814.736: Quickly create Clojure and ClojureScript repls for a project
 app-emacs/clojure-snippets 20241226.1639: Yasnippets for clojure
-app-emacs/clojure-ts-mode 20250307.1949: Major mode for Clojure code
+app-emacs/clojure-ts-mode 20250308.1835: Major mode for Clojure code
 app-emacs/clomacs 20220415.1035: Simplifies Emacs Lisp interaction with Clojure
 app-emacs/closql 20250301.2221: Store EIEIO objects using EmacSQL
 app-emacs/closure-lint-mode 20101118.2124: Minor mode for the Closure Linter
@@ -753,7 +753,7 @@ app-emacs/company-ycm 20140904.1817: Company-ycm
 app-emacs/company-ycmd 20180520.1053: Company-mode backend for ycmd
 app-emacs/compdef 20200304.611: A local completion definer
 app-emacs/competitive-programming-snippets 20201115.1702: Competitive Programming snippets for yasnippet
-app-emacs/compile-angel 20250308.343: Automatically Compile Elisp files (auto-compile alternative)
+app-emacs/compile-angel 20250308.2152: Automatically Compile Elisp files (auto-compile alternative)
 app-emacs/compile-multi 20250101.2156: A multi target interface to compile
 app-emacs/compile-multi-all-the-icons 20250101.2156: Affixate `compile-multi' with icons
 app-emacs/compile-multi-embark 20250101.2156: Integration for `compile-multi' and `embark'
@@ -1090,7 +1090,7 @@ app-emacs/direx 20230409.1425: Simple Directory Explorer
 app-emacs/direx-grep 20140515.1506: Grep node of direx.el using incremental search like anything.el/helm.el
 app-emacs/dirtree 20140129.832: Directory tree views
 app-emacs/dirtree-prosjekt 20140129.904: Dirtree integration for prosjekt
-app-emacs/dirvish 20250308.1202: A modern file manager based on dired mode
+app-emacs/dirvish 20250308.1326: A modern file manager based on dired mode
 app-emacs/disable-mouse 20240604.900: Disable mouse commands globally
 app-emacs/disaster 20250302.1549: Disassemble C, C++ or Fortran code under cursor
 app-emacs/discourse 20160911.819: Discourse api
@@ -1221,7 +1221,7 @@ app-emacs/easy-jekyll 20211217.2311: Major mode managing jekyll blogs
 app-emacs/easy-kill 20220511.557: Kill & mark things easily
 app-emacs/easy-kill-extras 20240122.1649: Extra functions for easy-kill
 app-emacs/easy-repeat 20150516.848: Repeat easily
-app-emacs/easysession 20250303.1058: Persist and restore your sessions (desktop.el alternative)
+app-emacs/easysession 20250308.2208: Persist and restore your sessions (desktop.el alternative)
 app-emacs/ebdb-mua-sidecar 20240428.1852: EBDB Integration for Universal Sidecar
 app-emacs/ebf 20210225.1211: Brainfuck language transpiler to Emacs Lisp
 app-emacs/ebib 20250222.1322: A BibTeX database manager
@@ -1549,7 +1549,7 @@ app-emacs/evalator-clojure 20160208.2148: Clojure evaluation context for evalato
 app-emacs/evangelion-theme 20241116.1036: A dark colour scheme inspired by Neon Genesis Evangelion
 app-emacs/eve-mode 20170822.2231: Major mode for editing Eve documents
 app-emacs/evedel 20250303.1213: Instructed LLM programmer/assistant
-app-emacs/evenok 20250204.2341: Themes with perceptively evenly distributed colors
+app-emacs/evenok 20250309.138: Themes with perceptively evenly distributed colors
 app-emacs/everlasting-scratch 20250206.628: The *scratch* that lasts forever
 app-emacs/evil 20250302.655: Extensible vi layer
 app-emacs/evil-anzu 20220911.1939: Anzu for evil-mode
@@ -2232,7 +2232,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20250301.2043: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20250220.1735: Integrate with the OpenAI API
-app-emacs/gptel 20250307.803: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20250309.52: Interact with ChatGPT or other LLMs
 app-emacs/gptel-aibo 20250306.1405: An AI Writing Assistant
 app-emacs/gptel-fn-complete 20250219.1755: Complete the function at point using gptel
 app-emacs/gpx 20240609.2200: Major mode for GPX files
@@ -2821,7 +2821,7 @@ app-emacs/ivy-ycmd 20180909.1225: Ivy interface to ycmd
 app-emacs/ivy-youtube 20230503.1509: Query YouTube and play videos in your browser
 app-emacs/ix 20131027.1657: Emacs client for http://ix.io pastebin
 app-emacs/j-mode 20240920.1706: Major mode for editing J programs
-app-emacs/jabber 20250303.2114: A minimal Jabber client
+app-emacs/jabber 20250309.531: A minimal Jabber client
 app-emacs/jack 20221122.632: HTML generator library
 app-emacs/jack-connect 20220201.1417: Manage jack connections within Emacs
 app-emacs/jack-ts-mode 20231110.1615: Major mode for jack buffers using tree-sitter
@@ -3566,7 +3566,7 @@ app-emacs/neil 20241209.1218: Companion for Babashka Neil
 app-emacs/nemerle 20161029.2023: Major mode for editing nemerle programs
 app-emacs/neon-mode 20241220.1304: Simple major mode for editing neon files
 app-emacs/neotree 20240721.233: A tree plugin like NerdTree for Vim
-app-emacs/nerd-icons 20250307.804: Emacs Nerd Font Icons Library
+app-emacs/nerd-icons 20250308.1335: Emacs Nerd Font Icons Library
 app-emacs/nerd-icons-completion 20241221.1846: Add icons to completion candidates
 app-emacs/nerd-icons-corfu 20250226.1715: Icons for Corfu via nerd-icons
 app-emacs/nerd-icons-dired 20241013.212: Shows icons for each file in dired mode
@@ -3902,7 +3902,7 @@ app-emacs/org-kanban 20250115.2301: Kanban dynamic block for org-mode
 app-emacs/org-kindle 20220210.1408: Send org link file to ebook reader
 app-emacs/org-latex-impatient 20221111.623: Preview org-latex Fragments Instantly via MathJax
 app-emacs/org-linenote 20241231.616: A package inspired by VSCode Linenote
-app-emacs/org-link-beautify 20250303.1709: Beautify Org Links
+app-emacs/org-link-beautify 20250309.431: Beautify Org Links
 app-emacs/org-link-travis 20140405.2327: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 20200112.2235: Org-mode link selector
 app-emacs/org-listcruncher 20210706.1741: Planning tool - Parse Org mode lists into table
@@ -3921,7 +3921,7 @@ app-emacs/org-multi-wiki 20210324.1820: Multiple wikis based on Org mode
 app-emacs/org-multiple-keymap 20191017.1920: Set keymap to elements, such as timestamp and priority
 app-emacs/org-newtab 20240227.155: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 20240603.859: Org local nix-shell
-app-emacs/org-node 20250308.1008: Fast org-roam replacement
+app-emacs/org-node 20250308.2150: Fast org-roam replacement
 app-emacs/org-node-fakeroam 20250306.2208: Stand-ins for org-roam-autosync-mode
 app-emacs/org-notebook 20170322.452: Ease the use of org-mode as a notebook
 app-emacs/org-noter 20240918.1703: A synchronized, Org-mode, document annotator
@@ -4879,7 +4879,7 @@ app-emacs/show-font-mode 20201225.2217: Show font at point on mode line
 app-emacs/showtip 20090830.1040: Show tip at cursor
 app-emacs/shpec-mode 20150530.922: Minor mode for shpec specification
 app-emacs/shr-tag-pre-highlight 20240515.1420: Syntax highlighting code block in HTML
-app-emacs/shrface 20250216.822: Extend shr/eww with org features and analysis capability
+app-emacs/shrface 20250308.1630: Extend shr/eww with org features and analysis capability
 app-emacs/shrink-path 20190208.1335: Fish-style path
 app-emacs/shrink-whitespace 20181003.321: Whitespace removal DWIM key
 app-emacs/shroud 20210220.1952: Shroud secrets
