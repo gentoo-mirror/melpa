@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Pcomplete for homebrew"
 
-HOMEPAGE="https://github.com/zwild/pcmpl-homebrew"
+HOMEPAGE="https://github.com/suzzvv/pcmpl-homebrew"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
