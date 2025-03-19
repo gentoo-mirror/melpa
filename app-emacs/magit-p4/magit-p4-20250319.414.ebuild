@@ -19,8 +19,10 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/magit
-	app-emacs/magit-popup
-	app-emacs/p4"
+	app-emacs/transient
+	app-emacs/p4
+	app-emacs/with-editor"
 RDEPEND="app-emacs/magit
-	app-emacs/magit-popup
-	app-emacs/p4"
+	app-emacs/transient
+	app-emacs/p4
+	app-emacs/with-editor"
