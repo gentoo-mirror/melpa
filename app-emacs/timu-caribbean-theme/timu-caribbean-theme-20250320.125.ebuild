@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Color theme with cyan as a dominant color"
+DESCRIPTION="Color theme with cyan/coral as a dominant color"
 
 HOMEPAGE="https://gitlab.com/aimebertrand/timu-caribbean-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
