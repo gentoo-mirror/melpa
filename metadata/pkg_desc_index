@@ -87,7 +87,7 @@ app-emacs/ahg 20241113.748: Alberto's Emacs interface for Mercurial (Hg)
 app-emacs/ahk-mode 20200412.1832: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 20180131.328: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
 app-emacs/aider 20250325.327: Interact with Aider: AI pair programming made simple
-app-emacs/aidermacs 20250325.732: AI pair programming with Aider
+app-emacs/aidermacs 20250325.1543: AI pair programming with Aider
 app-emacs/aiken-mode 20230920.1210: Major mode for Aiken
 app-emacs/airline-themes 20240530.1704: Vim-airline themes for emacs powerline
 app-emacs/airplay 20130212.1226: Airplay bindings to Emacs
@@ -144,7 +144,7 @@ app-emacs/annoying-arrows-mode 20161024.646: Ring the bell if using arrows too m
 app-emacs/ansi 20230306.1823: Turn string into ansi strings
 app-emacs/ansible 20250222.1816: Ansible minor mode
 app-emacs/ansible-doc 20160924.824: Ansible documentation Minor Mode
-app-emacs/ansible-vault 20211119.1459: Minor mode for editing ansible vault files
+app-emacs/ansible-vault 20250325.945: Minor mode for editing ansible vault files
 app-emacs/ant 20160211.1543: Helpers for compiling with ant
 app-emacs/anti-zenburn-theme 20180712.1838: Low-contrast Zenburn-inverted theme
 app-emacs/anx-api 20140208.1514: Interact with the AppNexus API from Emacs
@@ -778,7 +778,7 @@ app-emacs/conllu-mode 20200501.2328: Editing mode for CoNLL-U files
 app-emacs/connection 20191111.446: TCP-based client connection
 app-emacs/conner 20240828.123: Define and run project specific commands
 app-emacs/constant-theme 20180921.1012: A calm, dark, almost monochrome color theme
-app-emacs/consult 20250322.810: Consulting completing-read
+app-emacs/consult 20250325.1705: Consulting completing-read
 app-emacs/consult-ag 20230227.406: The silver searcher integration using Consult
 app-emacs/consult-codesearch 20230315.1424: Consult interface for codesearch
 app-emacs/consult-company 20230606.1824: Consult frontend for company
@@ -816,7 +816,7 @@ app-emacs/contrast-color 20160903.1807: Pick best contrast color for you
 app-emacs/control-mode 20160624.1710: A "control" mode, similar to vim's "normal" mode
 app-emacs/cool-mode 20231026.456: Major mode for cool compiler language
 app-emacs/copilot 20250223.139: An unofficial Copilot plugin
-app-emacs/copilot-chat 20250325.814: Copilot chat interface
+app-emacs/copilot-chat 20250325.1312: Copilot chat interface
 app-emacs/copy-as-format 20231112.1710: Copy buffer locations as GitHub/Slack/JIRA etc... formatted code
 app-emacs/copy-file-on-save 20230402.1829: Copy file on save, automatic deployment it
 app-emacs/copyit 20241030.543: Copy it, yank anything!
@@ -1166,7 +1166,7 @@ app-emacs/dpaste 20160303.2112: Emacs integration for dpaste.com
 app-emacs/dpaste_de 20131015.1225: Emacs mode to paste to dpaste.de
 app-emacs/dpkg-dev-el 20250324.714: Startup file for the elpa-dpkg-dev-el package
 app-emacs/dr-racket-like-unicode 20220810.2000: DrRacket-style unicode input
-app-emacs/dracula-theme 20250324.1403: Dracula Theme
+app-emacs/dracula-theme 20250325.1246: Dracula Theme
 app-emacs/draft-mode 20160106.859: Rough drafting for Emacs
 app-emacs/drag-stuff 20161108.749: Drag stuff (lines, words, region, etc...) around
 app-emacs/drawille 20160418.1838: Drawille implementation in elisp
@@ -1311,7 +1311,7 @@ app-emacs/elbank 20180316.1343: Personal finances reporting application
 app-emacs/elcontext 20210109.1238: Create context specific actions
 app-emacs/elcord 20250304.1743: Allows you to integrate Rich Presence from Discord
 app-emacs/elcouch 20230903.750: View and manipulate CouchDB databases
-app-emacs/elcute 20241115.1459: Commands for marking and killing lines electrically
+app-emacs/elcute 20250325.1501: Commands for marking and killing lines electrically
 app-emacs/eldev 20250314.2105: Elisp development tool
 app-emacs/eldoc-box 20250120.502: Display documentation in childframe
 app-emacs/eldoc-cmake 20250320.2017: Eldoc support for CMake
@@ -1398,7 +1398,7 @@ app-emacs/emacs-ansilove 20230210.1338: Display buffers as PNG images using ansi
 app-emacs/emacs-bazel-mode 20230919.1445: Bazel support for Emacs
 app-emacs/emacs-crystal-mode 20250203.1157: Major mode for editing Crystal files
 app-emacs/emacs-el-fetch 20230624.2: Show system information in Neofetch-like style (eg CPU, RAM)
-app-emacs/emacs-everywhere 20240509.1715: System-wide popup windows for quick edits
+app-emacs/emacs-everywhere 20250325.1523: System-wide popup windows for quick edits
 app-emacs/emacs-websearch 20230705.1639: Query search engines
 app-emacs/emacsc 20241206.557: Helper for emacsc(1)
 app-emacs/emacsist-view 20160426.1223: Mode for viewing emacsist.com
@@ -2713,7 +2713,7 @@ app-emacs/indent-guide 20210115.400: Show vertical lines to guide indentation
 app-emacs/indent-info 20210111.745: Show indentation information in status bar
 app-emacs/indent-lint 20230822.46: Async indentation checker
 app-emacs/indent-tools 20210622.1207: Indent, navigate (and more) by blocks of indentation: yaml, python etc
-app-emacs/indexed 20250324.28: Cache metadata on all Org files
+app-emacs/indexed 20250325.1327: Cache metadata on all Org files
 app-emacs/indian-ext 20231009.740: Extension to Indian language utilities
 app-emacs/indicators 20240321.2029: Display the buffer relative location of line in the fringe
 app-emacs/indium 20210309.1210: JavaScript Awesome Development Environment
@@ -3245,7 +3245,7 @@ app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-mode 20250325.818: Emacs major mode for Smallworld Magik files
-app-emacs/magit 20250324.1251: A Git porcelain inside Emacs
+app-emacs/magit 20250325.1743: A Git porcelain inside Emacs
 app-emacs/magit-annex 20240811.1850: Control git-annex from Magit
 app-emacs/magit-commit-mark 20241110.245: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3784,7 +3784,7 @@ app-emacs/olc 20200818.1221: Open location code library
 app-emacs/old-norse-input 20170816.1842: An input method for Old Norse
 app-emacs/oldlace-theme 20150705.1300: Emacs 24 theme with an 'oldlace' background
 app-emacs/olivetti 20241030.542: Minor mode to automatically balance window margins
-app-emacs/ollama-buddy 20250324.1051: Ollama Buddy: Your Friendly AI Assistant
+app-emacs/ollama-buddy 20250325.1524: Ollama Buddy: Your Friendly AI Assistant
 app-emacs/om-mode 20140915.2110: Insert Om component template with life cycle
 app-emacs/omni-kill 20171016.2140: Kill all the things
 app-emacs/omni-log 20200304.2229: Logging utilities
@@ -4958,7 +4958,7 @@ app-emacs/slovak-holidays 20211018.1754: Adds a list of slovak holidays to Emacs
 app-emacs/slow-keys 20220807.1425: Slow keys mode to avoid RSI
 app-emacs/slstats 20170823.849: Acquire and display stats about Second Life
 app-emacs/slurm-mode 20210519.1109: Interaction with the SLURM job scheduling system
-app-emacs/slurpbarf 20241115.1459: Commands for slurping and barfing
+app-emacs/slurpbarf 20250325.1442: Commands for slurping and barfing
 app-emacs/sly 20250203.2040: Sylvester the Cat's Common Lisp IDE
 app-emacs/sly-asdf 20221119.2235: ASDF system support for SLY
 app-emacs/sly-hello-world 20200225.1755: A template SLY contrib
@@ -5238,7 +5238,7 @@ app-emacs/take-off 20140531.917: Emacs remote web access
 app-emacs/talonscript-mode 20231015.2358: Major mode for Talon Voice's .talon files
 app-emacs/tango-2-theme 20120312.2025: Tango 2 color theme for GNU Emacs 24
 app-emacs/tango-plus-theme 20240703.1443: A color theme based on the tango palette
-app-emacs/tangonov-theme 20250317.320: A 256 color dark theme featuring bright pastels
+app-emacs/tangonov-theme 20250325.1357: A 256 color dark theme featuring bright pastels
 app-emacs/tangotango-theme 20241117.1143: Tango Palette color theme for Emacs 24
 app-emacs/tao-theme 20240615.517: This package provides two parametrized uncoloured color themes for Emacs: tao-yin and tao-yang
 app-emacs/tardis-theme 20230212.2152: Quantum Country Theme
