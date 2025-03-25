@@ -19,6 +19,8 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/el-job
-	app-emacs/llama"
+	app-emacs/llama
+	app-emacs/emacsql"
 RDEPEND="app-emacs/el-job
-	app-emacs/llama"
+	app-emacs/llama
+	app-emacs/emacsql"
