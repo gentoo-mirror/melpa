@@ -5,22 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="indexed"
+REALNAME="presentation"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Cache metadata on all Org files"
+DESCRIPTION="Display large character for presentation"
 
-HOMEPAGE="https://github.com/meedstrom/org-node"
+HOMEPAGE="https://github.com/zonuexe/emacs-presentation-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/el-job
-	app-emacs/llama
-	app-emacs/emacsql"
-RDEPEND="app-emacs/el-job
-	app-emacs/llama
-	app-emacs/emacsql"
+DEPEND="app-emacs/compat"
+RDEPEND="app-emacs/compat"
