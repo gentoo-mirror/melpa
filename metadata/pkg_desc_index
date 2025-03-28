@@ -531,7 +531,7 @@ app-emacs/chaos-mode 20221227.223: A major mode for the Chaos programming langua
 app-emacs/chapel-mode 20210513.457: A major mode for the Chapel programming language
 app-emacs/char-menu 20210321.1657: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 20200616.1418: Unicode table for Emacs
-app-emacs/chatgpt-shell 20250326.1640: A family of utilities to interact with LLMs (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity)
+app-emacs/chatgpt-shell 20250328.1619: A family of utilities to interact with LLMs (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity)
 app-emacs/chatu 20250327.539: Convert and insert any images to org-mode or markdown buffer
 app-emacs/chatwork 20240910.1531: ChatWork client for Emacs
 app-emacs/cheat-sh 20210607.1307: Interact with cheat.sh
@@ -563,7 +563,7 @@ app-emacs/chronos 20240525.1339: Multiple simultaneous countdown / countup timer
 app-emacs/chruby 20180114.1652: Emacs integration for chruby
 app-emacs/chyla-dark-theme 20240824.1615: Chyla.org - dark green color theme
 app-emacs/chyla-theme 20240708.2017: Chyla.org - green color theme
-app-emacs/cider 20250326.1921: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 20250328.1628: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-decompile 20151122.537: Decompilation extension for cider
 app-emacs/cider-eval-sexp-fu 20190311.2152: Briefly highlights an evaluated sexp
 app-emacs/cider-hydra 20190816.1121: Hydras for CIDER
@@ -822,7 +822,7 @@ app-emacs/copy-file-on-save 20230402.1829: Copy file on save, automatic deployme
 app-emacs/copyit 20241030.543: Copy it, yank anything!
 app-emacs/copyit-pandoc 20190919.1258: Copy it, yank anything!
 app-emacs/coq-commenter 20170822.2309: Coq commenting minor mode for proof
-app-emacs/corfu 20250128.821: COmpletion in Region FUnction
+app-emacs/corfu 20250328.1430: COmpletion in Region FUnction
 app-emacs/corfu-candidate-overlay 20240322.1814: Show first candidate in an overlay while typing
 app-emacs/corfu-prescient 20240803.2320: Prescient.el + Corfu
 app-emacs/corral 20160502.948: Quickly surround text with delimiters
@@ -1002,7 +1002,7 @@ app-emacs/denote-agenda 20250315.1751: Integrate Denote and Org-Agenda
 app-emacs/denote-citar-sections 20240608.1629: Universal Sidecar sections for citar-denote
 app-emacs/denote-explore 20250215.2059: Explore and visualise Denote files
 app-emacs/denote-journal-capture 20250315.1919: Better Integration for Denote Journal and Org Capture
-app-emacs/denote-project-notes 20250304.2322: Link Denote notes to a project
+app-emacs/denote-project-notes 20250328.1347: Link Denote notes to a project
 app-emacs/denote-sections 20240608.1629: Universal Sidecar Sections for Denote
 app-emacs/describe-hash 20200718.1556: Help function for examining a hash map
 app-emacs/describe-number 20151101.55: Describe arbitrarily large number at point
@@ -1359,7 +1359,7 @@ app-emacs/elisp-slime-nav 20210510.528: Make M-. and M-, work in elisp like they
 app-emacs/elixir-mode 20230626.1738: Major mode for editing Elixir files
 app-emacs/elixir-ts-mode 20241228.919: Major mode for Elixir with tree-sitter support
 app-emacs/elixir-yasnippets 20150417.1239: Yasnippets for Elixir
-app-emacs/ellama 20250324.1326: Tool for interacting with LLMs
+app-emacs/ellama 20250328.1939: Tool for interacting with LLMs
 app-emacs/ellocate 20200112.1931: The locate command reimplemented in Emacs Lisp
 app-emacs/elm-mode 20230315.1122: Major mode for Elm
 app-emacs/elm-test-runner 20230905.331: Enhanced support for running elm-test
@@ -1703,7 +1703,7 @@ app-emacs/fb2-reader 20250326.2240: Read FB2 and FB2.ZIP documents
 app-emacs/fcitx 20240121.1829: Make fcitx better in Emacs
 app-emacs/fcopy 20150304.1403: Funny Copy, set past point HERE then search copy text
 app-emacs/fd-dired 20210723.549: Find-dired alternative using fd
-app-emacs/feature-mode 20250327.1127: Major mode for editing Gherkin (i.e. Cucumber) user stories
+app-emacs/feature-mode 20250328.1426: Major mode for editing Gherkin (i.e. Cucumber) user stories
 app-emacs/fedi 20250316.1151: Helper functions for fediverse clients
 app-emacs/feebleline 20190822.1401: Replace modeline with a slimmer proxy
 app-emacs/feed-discovery 20200714.1118: Discover feed url by RSS/Atom autodiscovery
@@ -2868,7 +2868,7 @@ app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default 
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
 app-emacs/jinx 20250322.842: Enchanted Spell Checker
-app-emacs/jira 20250324.1926: Emacs Interface to Jira
+app-emacs/jira 20250328.1803: Emacs Interface to Jira
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jirascope 20240122.2130: A Jira client
@@ -3218,7 +3218,7 @@ app-emacs/lsp-shader 20250101.926: LSP Clients for ShaderLab
 app-emacs/lsp-sonarlint 20250301.131: Emacs SonarLint lsp client
 app-emacs/lsp-sourcekit 20250301.131: Sourcekit-lsp client for lsp-mode
 app-emacs/lsp-tailwindcss 20241018.200: A lsp-mode client for tailwindcss
-app-emacs/lsp-treemacs 20250301.131: LSP treemacs
+app-emacs/lsp-treemacs 20250328.1727: LSP treemacs
 app-emacs/lsp-ui 20250228.2155: UI modules for lsp-mode
 app-emacs/lte 20250112.2154: Large Table Edition in Org and Markdown buffers
 app-emacs/lua-mode 20250310.1150: A major-mode for editing Lua scripts
@@ -3245,7 +3245,7 @@ app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-mode 20250325.818: Emacs major mode for Smallworld Magik files
-app-emacs/magit 20250327.1533: A Git porcelain inside Emacs
+app-emacs/magit 20250328.1900: A Git porcelain inside Emacs
 app-emacs/magit-annex 20240811.1850: Control git-annex from Magit
 app-emacs/magit-commit-mark 20241110.245: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3784,7 +3784,7 @@ app-emacs/olc 20200818.1221: Open location code library
 app-emacs/old-norse-input 20170816.1842: An input method for Old Norse
 app-emacs/oldlace-theme 20150705.1300: Emacs 24 theme with an 'oldlace' background
 app-emacs/olivetti 20241030.542: Minor mode to automatically balance window margins
-app-emacs/ollama-buddy 20250328.1016: Ollama Buddy: Your Friendly AI Assistant
+app-emacs/ollama-buddy 20250328.1515: Ollama Buddy: Your Friendly AI Assistant
 app-emacs/om-mode 20140915.2110: Insert Om component template with life cycle
 app-emacs/omni-kill 20171016.2140: Kill all the things
 app-emacs/omni-log 20200304.2229: Logging utilities
@@ -4050,7 +4050,7 @@ app-emacs/orgmdb 20250104.1911: An OMDb API client with some convenience functio
 app-emacs/orgnav 20170608.1713: Org tree navigation using helm
 app-emacs/orgnote 20240814.2021: Sync org-roam notes with OrgNote app
 app-emacs/orgstrap 20250316.1815: Bootstrap an Org file using file local variables
-app-emacs/orgtbl-aggregate 20250325.902: Create an Org Mode aggregated table from another table
+app-emacs/orgtbl-aggregate 20250328.1730: Create an Org Mode aggregated table from another table
 app-emacs/orgtbl-ascii-plot 20230122.816: Ascii-art bar plots in org-mode tables
 app-emacs/orgtbl-fit 20250210.1535: Fit an Org Mode column using Calc regression methods
 app-emacs/orgtbl-join 20250218.903: Join columns from other Org Mode tables
@@ -4444,7 +4444,7 @@ app-emacs/promise 20210307.727: Promises/A+
 app-emacs/prompt-text 20190408.310: Configure your minibuffer prompt
 app-emacs/prompts 20160916.1041: Utilities for working with text prompts
 app-emacs/pronto 20200218.1633: Compilation mode for pronto stylechecks
-app-emacs/proofgeneral 20250125.1556: A generic Emacs interface for proof assistants
+app-emacs/proofgeneral 20250328.1740: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 20150728.1118: Create and display a context menu based on text and overlay properties
 app-emacs/propfont-mixed 20150113.2211: Use proportional fonts with space-based indentation
 app-emacs/proportional 20221205.1417: Use a proportional font everywhere
@@ -5386,7 +5386,7 @@ app-emacs/tramp-term 20220725.1441: Automatic setup of directory tracking in ssh
 app-emacs/transducers 20250215.1046: Ergonomic, efficient data processing
 app-emacs/transfer-sh 20200601.1708: Simple interface for sending buffer contents to transfer.sh
 app-emacs/transform-symbol-at-point 20241202.1802: Transforming your symbols at point
-app-emacs/transient 20250324.47: Transient commands
+app-emacs/transient 20250328.1940: Transient commands
 app-emacs/transient-dwim 20221225.1630: Useful preset transient commands
 app-emacs/transient-extras 20230721.839: Extra features for transient
 app-emacs/transient-extras-a2ps 20230303.1511: A transient interface to a2ps
