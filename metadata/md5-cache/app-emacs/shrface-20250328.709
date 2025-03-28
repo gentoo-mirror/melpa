@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Org-mode support for vCard export and import
+DEPEND=app-emacs/org-mode app-emacs/language-detection
+DESCRIPTION=Extend shr/eww with org features and analysis capability
 EAPI=8
-HOMEPAGE=https://github.com/pinoaffe/org-vcard
+HOMEPAGE=https://github.com/chenyanming/shrface
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/org-mode app-emacs/language-detection >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/org-vcard-20240309.839.tar
+SRC_URI=https://melpa.org/packages/shrface-20250328.709.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=a686f979b964bdfe71d20a25d8786195
+_md5_=a371669a8e536fb19813eb1bfdb1c7f4
