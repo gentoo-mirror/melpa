@@ -139,7 +139,7 @@ app-emacs/anki-vocabulary 20200103.325: Help you to create vocabulary cards in A
 app-emacs/annalist 20240501.1201: Record and display information such as keybindings
 app-emacs/annotate 20250320.1304: Annotate files without changing them
 app-emacs/annotate-depth 20160520.2040: Annotate buffer if indentation depth is beyond threshold
-app-emacs/annotation 20200914.644: Functions for annotating text with faces and help bubbles
+app-emacs/annotation 20250328.1043: Functions for annotating text with faces and help bubbles
 app-emacs/annoying-arrows-mode 20161024.646: Ring the bell if using arrows too much
 app-emacs/ansi 20230306.1823: Turn string into ansi strings
 app-emacs/ansible 20250222.1816: Ansible minor mode
@@ -708,7 +708,7 @@ app-emacs/company-emojify 20250101.1006: Company completion for Emojify
 app-emacs/company-erlang 20170123.538: Company backend based on ivy-erlang-complete
 app-emacs/company-flow 20180225.2159: Flow backend for company-mode
 app-emacs/company-flx 20180103.518: Flx based fuzzy matching for company
-app-emacs/company-forge 20250317.1414: Company backend for assignees and topics from forge
+app-emacs/company-forge 20250328.912: Company backend for assignees and topics from forge
 app-emacs/company-fuzzy 20250207.140: Fuzzy matching for `company-mode'
 app-emacs/company-ghci 20190707.311: Company backend which uses the current ghci process
 app-emacs/company-glsl 20210109.1403: Support glsl in company-mode
@@ -1097,7 +1097,7 @@ app-emacs/direx 20230409.1425: Simple Directory Explorer
 app-emacs/direx-grep 20140515.1506: Grep node of direx.el using incremental search like anything.el/helm.el
 app-emacs/dirtree 20140129.832: Directory tree views
 app-emacs/dirtree-prosjekt 20140129.904: Dirtree integration for prosjekt
-app-emacs/dirvish 20250326.1006: A modern file manager based on dired mode
+app-emacs/dirvish 20250328.148: A modern file manager based on dired mode
 app-emacs/disable-mouse 20240604.900: Disable mouse commands globally
 app-emacs/disaster 20250302.1549: Disassemble C, C++ or Fortran code under cursor
 app-emacs/discourse 20160911.819: Discourse api
@@ -1151,7 +1151,7 @@ app-emacs/dokuwiki 20180102.59: Edit Remote DokuWiki Pages Using XML-RPC
 app-emacs/dokuwiki-mode 20170223.1301: Major mode for DokuWiki document
 app-emacs/dollaro 20151123.1302: Simple text templates
 app-emacs/doom 20180301.2308: DOM implementation and manipulation library
-app-emacs/doom-modeline 20250327.613: A minimal and modern mode-line
+app-emacs/doom-modeline 20250328.750: A minimal and modern mode-line
 app-emacs/doom-modeline-now-playing 20240522.1704: Segment for Doom Modeline to show playerctl information
 app-emacs/doom-themes 20250225.429: An opinionated pack of modern color-themes
 app-emacs/dot-env 20230820.2014: Dotenv functionality
@@ -1164,7 +1164,7 @@ app-emacs/downplay-mode 20151125.2009: Focus attention on a region of the buffer
 app-emacs/doxy-graph-mode 20210604.723: Links source code editing with doxygen call graphs
 app-emacs/dpaste 20160303.2112: Emacs integration for dpaste.com
 app-emacs/dpaste_de 20131015.1225: Emacs mode to paste to dpaste.de
-app-emacs/dpkg-dev-el 20250324.714: Startup file for the elpa-dpkg-dev-el package
+app-emacs/dpkg-dev-el 20250328.519: Startup file for the elpa-dpkg-dev-el package
 app-emacs/dr-racket-like-unicode 20220810.2000: DrRacket-style unicode input
 app-emacs/dracula-theme 20250325.1246: Dracula Theme
 app-emacs/draft-mode 20160106.859: Rough drafting for Emacs
@@ -1483,7 +1483,7 @@ app-emacs/eredis 20181119.131: Eredis, a Redis client in emacs lisp
 app-emacs/erefactor 20200513.1252: Emacs-Lisp refactoring utilities
 app-emacs/ergoemacs-mode 20240809.2246: Emacs mode based on common modern interface and ergonomics
 app-emacs/ergoemacs-status 20160318.538: Adaptive Status Bar / Mode Line
-app-emacs/eri 20240220.2129: Enhanced relative indentation (eri)
+app-emacs/eri 20250328.1043: Enhanced relative indentation (eri)
 app-emacs/erk 20231227.1449: Elisp (GitHub) Repository Kit
 app-emacs/erlang 20250115.1500: Major modes for editing and running Erlang
 app-emacs/erlang-ts 20250202.1841: Major modes for editing Erlang
@@ -3019,7 +3019,7 @@ app-emacs/kubectx-mode 20240312.2024: Change kubectl context/namespace and show 
 app-emacs/kubedoc 20240108.1404: Kubernetes API Documentation
 app-emacs/kubel 20250110.1811: Control Kubernetes with limited permissions
 app-emacs/kubel-evil 20231224.1343: Extension for kubel to provide evil keybindings
-app-emacs/kubernetes 20250323.1339: Magit-like porcelain for Kubernetes
+app-emacs/kubernetes 20250328.308: Magit-like porcelain for Kubernetes
 app-emacs/kubernetes-evil 20220625.534: Kubernetes keybindings for evil-mode
 app-emacs/kubernetes-helm 20230221.1438: Extension for helm, the package manager for kubernetes
 app-emacs/kubernetes-tramp 20181228.922: TRAMP integration for kubernetes containers
@@ -3409,7 +3409,7 @@ app-emacs/minizinc-ts-mode 20241227.1909: Major mode for the MiniZinc constraint
 app-emacs/minor-mode-hack 20170926.34: Change priority of minor-mode keymaps
 app-emacs/minsk-theme 20200306.1220: Minsk, a theme in deep muted greens
 app-emacs/mint-mode 20221031.411: Major mode for the Mint programming language
-app-emacs/minuet 20250316.446: Code completion using LLM
+app-emacs/minuet 20250328.818: Code completion using LLM
 app-emacs/mip-mode 20151127.617: Virtual projects for emacs
 app-emacs/mips-mode 20220608.1204: Major-mode for MIPS assembly
 app-emacs/mise 20250216.2030: Support for `mise' cli
@@ -3762,7 +3762,7 @@ app-emacs/objed 20200911.1435: Navigate and edit text objects
 app-emacs/oblivion-theme 20240320.1152: A port of GEdit oblivion theme
 app-emacs/obsidian 20250220.2245: Obsidian Notes interface
 app-emacs/obsidian-theme 20170719.948: Port of the eclipse obsidian theme
-app-emacs/ocaml-eglot 20250327.1330: An OCaml companion for Eglot
+app-emacs/ocaml-eglot 20250328.1248: An OCaml companion for Eglot
 app-emacs/ocaml-ts-mode 20230820.1946: Major mode for OCaml using tree-sitter
 app-emacs/ocamlformat 20241202.1532: Utility functions to format ocaml code
 app-emacs/occidental-theme 20130312.1958: Custom theme for faces based on Adwaita
@@ -3784,7 +3784,7 @@ app-emacs/olc 20200818.1221: Open location code library
 app-emacs/old-norse-input 20170816.1842: An input method for Old Norse
 app-emacs/oldlace-theme 20150705.1300: Emacs 24 theme with an 'oldlace' background
 app-emacs/olivetti 20241030.542: Minor mode to automatically balance window margins
-app-emacs/ollama-buddy 20250327.1921: Ollama Buddy: Your Friendly AI Assistant
+app-emacs/ollama-buddy 20250328.1016: Ollama Buddy: Your Friendly AI Assistant
 app-emacs/om-mode 20140915.2110: Insert Om component template with life cycle
 app-emacs/omni-kill 20171016.2140: Kill all the things
 app-emacs/omni-log 20200304.2229: Logging utilities
@@ -4022,7 +4022,7 @@ app-emacs/org-trello 20210314.1901: Minor mode to synchronize org-mode buffer an
 app-emacs/org-unique-id 20220907.821: Create unique IDs for org headers
 app-emacs/org-upcoming-modeline 20241028.1217: Show next org event in mode line
 app-emacs/org-variable-pitch 20220220.1757: Minor mode for variable pitch text in org mode
-app-emacs/org-vcard 20240309.839: Org-mode support for vCard export and import
+app-emacs/org-vcard 20250325.1512: Org-mode support for vCard export and import
 app-emacs/org-view-mode 20240218.1930: Read-only viewer with less markup clutter in org mode files
 app-emacs/org-visibility 20220929.1415: Persistent org tree visibility
 app-emacs/org-wc 20200731.2244: Count words in org mode trees
@@ -4314,7 +4314,7 @@ app-emacs/playground 20200812.1336: Manage sandboxes for alternative configurati
 app-emacs/playonline 20200318.758: Play code with online playgrounds
 app-emacs/plenv 20130707.616: A plenv wrapper for Emacs
 app-emacs/plim-mode 20140813.13: Major mode for editing Plim files
-app-emacs/plisp-mode 20221130.524: Major mode for PicoLisp programming
+app-emacs/plisp-mode 20250328.45: Major mode for PicoLisp programming
 app-emacs/plsense 20151104.1445: Provide interface for PlSense that is a development tool for Perl
 app-emacs/plsense-direx 20140520.2008: Perl Package Explorer
 app-emacs/plumber 20250306.1106: Run different commands depending on the text format
@@ -4379,7 +4379,7 @@ app-emacs/powerthesaurus 20230426.1719: Powerthesaurus integration
 app-emacs/ppcompile 20220619.1535: Ping-pong compile projects on remote machines
 app-emacs/ppd-sr-speedbar 20151108.1224: Sr Speedbar adaptor for project-persist-drawer
 app-emacs/ppp 20220211.1529: Extended pretty printer for Emacs Lisp
-app-emacs/pr-review 20250305.1646: Review github PR
+app-emacs/pr-review 20250328.132: Review github PR
 app-emacs/prassee-theme 20180709.1004: A high contrast color theme for Emacs
 app-emacs/prefab 20240720.1858: Integration for project generation tools like cookiecutter
 app-emacs/preproc-font-lock 20250103.1541: Highlight C preprocessor directives
@@ -4893,7 +4893,7 @@ app-emacs/show-font-mode 20201225.2217: Show font at point on mode line
 app-emacs/showtip 20090830.1040: Show tip at cursor
 app-emacs/shpec-mode 20150530.922: Minor mode for shpec specification
 app-emacs/shr-tag-pre-highlight 20240515.1420: Syntax highlighting code block in HTML
-app-emacs/shrface 20250308.1630: Extend shr/eww with org features and analysis capability
+app-emacs/shrface 20250328.709: Extend shr/eww with org features and analysis capability
 app-emacs/shrink-path 20190208.1335: Fish-style path
 app-emacs/shrink-whitespace 20181003.321: Whitespace removal DWIM key
 app-emacs/shroud 20210220.1952: Shroud secrets
@@ -4931,7 +4931,7 @@ app-emacs/simplezen 20130421.1000: A simple subset of zencoding-mode for Emacs
 app-emacs/simplicity-theme 20221016.1444: A minimalist dark theme
 app-emacs/sink 20240523.747: Receive messages from the plan9 plumber
 app-emacs/siri-shortcuts 20211229.1833: Interact with Siri Shortcuts
-app-emacs/sis 20250207.1321: Minimize manual input source (input method) switching
+app-emacs/sis 20250328.142: Minimize manual input source (input method) switching
 app-emacs/sisyphus 20250302.1547: Create releases of Emacs packages
 app-emacs/sixcolors-mode 20230406.1031: A customizable horizontal scrollbar
 app-emacs/sixcolors-theme 20250309.1750: Just another theme
