@@ -86,8 +86,8 @@ app-emacs/ah 20220730.1058: Additional hooks
 app-emacs/ahg 20241113.748: Alberto's Emacs interface for Mercurial (Hg)
 app-emacs/ahk-mode 20200412.1832: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 20180131.328: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
-app-emacs/aider 20250325.327: Interact with Aider: AI pair programming made simple
-app-emacs/aidermacs 20250327.1932: AI pair programming with Aider
+app-emacs/aider 20250329.414: Interact with Aider: AI pair programming made simple
+app-emacs/aidermacs 20250329.444: AI pair programming with Aider
 app-emacs/aiken-mode 20230920.1210: Major mode for Aiken
 app-emacs/airline-themes 20240530.1704: Vim-airline themes for emacs powerline
 app-emacs/airplay 20130212.1226: Airplay bindings to Emacs
@@ -789,10 +789,10 @@ app-emacs/consult-eglot 20250216.2144: A consulting-read interface for eglot
 app-emacs/consult-eglot-embark 20250216.2144: Embark integration for `consult-eglot'
 app-emacs/consult-flycheck 20250101.914: Provides the command `consult-flycheck'
 app-emacs/consult-flyspell 20230322.204: Consult integration for flyspell
-app-emacs/consult-gh 20250310.350: Consulting GitHub Client
-app-emacs/consult-gh-embark 20250309.2223: Embark Actions for consult-gh
-app-emacs/consult-gh-forge 20250309.2223: Magit/Forge Integration for consult-gh
-app-emacs/consult-gh-with-pr-review 20250309.2223: "pr-review" Integration for consult-gh
+app-emacs/consult-gh 20250328.2026: Consulting GitHub Client
+app-emacs/consult-gh-embark 20250328.2015: Embark Actions for consult-gh
+app-emacs/consult-gh-forge 20250328.2015: Magit/Forge Integration for consult-gh
+app-emacs/consult-gh-with-pr-review 20250328.2015: "pr-review" Integration for consult-gh
 app-emacs/consult-ghq 20231111.1303: Ghq interface using consult
 app-emacs/consult-git-log-grep 20250317.1916: Consult integration for git log grep
 app-emacs/consult-hatena-bookmark 20221125.109: Consult commands for the Hatena Bookmark
@@ -816,7 +816,7 @@ app-emacs/contrast-color 20160903.1807: Pick best contrast color for you
 app-emacs/control-mode 20160624.1710: A "control" mode, similar to vim's "normal" mode
 app-emacs/cool-mode 20231026.456: Major mode for cool compiler language
 app-emacs/copilot 20250223.139: An unofficial Copilot plugin
-app-emacs/copilot-chat 20250327.1424: Copilot chat interface
+app-emacs/copilot-chat 20250328.1952: Copilot chat interface
 app-emacs/copy-as-format 20231112.1710: Copy buffer locations as GitHub/Slack/JIRA etc... formatted code
 app-emacs/copy-file-on-save 20230402.1829: Copy file on save, automatic deployment it
 app-emacs/copyit 20241030.543: Copy it, yank anything!
@@ -2240,7 +2240,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20250301.2043: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20250220.1735: Integrate with the OpenAI API
-app-emacs/gptel 20250326.1825: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20250328.2134: Interact with ChatGPT or other LLMs
 app-emacs/gptel-aibo 20250318.546: An AI Writing Assistant
 app-emacs/gptel-fn-complete 20250317.1805: Complete the function at point using gptel
 app-emacs/gpx 20240609.2200: Major mode for GPX files
@@ -2932,7 +2932,7 @@ app-emacs/jump-tree 20171014.1551: Treat position history as a tree
 app-emacs/jumplist 20151120.345: Jump like vim jumplist or ex jumplist
 app-emacs/jupyter 20241203.1917: Jupyter
 app-emacs/just-mode 20240424.1809: Justfile editing mode
-app-emacs/just-ts-mode 20241014.2252: Justfile editing mode
+app-emacs/just-ts-mode 20250328.2115: Justfile editing mode
 app-emacs/justl 20241212.255: Major mode for driving just files
 app-emacs/jvm-mode 20150422.708: Monitor and manage your JVMs
 app-emacs/jwt 20241031.2258: Interact with JSON Web Tokens
@@ -3019,7 +3019,7 @@ app-emacs/kubectx-mode 20240312.2024: Change kubectl context/namespace and show 
 app-emacs/kubedoc 20240108.1404: Kubernetes API Documentation
 app-emacs/kubel 20250110.1811: Control Kubernetes with limited permissions
 app-emacs/kubel-evil 20231224.1343: Extension for kubel to provide evil keybindings
-app-emacs/kubernetes 20250328.308: Magit-like porcelain for Kubernetes
+app-emacs/kubernetes 20250328.2016: Magit-like porcelain for Kubernetes
 app-emacs/kubernetes-evil 20220625.534: Kubernetes keybindings for evil-mode
 app-emacs/kubernetes-helm 20230221.1438: Extension for helm, the package manager for kubernetes
 app-emacs/kubernetes-tramp 20181228.922: TRAMP integration for kubernetes containers
@@ -3245,7 +3245,7 @@ app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-mode 20250325.818: Emacs major mode for Smallworld Magik files
-app-emacs/magit 20250328.1900: A Git porcelain inside Emacs
+app-emacs/magit 20250329.10: A Git porcelain inside Emacs
 app-emacs/magit-annex 20240811.1850: Control git-annex from Magit
 app-emacs/magit-commit-mark 20241110.245: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3265,7 +3265,7 @@ app-emacs/magit-patch-changelog 20221209.123: Generate a patch according to emac
 app-emacs/magit-popup 20200719.1015: Define prefix-infix-suffix command combos
 app-emacs/magit-rbr 20181009.2016: Support for git rbr in Magit
 app-emacs/magit-reviewboard 20200727.1748: Show open Reviewboard reviews in Magit
-app-emacs/magit-section 20250307.1739: Sections for read-only buffers
+app-emacs/magit-section 20250329.10: Sections for read-only buffers
 app-emacs/magit-stats 20230223.1819: Generates GIT Repo Statistics Report
 app-emacs/magit-stgit 20250215.2223: StGit extension for Magit
 app-emacs/magit-svn 20250210.1141: Git-Svn extension for Magit
@@ -3324,7 +3324,7 @@ app-emacs/math-preview 20240801.513: Preview TeX math equations inline
 app-emacs/math-symbol-lists 20220828.2047: Lists of Unicode math symbols and latex commands
 app-emacs/math-symbols 20201005.2313: Math Symbol Input methods and conversion tools
 app-emacs/math-tex-convert 20221210.1937: Convert LaTeX macros to unicode and back
-app-emacs/matlab-mode 20250318.1541: Major mode for MATLAB(R) dot-m files
+app-emacs/matlab-mode 20250329.58: Major mode for MATLAB(R) dot-m files
 app-emacs/maude-mode 20230504.937: Emacs mode for the programming language Maude
 app-emacs/maven-test-mode 20141220.557: Utilities for navigating test files and running maven test tasks
 app-emacs/maxframe 20170120.1705: Maximize the emacs frame based on display size
@@ -3413,7 +3413,7 @@ app-emacs/minuet 20250328.818: Code completion using LLM
 app-emacs/mip-mode 20151127.617: Virtual projects for emacs
 app-emacs/mips-mode 20220608.1204: Major-mode for MIPS assembly
 app-emacs/mise 20250216.2030: Support for `mise' cli
-app-emacs/mistty 20250326.1457: Shell/Comint alternative based on term.el
+app-emacs/mistty 20250328.2130: Shell/Comint alternative based on term.el
 app-emacs/mix 20240122.720: Mix Major Mode. Build Elixir using Mix
 app-emacs/mixed-pitch 20210304.1900: Use a variable pitch, keeping fixed pitch where it's sensible
 app-emacs/mkdown 20140517.1418: Pretty Markdown previews based on mkdown.com
@@ -3784,7 +3784,7 @@ app-emacs/olc 20200818.1221: Open location code library
 app-emacs/old-norse-input 20170816.1842: An input method for Old Norse
 app-emacs/oldlace-theme 20150705.1300: Emacs 24 theme with an 'oldlace' background
 app-emacs/olivetti 20241030.542: Minor mode to automatically balance window margins
-app-emacs/ollama-buddy 20250328.1515: Ollama Buddy: Your Friendly AI Assistant
+app-emacs/ollama-buddy 20250328.2017: Ollama Buddy: Your Friendly AI Assistant
 app-emacs/om-mode 20140915.2110: Insert Om component template with life cycle
 app-emacs/omni-kill 20171016.2140: Kill all the things
 app-emacs/omni-log 20200304.2229: Logging utilities
@@ -4717,7 +4717,7 @@ app-emacs/ros 20250224.943: Package to write code for ROS systems
 app-emacs/roseline-theme 20250305.936: Roseline theme
 app-emacs/rotate 20210126.637: Rotate the layout of emacs
 app-emacs/roy-mode 20121208.1158: Roy major mode
-app-emacs/rpm-spec-mode 20241209.2001: RPM spec mode for Emacs/XEmacs
+app-emacs/rpm-spec-mode 20250329.139: RPM spec mode for Emacs/XEmacs
 app-emacs/rpn-calc 20210306.426: Quick RPN calculator for hackers
 app-emacs/rspec-mode 20230819.154: Enhance ruby-mode for RSpec
 app-emacs/rsync-mode 20210911.0: Rsync projects to remote machines
@@ -4946,7 +4946,7 @@ app-emacs/sl 20161217.1404: An Emacs clone of sl(1)
 app-emacs/slack 20250327.1218: Slack client
 app-emacs/slideview 20250121.324: File slideshow
 app-emacs/slim-mode 20240513.2118: Major mode for editing Slim files
-app-emacs/slime 20250318.1712: Superior Lisp Interaction Mode for Emacs
+app-emacs/slime 20250329.12: Superior Lisp Interaction Mode for Emacs
 app-emacs/slime-company 20250301.21: Slime completion backend for company mode
 app-emacs/slime-docker 20210426.1422: Integration of SLIME with Docker containers
 app-emacs/slime-repl-ansi-color 20230214.1453: Turn on ANSI colors in REPL output;
