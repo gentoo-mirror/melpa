@@ -87,7 +87,7 @@ app-emacs/ahg 20241113.748: Alberto's Emacs interface for Mercurial (Hg)
 app-emacs/ahk-mode 20200412.1832: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 20180131.328: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
 app-emacs/aider 20250402.316: Interact with Aider: AI pair programming made simple
-app-emacs/aidermacs 20250329.444: AI pair programming with Aider
+app-emacs/aidermacs 20250401.2057: AI pair programming with Aider
 app-emacs/aiken-mode 20230920.1210: Major mode for Aiken
 app-emacs/airline-themes 20240530.1704: Vim-airline themes for emacs powerline
 app-emacs/airplay 20130212.1226: Airplay bindings to Emacs
@@ -531,8 +531,8 @@ app-emacs/chaos-mode 20221227.223: A major mode for the Chaos programming langua
 app-emacs/chapel-mode 20210513.457: A major mode for the Chapel programming language
 app-emacs/char-menu 20210321.1657: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 20200616.1418: Unicode table for Emacs
-app-emacs/chatgpt-shell 20250401.1302: A family of utilities to interact with LLMs (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity)
-app-emacs/chatu 20250330.1330: Convert and insert any images to org-mode or markdown buffer
+app-emacs/chatgpt-shell 20250402.1634: A family of utilities to interact with LLMs (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity)
+app-emacs/chatu 20250403.45: Convert and insert any images to org-mode or markdown buffer
 app-emacs/chatwork 20240910.1531: ChatWork client for Emacs
 app-emacs/cheat-sh 20210607.1307: Interact with cheat.sh
 app-emacs/cheatsheet 20170126.2150: Create your own cheatsheet
@@ -578,7 +578,7 @@ app-emacs/circleci-api 20210227.1607: Bindings for the CircleCI API
 app-emacs/citar 20250113.1556: Citation-related commands for org, latex, markdown
 app-emacs/citar-denote 20250225.927: Minor mode integrating Citar and Denote
 app-emacs/citar-embark 20231122.1548: Citar/Embark integration
-app-emacs/citar-org-node 20250401.1359: Citar integration with org-node
+app-emacs/citar-org-node 20250402.2014: Citar integration with org-node
 app-emacs/citar-org-roam 20241203.2325: Citar/org-roam integration
 app-emacs/citeproc-el 20240722.1110: A CSL 1.0.2 Citation Processor
 app-emacs/citeproc-org 20200915.2009: Render org-mode references in CSL styles
@@ -816,7 +816,7 @@ app-emacs/contextual-menubar 20180205.709: Display the menubar only on a graphic
 app-emacs/contrast-color 20160903.1807: Pick best contrast color for you
 app-emacs/control-mode 20160624.1710: A "control" mode, similar to vim's "normal" mode
 app-emacs/cool-mode 20231026.456: Major mode for cool compiler language
-app-emacs/copilot 20250402.707: An unofficial Copilot plugin
+app-emacs/copilot 20250402.2229: An unofficial Copilot plugin
 app-emacs/copilot-chat 20250331.737: Copilot chat interface
 app-emacs/copy-as-format 20231112.1710: Copy buffer locations as GitHub/Slack/JIRA etc... formatted code
 app-emacs/copy-file-on-save 20230402.1829: Copy file on save, automatic deployment it
@@ -999,7 +999,7 @@ app-emacs/demap 20220322.2309: Detachable minimap package
 app-emacs/demo-it 20211221.2152: Create demonstrations
 app-emacs/deno-fmt 20230117.1117: Minor mode for using deno fmt on save
 app-emacs/deno-ts-mode 20230912.202: Major mode for Deno
-app-emacs/denote-agenda 20250315.1751: Integrate Denote and Org-Agenda
+app-emacs/denote-agenda 20250402.1838: Integrate Denote and Org-Agenda
 app-emacs/denote-citar-sections 20240608.1629: Universal Sidecar sections for citar-denote
 app-emacs/denote-explore 20250215.2059: Explore and visualise Denote files
 app-emacs/denote-journal-capture 20250315.1919: Better Integration for Denote Journal and Org Capture
@@ -1099,7 +1099,7 @@ app-emacs/direx 20230409.1425: Simple Directory Explorer
 app-emacs/direx-grep 20140515.1506: Grep node of direx.el using incremental search like anything.el/helm.el
 app-emacs/dirtree 20140129.832: Directory tree views
 app-emacs/dirtree-prosjekt 20140129.904: Dirtree integration for prosjekt
-app-emacs/dirvish 20250328.148: A modern file manager based on dired mode
+app-emacs/dirvish 20250403.212: A modern file manager based on dired mode
 app-emacs/disable-mouse 20240604.900: Disable mouse commands globally
 app-emacs/disaster 20250302.1549: Disassemble C, C++ or Fortran code under cursor
 app-emacs/discourse 20160911.819: Discourse api
@@ -1361,7 +1361,7 @@ app-emacs/elisp-slime-nav 20210510.528: Make M-. and M-, work in elisp like they
 app-emacs/elixir-mode 20230626.1738: Major mode for editing Elixir files
 app-emacs/elixir-ts-mode 20241228.919: Major mode for Elixir with tree-sitter support
 app-emacs/elixir-yasnippets 20150417.1239: Yasnippets for Elixir
-app-emacs/ellama 20250402.1212: Tool for interacting with LLMs
+app-emacs/ellama 20250402.1649: Tool for interacting with LLMs
 app-emacs/ellocate 20200112.1931: The locate command reimplemented in Emacs Lisp
 app-emacs/elm-mode 20250401.915: Major mode for Elm
 app-emacs/elm-test-runner 20230905.331: Enhanced support for running elm-test
@@ -1566,7 +1566,7 @@ app-emacs/evil-anzu 20250316.1617: Anzu for evil-mode
 app-emacs/evil-args 20240210.504: Motions and text objects for delimited arguments in Evil
 app-emacs/evil-avy 20150908.748: Set-based completion
 app-emacs/evil-better-visual-line 20200123.2045: Gj and gk visual line mode fix
-app-emacs/evil-cleverparens 20240529.1025: Evil friendly minor-mode for editing lisp
+app-emacs/evil-cleverparens 20250402.1612: Evil friendly minor-mode for editing lisp
 app-emacs/evil-colemak-basics 20241004.1613: Basic Colemak key bindings for evil-mode
 app-emacs/evil-colemak-minimal 20171006.1317: Minimal Colemak key bindings for evil-mode
 app-emacs/evil-collection 20250331.1556: A set of keybindings for Evil mode
@@ -2243,7 +2243,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20250301.2043: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20250220.1735: Integrate with the OpenAI API
-app-emacs/gptel 20250402.546: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20250402.1845: Interact with ChatGPT or other LLMs
 app-emacs/gptel-aibo 20250318.546: An AI Writing Assistant
 app-emacs/gptel-fn-complete 20250317.1805: Complete the function at point using gptel
 app-emacs/gpx 20240609.2200: Major mode for GPX files
@@ -2933,7 +2933,7 @@ app-emacs/jump-char 20180601.1348: Navigation by char
 app-emacs/jump-to-line 20130122.1653: Jump to line number at point
 app-emacs/jump-tree 20171014.1551: Treat position history as a tree
 app-emacs/jumplist 20151120.345: Jump like vim jumplist or ex jumplist
-app-emacs/jupyter 20241203.1917: Jupyter
+app-emacs/jupyter 20250402.1740: Jupyter
 app-emacs/just-mode 20240424.1809: Justfile editing mode
 app-emacs/just-ts-mode 20250328.2115: Justfile editing mode
 app-emacs/justl 20241212.255: Major mode for driving just files
@@ -3148,7 +3148,7 @@ app-emacs/literate-calc-mode 20240823.335: Inline results from calc
 app-emacs/literate-coffee-mode 20170211.1515: Major-mode for Literate CoffeeScript
 app-emacs/literate-elisp 20250103.132: Load Emacs Lisp code blocks from Org files
 app-emacs/litex-mode 20221107.147: Minor mode for converting lisp to LaTeX
-app-emacs/lithium 20250317.2030: Lightweight modal interfaces
+app-emacs/lithium 20250403.156: Lightweight modal interfaces
 app-emacs/live-code-talks 20180907.1647: Support for slides with live code in them
 app-emacs/live-preview 20231215.1612: Live preview by any shell command while editing
 app-emacs/live-py-mode 20241214.1526: Live Coding in Python
@@ -3247,7 +3247,7 @@ app-emacs/madhat2r-theme 20170203.30: Dark color theme that is easy on the eyes
 app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
-app-emacs/magik-mode 20250325.818: Emacs major mode for Smallworld Magik files
+app-emacs/magik-mode 20250402.1954: Emacs major mode for Smallworld Magik files
 app-emacs/magit 20250401.1753: A Git porcelain inside Emacs
 app-emacs/magit-annex 20240811.1850: Control git-annex from Magit
 app-emacs/magit-commit-mark 20241110.245: Support marking commits as read
@@ -5072,7 +5072,7 @@ app-emacs/spatial-navigate 20240421.908: Directional navigation between white-sp
 app-emacs/spdx 20241220.119: Insert SPDX license and copyright headers
 app-emacs/speech-tagger 20170728.1829: Tag parts of speech using coreNLP
 app-emacs/speechd-el 20250118.1141: Client to speech synthesizers and Braille displays
-app-emacs/speed-type 20250329.2316: Practice touch and speed typing
+app-emacs/speed-type 20250402.1911: Practice touch and speed typing
 app-emacs/speedbar-git-respect 20200901.246: Particular respect git repo in speedbar
 app-emacs/speeddating 20180319.723: Increase date and time at point
 app-emacs/spell-fu 20241011.206: Fast & light spelling highlighter
@@ -5610,7 +5610,7 @@ app-emacs/vlc 20200328.1143: VideoLAN VLC Media Player Control
 app-emacs/vline 20210805.1528: Column highlighting (vertical line displaying) mode
 app-emacs/vmd-mode 20210524.27: Fast Github-flavored Markdown preview using a vmd subprocess
 app-emacs/voca-builder 20161101.1645: Helps you build up your vocabulary
-app-emacs/volatile-highlights 20240913.2206: Minor mode for visual feedback on some operations
+app-emacs/volatile-highlights 20250402.1217: Minor mode for visual feedback on some operations
 app-emacs/volume 20220904.1727: Tweak your sound card volume from Emacs
 app-emacs/vs-dark-theme 20250211.133: Visual Studio IDE dark theme
 app-emacs/vs-light-theme 20250211.133: Visual Studio IDE light theme
