@@ -86,7 +86,7 @@ app-emacs/ah 20220730.1058: Additional hooks
 app-emacs/ahg 20241113.748: Alberto's Emacs interface for Mercurial (Hg)
 app-emacs/ahk-mode 20200412.1832: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 20180131.328: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
-app-emacs/aider 20250405.341: Interact with Aider: AI pair programming made simple
+app-emacs/aider 20250406.111: Interact with Aider: AI pair programming made simple
 app-emacs/aidermacs 20250401.2057: AI pair programming with Aider
 app-emacs/aiken-mode 20230920.1210: Major mode for Aiken
 app-emacs/airline-themes 20240530.1704: Vim-airline themes for emacs powerline
@@ -625,7 +625,7 @@ app-emacs/clojure-mode 20241211.1522: Major mode for Clojure code
 app-emacs/clojure-mode-extra-font-locking 20240526.1824: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 20150814.736: Quickly create Clojure and ClojureScript repls for a project
 app-emacs/clojure-snippets 20241226.1639: Yasnippets for clojure
-app-emacs/clojure-ts-mode 20250405.807: Major mode for Clojure code
+app-emacs/clojure-ts-mode 20250405.1608: Major mode for Clojure code
 app-emacs/clomacs 20220415.1035: Simplifies Emacs Lisp interaction with Clojure
 app-emacs/closql 20250301.2221: Store EIEIO objects using EmacSQL
 app-emacs/closure-lint-mode 20101118.2124: Minor mode for the Closure Linter
@@ -823,7 +823,7 @@ app-emacs/copy-file-on-save 20230402.1829: Copy file on save, automatic deployme
 app-emacs/copyit 20241030.543: Copy it, yank anything!
 app-emacs/copyit-pandoc 20190919.1258: Copy it, yank anything!
 app-emacs/coq-commenter 20170822.2309: Coq commenting minor mode for proof
-app-emacs/corfu 20250328.1430: COmpletion in Region FUnction
+app-emacs/corfu 20250406.0: COmpletion in Region FUnction
 app-emacs/corfu-candidate-overlay 20240322.1814: Show first candidate in an overlay while typing
 app-emacs/corfu-prescient 20240803.2320: Prescient.el + Corfu
 app-emacs/corral 20160502.948: Quickly surround text with delimiters
@@ -2453,7 +2453,7 @@ app-emacs/helm-navi 20230517.1143: Helm for navi-mode
 app-emacs/helm-nixos-options 20151013.2309: Helm Interface for nixos-options
 app-emacs/helm-notmuch 20190320.1048: Search emails with Notmuch and Helm
 app-emacs/helm-open-github 20220721.415: Utilities of Opening Github Page
-app-emacs/helm-org 20250227.1650: Helm for org headlines and keywords completion
+app-emacs/helm-org 20250405.1720: Helm for org headlines and keywords completion
 app-emacs/helm-org-multi-wiki 20210228.1853: Helm interface to org-multi-wiki
 app-emacs/helm-org-ql 20240613.355: Helm support for org-ql
 app-emacs/helm-org-recent-headings 20211011.1519: Helm source for org-recent-headings
@@ -5579,7 +5579,7 @@ app-emacs/verona-mode 20200823.536: A major mode for the Verona programming lang
 app-emacs/versuri 20211104.1301: The lyrics package
 app-emacs/vertica 20131217.1511: Vertica SQL mode extension
 app-emacs/vertica-snippets 20250314.927: Yasnippets for Vertica
-app-emacs/vertico 20250318.1630: VERTical Interactive COmpletion
+app-emacs/vertico 20250406.3: VERTical Interactive COmpletion
 app-emacs/vertico-prescient 20240803.2320: Prescient.el + Vertico
 app-emacs/vertigo 20211224.1256: Jump across lines using the home row
 app-emacs/vhdl-capf 20160221.1734: Completion at point function (capf) for vhdl-mode
@@ -5715,7 +5715,7 @@ app-emacs/winds 20201121.123: Window configuration switcher grouped by workspace
 app-emacs/windsize 20181029.2257: Simple, intuitive window resizing
 app-emacs/windswap 20200722.411: Like windmove, but swaps buffers while moving point
 app-emacs/windwow 20170816.148: Simple workspace management
-app-emacs/winnow 20210105.1919: Winnow ag/grep results by matching/excluding lines
+app-emacs/winnow 20250405.1910: Winnow ag/grep results by matching/excluding lines
 app-emacs/winpoint 20131023.1713: Remember buffer positions per-window, not per buffer
 app-emacs/winring 20240905.1634: Window configuration rings
 app-emacs/winum 20190911.1607: Navigate windows and frames using numbers
@@ -5849,21 +5849,21 @@ app-emacs/zero-input 20240527.728: Zero Chinese input method framework
 app-emacs/zero-input-panel-posframe 20240526.1604: Posframe based zero-input panel implementation
 app-emacs/zerodark-theme 20211115.841: A dark, medium contrast theme for Emacs
 app-emacs/zetteldeft 20221006.731: Turn deft into a zettelkasten system
-app-emacs/zetteldesk 20230517.2020: A revision and outlining tool for org-roam
-app-emacs/zetteldesk-info 20230517.2020: A zetteldesk extension for interacting with the info program
-app-emacs/zetteldesk-kb 20230517.2020: Keybindings for zetteldesk.el
-app-emacs/zetteldesk-ref 20230517.2020: A zetteldesk extension for interfacing with literature nodes
-app-emacs/zetteldesk-remark 20230517.2020: Org-Remark integration for zetteldesk.el
+app-emacs/zetteldesk 20250405.1601: A revision and outlining tool for org-roam
+app-emacs/zetteldesk-info 20250405.1601: A zetteldesk extension for interacting with the info program
+app-emacs/zetteldesk-kb 20250405.1601: Keybindings for zetteldesk.el
+app-emacs/zetteldesk-ref 20250405.1601: A zetteldesk extension for interfacing with literature nodes
+app-emacs/zetteldesk-remark 20250405.1601: Org-Remark integration for zetteldesk.el
 app-emacs/zettelkasten 20240517.1319: Helper functions to organise notes in a Zettelkasten style
 app-emacs/zetz-mode 20200823.536: A major mode for the ZetZ programming language
 app-emacs/zig-mode 20241104.1624: A major mode for the Zig programming language
 app-emacs/zig-ts-mode 20250308.216: Tree Sitter support for Zig
 app-emacs/zim-wiki-mode 20241020.2315: Zim Desktop Wiki edit mode
 app-emacs/zimports 20211011.2059: Reformat python imports with zimports
-app-emacs/zk 20241205.926: Functions for working with Zettelkasten-style linked notes
+app-emacs/zk 20250405.2035: Functions for working with Zettelkasten-style linked notes
 app-emacs/zk-desktop 20241006.1334: Desktop environment for zk
-app-emacs/zk-index 20241006.1334: Index for zk
-app-emacs/zk-luhmann 20240926.1827: Support for Luhmann-style IDs in zk
+app-emacs/zk-index 20250405.2034: Index for zk
+app-emacs/zk-luhmann 20250405.1423: Support for Luhmann-style IDs in zk
 app-emacs/zlc 20151011.157: Provides zsh like completion system to Emacs
 app-emacs/zmq 20241006.1857: ZMQ bindings in Emacs-Lisp
 app-emacs/znc 20210803.159: ZNC + ERC
