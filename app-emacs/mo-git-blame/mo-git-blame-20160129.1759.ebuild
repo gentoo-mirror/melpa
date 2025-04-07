@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An interactive, iterative 'git blame' mode for Emacs"
 
-HOMEPAGE="https://gitlab.com/mbunkus/mo-git-blame"
+HOMEPAGE="https://codeberg.org/mbunkus/mo-git-blame"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
