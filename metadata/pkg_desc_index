@@ -168,7 +168,7 @@ app-emacs/arch-packer 20170730.1321: Arch Linux package management frontend
 app-emacs/archive-phar 20221009.2129: Phar file support for archive-mode
 app-emacs/archive-region 20200316.1425: Move region to archive file instead of killing
 app-emacs/archive-rpm 20220527.632: RPM and CPIO support for archive-mode
-app-emacs/arduino-cli-mode 20250410.1508: Arduino-CLI command wrapper
+app-emacs/arduino-cli-mode 20250411.1340: Arduino-CLI command wrapper
 app-emacs/arduino-mode 20240527.1603: Major mode for editing Arduino code
 app-emacs/aria2 20230314.2131: Control aria2c commandline tool from Emacs
 app-emacs/ariadne 20131117.1711: Ariadne plugin for Emacs
@@ -522,7 +522,7 @@ app-emacs/cfml-mode 20190617.1130: Emacs mode for editing CFML files
 app-emacs/cfn-mode 20250330.805: AWS cloudformation mode
 app-emacs/cframe 20250126.1800: Customize a frame and fast switch size and positions
 app-emacs/cfrs 20220129.1149: Child-frame based read-string
-app-emacs/cg 20250315.1016: Major mode for editing Constraint Grammar files
+app-emacs/cg 20250321.1556: Major mode for editing Constraint Grammar files
 app-emacs/challenger-deep-theme 20240913.937: Challenger-deep Theme
 app-emacs/champagne 20240515.310: Graphical countdowns
 app-emacs/change-inner 20250320.1600: Change contents based on semantic units
@@ -562,7 +562,7 @@ app-emacs/chronos 20240525.1339: Multiple simultaneous countdown / countup timer
 app-emacs/chruby 20180114.1652: Emacs integration for chruby
 app-emacs/chyla-dark-theme 20240824.1615: Chyla.org - dark green color theme
 app-emacs/chyla-theme 20240708.2017: Chyla.org - green color theme
-app-emacs/cider 20250410.1905: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 20250411.510: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-decompile 20151122.537: Decompilation extension for cider
 app-emacs/cider-eval-sexp-fu 20190311.2152: Briefly highlights an evaluated sexp
 app-emacs/cider-hydra 20190816.1121: Hydras for CIDER
@@ -625,7 +625,7 @@ app-emacs/clojure-mode 20241211.1522: Major mode for Clojure code
 app-emacs/clojure-mode-extra-font-locking 20240526.1824: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 20150814.736: Quickly create Clojure and ClojureScript repls for a project
 app-emacs/clojure-snippets 20241226.1639: Yasnippets for clojure
-app-emacs/clojure-ts-mode 20250410.827: Major mode for Clojure code
+app-emacs/clojure-ts-mode 20250411.912: Major mode for Clojure code
 app-emacs/clomacs 20220415.1035: Simplifies Emacs Lisp interaction with Clojure
 app-emacs/closql 20250301.2221: Store EIEIO objects using EmacSQL
 app-emacs/closure-lint-mode 20101118.2124: Minor mode for the Closure Linter
@@ -1136,7 +1136,7 @@ app-emacs/dna-mode 20191001.2108: A major mode for editing dna sequences
 app-emacs/doc-show-inline 20250209.607: Show doc-strings found in external files
 app-emacs/docbook-snippets 20150714.1625: Yasnippets for DocBook
 app-emacs/docean 20180605.1744: Interact with DigitalOcean from Emacs
-app-emacs/docker 20250313.2007: Interface to Docker
+app-emacs/docker 20250411.709: Interface to Docker
 app-emacs/docker-api 20160525.720: Emacs interface to the Docker API
 app-emacs/docker-cli 20190524.1624: Running various commands in docker containers
 app-emacs/docker-compose-mode 20200830.1336: Major mode for editing docker-compose files
@@ -1423,7 +1423,7 @@ app-emacs/emms-mark-ext 20130529.327: Extra functions for emms-mark-mode and emm
 app-emacs/emms-mode-line-cycle 20160221.1120: Display the emms mode line as a ticker
 app-emacs/emms-player-mpv-jp-radios 20180325.1117: EMMS players and stream lists of Japan radio stations
 app-emacs/emms-player-simple-mpv 20180316.1549: An extension of emms-player-simple.el for mpv JSON IPC
-app-emacs/emms-player-spotify 20250405.915: Spotify player for EMMS
+app-emacs/emms-player-spotify 20250411.619: Spotify player for EMMS
 app-emacs/emms-soundcloud 20131221.1145: EMMS source for Soundcloud audio sharing platform
 app-emacs/emms-state 20211023.1942: Display track description and playing time in the mode line
 app-emacs/emoji-cheat-sheet-plus 20200202.1412: Emoji-cheat-sheet for emacs
@@ -2342,7 +2342,7 @@ app-emacs/headlong 20150417.1526: Reckless completion
 app-emacs/heaven-and-hell 20190713.1830: Easy toggle light/dark themes
 app-emacs/heex-ts-mode 20240113.1104: Major mode for Heex with tree-sitter support
 app-emacs/helix-theme 20240814.1212: Color theme inspired by Helix editor's default colors
-app-emacs/helm 20250407.1456: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20250408.1414: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: Helm-sources and some utilities for GNU R
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: Helm source for Active Directory
@@ -2376,7 +2376,7 @@ app-emacs/helm-codesearch 20221219.1219: Helm interface for codesearch
 app-emacs/helm-comint 20231102.2029: Comint prompt navigation for helm
 app-emacs/helm-commandlinefu 20150611.545: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 20231113.701: Helm interface for company-mode
-app-emacs/helm-core 20250407.1320: Development files for Helm
+app-emacs/helm-core 20250411.545: Development files for Helm
 app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
@@ -2988,7 +2988,7 @@ app-emacs/keyword-search 20180424.1102: Browser keyword search from Emacs
 app-emacs/kfg 20140909.538: An emacs configuration system
 app-emacs/khalel 20250225.1846: Import, edit and create calendar events through khal
 app-emacs/khardel 20231126.1502: Integrate with khard
-app-emacs/khoj 20250404.1505: Your Second Brain
+app-emacs/khoj 20250411.1240: Your Second Brain
 app-emacs/kibit-helper 20150508.1533: Conveniently use the Kibit Leiningen plugin from Emacs
 app-emacs/kill-dollar-mode 20241217.1947: Remove leading $ from shell-script-like text
 app-emacs/kill-file-path 20230306.1041: Copy file name into kill ring
@@ -3413,7 +3413,7 @@ app-emacs/minizinc-ts-mode 20241227.1909: Major mode for the MiniZinc constraint
 app-emacs/minor-mode-hack 20170926.34: Change priority of minor-mode keymaps
 app-emacs/minsk-theme 20200306.1220: Minsk, a theme in deep muted greens
 app-emacs/mint-mode 20221031.411: Major mode for the Mint programming language
-app-emacs/minuet 20250408.553: Code completion using LLM
+app-emacs/minuet 20250411.631: Code completion using LLM
 app-emacs/mip-mode 20151127.617: Virtual projects for emacs
 app-emacs/mips-mode 20220608.1204: Major-mode for MIPS assembly
 app-emacs/mise 20250216.2030: Support for `mise' cli
@@ -3788,7 +3788,7 @@ app-emacs/olc 20200818.1221: Open location code library
 app-emacs/old-norse-input 20170816.1842: An input method for Old Norse
 app-emacs/oldlace-theme 20150705.1300: Emacs 24 theme with an 'oldlace' background
 app-emacs/olivetti 20241030.542: Minor mode to automatically balance window margins
-app-emacs/ollama-buddy 20250410.1314: Ollama LLM AI Assistant with ChatGPT and Claude Support
+app-emacs/ollama-buddy 20250411.1015: Ollama LLM AI Assistant with ChatGPT and Claude Support
 app-emacs/om-mode 20140915.2110: Insert Om component template with life cycle
 app-emacs/omni-kill 20171016.2140: Kill all the things
 app-emacs/omni-log 20200304.2229: Logging utilities
@@ -5504,7 +5504,7 @@ app-emacs/unicode-whitespace 20140508.2041: Teach whitespace-mode about fancy ch
 app-emacs/unidecode 20201213.1449: Transliterate Unicode to ASCII
 app-emacs/unifdef 20250102.1047: Delete code guarded by processor directives
 app-emacs/unify-opening 20230903.844: Unify the mechanism to open files
-app-emacs/uniline 20250406.1417: Add UNICODE based diagrams to text files
+app-emacs/uniline 20250411.841: Add UNICODE based diagrams to text files
 app-emacs/unipoint 20140113.2224: A simple way to insert unicode characters by TeX name
 app-emacs/unison 20160704.740: Sync with Unison
 app-emacs/unison-mode 20160513.1501: Syntax highlighting for unison file synchronization program
