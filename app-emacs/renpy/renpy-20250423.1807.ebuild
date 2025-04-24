@@ -10,9 +10,9 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Silly walks for Renpy"
+DESCRIPTION="Major mode for editing Ren'Py files"
 
-HOMEPAGE="https://github.com/billywade/renpy-mode"
+HOMEPAGE="https://github.com/Reagankm/renpy-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
