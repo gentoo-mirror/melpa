@@ -85,7 +85,7 @@ app-emacs/ah 20220730.1058: Additional hooks
 app-emacs/ahg 20241113.748: Alberto's Emacs interface for Mercurial (Hg)
 app-emacs/ahk-mode 20200412.1832: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 20180131.328: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
-app-emacs/aider 20250422.1525: Interact with Aider: AI pair programming made simple
+app-emacs/aider 20250424.1403: Interact with Aider: AI pair programming made simple
 app-emacs/aidermacs 20250420.1838: AI pair programming with Aider
 app-emacs/aiken-mode 20230920.1210: Major mode for Aiken
 app-emacs/airline-themes 20240530.1704: Vim-airline themes for emacs powerline
@@ -582,7 +582,7 @@ app-emacs/citar 20250113.1556: Citation-related commands for org, latex, markdow
 app-emacs/citar-denote 20250225.927: Minor mode integrating Citar and Denote
 app-emacs/citar-embark 20231122.1548: Citar/Embark integration
 app-emacs/citar-org-node 20250422.749: Citar integration with org-node
-app-emacs/citar-org-roam 20241203.2325: Citar/org-roam integration
+app-emacs/citar-org-roam 20250424.1511: Citar/org-roam integration
 app-emacs/citeproc-el 20240722.1110: A CSL 1.0.2 Citation Processor
 app-emacs/citeproc-org 20200915.2009: Render org-mode references in CSL styles
 app-emacs/citre 20250411.1406: Superior code reading & auto-completion tool with pluggable backends
@@ -712,7 +712,7 @@ app-emacs/company-erlang 20170123.538: Company backend based on ivy-erlang-compl
 app-emacs/company-flow 20180225.2159: Flow backend for company-mode
 app-emacs/company-flx 20180103.518: Flx based fuzzy matching for company
 app-emacs/company-forge 20250402.735: Company backend for assignees and topics from forge
-app-emacs/company-fuzzy 20250422.1233: Fuzzy matching for `company-mode'
+app-emacs/company-fuzzy 20250424.1433: Fuzzy matching for `company-mode'
 app-emacs/company-ghci 20190707.311: Company backend which uses the current ghci process
 app-emacs/company-glsl 20210109.1403: Support glsl in company-mode
 app-emacs/company-go 20170825.1643: Company-mode backend for Go (using gocode)
@@ -2635,7 +2635,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20250316.1254: Make bindings that stick around
-app-emacs/hyperbole 20250423.1010: GNU Hyperbole: The Everyday Hypertextual Information Manager
+app-emacs/hyperbole 20250424.1323: GNU Hyperbole: The Everyday Hypertextual Information Manager
 app-emacs/hyperdrive 20250406.2225: P2P filesystem
 app-emacs/hyperdrive-org-transclusion 20241028.427: Tranclude hyperdrive content
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
@@ -2684,7 +2684,7 @@ app-emacs/ido-select-window 20131220.2047: Select a window using ido and buffer 
 app-emacs/ido-skk 20151111.950: Ido interface for skk henkan
 app-emacs/ido-sort-mtime 20171121.859: Sort Ido's file list by modification time
 app-emacs/ido-springboard 20170106.755: Temporarily change default-directory for one command
-app-emacs/ido-vertical-mode 20210205.436: Makes ido-mode display vertically
+app-emacs/ido-vertical-mode 20250424.1552: Makes ido-mode display vertically
 app-emacs/ido-yes-or-no 20161108.2351: Use Ido to answer yes-or-no questions
 app-emacs/idomenu 20141123.2120: Imenu tag selection a la ido
 app-emacs/idris-mode 20250424.908: Major mode for editing Idris code
@@ -3369,7 +3369,7 @@ app-emacs/merlin-ac 20221123.1408: Merlin and auto-complete integration
 app-emacs/merlin-company 20221123.1408: Merlin and company mode integration
 app-emacs/merlin-eldoc 20230213.555: Eldoc for OCaml and Reason
 app-emacs/merlin-iedit 20221123.1408: Merlin and iedit integration
-app-emacs/mermaid-docker-mode 20250313.652: Render mermaid graphs with Docker service
+app-emacs/mermaid-docker-mode 20250424.1730: Render mermaid graphs with Docker service
 app-emacs/mermaid-mode 20241213.1913: Major mode for working with mermaid graphs
 app-emacs/mermaid-ts-mode 20231001.1704: Major mode for Mermaid
 app-emacs/meson-mode 20240601.1647: Major mode for the Meson build system files
@@ -3425,7 +3425,7 @@ app-emacs/minuet 20250419.429: Code completion using LLM
 app-emacs/mip-mode 20151127.617: Virtual projects for emacs
 app-emacs/mips-mode 20220608.1204: Major-mode for MIPS assembly
 app-emacs/mise 20250216.2030: Support for `mise' cli
-app-emacs/mistty 20250423.802: Shell/Comint alternative based on term.el
+app-emacs/mistty 20250424.1707: Shell/Comint alternative based on term.el
 app-emacs/mix 20240122.720: Mix Major Mode. Build Elixir using Mix
 app-emacs/mixed-pitch 20210304.1900: Use a variable pitch, keeping fixed pitch where it's sensible
 app-emacs/mkdown 20140517.1418: Pretty Markdown previews based on mkdown.com
@@ -3774,7 +3774,7 @@ app-emacs/objed 20200911.1435: Navigate and edit text objects
 app-emacs/oblivion-theme 20240320.1152: A port of GEdit oblivion theme
 app-emacs/obsidian 20250220.2245: Obsidian Notes interface
 app-emacs/obsidian-theme 20170719.948: Port of the eclipse obsidian theme
-app-emacs/ocaml-eglot 20250415.2121: An OCaml companion for Eglot
+app-emacs/ocaml-eglot 20250424.1238: An OCaml companion for Eglot
 app-emacs/ocaml-ts-mode 20230820.1946: Major mode for OCaml using tree-sitter
 app-emacs/ocamlformat 20241202.1532: Utility functions to format ocaml code
 app-emacs/occidental-theme 20130312.1958: Custom theme for faces based on Adwaita
@@ -4062,7 +4062,7 @@ app-emacs/orgmdb 20250104.1911: An OMDb API client with some convenience functio
 app-emacs/orgnav 20170608.1713: Org tree navigation using helm
 app-emacs/orgnote 20240814.2021: Sync org-roam notes with OrgNote app
 app-emacs/orgstrap 20250316.1815: Bootstrap an Org file using file local variables
-app-emacs/orgtbl-aggregate 20250414.757: Create an Org Mode aggregated table from another table
+app-emacs/orgtbl-aggregate 20250424.1405: Create an Org Mode aggregated table from another table
 app-emacs/orgtbl-ascii-plot 20230122.816: Ascii-art bar plots in org-mode tables
 app-emacs/orgtbl-fit 20250403.2031: Fit an Org Mode column using Calc regression methods
 app-emacs/orgtbl-join 20250414.804: Join columns from other Org Mode tables
@@ -5623,7 +5623,7 @@ app-emacs/vmd-mode 20210524.27: Fast Github-flavored Markdown preview using a vm
 app-emacs/voca-builder 20161101.1645: Helps you build up your vocabulary
 app-emacs/volatile-highlights 20250402.1217: Minor mode for visual feedback on some operations
 app-emacs/volume 20220904.1727: Tweak your sound card volume from Emacs
-app-emacs/votd 20250424.648: Bible Verse Of The Day
+app-emacs/votd 20250424.1603: Bible Verse Of The Day
 app-emacs/vs-dark-theme 20250408.452: Visual Studio IDE dark theme
 app-emacs/vs-light-theme 20250408.453: Visual Studio IDE light theme
 app-emacs/vscdark-theme 20191212.107: VS Code Dark+ like theme
