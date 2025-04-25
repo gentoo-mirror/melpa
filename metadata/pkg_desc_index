@@ -85,7 +85,7 @@ app-emacs/ah 20220730.1058: Additional hooks
 app-emacs/ahg 20241113.748: Alberto's Emacs interface for Mercurial (Hg)
 app-emacs/ahk-mode 20200412.1832: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 20180131.328: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
-app-emacs/aider 20250424.1403: Interact with Aider: AI pair programming made simple
+app-emacs/aider 20250425.1540: AI assisted programming in Emacs with Aider
 app-emacs/aidermacs 20250425.130: AI pair programming with Aider
 app-emacs/aiken-mode 20230920.1210: Major mode for Aiken
 app-emacs/airline-themes 20240530.1704: Vim-airline themes for emacs powerline
@@ -291,7 +291,7 @@ app-emacs/bar-cursor 20201204.2244: Package used to switch block cursor to a bar
 app-emacs/bart-mode 20190601.1004: Real time BART departures info
 app-emacs/base16-theme 20250420.126: Collection of themes built on combinations of 16 base colors
 app-emacs/base32 20240227.1821: Base32 support
-app-emacs/bash-completion 20250101.1458: Bash completion for the shell buffer
+app-emacs/bash-completion 20250425.1830: Bash completion for the shell buffer
 app-emacs/basic-c-compile 20170302.1112: Quickly create a Makefile, compile and run C
 app-emacs/basic-ide 20230118.1040: BASIC IDE c64
 app-emacs/basic-mode 20231125.1617: Major mode for editing BASIC code
@@ -628,7 +628,7 @@ app-emacs/clojure-mode 20241211.1522: Major mode for Clojure code
 app-emacs/clojure-mode-extra-font-locking 20240526.1824: Extra font-locking for Clojure mode
 app-emacs/clojure-quick-repls 20150814.736: Quickly create Clojure and ClojureScript repls for a project
 app-emacs/clojure-snippets 20241226.1639: Yasnippets for clojure
-app-emacs/clojure-ts-mode 20250423.1122: Major mode for Clojure code
+app-emacs/clojure-ts-mode 20250425.1514: Major mode for Clojure code
 app-emacs/clomacs 20220415.1035: Simplifies Emacs Lisp interaction with Clojure
 app-emacs/closql 20250301.2221: Store EIEIO objects using EmacSQL
 app-emacs/closure-lint-mode 20101118.2124: Minor mode for the Closure Linter
@@ -2280,7 +2280,7 @@ app-emacs/gregorio-mode 20170705.1451: Gregorio Mode for .gabc files
 app-emacs/grep-a-lot 20210618.1420: Manages multiple search results buffers for grep.el
 app-emacs/grey-paper-theme 20230415.1115: A greyscale theme with look-n-feel of an eink display
 app-emacs/greymatters-theme 20150621.1123: Emacs 24 theme with a light background
-app-emacs/grip-mode 20250307.1011: Instant GitHub-flavored Markdown/Org preview using grip
+app-emacs/grip-mode 20250425.1734: Instant GitHub-flavored Markdown/Org preview using grip
 app-emacs/grizzl 20160818.737: Fast fuzzy search index for Emacs
 app-emacs/groovy-imports 20210505.1807: Code for dealing with Groovy imports
 app-emacs/groovy-mode 20230318.533: Major mode for Groovy source files
@@ -3224,7 +3224,7 @@ app-emacs/lsp-pyre 20190406.335: Lsp-mode client for python using pyre
 app-emacs/lsp-pyright 20250301.131: Python LSP client using Pyright
 app-emacs/lsp-python-ms 20230731.1458: The lsp-mode client for Microsoft python-language-server
 app-emacs/lsp-rescript 20220314.1957: LSP client configuration for lsp-mode and rescript-vscode
-app-emacs/lsp-scheme 20250424.2059: Scheme support for lsp-mode
+app-emacs/lsp-scheme 20250425.1731: Scheme support for lsp-mode
 app-emacs/lsp-shader 20250101.926: LSP Clients for ShaderLab
 app-emacs/lsp-sonarlint 20250301.131: Emacs SonarLint lsp client
 app-emacs/lsp-sourcekit 20250301.131: Sourcekit-lsp client for lsp-mode
@@ -3796,7 +3796,7 @@ app-emacs/olc 20200818.1221: Open location code library
 app-emacs/old-norse-input 20170816.1842: An input method for Old Norse
 app-emacs/oldlace-theme 20150705.1300: Emacs 24 theme with an 'oldlace' background
 app-emacs/olivetti 20241030.542: Minor mode to automatically balance window margins
-app-emacs/ollama-buddy 20250421.931: Ollama LLM AI Assistant with ChatGPT, Claude, Gemini and Grok Support
+app-emacs/ollama-buddy 20250425.1953: Ollama LLM AI Assistant with ChatGPT, Claude, Gemini and Grok Support
 app-emacs/om-mode 20140915.2110: Insert Om component template with life cycle
 app-emacs/omni-kill 20171016.2140: Kill all the things
 app-emacs/omni-log 20200304.2229: Logging utilities
@@ -4568,7 +4568,7 @@ app-emacs/quiz 20190525.1206: Multiple choice quiz game
 app-emacs/qwen-chat-shell 20240612.343: Qwen-chat shell + buffer insert commands
 app-emacs/r-autoyas 20140101.1510: Provides automatically created yasnippets for R function argument lists
 app-emacs/racer 20210307.243: Code completion, goto-definition and docs browsing for Rust via racer
-app-emacs/racket-mode 20250423.1838: Racket editing, REPL, and more
+app-emacs/racket-mode 20250425.1746: Racket editing, REPL, and more
 app-emacs/rails-i18n 20220126.1643: Seach and insert i18n on ruby code
 app-emacs/rails-log-mode 20140408.425: Major mode for viewing Rails log files
 app-emacs/rails-routes 20220126.1631: Search for and insert rails routes
@@ -4959,7 +4959,7 @@ app-emacs/skewer-mode 20200304.1142: Live browser JavaScript, CSS, and HTML inte
 app-emacs/skewer-reload-stylesheets 20160725.1220: Live-edit CSS, SCSS, Less, and friends
 app-emacs/skype 20160711.824: Skype UI for emacs users.
 app-emacs/sl 20161217.1404: An Emacs clone of sl(1)
-app-emacs/slack 20250423.2203: Slack client
+app-emacs/slack 20250425.1442: Slack client
 app-emacs/slideview 20250121.324: File slideshow
 app-emacs/slim-mode 20240513.2118: Major mode for editing Slim files
 app-emacs/slime 20250417.2015: Superior Lisp Interaction Mode for Emacs
@@ -5386,7 +5386,7 @@ app-emacs/tornado-template-mode 20141128.1008: A major mode for editing tornado 
 app-emacs/torrent-mode 20240923.503: Display torrent files in a tabulated view
 app-emacs/torus 20190325.753: A buffer groups manager
 app-emacs/total-lines 20171227.1239: Keep track of a buffer's total number of lines
-app-emacs/total-recall 20250419.655: Spaced repetition system
+app-emacs/total-recall 20250425.2022: Spaced repetition system
 app-emacs/totd 20150519.1440: Display a random daily emacs command
 app-emacs/totp 20240102.1721: Time-based One-time Password (TOTP)
 app-emacs/totp-auth 20250312.2000: RFC6238 TOTP
