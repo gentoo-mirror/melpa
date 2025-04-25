@@ -86,7 +86,7 @@ app-emacs/ahg 20241113.748: Alberto's Emacs interface for Mercurial (Hg)
 app-emacs/ahk-mode 20200412.1832: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 20180131.328: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
 app-emacs/aider 20250424.1403: Interact with Aider: AI pair programming made simple
-app-emacs/aidermacs 20250420.1838: AI pair programming with Aider
+app-emacs/aidermacs 20250425.130: AI pair programming with Aider
 app-emacs/aiken-mode 20230920.1210: Major mode for Aiken
 app-emacs/airline-themes 20240530.1704: Vim-airline themes for emacs powerline
 app-emacs/airplay 20130212.1226: Airplay bindings to Emacs
@@ -534,7 +534,7 @@ app-emacs/chapel-mode 20210513.457: A major mode for the Chapel programming lang
 app-emacs/char-menu 20210321.1657: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 20200616.1418: Unicode table for Emacs
 app-emacs/chatgpt-shell 20250423.1203: A family of utilities to interact with LLMs (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity)
-app-emacs/chatu 20250423.1322: Convert and insert any images to org-mode or markdown buffer
+app-emacs/chatu 20250425.645: Convert and insert any images to org-mode or markdown buffer
 app-emacs/chatwork 20240910.1531: ChatWork client for Emacs
 app-emacs/cheat-sh 20210607.1307: Interact with cheat.sh
 app-emacs/cheatsheet 20170126.2150: Create your own cheatsheet
@@ -565,7 +565,7 @@ app-emacs/chronos 20240525.1339: Multiple simultaneous countdown / countup timer
 app-emacs/chruby 20180114.1652: Emacs integration for chruby
 app-emacs/chyla-dark-theme 20240824.1615: Chyla.org - dark green color theme
 app-emacs/chyla-theme 20240708.2017: Chyla.org - green color theme
-app-emacs/cider 20250423.1054: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 20250425.907: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-decompile 20151122.537: Decompilation extension for cider
 app-emacs/cider-eval-sexp-fu 20190311.2152: Briefly highlights an evaluated sexp
 app-emacs/cider-hydra 20190816.1121: Hydras for CIDER
@@ -1952,7 +1952,7 @@ app-emacs/flymake-racket 20210105.606: Flymake extension for Racket
 app-emacs/flymake-rakudo 20220424.637: Flymake syntax checker for Rakudo
 app-emacs/flymake-relint 20250123.2108: A relint Flymake backend
 app-emacs/flymake-ruby 20170723.146: A flymake handler for ruby-mode files
-app-emacs/flymake-ruff 20250217.2352: A flymake plugin for python files using ruff
+app-emacs/flymake-ruff 20250424.2305: A flymake plugin for python files using ruff
 app-emacs/flymake-sass 20170723.146: Flymake handler for sass and scss files
 app-emacs/flymake-shell 20170723.146: A flymake syntax-checker for shell scripts
 app-emacs/flymake-shellcheck 20220308.2218: A bash/sh Flymake backend powered by ShellCheck
@@ -2349,7 +2349,7 @@ app-emacs/headlong 20150417.1526: Reckless completion
 app-emacs/heaven-and-hell 20190713.1830: Easy toggle light/dark themes
 app-emacs/heex-ts-mode 20240113.1104: Major mode for Heex with tree-sitter support
 app-emacs/helix-theme 20240814.1212: Color theme inspired by Helix editor's default colors
-app-emacs/helm 20250420.518: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20250425.721: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: Helm-sources and some utilities for GNU R
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: Helm source for Active Directory
@@ -2635,7 +2635,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20250316.1254: Make bindings that stick around
-app-emacs/hyperbole 20250424.1323: GNU Hyperbole: The Everyday Hypertextual Information Manager
+app-emacs/hyperbole 20250425.738: GNU Hyperbole: The Everyday Hypertextual Information Manager
 app-emacs/hyperdrive 20250406.2225: P2P filesystem
 app-emacs/hyperdrive-org-transclusion 20241028.427: Tranclude hyperdrive content
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
@@ -3224,11 +3224,11 @@ app-emacs/lsp-pyre 20190406.335: Lsp-mode client for python using pyre
 app-emacs/lsp-pyright 20250301.131: Python LSP client using Pyright
 app-emacs/lsp-python-ms 20230731.1458: The lsp-mode client for Microsoft python-language-server
 app-emacs/lsp-rescript 20220314.1957: LSP client configuration for lsp-mode and rescript-vscode
-app-emacs/lsp-scheme 20230606.1722: Scheme support for lsp-mode
+app-emacs/lsp-scheme 20250424.2059: Scheme support for lsp-mode
 app-emacs/lsp-shader 20250101.926: LSP Clients for ShaderLab
 app-emacs/lsp-sonarlint 20250301.131: Emacs SonarLint lsp client
 app-emacs/lsp-sourcekit 20250301.131: Sourcekit-lsp client for lsp-mode
-app-emacs/lsp-tailwindcss 20250408.1227: A lsp-mode client for tailwindcss
+app-emacs/lsp-tailwindcss 20250425.326: A lsp-mode client for tailwindcss
 app-emacs/lsp-treemacs 20250328.1727: LSP treemacs
 app-emacs/lsp-ui 20250228.2155: UI modules for lsp-mode
 app-emacs/lte 20250112.2154: Large Table Edition in Org and Markdown buffers
@@ -3453,7 +3453,7 @@ app-emacs/modern-fringes 20220401.202: Replaces default fringe bitmaps with bett
 app-emacs/modern-sh 20250320.858: Minor mode for editing shell script
 app-emacs/modtime-skip-mode 20140128.2201: Minor mode for disabling modtime and supersession checks on files
 app-emacs/modular-config 20210726.1614: Organize your config into small and loadable modules
-app-emacs/modus-themes 20250424.454: Elegant, highly legible and customizable themes
+app-emacs/modus-themes 20250425.525: Elegant, highly legible and customizable themes
 app-emacs/moe-theme 20250203.1808: A colorful eye-candy theme. Moe, moe, kyun!
 app-emacs/molar-mass 20220922.1752: Calculates molar mass of a molecule
 app-emacs/molecule 20180527.743: Simple wrapper for molecule
@@ -3918,7 +3918,7 @@ app-emacs/org-iv 20171001.1022: A tool used to view html (in browser) generated 
 app-emacs/org-ivy-search 20250305.159: Full text search for org files powered by ivy
 app-emacs/org-jami-bot 20240203.1016: Capture GNU Jami messages as notes and todos in Org mode
 app-emacs/org-jira 20250424.41: Syncing between Jira and Org-mode
-app-emacs/org-journal 20250306.1429: A simple org-mode based journaling mode
+app-emacs/org-journal 20250425.936: A simple org-mode based journaling mode
 app-emacs/org-journal-list 20190221.2052: Org mode Journal List
 app-emacs/org-journal-tags 20241229.1923: Tagging and querying system for org-journal
 app-emacs/org-kanban 20250329.2201: Kanban dynamic block for org-mode
@@ -4240,7 +4240,7 @@ app-emacs/pepita 20240102.401: Run Splunk search commands, export results to CSV
 app-emacs/per-buffer-theme 20221002.2219: Change theme and font according to buffer name or major mode
 app-emacs/perfect-margin 20250421.2011: Auto center windows, works with line numbers
 app-emacs/perject 20250115.1657: Session-persistent project management
-app-emacs/perl-ts-mode 20250128.1327: Another Major mode for Perl
+app-emacs/perl-ts-mode 20250425.953: Another Major mode for Perl
 app-emacs/perlbrew 20230823.1652: A perlbrew wrapper for Emacs
 app-emacs/persist-state 20240904.2057: Regularly persist bookmarks, history, recent files and more
 app-emacs/persist-text-scale 20250420.1613: Persist and restore text scale
@@ -4826,7 +4826,7 @@ app-emacs/scss-mode 20180123.1708: Major mode for editing SCSS files
 app-emacs/sculpture-themes 20250416.1506: Themes with vivid colors
 app-emacs/sdcv 20241227.319: Interface for sdcv (StartDict console version)
 app-emacs/sdlang-mode 20161201.711: Major mode for Simple Declarative Language files
-app-emacs/sdml-mode 20250404.1804: Major mode for SDML
+app-emacs/sdml-mode 20250424.2016: Major mode for SDML
 app-emacs/search-web 20150312.1103: Post web search queries using `browse-url'
 app-emacs/searcher 20250101.1011: Searcher in pure elisp
 app-emacs/searchq 20150829.1211: Framework of queued search tasks using GREP, ACK, AG and more
