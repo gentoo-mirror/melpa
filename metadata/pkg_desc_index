@@ -88,7 +88,7 @@ app-emacs/ahungry-theme 20180131.328: Ahungry color theme for Emacs. Make sure t
 app-emacs/aider 20250430.149: AI assisted programming in Emacs with Aider
 app-emacs/aidermacs 20250501.520: AI pair programming with Aider
 app-emacs/aiken-mode 20230920.1210: Major mode for Aiken
-app-emacs/airline-themes 20240530.1704: Vim-airline themes for emacs powerline
+app-emacs/airline-themes 20250502.1915: Vim-airline themes for emacs powerline
 app-emacs/airplay 20130212.1226: Airplay bindings to Emacs
 app-emacs/alan-mode 20240309.650: Major mode for editing Alan files
 app-emacs/alarm-clock 20250123.556: Alarm Clock
@@ -152,7 +152,7 @@ app-emacs/anyins 20131229.1041: Insert content at multiple places from shell com
 app-emacs/anzu 20240929.201: Show number of matches in mode-line while searching
 app-emacs/aozora-view 20140310.1317: Aozora Bunko text Emacs viewer
 app-emacs/apache-mode 20210519.1931: Major mode for editing Apache httpd configuration files
-app-emacs/apdl-mode 20250501.1256: Major mode for the APDL programming language
+app-emacs/apdl-mode 20250502.1842: Major mode for the APDL programming language
 app-emacs/apel 20241127.1623: Support for portable Emacs Lisp programs
 app-emacs/apheleia 20250428.21: Reformat buffer stably
 app-emacs/apib-mode 20200101.1017: Major mode for API Blueprint files
@@ -1329,7 +1329,7 @@ app-emacs/eldoc-toml 20211026.1122: TOML table name at point for ElDoc
 app-emacs/electric-case 20150417.1112: Insert camelCase, snake_case words without "Shift"ing
 app-emacs/electric-cursor 20221221.438: Change cursor automatically depending on mode
 app-emacs/electric-operator 20250120.734: Automatically add spaces around operators
-app-emacs/electric-ospl 20240428.1829: Electric OSPL Mode
+app-emacs/electric-ospl 20250502.1439: Electric OSPL Mode
 app-emacs/electric-spacing 20220220.1540: Insert operators with surrounding spaces smartly
 app-emacs/elegant-agenda-mode 20210115.353: An elegant theme for your org-agenda
 app-emacs/elein 20120120.1116: Running leiningen commands from emacs
@@ -2250,7 +2250,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20250417.12: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20250220.1735: Integrate with the OpenAI API
-app-emacs/gptel 20250424.42: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20250502.1842: Interact with ChatGPT or other LLMs
 app-emacs/gptel-aibo 20250318.546: An AI Writing Assistant
 app-emacs/gptel-fn-complete 20250317.1805: Complete the function at point using gptel
 app-emacs/gpx 20250417.2141: Major mode for GPX files
@@ -2349,7 +2349,7 @@ app-emacs/headlong 20150417.1526: Reckless completion
 app-emacs/heaven-and-hell 20190713.1830: Easy toggle light/dark themes
 app-emacs/heex-ts-mode 20240113.1104: Major mode for Heex with tree-sitter support
 app-emacs/helix-theme 20240814.1212: Color theme inspired by Helix editor's default colors
-app-emacs/helm 20250429.1028: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20250502.326: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: Helm-sources and some utilities for GNU R
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: Helm source for Active Directory
@@ -2383,7 +2383,7 @@ app-emacs/helm-codesearch 20221219.1219: Helm interface for codesearch
 app-emacs/helm-comint 20231102.2029: Comint prompt navigation for helm
 app-emacs/helm-commandlinefu 20150611.545: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 20231113.701: Helm interface for company-mode
-app-emacs/helm-core 20250501.1729: Development files for Helm
+app-emacs/helm-core 20250502.326: Development files for Helm
 app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
@@ -2635,7 +2635,7 @@ app-emacs/hybrid-reverse-theme 20220921.1345: Emacs theme with material color sc
 app-emacs/hydandata-light-theme 20190809.1925: A light color theme that is easy on your eyes
 app-emacs/hyde 20160508.308: Major mode to help create and manage Jekyll blogs
 app-emacs/hydra 20250316.1254: Make bindings that stick around
-app-emacs/hyperbole 20250428.718: GNU Hyperbole: The Everyday Hypertextual Information Manager
+app-emacs/hyperbole 20250502.1325: GNU Hyperbole: The Everyday Hypertextual Information Manager
 app-emacs/hyperdrive 20250406.2225: P2P filesystem
 app-emacs/hyperdrive-org-transclusion 20241028.427: Tranclude hyperdrive content
 app-emacs/hyperkitty 20220226.1951: Emacs interface for Hyperkitty archives
@@ -3426,7 +3426,7 @@ app-emacs/minuet 20250419.429: Code completion using LLM
 app-emacs/mip-mode 20151127.617: Virtual projects for emacs
 app-emacs/mips-mode 20220608.1204: Major-mode for MIPS assembly
 app-emacs/mise 20250216.2030: Support for `mise' cli
-app-emacs/mistty 20250424.1707: Shell/Comint alternative based on term.el
+app-emacs/mistty 20250502.1304: Shell/Comint alternative based on term.el
 app-emacs/mix 20240122.720: Mix Major Mode. Build Elixir using Mix
 app-emacs/mixed-pitch 20210304.1900: Use a variable pitch, keeping fixed pitch where it's sensible
 app-emacs/mkdown 20140517.1418: Pretty Markdown previews based on mkdown.com
@@ -3798,7 +3798,7 @@ app-emacs/olc 20200818.1221: Open location code library
 app-emacs/old-norse-input 20170816.1842: An input method for Old Norse
 app-emacs/oldlace-theme 20150705.1300: Emacs 24 theme with an 'oldlace' background
 app-emacs/olivetti 20241030.542: Minor mode to automatically balance window margins
-app-emacs/ollama-buddy 20250502.825: Ollama LLM AI Assistant with ChatGPT, Claude, Gemini and Grok Support
+app-emacs/ollama-buddy 20250502.1321: Ollama LLM AI Assistant with ChatGPT, Claude, Gemini and Grok Support
 app-emacs/om-mode 20140915.2110: Insert Om component template with life cycle
 app-emacs/omni-kill 20171016.2140: Kill all the things
 app-emacs/omni-log 20200304.2229: Logging utilities
@@ -4352,7 +4352,7 @@ app-emacs/point-pos 20170421.1632: Save and restore point positions
 app-emacs/point-stack 20200427.107: Back and forward navigation through buffer locations
 app-emacs/poke-line 20201023.247: Minor mode to show position in a buffer using a Pokemon
 app-emacs/pollen-mode 20220904.447: Major mode for editing pollen files
-app-emacs/poly-R 20230416.1454: Various polymodes for R language
+app-emacs/poly-R 20250502.1525: Various polymodes for R language
 app-emacs/poly-ansible 20250501.1455: Polymode for Ansible: Jinja2 in YAML
 app-emacs/poly-erb 20200316.1314: Polymode for erb
 app-emacs/poly-gams 20240812.1540: Polymode for GAMS
@@ -4536,7 +4536,7 @@ app-emacs/python-environment 20150310.853: Virtualenv API for Emacs Lisp
 app-emacs/python-insert-docstring 20211127.1232: Python Google docstring inserter
 app-emacs/python-isort 20210603.2153: Reformat python-mode buffer with isort
 app-emacs/python-mls 20240621.2114: Multi-line shell for (i)Python
-app-emacs/python-mode 20250428.1032: Python major mode
+app-emacs/python-mode 20250502.1648: Python major mode
 app-emacs/python-pytest 20240826.948: Helpers to run pytest
 app-emacs/python-switch-quotes 20161228.809: Cycle between ' and " quotes in python strings
 app-emacs/python-test 20181018.29: Python testing integration
@@ -4571,7 +4571,7 @@ app-emacs/quiz 20190525.1206: Multiple choice quiz game
 app-emacs/qwen-chat-shell 20240612.343: Qwen-chat shell + buffer insert commands
 app-emacs/r-autoyas 20140101.1510: Provides automatically created yasnippets for R function argument lists
 app-emacs/racer 20210307.243: Code completion, goto-definition and docs browsing for Rust via racer
-app-emacs/racket-mode 20250501.1900: Racket editing, REPL, and more
+app-emacs/racket-mode 20250502.1322: Racket editing, REPL, and more
 app-emacs/rails-i18n 20220126.1643: Seach and insert i18n on ruby code
 app-emacs/rails-log-mode 20140408.425: Major mode for viewing Rails log files
 app-emacs/rails-routes 20220126.1631: Search for and insert rails routes
@@ -5733,7 +5733,7 @@ app-emacs/winds 20201121.123: Window configuration switcher grouped by workspace
 app-emacs/windsize 20181029.2257: Simple, intuitive window resizing
 app-emacs/windswap 20200722.411: Like windmove, but swaps buffers while moving point
 app-emacs/windwow 20170816.148: Simple workspace management
-app-emacs/winnow 20250405.1910: Winnow ag/grep results by matching/excluding lines
+app-emacs/winnow 20250502.1745: Winnow ag/grep results by matching/excluding lines
 app-emacs/winpoint 20131023.1713: Remember buffer positions per-window, not per buffer
 app-emacs/winring 20240905.1634: Window configuration rings
 app-emacs/winum 20190911.1607: Navigate windows and frames using numbers
