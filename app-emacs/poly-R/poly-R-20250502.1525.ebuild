@@ -18,9 +18,11 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/polymode
+DEPEND="app-emacs/ess
+	app-emacs/polymode
 	app-emacs/poly-markdown
 	app-emacs/poly-noweb"
-RDEPEND="app-emacs/polymode
+RDEPEND="app-emacs/ess
+	app-emacs/polymode
 	app-emacs/poly-markdown
 	app-emacs/poly-noweb"
