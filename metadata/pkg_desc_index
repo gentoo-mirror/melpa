@@ -581,7 +581,7 @@ app-emacs/circom-mode 20250406.1817: Major mode for editing Circom circuit
 app-emacs/citar 20250113.1556: Citation-related commands for org, latex, markdown
 app-emacs/citar-denote 20250225.927: Minor mode integrating Citar and Denote
 app-emacs/citar-embark 20231122.1548: Citar/Embark integration
-app-emacs/citar-org-node 20250422.749: Citar integration with org-node
+app-emacs/citar-org-node 20250422.839: Citar integration with org-node
 app-emacs/citar-org-roam 20250424.1511: Citar/org-roam integration
 app-emacs/citeproc-el 20240722.1110: A CSL 1.0.2 Citation Processor
 app-emacs/citeproc-org 20200915.2009: Render org-mode references in CSL styles
@@ -2242,7 +2242,7 @@ app-emacs/goto-chg 20240407.1110: Go to last change
 app-emacs/goto-last-change 20150109.1823: Move point through buffer-undo-list positions
 app-emacs/goto-last-point 20230406.1822: Record and jump to the last point in the buffer
 app-emacs/goto-line-preview 20250101.908: Preview line when executing `goto-line` command
-app-emacs/govc 20250325.2024: Interface to govc for managing VMware ESXi and vCenter
+app-emacs/govc 20250503.250: Interface to govc for managing VMware ESXi and vCenter
 app-emacs/govet 20170808.1724: Linter/problem finder for the Go source code
 app-emacs/gpastel 20231030.713: Integrates GPaste with the kill-ring
 app-emacs/gpr-ts-mode 20250111.1503: Major mode for GNAT project files using Tree-Sitter
@@ -2250,7 +2250,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20250417.12: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20250220.1735: Integrate with the OpenAI API
-app-emacs/gptel 20250502.1842: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20250502.2333: Interact with ChatGPT or other LLMs
 app-emacs/gptel-aibo 20250318.546: An AI Writing Assistant
 app-emacs/gptel-fn-complete 20250317.1805: Complete the function at point using gptel
 app-emacs/gpx 20250417.2141: Major mode for GPX files
@@ -3157,7 +3157,7 @@ app-emacs/literate-calc-mode 20240823.335: Inline results from calc
 app-emacs/literate-coffee-mode 20170211.1515: Major-mode for Literate CoffeeScript
 app-emacs/literate-elisp 20250103.132: Load Emacs Lisp code blocks from Org files
 app-emacs/litex-mode 20221107.147: Minor mode for converting lisp to LaTeX
-app-emacs/lithium 20250412.707: Lightweight modal interfaces
+app-emacs/lithium 20250430.2353: Lightweight modal interfaces
 app-emacs/live-code-talks 20180907.1647: Support for slides with live code in them
 app-emacs/live-preview 20231215.1612: Live preview by any shell command while editing
 app-emacs/live-py-mode 20241214.1526: Live Coding in Python
@@ -3798,7 +3798,7 @@ app-emacs/olc 20200818.1221: Open location code library
 app-emacs/old-norse-input 20170816.1842: An input method for Old Norse
 app-emacs/oldlace-theme 20150705.1300: Emacs 24 theme with an 'oldlace' background
 app-emacs/olivetti 20241030.542: Minor mode to automatically balance window margins
-app-emacs/ollama-buddy 20250502.1321: Ollama LLM AI Assistant with ChatGPT, Claude, Gemini and Grok Support
+app-emacs/ollama-buddy 20250502.1931: Ollama LLM AI Assistant with ChatGPT, Claude, Gemini and Grok Support
 app-emacs/om-mode 20140915.2110: Insert Om component template with life cycle
 app-emacs/omni-kill 20171016.2140: Kill all the things
 app-emacs/omni-log 20200304.2229: Logging utilities
@@ -3845,7 +3845,7 @@ app-emacs/org-attach-screenshot 20210221.1336: Screenshots integrated with org a
 app-emacs/org-auto-expand 20231006.854: Automatically expand certain headings
 app-emacs/org-auto-export-pandoc 20241026.832: Add org auto export with pandoc
 app-emacs/org-auto-tangle 20220812.2327: Automatically and Asynchronously tangles org files on save
-app-emacs/org-autoexport 20250302.1553: Auto-export org file on save
+app-emacs/org-autoexport 20250502.1854: Auto-export org file on save
 app-emacs/org-autolist 20220530.1620: Improved list management in org-mode
 app-emacs/org-babel-eval-in-repl 20201206.1540: Eval org-mode babel code blocks in various REPLs
 app-emacs/org-beautify-theme 20170908.2218: A sub-theme to make org-mode more beautiful
@@ -3989,7 +3989,7 @@ app-emacs/org-review 20250416.802: Schedule reviews for Org entries
 app-emacs/org-rich-yank 20250304.907: Paste with org-mode markup and link to source
 app-emacs/org-roam 20250324.2140: A database abstraction layer for Org-mode
 app-emacs/org-roam-bibtex 20250215.1156: Org Roam meets BibTeX
-app-emacs/org-roam-ql 20250430.430: Interface to query and view results from org-roam
+app-emacs/org-roam-ql 20250503.249: Interface to query and view results from org-roam
 app-emacs/org-roam-ql-ql 20250424.2227: Intgrating org-roam and org-ql
 app-emacs/org-roam-timestamps 20221104.1544: Keep track of modification times for org-roam
 app-emacs/org-roam-ui 20221105.1040: User Interface for Org-roam
@@ -4261,7 +4261,7 @@ app-emacs/perspeen 20171203.1021: An package for multi-workspace
 app-emacs/pest-mode 20221231.15: Major mode for editing Pest files
 app-emacs/pet 20250115.422: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 20220913.1401: A simple wrapper around asynchronous processes
-app-emacs/pg 20250419.1425: Socket-level interface to the PostgreSQL database
+app-emacs/pg 20250503.834: Socket-level interface to the PostgreSQL database
 app-emacs/pgdevenv 20150105.2236: Manage your PostgreSQL development envs
 app-emacs/phabricator 20160510.1425: Phabricator/Arcanist helpers for Emacs
 app-emacs/phan 20200805.356: Utility functions for Phan (PHP static analizer)
@@ -5647,7 +5647,7 @@ app-emacs/vunit-mode 20230913.1754: VUnit Runner Interface
 app-emacs/vyper-mode 20180707.1935: Major mode for the Vyper programming language
 app-emacs/w32-browser 20170101.1954: Run Windows application associated with a file
 app-emacs/w32-ime 20201107.143: Windows IME UI/UX controler
-app-emacs/w3m 20250502.348: An Emacs interface to w3m
+app-emacs/w3m 20250502.2336: An Emacs interface to w3m
 app-emacs/wacspace 20180311.2350: The WACky WorkSPACE manager for emACS
 app-emacs/waf-mode 20170403.1940: Waf integration for Emacs
 app-emacs/waher-theme 20141115.1230: Emacs 24 theme based on waher for st2 by dduckster
