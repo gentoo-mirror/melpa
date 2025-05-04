@@ -85,8 +85,8 @@ app-emacs/ah 20220730.1058: Additional hooks
 app-emacs/ahg 20241113.748: Alberto's Emacs interface for Mercurial (Hg)
 app-emacs/ahk-mode 20200412.1832: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 20180131.328: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
-app-emacs/aider 20250430.149: AI assisted programming in Emacs with Aider
-app-emacs/aidermacs 20250501.520: AI pair programming with Aider
+app-emacs/aider 20250503.1725: AI assisted programming in Emacs with Aider
+app-emacs/aidermacs 20250504.440: AI pair programming with Aider
 app-emacs/aiken-mode 20230920.1210: Major mode for Aiken
 app-emacs/airline-themes 20250502.1915: Vim-airline themes for emacs powerline
 app-emacs/airplay 20130212.1226: Airplay bindings to Emacs
@@ -152,7 +152,7 @@ app-emacs/anyins 20131229.1041: Insert content at multiple places from shell com
 app-emacs/anzu 20240929.201: Show number of matches in mode-line while searching
 app-emacs/aozora-view 20140310.1317: Aozora Bunko text Emacs viewer
 app-emacs/apache-mode 20210519.1931: Major mode for editing Apache httpd configuration files
-app-emacs/apdl-mode 20250502.1842: Major mode for the APDL programming language
+app-emacs/apdl-mode 20250504.833: Major mode for the APDL programming language
 app-emacs/apel 20241127.1623: Support for portable Emacs Lisp programs
 app-emacs/apheleia 20250428.21: Reformat buffer stably
 app-emacs/apib-mode 20200101.1017: Major mode for API Blueprint files
@@ -522,7 +522,7 @@ app-emacs/cern-root-mode 20240411.1355: Major-mode for running C++ code with ROO
 app-emacs/cfengine-code-style 20171111.1027: C code style for CFEngine project
 app-emacs/cff 20250209.2316: Search of the C/C++ file header by the source and vice versa
 app-emacs/cfml-mode 20190617.1130: Emacs mode for editing CFML files
-app-emacs/cfn-mode 20250427.805: AWS cloudformation mode
+app-emacs/cfn-mode 20250504.804: AWS cloudformation mode
 app-emacs/cframe 20250126.1800: Customize a frame and fast switch size and positions
 app-emacs/cfrs 20220129.1149: Child-frame based read-string
 app-emacs/cg 20250430.1005: Major mode for editing Constraint Grammar files
@@ -820,7 +820,7 @@ app-emacs/contrast-color 20160903.1807: Pick best contrast color for you
 app-emacs/control-mode 20160624.1710: A "control" mode, similar to vim's "normal" mode
 app-emacs/cool-mode 20231026.456: Major mode for cool compiler language
 app-emacs/copilot 20250417.826: An unofficial Copilot plugin
-app-emacs/copilot-chat 20250422.611: Copilot chat interface
+app-emacs/copilot-chat 20250504.625: Copilot chat interface
 app-emacs/copy-as-format 20231112.1710: Copy buffer locations as GitHub/Slack/JIRA etc... formatted code
 app-emacs/copy-file-on-save 20230402.1829: Copy file on save, automatic deployment it
 app-emacs/copyit 20241030.543: Copy it, yank anything!
@@ -1104,7 +1104,7 @@ app-emacs/direx 20230409.1425: Simple Directory Explorer
 app-emacs/direx-grep 20140515.1506: Grep node of direx.el using incremental search like anything.el/helm.el
 app-emacs/dirtree 20140129.832: Directory tree views
 app-emacs/dirtree-prosjekt 20140129.904: Dirtree integration for prosjekt
-app-emacs/dirvish 20250427.704: A modern file manager based on dired mode
+app-emacs/dirvish 20250504.807: A modern file manager based on dired mode
 app-emacs/disable-mouse 20240604.900: Disable mouse commands globally
 app-emacs/disaster 20250302.1549: Disassemble C, C++ or Fortran code under cursor
 app-emacs/discourse 20160911.819: Discourse api
@@ -2349,7 +2349,7 @@ app-emacs/headlong 20150417.1526: Reckless completion
 app-emacs/heaven-and-hell 20190713.1830: Easy toggle light/dark themes
 app-emacs/heex-ts-mode 20240113.1104: Major mode for Heex with tree-sitter support
 app-emacs/helix-theme 20240814.1212: Color theme inspired by Helix editor's default colors
-app-emacs/helm 20250502.326: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20250504.625: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: Helm-sources and some utilities for GNU R
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: Helm source for Active Directory
@@ -2744,7 +2744,7 @@ app-emacs/inform-mode 20250422.1949: Major mode for Inform 6 interactive fiction
 app-emacs/inform7 20200430.1539: Major mode for working with Inform 7 files
 app-emacs/inherit-local 20170409.1649: Inherited buffer-local variables
 app-emacs/inheritenv 20241119.1355: Make temp buffers inherit buffer-local environment variables
-app-emacs/inhibit-mouse 20250314.1100: Deactivate mouse input (alternative to disable-mouse)
+app-emacs/inhibit-mouse 20250504.336: Deactivate mouse input (alternative to disable-mouse)
 app-emacs/ini 20220827.2009: Converting between INI files and association lists
 app-emacs/ini-mode 20250103.1901: Major mode for Windows-style ini files
 app-emacs/init-dir 20240924.150: Init directory instead of just a single file
@@ -3798,7 +3798,7 @@ app-emacs/olc 20200818.1221: Open location code library
 app-emacs/old-norse-input 20170816.1842: An input method for Old Norse
 app-emacs/oldlace-theme 20150705.1300: Emacs 24 theme with an 'oldlace' background
 app-emacs/olivetti 20241030.542: Minor mode to automatically balance window margins
-app-emacs/ollama-buddy 20250503.1327: Ollama LLM AI Assistant with ChatGPT, Claude, Gemini and Grok Support
+app-emacs/ollama-buddy 20250503.1340: Ollama LLM AI Assistant with ChatGPT, Claude, Gemini and Grok Support
 app-emacs/om-mode 20140915.2110: Insert Om component template with life cycle
 app-emacs/omni-kill 20171016.2140: Kill all the things
 app-emacs/omni-log 20200304.2229: Logging utilities
@@ -4490,8 +4490,8 @@ app-emacs/pungi 20150222.1246: Integrates jedi with virtualenv and buildout pyth
 app-emacs/puni 20241007.1609: Parentheses Universalistic
 app-emacs/punpun-themes 20250421.1819: Common color definitions for punpun themes
 app-emacs/puppet-mode 20210305.645: Major mode for Puppet manifests
-app-emacs/puppet-ts-mode 20250226.723: Major mode for Puppet using Tree-sitter
-app-emacs/purescript-mode 20250409.446: A PureScript editing mode
+app-emacs/puppet-ts-mode 20250503.1625: Major mode for Puppet using Tree-sitter
+app-emacs/purescript-mode 20250504.844: A PureScript editing mode
 app-emacs/purp-theme 20210912.1940: A dark color theme with few colors
 app-emacs/purple-haze-theme 20141015.229: An overtly purple color theme for Emacs24
 app-emacs/purty-mode 20131004.2259: Safely pretty-print greek letters, mathematical symbols, or anything else
@@ -4564,7 +4564,7 @@ app-emacs/quick-preview 20191017.1920: Quick preview using GNOME sushi, gloobus 
 app-emacs/quick-sdcv 20250313.1703: Offline dictionary using 'sdcv' (StartDict cli dictionary)
 app-emacs/quick-shell-keybind 20230927.1036: Interactively bind a key to shell commands
 app-emacs/quickref 20170817.1232: Display relevant notes-to-self in the echo area
-app-emacs/quickrun 20250214.813: Run commands quickly
+app-emacs/quickrun 20250503.2058: Run commands quickly
 app-emacs/quiet 20230530.859: Disconnect from the online world for a while
 app-emacs/quilt 20190828.506: Minor mode for working with files in quilt
 app-emacs/quiz 20190525.1206: Multiple choice quiz game
@@ -5428,7 +5428,7 @@ app-emacs/tree-sitter 20220212.1632: Incremental parsing system
 app-emacs/tree-sitter-ess-r 20241120.1547: R with tree-sitter
 app-emacs/tree-sitter-indent 20220411.1439: Provide indentation with a Tree-sitter backend
 app-emacs/tree-sitter-ispell 20240610.2252: Run ispell on tree-sitter text nodes
-app-emacs/tree-sitter-langs 20250428.245: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 20250504.810: Grammar bundle for tree-sitter
 app-emacs/treebundel 20240531.2321: Bundle related git-worktrees together
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
 app-emacs/treemacs 20250423.2024: A tree style file explorer package
@@ -5647,7 +5647,7 @@ app-emacs/vunit-mode 20230913.1754: VUnit Runner Interface
 app-emacs/vyper-mode 20180707.1935: Major mode for the Vyper programming language
 app-emacs/w32-browser 20170101.1954: Run Windows application associated with a file
 app-emacs/w32-ime 20201107.143: Windows IME UI/UX controler
-app-emacs/w3m 20250502.2336: An Emacs interface to w3m
+app-emacs/w3m 20250503.2349: An Emacs interface to w3m
 app-emacs/wacspace 20180311.2350: The WACky WorkSPACE manager for emACS
 app-emacs/waf-mode 20170403.1940: Waf integration for Emacs
 app-emacs/waher-theme 20141115.1230: Emacs 24 theme based on waher for st2 by dduckster
