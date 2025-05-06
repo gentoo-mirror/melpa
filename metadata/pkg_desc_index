@@ -85,7 +85,7 @@ app-emacs/ah 20220730.1058: Additional hooks
 app-emacs/ahg 20241113.748: Alberto's Emacs interface for Mercurial (Hg)
 app-emacs/ahk-mode 20200412.1832: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 20180131.328: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
-app-emacs/aider 20250505.208: AI assisted programming in Emacs with Aider
+app-emacs/aider 20250506.356: AI assisted programming in Emacs with Aider
 app-emacs/aidermacs 20250504.440: AI pair programming with Aider
 app-emacs/aiken-mode 20230920.1210: Major mode for Aiken
 app-emacs/airline-themes 20250502.1915: Vim-airline themes for emacs powerline
@@ -565,7 +565,7 @@ app-emacs/chronos 20240525.1339: Multiple simultaneous countdown / countup timer
 app-emacs/chruby 20180114.1652: Emacs integration for chruby
 app-emacs/chyla-dark-theme 20240824.1615: Chyla.org - dark green color theme
 app-emacs/chyla-theme 20240708.2017: Chyla.org - green color theme
-app-emacs/cider 20250430.722: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 20250505.1711: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-decompile 20151122.537: Decompilation extension for cider
 app-emacs/cider-eval-sexp-fu 20190311.2152: Briefly highlights an evaluated sexp
 app-emacs/cider-hydra 20190816.1121: Hydras for CIDER
@@ -820,7 +820,7 @@ app-emacs/contrast-color 20160903.1807: Pick best contrast color for you
 app-emacs/control-mode 20160624.1710: A "control" mode, similar to vim's "normal" mode
 app-emacs/cool-mode 20231026.456: Major mode for cool compiler language
 app-emacs/copilot 20250417.826: An unofficial Copilot plugin
-app-emacs/copilot-chat 20250504.625: Copilot chat interface
+app-emacs/copilot-chat 20250506.743: Copilot chat interface
 app-emacs/copy-as-format 20231112.1710: Copy buffer locations as GitHub/Slack/JIRA etc... formatted code
 app-emacs/copy-file-on-save 20230402.1829: Copy file on save, automatic deployment it
 app-emacs/copyit 20241030.543: Copy it, yank anything!
@@ -2097,7 +2097,7 @@ app-emacs/ghci-completion 20151125.1257: Completion for GHCi commands in inferio
 app-emacs/gherkin-mode 20171224.1353: An emacs major mode for editing gherkin files
 app-emacs/ghost-blog 20171023.742: A package to manage Ghost blog
 app-emacs/ghq 20230510.332: Ghq interface for emacs
-app-emacs/ghub 20250428.1251: Client libraries for Git forge APIs
+app-emacs/ghub 20250505.1736: Client libraries for Git forge APIs
 app-emacs/ghub+ 20191229.1748: A thick GitHub API client built on ghub
 app-emacs/gif-screencast 20230728.1144: One-frame-per-action GIF recording
 app-emacs/gift-mode 20210528.1459: Major mode for editing GIFT format quizzes
@@ -2250,7 +2250,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20250417.12: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20250220.1735: Integrate with the OpenAI API
-app-emacs/gptel 20250502.2333: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20250506.134: Interact with ChatGPT or other LLMs
 app-emacs/gptel-aibo 20250318.546: An AI Writing Assistant
 app-emacs/gptel-fn-complete 20250317.1805: Complete the function at point using gptel
 app-emacs/gptel-magit 20250504.1238: Generate commit messages for magit using gptel
@@ -2984,7 +2984,7 @@ app-emacs/key-intercept 20140211.749: Intercept prefix keys
 app-emacs/key-leap 20160831.1447: Leap between lines by typing keywords
 app-emacs/key-quiz 20200226.2129: Emacs Keys Quiz
 app-emacs/key-seq 20150907.756: Map pairs of sequentially pressed keys to commands
-app-emacs/keycast 20250414.1549: Show current command and its binding
+app-emacs/keycast 20250505.2146: Show current command and its binding
 app-emacs/keychain-environment 20180318.2223: Load keychain environment variables
 app-emacs/keydef 20090428.1931: A simpler way to define keys, with kbd syntax
 app-emacs/keyfreq 20231107.106: Track command frequencies
@@ -3259,7 +3259,7 @@ app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-mode 20250429.1530: Emacs major mode for Smallworld Magik files
-app-emacs/magit 20250501.848: A Git porcelain inside Emacs
+app-emacs/magit 20250505.1830: A Git porcelain inside Emacs
 app-emacs/magit-annex 20240811.1850: Control git-annex from Magit
 app-emacs/magit-commit-mark 20241110.245: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3280,7 +3280,7 @@ app-emacs/magit-patch-changelog 20221209.123: Generate a patch according to emac
 app-emacs/magit-popup 20200719.1015: Define prefix-infix-suffix command combos
 app-emacs/magit-rbr 20181009.2016: Support for git rbr in Magit
 app-emacs/magit-reviewboard 20200727.1748: Show open Reviewboard reviews in Magit
-app-emacs/magit-section 20250501.848: Sections for read-only buffers
+app-emacs/magit-section 20250505.1812: Sections for read-only buffers
 app-emacs/magit-stats 20230223.1819: Generates GIT Repo Statistics Report
 app-emacs/magit-stgit 20250215.2223: StGit extension for Magit
 app-emacs/magit-svn 20250210.1141: Git-Svn extension for Magit
@@ -3800,7 +3800,7 @@ app-emacs/olc 20200818.1221: Open location code library
 app-emacs/old-norse-input 20170816.1842: An input method for Old Norse
 app-emacs/oldlace-theme 20150705.1300: Emacs 24 theme with an 'oldlace' background
 app-emacs/olivetti 20241030.542: Minor mode to automatically balance window margins
-app-emacs/ollama-buddy 20250505.1206: Ollama LLM AI Assistant with ChatGPT, Claude, Gemini and Grok Support
+app-emacs/ollama-buddy 20250506.613: Ollama LLM AI Assistant with ChatGPT, Claude, Gemini and Grok Support
 app-emacs/om-mode 20140915.2110: Insert Om component template with life cycle
 app-emacs/omni-kill 20171016.2140: Kill all the things
 app-emacs/omni-log 20200304.2229: Logging utilities
@@ -4094,7 +4094,7 @@ app-emacs/otpp 20250420.1309: One tab per project, with unique names
 app-emacs/ouroboros 20230606.1150: Ouroboros network mini-protocol
 app-emacs/outline-indent 20250320.1659: Folding text based on indentation (origami alternative)
 app-emacs/outline-magic 20180619.1819: Outline mode extensions for Emacs
-app-emacs/outline-minor-faces 20250414.1550: Highlight only section headings
+app-emacs/outline-minor-faces 20250505.1901: Highlight only section headings
 app-emacs/outline-toc 20200401.1208: Sidebar showing a "table of contents"
 app-emacs/outlook 20180428.1430: Send emails in MS Outlook style
 app-emacs/outorg 20190720.2002: Org-style comment editing
@@ -4859,7 +4859,7 @@ app-emacs/sensitive 20170818.1251: A dead simple way to load sensitive informati
 app-emacs/sentence-navigation 20220522.1137: Commands to navigate one-spaced sentences
 app-emacs/sentex 20230411.1650: Regex-based sentence navigation rules
 app-emacs/seoul256-theme 20180505.757: Low-contrast color scheme based on Seoul Colors
-app-emacs/separedit 20241012.125: Edit comment/string/docstring/code block in separate buffer
+app-emacs/separedit 20250506.833: Edit comment/string/docstring/code block in separate buffer
 app-emacs/sequed 20220115.743: Major mode for FASTA format DNA alignments
 app-emacs/sequences 20170818.1252: Ports of some Clojure sequence functions
 app-emacs/sequential-command 20170926.40: Many commands into one command
@@ -5520,7 +5520,7 @@ app-emacs/unicode-whitespace 20140508.2041: Teach whitespace-mode about fancy ch
 app-emacs/unidecode 20201213.1449: Transliterate Unicode to ASCII
 app-emacs/unifdef 20250102.1047: Delete code guarded by processor directives
 app-emacs/unify-opening 20230903.844: Unify the mechanism to open files
-app-emacs/uniline 20250502.713: Add UNICODE based diagrams to text files
+app-emacs/uniline 20250506.1115: Add UNICODE based diagrams to text files
 app-emacs/unipoint 20140113.2224: A simple way to insert unicode characters by TeX name
 app-emacs/unison 20160704.740: Sync with Unison
 app-emacs/unison-mode 20160513.1501: Syntax highlighting for unison file synchronization program
