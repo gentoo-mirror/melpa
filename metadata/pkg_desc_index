@@ -419,7 +419,7 @@ app-emacs/bts-github 20170401.1249: A plugin of bts.el for GitHub
 app-emacs/bubbleberry-theme 20141017.944: A theme based on LightTable for Emacs24
 app-emacs/buckwalter 20191119.1950: Write arabic using Buckwalter transliteration
 app-emacs/buffer-buttons 20150106.1439: Define, save, and load code-safe buttons in files for emacs
-app-emacs/buffer-env 20240323.727: Buffer-local process environments
+app-emacs/buffer-env 20250516.1223: Buffer-local process environments
 app-emacs/buffer-flip 20220718.10: Cycle through buffers like Alt-Tab in Windows
 app-emacs/buffer-manage 20241019.1748: Manage buffers
 app-emacs/buffer-move 20220512.755: Easily swap buffers
@@ -827,7 +827,7 @@ app-emacs/copy-file-on-save 20230402.1829: Copy file on save, automatic deployme
 app-emacs/copyit 20241030.543: Copy it, yank anything!
 app-emacs/copyit-pandoc 20190919.1258: Copy it, yank anything!
 app-emacs/coq-commenter 20170822.2309: Coq commenting minor mode for proof
-app-emacs/corfu 20250511.1904: COmpletion in Region FUnction
+app-emacs/corfu 20250516.1841: COmpletion in Region FUnction
 app-emacs/corfu-candidate-overlay 20240322.1814: Show first candidate in an overlay while typing
 app-emacs/corfu-prescient 20240803.2320: Prescient.el + Corfu
 app-emacs/corral 20160502.948: Quickly surround text with delimiters
@@ -1040,7 +1040,7 @@ app-emacs/diffed 20240618.2037: Diffed is for recursive diff like Dired is for l
 app-emacs/difflib 20210224.2242: Helpers for computing deltas between sequences
 app-emacs/diffpdf 20210626.1447: Transient diffpdf
 app-emacs/diffscuss-mode 20141014.2357: Major mode for diffscuss files
-app-emacs/difftastic 20250515.1640: Wrapper for difftastic
+app-emacs/difftastic 20250516.1623: Wrapper for difftastic
 app-emacs/diffview 20230224.1916: View diffs in side-by-side format
 app-emacs/digistar-mode 20250429.1455: Major mode for Digistar scripts
 app-emacs/digit-groups 20200506.37: Highlight place-value positions in numbers
@@ -1294,13 +1294,13 @@ app-emacs/ein 20250307.1731: Jupyter notebook client
 app-emacs/eink-theme 20190219.858: E Ink color theme
 app-emacs/ejc-sql 20241111.117: Emacs SQL client uses Clojure JDBC
 app-emacs/ejson-mode 20190720.2138: Major mode for editing ejson files
-app-emacs/ekg 20250421.432: A system for recording and linking information
+app-emacs/ekg 20250516.1438: A system for recording and linking information
 app-emacs/el-autoyas 20120918.1317: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-fly-indent-mode 20180422.243: Indent Emacs Lisp on the fly
 app-emacs/el-get 20240408.837: Manage the external elisp bits and pieces you depend upon
 app-emacs/el-init 20150728.920: A loader inspired by init-loader
 app-emacs/el-init-viewer 20150303.828: Record viewer for el-init
-app-emacs/el-job 20250514.1955: Contrived way to call a function using all CPU cores
+app-emacs/el-job 20250516.1908: Contrived way to call a function using all CPU cores
 app-emacs/el-mock 20220625.1949: Tiny Mock and Stub framework in Emacs Lisp
 app-emacs/el-patch 20231123.2216: Future-proof your Elisp
 app-emacs/el-secretario 20250407.1946: Unify all your inboxes with the Emacs secretary
@@ -2249,7 +2249,7 @@ app-emacs/govet 20170808.1724: Linter/problem finder for the Go source code
 app-emacs/gpastel 20231030.713: Integrates GPaste with the kill-ring
 app-emacs/gpr-ts-mode 20250111.1503: Major mode for GNAT project files using Tree-Sitter
 app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
-app-emacs/gpt 20250417.12: Run instruction-following language models
+app-emacs/gpt 20250517.149: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20250220.1735: Integrate with the OpenAI API
 app-emacs/gptel 20250516.555: Interact with ChatGPT or other LLMs
@@ -3014,7 +3014,7 @@ app-emacs/kivy-mode 20210318.2106: Emacs major mode for editing Kivy files
 app-emacs/kiwix 20220316.847: Searching offline Wikipedia through Kiwix
 app-emacs/kixtart-mode 20250310.2020: Major mode for editing KiXtart scripts
 app-emacs/kkp 20250206.2000: Enable support for the Kitty Keyboard Protocol
-app-emacs/klere-theme 20250225.2027: A dark theme with lambent color highlights and incremental grays
+app-emacs/klere-theme 20250517.452: A dark theme with lambent color highlights and incremental grays
 app-emacs/klondike 20250301.2336: Klondike
 app-emacs/kmacro-x 20250514.1246: Keyboard macro helpers and extensions
 app-emacs/know-your-http-well 20240726.1649: Look up the meaning of HTTP headers, methods, relations, status codes
@@ -3408,7 +3408,7 @@ app-emacs/mindre-theme 20240610.2131: Minimal, light theme
 app-emacs/mindstream 20250330.201: Start writing, stay focused, don't worry
 app-emacs/minesweeper 20200416.2342: Play minesweeper in Emacs
 app-emacs/mingus 20230518.1726: MPD Interface
-app-emacs/mini-echo 20250419.332: Echo buffer status in minibuffer window
+app-emacs/mini-echo 20250517.401: Echo buffer status in minibuffer window
 app-emacs/mini-frame 20220627.2041: Show minibuffer in child frame on read-from-minibuffer
 app-emacs/mini-header-line 20170621.1221: A minimal header-line
 app-emacs/mini-modeline 20230306.1521: Display modeline in minibuffer
@@ -3938,7 +3938,7 @@ app-emacs/org-linkotron 20200112.2235: Org-mode link selector
 app-emacs/org-listcruncher 20210706.1741: Planning tool - Parse Org mode lists into table
 app-emacs/org-mac-link 20231016.2047: Insert org-mode links to items selected in various Mac apps
 app-emacs/org-make-toc 20240830.2046: Automatic tables of contents for Org files
-app-emacs/org-mem 20250516.1059: Fast info from a large number of Org file contents
+app-emacs/org-mem 20250516.1743: Fast info from a large number of Org file contents
 app-emacs/org-mime 20250318.2155: Org html export for text/html MIME emails
 app-emacs/org-mind-map 20180826.2340: Creates a directed graph from org-mode files
 app-emacs/org-ml 20250514.2314: Functional Org Mode API
@@ -3952,7 +3952,7 @@ app-emacs/org-multi-wiki 20210324.1820: Multiple wikis based on Org mode
 app-emacs/org-multiple-keymap 20191017.1920: Set keymap to elements, such as timestamp and priority
 app-emacs/org-newtab 20240227.155: Supercharge your browser's new tab page
 app-emacs/org-nix-shell 20240603.859: Org local nix-shell
-app-emacs/org-node 20250516.939: Fast org-roam replacement
+app-emacs/org-node 20250516.1658: Fast org-roam replacement
 app-emacs/org-node-fakeroam 20250515.1314: Deprecated extension to org-node
 app-emacs/org-notebook 20170322.452: Ease the use of org-mode as a notebook
 app-emacs/org-noter 20240918.1703: A synchronized, Org-mode, document annotator
@@ -4928,7 +4928,7 @@ app-emacs/sicp 20240826.1844: Structure and Interpretation of Computer Programs 
 app-emacs/side-hustle 20240625.1228: Hustle through Imenu in a side window
 app-emacs/side-notes 20240629.1008: Easy access to a directory notes file
 app-emacs/sidecar-locals 20240421.655: A flexible alternative to built-in dir-locals
-app-emacs/sideline 20250311.2149: Show information on the side
+app-emacs/sideline 20250517.508: Show information on the side
 app-emacs/sideline-blame 20250101.857: Show blame messages with sideline
 app-emacs/sideline-eglot 20250210.2010: Show eglot information with sideline
 app-emacs/sideline-flycheck 20250201.1746: Show flycheck errors with sideline
@@ -5600,7 +5600,7 @@ app-emacs/verona-mode 20200823.536: A major mode for the Verona programming lang
 app-emacs/versuri 20211104.1301: The lyrics package
 app-emacs/vertica 20131217.1511: Vertica SQL mode extension
 app-emacs/vertica-snippets 20250314.927: Yasnippets for Vertica
-app-emacs/vertico 20250511.1903: VERTical Interactive COmpletion
+app-emacs/vertico 20250516.1842: VERTical Interactive COmpletion
 app-emacs/vertico-prescient 20240803.2320: Prescient.el + Vertico
 app-emacs/vertigo 20211224.1256: Jump across lines using the home row
 app-emacs/vhdl-capf 20160221.1734: Completion at point function (capf) for vhdl-mode
