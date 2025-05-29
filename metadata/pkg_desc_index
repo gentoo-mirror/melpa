@@ -85,7 +85,7 @@ app-emacs/ah 20220730.1058: Additional hooks
 app-emacs/ahg 20241113.748: Alberto's Emacs interface for Mercurial (Hg)
 app-emacs/ahk-mode 20200412.1832: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 20180131.328: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
-app-emacs/aider 20250527.1350: AI assisted programming in Emacs with Aider
+app-emacs/aider 20250528.1432: AI assisted programming in Emacs with Aider
 app-emacs/aidermacs 20250528.3: AI pair programming with Aider
 app-emacs/aidev-mode 20250318.2144: Minor mode for AI-assisted development
 app-emacs/aiken-mode 20230920.1210: Major mode for Aiken
@@ -828,7 +828,7 @@ app-emacs/copy-file-on-save 20230402.1829: Copy file on save, automatic deployme
 app-emacs/copyit 20241030.543: Copy it, yank anything!
 app-emacs/copyit-pandoc 20190919.1258: Copy it, yank anything!
 app-emacs/coq-commenter 20170822.2309: Coq commenting minor mode for proof
-app-emacs/corfu 20250527.1812: COmpletion in Region FUnction
+app-emacs/corfu 20250528.1945: COmpletion in Region FUnction
 app-emacs/corfu-candidate-overlay 20240322.1814: Show first candidate in an overlay while typing
 app-emacs/corfu-prescient 20240803.2320: Prescient.el + Corfu
 app-emacs/corral 20160502.948: Quickly surround text with delimiters
@@ -2355,7 +2355,7 @@ app-emacs/headlong 20150417.1526: Reckless completion
 app-emacs/heaven-and-hell 20190713.1830: Easy toggle light/dark themes
 app-emacs/heex-ts-mode 20250511.643: Major mode for Heex with tree-sitter support
 app-emacs/helix-theme 20240814.1212: Color theme inspired by Helix editor's default colors
-app-emacs/helm 20250515.548: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20250529.400: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: Helm-sources and some utilities for GNU R
 app-emacs/helm-ack 20141030.1226: Ack command with helm interface
 app-emacs/helm-ad 20151209.1015: Helm source for Active Directory
@@ -3014,7 +3014,7 @@ app-emacs/kill-ring-search 20140422.1555: Incremental search for the kill ring
 app-emacs/killer 20190128.10: Kill and delete text
 app-emacs/kite 20130201.1938: WebKit inspector front-end
 app-emacs/kite-mini 20160508.1106: Remotely evaluate JavaScript in the WebKit debugger
-app-emacs/kivy-mode 20210318.2106: Emacs major mode for editing Kivy files
+app-emacs/kivy-mode 20250528.2123: Emacs major mode for editing Kivy files
 app-emacs/kiwix 20220316.847: Searching offline Wikipedia through Kiwix
 app-emacs/kixtart-mode 20250310.2020: Major mode for editing KiXtart scripts
 app-emacs/kkp 20250206.2000: Enable support for the Kitty Keyboard Protocol
@@ -3346,7 +3346,7 @@ app-emacs/math-preview 20240801.513: Preview TeX math equations inline
 app-emacs/math-symbol-lists 20220828.2047: Lists of Unicode math symbols and latex commands
 app-emacs/math-symbols 20201005.2313: Math Symbol Input methods and conversion tools
 app-emacs/math-tex-convert 20221210.1937: Convert LaTeX macros to unicode and back
-app-emacs/matlab-mode 20250527.1751: Major mode for MATLAB(R) dot-m files
+app-emacs/matlab-mode 20250529.56: Major mode for MATLAB(R) dot-m files
 app-emacs/maude-mode 20230504.937: Emacs mode for the programming language Maude
 app-emacs/maven-test-mode 20141220.557: Utilities for navigating test files and running maven test tasks
 app-emacs/maxframe 20170120.1705: Maximize the emacs frame based on display size
@@ -3435,7 +3435,7 @@ app-emacs/minuet 20250523.447: Code completion using LLM
 app-emacs/mip-mode 20151127.617: Virtual projects for emacs
 app-emacs/mips-mode 20220608.1204: Major-mode for MIPS assembly
 app-emacs/mise 20250216.2030: Support for `mise' cli
-app-emacs/mistty 20250509.1801: Shell/Comint alternative based on term.el
+app-emacs/mistty 20250528.1516: Shell/Comint alternative based on term.el
 app-emacs/mix 20240122.720: Mix Major Mode. Build Elixir using Mix
 app-emacs/mixed-pitch 20210304.1900: Use a variable pitch, keeping fixed pitch where it's sensible
 app-emacs/mkdown 20140517.1418: Pretty Markdown previews based on mkdown.com
@@ -4109,7 +4109,7 @@ app-emacs/outrespace 20220218.1936: Some c++ namespace utility functions
 app-emacs/outshine 20220326.540: Outline with outshine outshines outline
 app-emacs/ov 20230522.1117: Overlay library for Emacs Lisp
 app-emacs/overcast-theme 20200425.1601: A dark but vibrant color theme for Emacs
-app-emacs/overleaf 20250527.1536: Sync and track changes live with overleaf
+app-emacs/overleaf 20250528.2048: Sync and track changes live with overleaf
 app-emacs/overseer 20240109.800: Ert-runner Integration Into Emacs
 app-emacs/ovpn-mode 20210403.440: An openvpn management mode
 app-emacs/owcmd 20200517.2039: Run a single command in the other window
@@ -4238,7 +4238,7 @@ app-emacs/pcsv 20240112.1431: Parser of csv
 app-emacs/pd-remote 20230314.428: Pd remote control helper
 app-emacs/pdb-capf 20200419.1237: Completion-at-point function for python debugger
 app-emacs/pdb-mode 20150128.1751: Major mode for editing Protein Data Bank files
-app-emacs/pdd 20250528.1423: HTTP library & Async Toolkit
+app-emacs/pdd 20250529.343: HTTP library & Async Toolkit
 app-emacs/pdf-meta-edit 20250321.2317: Edit PDF metadata via pdftk
 app-emacs/pdf-tools 20240429.407: Support library for PDF documents
 app-emacs/pdf-view-pagemark 20240518.626: Add indicator in pdfview mode to show the page remaining
@@ -5235,7 +5235,7 @@ app-emacs/symex 20250102.50: An evil way to edit Lisp symbolic expressions as tr
 app-emacs/symon 20170224.833: Tiny graphical system monitor
 app-emacs/symon-lingr 20150719.1342: A notification-based Lingr client powered by symon.el
 app-emacs/sync-recentf 20160326.2001: Synchronize the recent files list between Emacs instances
-app-emacs/syncthing 20241210.2345: Client for Syncthing
+app-emacs/syncthing 20250528.2346: Client for Syncthing
 app-emacs/synonymous 20180325.1817: A thesaurus at your fingertips
 app-emacs/synosaurus 20250113.2057: An Emacs frontend for thesauri
 app-emacs/synquid 20160930.1550: Major mode for editing Synquid files
@@ -5633,7 +5633,7 @@ app-emacs/visual-ascii-mode 20150129.1046: Visualize ascii code (small integer) 
 app-emacs/visual-fill-column 20250323.1529: Fill-column for visual-line-mode
 app-emacs/visual-regexp 20210502.2019: A regexp/replace command for Emacs with interactive visual feedback
 app-emacs/visual-regexp-steroids 20170222.253: Extends visual-regexp to support other regexp engines
-app-emacs/visual-replace 20250324.1842: A prompt for replace-string and query-replace
+app-emacs/visual-replace 20250528.1608: A prompt for replace-string and query-replace
 app-emacs/vlc 20200328.1143: VideoLAN VLC Media Player Control
 app-emacs/vline 20210805.1528: Column highlighting (vertical line displaying) mode
 app-emacs/vmd-mode 20210524.27: Fast Github-flavored Markdown preview using a vmd subprocess
