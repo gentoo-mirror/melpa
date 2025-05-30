@@ -535,7 +535,7 @@ app-emacs/chaos-mode 20221227.223: A major mode for the Chaos programming langua
 app-emacs/chapel-mode 20210513.457: A major mode for the Chapel programming language
 app-emacs/char-menu 20210321.1657: Create your own menu for fast insertion of arbitrary symbols
 app-emacs/charmap 20200616.1418: Unicode table for Emacs
-app-emacs/chatgpt-shell 20250529.914: A family of utilities to interact with LLMs (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity)
+app-emacs/chatgpt-shell 20250529.2059: A family of utilities to interact with LLMs (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity)
 app-emacs/chatu 20250425.645: Convert and insert any images to org-mode or markdown buffer
 app-emacs/chatwork 20240910.1531: ChatWork client for Emacs
 app-emacs/cheat-sh 20210607.1307: Interact with cheat.sh
@@ -822,7 +822,7 @@ app-emacs/contrast-color 20160903.1807: Pick best contrast color for you
 app-emacs/control-mode 20160624.1710: A "control" mode, similar to vim's "normal" mode
 app-emacs/cool-mode 20231026.456: Major mode for cool compiler language
 app-emacs/copilot 20250506.2016: An unofficial Copilot plugin
-app-emacs/copilot-chat 20250521.602: Copilot chat interface
+app-emacs/copilot-chat 20250529.1744: Copilot chat interface
 app-emacs/copy-as-format 20231112.1710: Copy buffer locations as GitHub/Slack/JIRA etc... formatted code
 app-emacs/copy-file-on-save 20230402.1829: Copy file on save, automatic deployment it
 app-emacs/copyit 20241030.543: Copy it, yank anything!
@@ -1592,7 +1592,7 @@ app-emacs/evil-extra-operator 20210225.1239: Evil operator for evaluating codes,
 app-emacs/evil-find-char-pinyin 20160514.2041: Evil's f/F/t/T/evil-snipe commands with Pinyin support
 app-emacs/evil-fringe-mark 20190320.453: Display evil-mode marks in the fringe
 app-emacs/evil-god-state 20141117.255: Use god-mode keybindings in evil-mode
-app-emacs/evil-god-toggle 20250527.1846: Toggle Evil and God Mode
+app-emacs/evil-god-toggle 20250529.2015: Toggle Evil and God Mode
 app-emacs/evil-goggles 20231021.738: Add a visual hint to evil operations
 app-emacs/evil-iedit-state 20220219.1432: Evil states to interface iedit mode
 app-emacs/evil-indent-plus 20230927.1513: Evil textobjects based on indentation
@@ -2181,7 +2181,7 @@ app-emacs/gnosis 20241212.147: Spaced Repetition System
 app-emacs/gntp 20141025.250: Growl Notification Protocol for Emacs
 app-emacs/gnu-apl-mode 20220404.341: Integrate GNU APL with Emacs
 app-emacs/gnu-indent 20221127.2112: Indent your code with GNU Indent
-app-emacs/gnuplot 20250529.1016: Major-mode and interactive frontend for gnuplot
+app-emacs/gnuplot 20250529.2248: Major-mode and interactive frontend for gnuplot
 app-emacs/gnuplot-mode 20171013.1616: Major mode for editing gnuplot scripts
 app-emacs/gnus-alias 20230818.1830: An alternative to gnus-posting-styles
 app-emacs/gnus-desktop-notify 20180623.1538: Gnus Desktop Notification global minor mode
@@ -2255,7 +2255,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20250525.2325: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20250220.1735: Integrate with the OpenAI API
-app-emacs/gptel 20250529.812: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20250529.2255: Interact with ChatGPT or other LLMs
 app-emacs/gptel-aibo 20250524.822: An AI Writing Assistant
 app-emacs/gptel-fn-complete 20250317.1805: Complete the function at point using gptel
 app-emacs/gptel-magit 20250520.833: Generate commit messages for magit using gptel
@@ -3257,7 +3257,7 @@ app-emacs/lyrics-fetcher 20241222.1620: Fetch song lyrics and album covers
 app-emacs/m-buffer 20241215.2214: List-Oriented, Functional Buffer Manipulation
 app-emacs/mac-pseudo-daemon 20211208.138: Daemon mode that plays nice with Mac OS
 app-emacs/maces-game 20170903.1551: Another anagram game
-app-emacs/macports 20250320.2309: A porcelain for MacPorts
+app-emacs/macports 20250529.2306: A porcelain for MacPorts
 app-emacs/macro-math 20130328.1604: In-buffer mathematical operations
 app-emacs/macrostep 20250202.2205: Interactive macro expander
 app-emacs/macrostep-geiser 20210717.801: Macrostep for `geiser'
@@ -3346,7 +3346,7 @@ app-emacs/math-preview 20240801.513: Preview TeX math equations inline
 app-emacs/math-symbol-lists 20220828.2047: Lists of Unicode math symbols and latex commands
 app-emacs/math-symbols 20201005.2313: Math Symbol Input methods and conversion tools
 app-emacs/math-tex-convert 20221210.1937: Convert LaTeX macros to unicode and back
-app-emacs/matlab-mode 20250529.1530: Major mode for MATLAB(R) dot-m files
+app-emacs/matlab-mode 20250529.1756: Major mode for MATLAB(R) dot-m files
 app-emacs/maude-mode 20230504.937: Emacs mode for the programming language Maude
 app-emacs/maven-test-mode 20141220.557: Utilities for navigating test files and running maven test tasks
 app-emacs/maxframe 20170120.1705: Maximize the emacs frame based on display size
@@ -4502,7 +4502,7 @@ app-emacs/puni 20241007.1609: Parentheses Universalistic
 app-emacs/punpun-themes 20250421.1819: Common color definitions for punpun themes
 app-emacs/puppet-mode 20210305.645: Major mode for Puppet manifests
 app-emacs/puppet-ts-mode 20250503.1625: Major mode for Puppet using Tree-sitter
-app-emacs/purescript-mode 20250523.1845: A PureScript editing mode
+app-emacs/purescript-mode 20250529.1902: A PureScript editing mode
 app-emacs/purp-theme 20210912.1940: A dark color theme with few colors
 app-emacs/purple-haze-theme 20141015.229: An overtly purple color theme for Emacs24
 app-emacs/purty-mode 20131004.2259: Safely pretty-print greek letters, mathematical symbols, or anything else
@@ -5422,7 +5422,7 @@ app-emacs/tramp-term 20220725.1441: Automatic setup of directory tracking in ssh
 app-emacs/transducers 20250215.1046: Ergonomic, efficient data processing
 app-emacs/transfer-sh 20200601.1708: Simple interface for sending buffer contents to transfer.sh
 app-emacs/transform-symbol-at-point 20241202.1802: Transforming your symbols at point
-app-emacs/transient 20250526.1728: Transient commands
+app-emacs/transient 20250529.1631: Transient commands
 app-emacs/transient-dwim 20221225.1630: Useful preset transient commands
 app-emacs/transient-extras 20230721.839: Extra features for transient
 app-emacs/transient-extras-a2ps 20230303.1511: A transient interface to a2ps
