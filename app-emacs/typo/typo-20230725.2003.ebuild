@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="ssh-deploy"
+REALNAME="typo"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Deployment via Tramp, global or per directory"
+DESCRIPTION="Completion style using typo analysis"
 
-HOMEPAGE="https://github.com/cjohansson/emacs-ssh-deploy"
+HOMEPAGE="https://git.sr.ht/~pkal/typo/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
