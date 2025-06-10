@@ -85,7 +85,7 @@ app-emacs/ah 20220730.1058: Additional hooks
 app-emacs/ahg 20241113.748: Alberto's Emacs interface for Mercurial (Hg)
 app-emacs/ahk-mode 20200412.1832: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 20180131.328: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
-app-emacs/aider 20250609.1402: AI assisted programming in Emacs with Aider
+app-emacs/aider 20250610.134: AI assisted programming in Emacs with Aider
 app-emacs/aidermacs 20250602.203: AI pair programming with Aider
 app-emacs/aidev-mode 20250318.2144: Minor mode for AI-assisted development
 app-emacs/aiken-mode 20230920.1210: Major mode for Aiken
@@ -1013,7 +1013,7 @@ app-emacs/denote-agenda 20250407.2324: Integrate Denote and Org-Agenda
 app-emacs/denote-citar-sections 20240608.1629: Universal Sidecar sections for citar-denote
 app-emacs/denote-explore 20250531.2110: Explore and visualise Denote files
 app-emacs/denote-journal-capture 20250315.1919: Better Integration for Denote Journal and Org Capture
-app-emacs/denote-project-notes 20250421.1646: Link Denote notes to a project
+app-emacs/denote-project-notes 20250609.2307: Link Denote notes to a project
 app-emacs/denote-regexp 20250415.2202: Compose regexps to match Denote files
 app-emacs/denote-sections 20240608.1629: Universal Sidecar Sections for Denote
 app-emacs/departure-times-norway 20250427.852: Display public transport departure times in Norway
@@ -1428,7 +1428,7 @@ app-emacs/ember-yasnippets 20160526.1658: Snippets for Ember.js development
 app-emacs/embrace 20231027.419: Add/Change/Delete pairs based on `expand-region'
 app-emacs/emidje 20190209.1726: Test runner and report viewer for Midje
 app-emacs/emmet-mode 20240617.45: Unofficial Emmet's support for emacs
-app-emacs/emms 20250405.1417: The Emacs Multimedia System
+app-emacs/emms 20250610.247: The Emacs Multimedia System
 app-emacs/emms-info-mediainfo 20131223.1300: Info-method for EMMS using medianfo
 app-emacs/emms-mark-ext 20130529.327: Extra functions for emms-mark-mode and emms-tag-edit-mode
 app-emacs/emms-mode-line-cycle 20160221.1120: Display the emms mode line as a ticker
@@ -2258,7 +2258,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20250525.2325: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20250220.1735: Integrate with the OpenAI API
-app-emacs/gptel 20250608.114: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20250609.2212: Interact with ChatGPT or other LLMs
 app-emacs/gptel-aibo 20250605.859: An AI Writing Assistant
 app-emacs/gptel-fn-complete 20250317.1805: Complete the function at point using gptel
 app-emacs/gptel-magit 20250520.833: Generate commit messages for magit using gptel
@@ -2280,7 +2280,7 @@ app-emacs/graphviz-dot-mode 20230325.1050: Mode for the dot-language used by gra
 app-emacs/grapnel 20131001.1534: HTTP request lib with flexible callback dispatch
 app-emacs/grass-mode 20170503.1500: Provides Emacs modes for interacting with the GRASS GIS program
 app-emacs/grayscale-theme 20171005.802: A simple grayscale theme
-app-emacs/greader 20250526.835: Gnamù reader, send buffer contents to a speech engine
+app-emacs/greader 20250610.7: Gnamù reader, send buffer contents to a speech engine
 app-emacs/greek-polytonic 20190303.1358: Quail package for inputting polytonic Greek
 app-emacs/green-is-the-new-black-theme 20230828.2225: A cool and minimalist green blackened theme engine
 app-emacs/green-phosphor-theme 20150515.1447: A light color theme with muted, autumnal colors
@@ -2596,7 +2596,7 @@ app-emacs/hl-block-mode 20250113.1242: Highlighting nested blocks
 app-emacs/hl-indent 20170429.2104: Highlight irregular indentation
 app-emacs/hl-indent-scope 20250121.2358: Highlight indentation by scope
 app-emacs/hl-printf 20250121.1818: Minor mode for highlighting "printf" format specifiers
-app-emacs/hl-prog-extra 20250427.111: Customizable highlighting for source-code
+app-emacs/hl-prog-extra 20250610.56: Customizable highlighting for source-code
 app-emacs/hl-sentence 20171018.1519: Highlight a sentence based on customizable face
 app-emacs/hl-todo 20250531.2218: Highlight TODO and similar keywords
 app-emacs/hledger-mode 20240415.1812: A mode for writing journal entries for hledger
@@ -3230,7 +3230,7 @@ app-emacs/lsp-julia 20230915.654: Julia support for lsp-mode
 app-emacs/lsp-latex 20250126.1416: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20250228.2215: LSP Clients for LTEX
 app-emacs/lsp-metals 20250228.2145: Scala Client settings
-app-emacs/lsp-mode 20250609.1505: LSP mode
+app-emacs/lsp-mode 20250609.2304: LSP mode
 app-emacs/lsp-mssql 20250301.131: MSSQL LSP bindings
 app-emacs/lsp-origami 20230815.704: Origami.el support for lsp-mode
 app-emacs/lsp-pascal 20200422.1610: LSP client for Pascal
@@ -4247,7 +4247,7 @@ app-emacs/pcsv 20240112.1431: Parser of csv
 app-emacs/pd-remote 20230314.428: Pd remote control helper
 app-emacs/pdb-capf 20200419.1237: Completion-at-point function for python debugger
 app-emacs/pdb-mode 20150128.1751: Major mode for editing Protein Data Bank files
-app-emacs/pdd 20250609.1313: HTTP library & Async Toolkit
+app-emacs/pdd 20250610.145: HTTP library & Async Toolkit
 app-emacs/pdf-meta-edit 20250321.2317: Edit PDF metadata via pdftk
 app-emacs/pdf-tools 20240429.407: Support library for PDF documents
 app-emacs/pdf-view-pagemark 20240518.626: Add indicator in pdfview mode to show the page remaining
@@ -4844,7 +4844,7 @@ app-emacs/scratch-pop 20200910.226: Generate, popup (& optionally backup) scratc
 app-emacs/scratches 20151006.416: Multiple scratches in any language
 app-emacs/scribble-mode 20190912.200: Major mode for editing Scribble documents
 app-emacs/scroll-on-drag 20240421.803: Interactive scrolling
-app-emacs/scroll-on-jump 20250113.923: Scroll when jumping to a new point
+app-emacs/scroll-on-jump 20250610.50: Scroll when jumping to a new point
 app-emacs/scrollable-quick-peek 20201224.329: Display scrollable overlays
 app-emacs/scrollkeeper 20190109.629: Custom scrolling commands with visual guidelines
 app-emacs/scrooge 20180630.1022: Major mode for Twitter Scrooge files
@@ -4923,7 +4923,7 @@ app-emacs/shelltest-mode 20180501.141: Major mode for shelltestrunner
 app-emacs/shen-elisp 20221211.1313: Shen implementation in Elisp
 app-emacs/shenshou 20241015.1227: Download&Extract subtitles from opensubtitles
 app-emacs/shfmt 20240104.1218: Reformat shell scripts using shfmt
-app-emacs/shift-number 20250528.143: Increase/decrease the number at point
+app-emacs/shift-number 20250610.34: Increase/decrease the number at point
 app-emacs/shift-text 20130831.1655: Move the region in 4 directions, in a way similar to Eclipse's
 app-emacs/shimbun 20250306.131: Interfacing with web newspapers
 app-emacs/shm 20180327.57: Structured Haskell Mode
@@ -4945,7 +4945,7 @@ app-emacs/sibilant-mode 20151119.2145: Support for the Sibilant programming lang
 app-emacs/sicp 20240826.1844: Structure and Interpretation of Computer Programs in info format
 app-emacs/side-hustle 20240625.1228: Hustle through Imenu in a side window
 app-emacs/side-notes 20240629.1008: Easy access to a directory notes file
-app-emacs/sidecar-locals 20240421.655: A flexible alternative to built-in dir-locals
+app-emacs/sidecar-locals 20250610.38: A flexible alternative to built-in dir-locals
 app-emacs/sideline 20250517.508: Show information on the side
 app-emacs/sideline-blame 20250101.857: Show blame messages with sideline
 app-emacs/sideline-eglot 20250210.2010: Show eglot information with sideline
@@ -5143,7 +5143,7 @@ app-emacs/squirrel-mode 20221227.232: A major mode for the Squirrel programming 
 app-emacs/sr-speedbar 20220705.1231: Same frame speedbar
 app-emacs/srcery-theme 20250523.1304: Dark color theme
 app-emacs/srefactor 20230504.617: A refactoring tool based on Semantic parser framework
-app-emacs/srfi 20250510.121: Scheme Requests for Implementation browser
+app-emacs/srfi 20250609.2346: Scheme Requests for Implementation browser
 app-emacs/srv 20180715.1959: Perform SRV DNS requests
 app-emacs/ssass-mode 20200211.132: Edit Sass without a Turing Machine
 app-emacs/ssh 20120904.2042: Support for remote logins using ssh
@@ -5527,7 +5527,7 @@ app-emacs/underline-with-char 20191128.2309: Underline with a char
 app-emacs/undersea-theme 20240101.1006: Theme styled after undersea imagery
 app-emacs/underwater-theme 20131118.2: A gentle, deep blue color theme
 app-emacs/undo-fu 20241206.219: Undo helper with redo
-app-emacs/undo-fu-session 20241212.40: Persistent undo, available between sessions
+app-emacs/undo-fu-session 20250610.52: Persistent undo, available between sessions
 app-emacs/undo-propose 20210207.45: Simple and safe undo navigation
 app-emacs/undohist 20240925.754: Persistent undo history for GNU Emacs
 app-emacs/unfill 20230227.1349: Do the opposite of fill-paragraph or fill-region
