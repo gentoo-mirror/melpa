@@ -85,7 +85,7 @@ app-emacs/ah 20220730.1058: Additional hooks
 app-emacs/ahg 20241113.748: Alberto's Emacs interface for Mercurial (Hg)
 app-emacs/ahk-mode 20200412.1832: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 20180131.328: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
-app-emacs/aider 20250613.419: AI assisted programming with Aider and LLM
+app-emacs/aider 20250614.136: AI assisted programming with Aider and LLM
 app-emacs/aidermacs 20250602.203: AI pair programming with Aider
 app-emacs/aidev-mode 20250318.2144: Minor mode for AI-assisted development
 app-emacs/aiken-mode 20230920.1210: Major mode for Aiken
@@ -142,7 +142,7 @@ app-emacs/annotate-depth 20160520.2040: Annotate buffer if indentation depth is 
 app-emacs/annotation 20250328.1043: Functions for annotating text with faces and help bubbles
 app-emacs/annoying-arrows-mode 20161024.646: Ring the bell if using arrows too much
 app-emacs/ansi 20230306.1823: Turn string into ansi strings
-app-emacs/ansible 20250222.1816: Ansible minor mode
+app-emacs/ansible 20250613.2354: Ansible minor mode
 app-emacs/ansible-doc 20160924.824: Ansible documentation Minor Mode
 app-emacs/ansible-vault 20250331.2155: Minor mode for editing ansible vault files
 app-emacs/ant 20160211.1543: Helpers for compiling with ant
@@ -1039,7 +1039,7 @@ app-emacs/dictionary 20201001.1727: Client for rfc2229 dictionary servers
 app-emacs/didyoumean 20240229.1807: Did you mean to open another file?
 app-emacs/diff-ansi 20250611.510: Display diff's using alternative diffing tools
 app-emacs/diff-at-point 20240421.858: Diff navigation
-app-emacs/diff-hl 20250613.224: Highlight uncommitted changes using VC
+app-emacs/diff-hl 20250613.2144: Highlight uncommitted changes using VC
 app-emacs/diffed 20240618.2037: Diffed is for recursive diff like Dired is for ls
 app-emacs/difflib 20210224.2242: Helpers for computing deltas between sequences
 app-emacs/diffpdf 20210626.1447: Transient diffpdf
@@ -1996,7 +1996,7 @@ app-emacs/font-lock-studio 20250309.1523: Debugger for Font Lock keywords
 app-emacs/font-utils 20210405.1149: Utility functions for working with fonts
 app-emacs/fontawesome 20240925.814: Fontawesome utility
 app-emacs/fontify-face 20210503.1956: Fontify symbols representing faces with that face
-app-emacs/fontsloth 20250606.428: Elisp otf/ttf font loader/renderer
+app-emacs/fontsloth 20250613.2028: Elisp otf/ttf font loader/renderer
 app-emacs/for 20230828.832: Iteration and sequence
 app-emacs/forecast 20191004.1850: Weather forecasts
 app-emacs/foreign-regexp 20200325.50: Search and replace by foreign regexp
@@ -2220,7 +2220,7 @@ app-emacs/go-scratch 20150810.440: *scratch* buffer for Go
 app-emacs/go-snippets 20180113.611: Yasnippets for go
 app-emacs/go-stacktracer 20150430.2142: Parse Go stack traces
 app-emacs/go-tag 20230111.651: Edit Golang struct field tag
-app-emacs/go-translate 20250613.937: Translation framework, configurable and scalable
+app-emacs/go-translate 20250614.337: Translation framework, configurable and scalable
 app-emacs/gobgen 20161020.1523: Generate GObject descendants using a detailed form
 app-emacs/god-mode 20240812.1014: Minor mode for God-like command entering
 app-emacs/godoctor 20180710.2152: Frontend for godoctor
@@ -4105,7 +4105,7 @@ app-emacs/osx-pseudo-daemon 20240922.2024: Daemon mode that plays nice with OSX
 app-emacs/osx-trash 20220913.1736: System trash for OS X
 app-emacs/otama 20160404.1032: Org-table Manipulator
 app-emacs/other-emacs-eval 20180408.1348: Evaluate the Emacs Lisp expression in other Emacs
-app-emacs/otpp 20250514.2103: One tab per project, with unique names
+app-emacs/otpp 20250614.44: One tab per project, with unique names
 app-emacs/ouroboros 20230606.1150: Ouroboros network mini-protocol
 app-emacs/outline-indent 20250320.1659: Folding text based on indentation (origami alternative)
 app-emacs/outline-magic 20180619.1819: Outline mode extensions for Emacs
@@ -4247,7 +4247,7 @@ app-emacs/pcsv 20240112.1431: Parser of csv
 app-emacs/pd-remote 20230314.428: Pd remote control helper
 app-emacs/pdb-capf 20200419.1237: Completion-at-point function for python debugger
 app-emacs/pdb-mode 20150128.1751: Major mode for editing Protein Data Bank files
-app-emacs/pdd 20250613.636: HTTP library & Async Toolkit
+app-emacs/pdd 20250614.508: HTTP library & Async Toolkit
 app-emacs/pdf-meta-edit 20250321.2317: Edit PDF metadata via pdftk
 app-emacs/pdf-tools 20240429.407: Support library for PDF documents
 app-emacs/pdf-view-pagemark 20240518.626: Add indicator in pdfview mode to show the page remaining
@@ -4371,7 +4371,7 @@ app-emacs/poetry 20240329.1103: Interface to Poetry
 app-emacs/point-pos 20170421.1632: Save and restore point positions
 app-emacs/point-stack 20200427.107: Back and forward navigation through buffer locations
 app-emacs/poke-line 20201023.247: Minor mode to show position in a buffer using a Pokemon
-app-emacs/polish-holidays 20250611.1208: Polish holidays
+app-emacs/polish-holidays 20250613.2245: Polish holidays
 app-emacs/pollen-mode 20220904.447: Major mode for editing pollen files
 app-emacs/poly-R 20250502.1525: Various polymodes for R language
 app-emacs/poly-ansible 20250501.1455: Polymode for Ansible: Jinja2 in YAML
@@ -5099,7 +5099,7 @@ app-emacs/spacebar 20190719.334: Workspaces Bar
 app-emacs/spacegray-theme 20150719.1931: A Hyperminimal UI Theme
 app-emacs/spaceline 20230922.1127: Modeline configuration library for powerline
 app-emacs/spaceline-all-the-icons 20190325.1602: A Spaceline theme using All The Icons
-app-emacs/spacemacs-theme 20250606.2130: Color theme with a dark and light versions
+app-emacs/spacemacs-theme 20250613.2113: Color theme with a dark and light versions
 app-emacs/spaces 20170809.2208: Create and switch between named window configurations
 app-emacs/spanish-holidays 20241209.1141: Spain holidays for calendar
 app-emacs/spark 20230406.2307: Sparkline generation
@@ -5321,7 +5321,7 @@ app-emacs/term-run 20200128.702: Run arbitrary command in terminal buffer
 app-emacs/termbright-theme 20151031.235: A more usable theme for white-on-black terminals
 app-emacs/terminal-here 20250612.602: Run an external terminal in current directory
 app-emacs/terminal-toggle 20190226.1510: Simple pop-up terminal
-app-emacs/termint 20250612.119: Run REPLs in a terminal backend
+app-emacs/termint 20250614.328: Run REPLs in a terminal backend
 app-emacs/tern 20191227.950: Tern-powered JavaScript integration
 app-emacs/tern-auto-complete 20191227.950: Tern Completion by auto-complete.el
 app-emacs/tern-context-coloring 20170102.2253: Use Tern for context coloring
