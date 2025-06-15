@@ -85,8 +85,8 @@ app-emacs/ah 20220730.1058: Additional hooks
 app-emacs/ahg 20241113.748: Alberto's Emacs interface for Mercurial (Hg)
 app-emacs/ahk-mode 20200412.1832: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 20180131.328: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
-app-emacs/aider 20250614.1445: AI assisted programming with Aider and LLM
-app-emacs/aidermacs 20250602.203: AI pair programming with Aider
+app-emacs/aider 20250615.504: AI assisted programming with Aider and LLM
+app-emacs/aidermacs 20250614.1812: AI pair programming with Aider
 app-emacs/aidev-mode 20250318.2144: Minor mode for AI-assisted development
 app-emacs/aiken-mode 20230920.1210: Major mode for Aiken
 app-emacs/airline-themes 20250502.1915: Vim-airline themes for emacs powerline
@@ -582,7 +582,7 @@ app-emacs/circe-notifications 20180102.2318: Add desktop notifications to Circe
 app-emacs/circleci-api 20210227.1607: Bindings for the CircleCI API
 app-emacs/circom-mode 20250604.1022: Major mode for editing Circom circuit
 app-emacs/citar 20250113.1556: Citation-related commands for org, latex, markdown
-app-emacs/citar-denote 20250528.209: Minor mode integrating Citar and Denote
+app-emacs/citar-denote 20250614.2046: Minor mode integrating Citar and Denote
 app-emacs/citar-embark 20231122.1548: Citar/Embark integration
 app-emacs/citar-org-node 20250527.2252: Citar integration with org-node
 app-emacs/citar-org-roam 20250424.1511: Citar/org-roam integration
@@ -1829,7 +1829,7 @@ app-emacs/flycheck-dogma 20170125.721: Flycheck checker for elixir dogma
 app-emacs/flycheck-drstring 20200210.1903: Doc linting for Swift using DrString
 app-emacs/flycheck-dtrace 20180903.1630: Flycheck: DTrace support
 app-emacs/flycheck-eask 20250226.939: Eask support in Flycheck
-app-emacs/flycheck-eglot 20240927.2343: Flycheck support for eglot
+app-emacs/flycheck-eglot 20250615.619: Flycheck support for eglot
 app-emacs/flycheck-eldev 20230905.1754: Eldev support in Flycheck
 app-emacs/flycheck-elixir 20210413.612: Support Elixir in flycheck
 app-emacs/flycheck-elm 20181107.146: Flycheck support for the elm language
@@ -1949,7 +1949,7 @@ app-emacs/flymake-lua 20170129.154: Flymake for Lua
 app-emacs/flymake-margin 20240612.306: Sets flymake to work with margin instead of fringes
 app-emacs/flymake-markdownlint 20220320.1208: Markdown linter with markdownlint
 app-emacs/flymake-nasm 20210310.1540: A flymake handler for asm-mode files using nasm
-app-emacs/flymake-perlcritic 20240229.953: Flymake handler for Perl to invoke Perl::Critic
+app-emacs/flymake-perlcritic 20250615.802: Flymake handler for Perl to invoke Perl::Critic
 app-emacs/flymake-pest 20200710.2327: A flymake handler for Pest files
 app-emacs/flymake-php 20170723.146: A flymake handler for php-mode files
 app-emacs/flymake-phpcs 20210213.732: Making flymake work with PHP CodeSniffer
@@ -1996,7 +1996,7 @@ app-emacs/font-lock-studio 20250309.1523: Debugger for Font Lock keywords
 app-emacs/font-utils 20210405.1149: Utility functions for working with fonts
 app-emacs/fontawesome 20240925.814: Fontawesome utility
 app-emacs/fontify-face 20210503.1956: Fontify symbols representing faces with that face
-app-emacs/fontsloth 20250613.2028: Elisp otf/ttf font loader/renderer
+app-emacs/fontsloth 20250614.26: Elisp otf/ttf font loader/renderer
 app-emacs/for 20230828.832: Iteration and sequence
 app-emacs/forecast 20191004.1850: Weather forecasts
 app-emacs/foreign-regexp 20200325.50: Search and replace by foreign regexp
@@ -2220,7 +2220,7 @@ app-emacs/go-scratch 20150810.440: *scratch* buffer for Go
 app-emacs/go-snippets 20180113.611: Yasnippets for go
 app-emacs/go-stacktracer 20150430.2142: Parse Go stack traces
 app-emacs/go-tag 20230111.651: Edit Golang struct field tag
-app-emacs/go-translate 20250614.1233: Translation framework, configurable and scalable
+app-emacs/go-translate 20250615.359: Translation framework, configurable and scalable
 app-emacs/gobgen 20161020.1523: Generate GObject descendants using a detailed form
 app-emacs/god-mode 20240812.1014: Minor mode for God-like command entering
 app-emacs/godoctor 20180710.2152: Frontend for godoctor
@@ -2392,7 +2392,7 @@ app-emacs/helm-codesearch 20221219.1219: Helm interface for codesearch
 app-emacs/helm-comint 20231102.2029: Comint prompt navigation for helm
 app-emacs/helm-commandlinefu 20150611.545: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 20231113.701: Helm interface for company-mode
-app-emacs/helm-core 20250612.316: Development files for Helm
+app-emacs/helm-core 20250614.1650: Development files for Helm
 app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
@@ -3950,7 +3950,7 @@ app-emacs/org-linkotron 20200112.2235: Org-mode link selector
 app-emacs/org-listcruncher 20210706.1741: Planning tool - Parse Org mode lists into table
 app-emacs/org-mac-link 20231016.2047: Insert org-mode links to items selected in various Mac apps
 app-emacs/org-make-toc 20240830.2046: Automatic tables of contents for Org files
-app-emacs/org-mem 20250612.917: Fast info from a large number of Org file contents
+app-emacs/org-mem 20250614.2019: Fast info from a large number of Org file contents
 app-emacs/org-mime 20250318.2155: Org html export for text/html MIME emails
 app-emacs/org-mind-map 20180826.2340: Creates a directed graph from org-mode files
 app-emacs/org-ml 20250514.2314: Functional Org Mode API
@@ -4105,7 +4105,7 @@ app-emacs/osx-pseudo-daemon 20240922.2024: Daemon mode that plays nice with OSX
 app-emacs/osx-trash 20220913.1736: System trash for OS X
 app-emacs/otama 20160404.1032: Org-table Manipulator
 app-emacs/other-emacs-eval 20180408.1348: Evaluate the Emacs Lisp expression in other Emacs
-app-emacs/otpp 20250614.44: One tab per project, with unique names
+app-emacs/otpp 20250614.2152: One tab per project, with unique names
 app-emacs/ouroboros 20230606.1150: Ouroboros network mini-protocol
 app-emacs/outline-indent 20250320.1659: Folding text based on indentation (origami alternative)
 app-emacs/outline-magic 20180619.1819: Outline mode extensions for Emacs
@@ -4117,7 +4117,7 @@ app-emacs/outrespace 20220218.1936: Some c++ namespace utility functions
 app-emacs/outshine 20220326.540: Outline with outshine outshines outline
 app-emacs/ov 20230522.1117: Overlay library for Emacs Lisp
 app-emacs/overcast-theme 20200425.1601: A dark but vibrant color theme for Emacs
-app-emacs/overleaf 20250604.1357: Sync and track changes live with overleaf
+app-emacs/overleaf 20250614.2227: Sync and track changes live with overleaf
 app-emacs/overseer 20240109.800: Ert-runner Integration Into Emacs
 app-emacs/ovpn-mode 20210403.440: An openvpn management mode
 app-emacs/owcmd 20200517.2039: Run a single command in the other window
