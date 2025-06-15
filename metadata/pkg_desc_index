@@ -525,7 +525,7 @@ app-emacs/cern-root-mode 20240411.1355: Major-mode for running C++ code with ROO
 app-emacs/cfengine-code-style 20171111.1027: C code style for CFEngine project
 app-emacs/cff 20250209.2316: Search of the C/C++ file header by the source and vice versa
 app-emacs/cfml-mode 20190617.1130: Emacs mode for editing CFML files
-app-emacs/cfn-mode 20250608.804: AWS cloudformation mode
+app-emacs/cfn-mode 20250615.805: AWS cloudformation mode
 app-emacs/cframe 20250126.1800: Customize a frame and fast switch size and positions
 app-emacs/cfrs 20220129.1149: Child-frame based read-string
 app-emacs/cg 20250430.1005: Major mode for editing Constraint Grammar files
@@ -958,7 +958,7 @@ app-emacs/darkokai-theme 20250317.1704: A darker variant on Monokai
 app-emacs/darktooth-theme 20231011.427: From the darkness... it watches
 app-emacs/dart-mode 20231002.1138: Major mode for editing Dart files
 app-emacs/dart-server 20210501.1445: Minor mode for editing Dart files
-app-emacs/daselt 20250609.1553: Module for the Daselt configuration scheme
+app-emacs/daselt 20250615.1121: Module for the Daselt configuration scheme
 app-emacs/dash 20250312.1307: A modern list library for Emacs
 app-emacs/dash-alfred 20191024.450: Search Dash documentation via Dash-Alfred-Workflow
 app-emacs/dash-at-point 20211023.104: Search the word at point with Dash
@@ -1996,7 +1996,7 @@ app-emacs/font-lock-studio 20250309.1523: Debugger for Font Lock keywords
 app-emacs/font-utils 20210405.1149: Utility functions for working with fonts
 app-emacs/fontawesome 20240925.814: Fontawesome utility
 app-emacs/fontify-face 20210503.1956: Fontify symbols representing faces with that face
-app-emacs/fontsloth 20250614.26: Elisp otf/ttf font loader/renderer
+app-emacs/fontsloth 20250615.1453: Elisp otf/ttf font loader/renderer
 app-emacs/for 20230828.832: Iteration and sequence
 app-emacs/forecast 20191004.1850: Weather forecasts
 app-emacs/foreign-regexp 20200325.50: Search and replace by foreign regexp
@@ -2220,7 +2220,7 @@ app-emacs/go-scratch 20150810.440: *scratch* buffer for Go
 app-emacs/go-snippets 20180113.611: Yasnippets for go
 app-emacs/go-stacktracer 20150430.2142: Parse Go stack traces
 app-emacs/go-tag 20230111.651: Edit Golang struct field tag
-app-emacs/go-translate 20250615.359: Translation framework, configurable and scalable
+app-emacs/go-translate 20250615.1335: Translation framework, configurable and scalable
 app-emacs/gobgen 20161020.1523: Generate GObject descendants using a detailed form
 app-emacs/god-mode 20240812.1014: Minor mode for God-like command entering
 app-emacs/godoctor 20180710.2152: Frontend for godoctor
@@ -2392,7 +2392,7 @@ app-emacs/helm-codesearch 20221219.1219: Helm interface for codesearch
 app-emacs/helm-comint 20231102.2029: Comint prompt navigation for helm
 app-emacs/helm-commandlinefu 20150611.545: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 20231113.701: Helm interface for company-mode
-app-emacs/helm-core 20250614.1650: Development files for Helm
+app-emacs/helm-core 20250615.1203: Development files for Helm
 app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
@@ -2455,7 +2455,7 @@ app-emacs/helm-lastpass 20180722.806: Helm interface of LastPass
 app-emacs/helm-lib-babel 20180510.1324: Helm insertion of babel function references
 app-emacs/helm-lines 20220103.1909: A helm interface for completing by lines
 app-emacs/helm-lobsters 20230820.1403: Helm front-end for lobste.rs
-app-emacs/helm-ls-git 20250528.629: The git project manager for helm
+app-emacs/helm-ls-git 20250615.1418: The git project manager for helm
 app-emacs/helm-ls-hg 20150909.543: List hg files in hg project
 app-emacs/helm-ls-svn 20190316.2203: Helm extension to list svn files
 app-emacs/helm-lsp 20241118.1931: LSP helm integration
@@ -3125,7 +3125,7 @@ app-emacs/libelcouch 20230903.800: Communication with CouchDB
 app-emacs/liberime 20240927.141: Rime elisp binding
 app-emacs/liblouis 20220426.657: Mode for editing liblouis braille translation tables
 app-emacs/libmpdee 20220825.957: Client end library for mpd, a music playing daemon
-app-emacs/libmpdel 20250611.805: Communication with an MPD server
+app-emacs/libmpdel 20250615.936: Communication with an MPD server
 app-emacs/librera-sync 20230902.1006: Sync document's position with Librera Reader for Android
 app-emacs/lice 20220312.2215: License And Header Template
 app-emacs/license-snippets 20201117.1619: LICENSE templates for yasnippet
@@ -3361,7 +3361,7 @@ app-emacs/mbo70s-theme 20170808.1315: 70s style palette, with similarities to mb
 app-emacs/mbsync 20200128.1053: Run mbsync to fetch mails
 app-emacs/mc-calc 20200420.1836: Combine multiple-cursors and calc
 app-emacs/mc-extras 20231206.1655: Extra functions for multiple-cursors mode
-app-emacs/mcp 20250612.24: Model Context Protocol
+app-emacs/mcp 20250615.1415: Model Context Protocol
 app-emacs/md-readme 20191112.1943: Markdown-formatted READMEs for your ELisp
 app-emacs/md4rd 20230725.2316: Mode for reddit (browse it)
 app-emacs/media-progress 20250511.1045: Display position where media player stopped
@@ -3682,7 +3682,7 @@ app-emacs/notmuch-bookmarks 20230727.1504: Add bookmark handling for notmuch buf
 app-emacs/notmuch-labeler 20131230.1719: Improve notmuch way of displaying labels
 app-emacs/notmuch-maildir 20250531.2223: Display maildirs as a tree
 app-emacs/notmuch-transient 20250601.1056: Command dispatchers for Notmuch
-app-emacs/nov 20250309.1937: Featureful EPUB reader mode
+app-emacs/nov 20250615.1051: Featureful EPUB reader mode
 app-emacs/nova-theme 20240904.2127: A dark, pastel color theme
 app-emacs/noxml-fold 20170823.1357: Fold away XML things
 app-emacs/npm 20241222.1207: Run your npm workflows
@@ -4281,7 +4281,7 @@ app-emacs/perspeen 20171203.1021: An package for multi-workspace
 app-emacs/pest-mode 20221231.15: Major mode for editing Pest files
 app-emacs/pet 20250519.1203: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 20220913.1401: A simple wrapper around asynchronous processes
-app-emacs/pg 20250503.834: Socket-level interface to the PostgreSQL database
+app-emacs/pg 20250615.1144: Socket-level interface to the PostgreSQL database
 app-emacs/pgdevenv 20150105.2236: Manage your PostgreSQL development envs
 app-emacs/phabricator 20160510.1425: Phabricator/Arcanist helpers for Emacs
 app-emacs/phan 20200805.356: Utility functions for Phan (PHP static analizer)
@@ -5224,7 +5224,7 @@ app-emacs/sway-lang-mode 20230320.507: Major mode for sway
 app-emacs/sweet-theme 20200708.1202: Sweet-looking theme
 app-emacs/sweetgreen 20180605.335: Order Salads from sweetgreen.com
 app-emacs/swift-helpful 20220707.846: Show documentation for Swift programs
-app-emacs/swift-mode 20250524.530: Major-mode for Apple's Swift programming language
+app-emacs/swift-mode 20250615.1001: Major-mode for Apple's Swift programming language
 app-emacs/swift-ts-mode 20250115.1906: Major mode for Swift based on tree-sitter
 app-emacs/swift3-mode 20160918.1250: Major-mode for Apple's Swift programming language
 app-emacs/swiper 20250329.1401: Isearch with an overview. Oh, man!
@@ -5331,7 +5331,7 @@ app-emacs/terraform-mode 20250528.1335: Major mode for terraform configuration f
 app-emacs/tesouro 20221003.1303: Brazilian Portuguese synonym search in dicio.com.br
 app-emacs/test-c 20180423.1720: Quickly test c code
 app-emacs/test-case-mode 20130525.1434: Unit test front-end
-app-emacs/test-cockpit 20250216.1832: A command center to run tests of a software project
+app-emacs/test-cockpit 20250615.1258: A command center to run tests of a software project
 app-emacs/test-simple 20230916.1634: Simple Unit Test Framework for Emacs Lisp
 app-emacs/tex-smart-umlauts 20230416.2051: Smart umlaut conversion for TeX
 app-emacs/texfrag 20240415.1043: Preview LaTeX fragments in alien major modes
@@ -5453,7 +5453,7 @@ app-emacs/tree-sitter 20220212.1632: Incremental parsing system
 app-emacs/tree-sitter-ess-r 20241120.1547: R with tree-sitter
 app-emacs/tree-sitter-indent 20220411.1439: Provide indentation with a Tree-sitter backend
 app-emacs/tree-sitter-ispell 20240610.2252: Run ispell on tree-sitter text nodes
-app-emacs/tree-sitter-langs 20250608.1254: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 20250615.740: Grammar bundle for tree-sitter
 app-emacs/treebundel 20250515.2241: Bundle related git-worktrees together
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
 app-emacs/treemacs 20250602.1552: A tree style file explorer package
@@ -5619,7 +5619,7 @@ app-emacs/verona-mode 20200823.536: A major mode for the Verona programming lang
 app-emacs/versuri 20211104.1301: The lyrics package
 app-emacs/vertica 20131217.1511: Vertica SQL mode extension
 app-emacs/vertica-snippets 20250314.927: Yasnippets for Vertica
-app-emacs/vertico 20250614.643: VERTical Interactive COmpletion
+app-emacs/vertico 20250615.1208: VERTical Interactive COmpletion
 app-emacs/vertico-prescient 20240803.2320: Prescient.el + Vertico
 app-emacs/vertigo 20211224.1256: Jump across lines using the home row
 app-emacs/vhdl-capf 20160221.1734: Completion at point function (capf) for vhdl-mode
