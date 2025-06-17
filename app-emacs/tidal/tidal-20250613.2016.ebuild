@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Interact with TidalCycles for live coding patterns"
 
-HOMEPAGE="https://github.com/tidalcycles/Tidal"
+HOMEPAGE="https://codeberg.org/uzu/tidal"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
