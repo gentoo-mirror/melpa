@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Helm interface for restclient.el"
 
-HOMEPAGE="https://github.com/pashky/restclient.el"
+HOMEPAGE="https://github.com/emacsorphanage/restclient"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
