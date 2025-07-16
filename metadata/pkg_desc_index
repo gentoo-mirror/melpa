@@ -85,7 +85,7 @@ app-emacs/ah 20220730.1058: Additional hooks
 app-emacs/ahg 20241113.748: Alberto's Emacs interface for Mercurial (Hg)
 app-emacs/ahk-mode 20200412.1832: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 20180131.328: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
-app-emacs/aider 20250711.1410: AI assisted programming with Aider and LLM
+app-emacs/aider 20250716.441: AI assisted programming with Aider and LLM
 app-emacs/aidermacs 20250707.1832: AI pair programming with Aider
 app-emacs/aidev-mode 20250318.2144: Minor mode for AI-assisted development
 app-emacs/aiken-mode 20230920.1210: Major mode for Aiken
@@ -807,7 +807,7 @@ app-emacs/consult-gh-with-pr-review 20250714.2249: "pr-review" Integration for c
 app-emacs/consult-ghq 20231111.1303: Ghq interface using consult
 app-emacs/consult-git-log-grep 20250317.1916: Consult integration for git log grep
 app-emacs/consult-hatena-bookmark 20250421.1501: Consult commands for the Hatena Bookmark
-app-emacs/consult-hn 20250711.1729: Hacker News search with Consult
+app-emacs/consult-hn 20250716.104: Hacker News search with Consult
 app-emacs/consult-ls-git 20250419.1320: Consult integration for git
 app-emacs/consult-lsp 20250121.707: LSP-mode Consult integration
 app-emacs/consult-notes 20241213.1718: Manage notes with consult
@@ -2375,9 +2375,9 @@ app-emacs/hdf5-viewer 20250625.519: Major mode for viewing HDF5 files
 app-emacs/headlong 20150417.1526: Reckless completion
 app-emacs/heaven-and-hell 20190713.1830: Easy toggle light/dark themes
 app-emacs/heex-ts-mode 20250511.643: Major mode for Heex with tree-sitter support
-app-emacs/helix 20250630.1623: A minor mode emulating Helix keybindings
+app-emacs/helix 20250716.118: A minor mode emulating Helix keybindings
 app-emacs/helix-theme 20240814.1212: Color theme inspired by Helix editor's default colors
-app-emacs/helm 20250715.1837: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20250716.528: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: Helm-sources and some utilities for GNU R
 app-emacs/helm-ad 20151209.1015: Helm source for Active Directory
 app-emacs/helm-apt 20231005.423: Helm interface for Debian/Ubuntu packages (apt-*)
@@ -3051,7 +3051,7 @@ app-emacs/kuronami-theme 20240104.2022: A deep blue theme with cool autumnal col
 app-emacs/kv 20140108.1534: Key/value data structure functions
 app-emacs/kwin 20220120.2125: Communicatewith the KWin window manager
 app-emacs/laas 20241212.1314: A bundle of as-you-type LaTeX snippets
-app-emacs/lab 20250713.1459: An interface for GitLab
+app-emacs/lab 20250716.624: An interface for GitLab
 app-emacs/lab-themes 20200815.2104: A custom theme carefully constructed in the LAB space
 app-emacs/labburn-theme 20221208.1611: A lab color space zenburn theme
 app-emacs/lacquer 20230824.725: Switch theme/font by selecting from a cache
@@ -4284,7 +4284,7 @@ app-emacs/perspective-exwm 20231225.2313: Better integration for perspective.el 
 app-emacs/perspective-project-bridge 20231024.1737: Integration of perspective.el + project.el
 app-emacs/perspeen 20171203.1021: An package for multi-workspace
 app-emacs/pest-mode 20221231.15: Major mode for editing Pest files
-app-emacs/pet 20250715.1147: Executable and virtualenv tracker for python-mode
+app-emacs/pet 20250716.519: Executable and virtualenv tracker for python-mode
 app-emacs/pfuture 20220913.1401: A simple wrapper around asynchronous processes
 app-emacs/pg 20250707.1253: Socket-level interface to the PostgreSQL database
 app-emacs/pgdevenv 20150105.2236: Manage your PostgreSQL development envs
@@ -4517,7 +4517,7 @@ app-emacs/punctuality-logger 20141120.2031: Punctuality logger for Emacs
 app-emacs/pungi 20150222.1246: Integrates jedi with virtualenv and buildout python environments
 app-emacs/puni 20241007.1609: Parentheses Universalistic
 app-emacs/punpun-themes 20250421.1819: Common color definitions for punpun themes
-app-emacs/puppet-mode 20210305.645: Major mode for Puppet manifests
+app-emacs/puppet-mode 20250716.542: Major mode for Puppet manifests
 app-emacs/puppet-ts-mode 20250503.1625: Major mode for Puppet using Tree-sitter
 app-emacs/purescript-mode 20250613.944: A PureScript editing mode
 app-emacs/purp-theme 20210912.1940: A dark color theme with few colors
@@ -5252,7 +5252,7 @@ app-emacs/symbol-navigation-hydra 20211010.2353: A symbol-aware, range-aware hyd
 app-emacs/symbol-overlay 20240913.1624: Highlight symbols with keymap-enabled overlays
 app-emacs/symbol-overlay-mc 20241216.1436: Mark highlighted symbols with multiple cursors
 app-emacs/symbolist 20211107.1615: List and interactively unbind Emacs Lisp symbols
-app-emacs/symbols-outline 20250715.1043: Display symbols (functions, variables, etc) in outline view
+app-emacs/symbols-outline 20250716.629: Display symbols (functions, variables, etc) in outline view
 app-emacs/symbolword-mode 20180401.1427: Modify word split
 app-emacs/symex 20250102.50: An evil way to edit Lisp symbolic expressions as trees
 app-emacs/symon 20170224.833: Tiny graphical system monitor
@@ -5585,7 +5585,7 @@ app-emacs/use-package-hydra 20181228.745: Adds :hydra keyword to use-package mac
 app-emacs/use-proxy 20201209.853: Enable/Disable proxies respecting your HTTP/HTTPS env
 app-emacs/use-ttf 20250624.1031: Keep font consistency across different OSs
 app-emacs/ushin-shapes 20241022.522: USHIN shapes in org-mode
-app-emacs/utimeclock 20250421.1055: Simple utility for manual time tracking
+app-emacs/utimeclock 20250716.39: Simple utility for manual time tracking
 app-emacs/utop 20241125.1512: Universal toplevel for OCaml
 app-emacs/uuid 20120910.851: UUID's for EmacsLisp
 app-emacs/uuidgen 20240201.2318: Provides various UUID generating functions
