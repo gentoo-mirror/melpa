@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Underscore -> UPCASE -> CamelCase -> lowerCamelCase conversion of names"
+DESCRIPTION="Foo_bar => FOO_BAR => FooBar => fooBar => foo-bar => Foo_Bar => foo_bar"
 
 HOMEPAGE="https://github.com/akicho8/string-inflection"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
