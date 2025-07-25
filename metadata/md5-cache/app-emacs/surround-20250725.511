@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/plz app-emacs/dash
-DESCRIPTION=Code completion using LLM
+DESCRIPTION=Easily add/delete/change parens, quotes, and more
 EAPI=8
-HOMEPAGE=https://github.com/milanglacier/minuet-ai.el
+HOMEPAGE=https://github.com/mkleehammer/surround
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/plz app-emacs/dash >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/minuet-20250718.133.tar
+SRC_URI=https://melpa.org/packages/surround-20250725.511.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=456672a43c6ea2e3f11fd0666a0b93a4
+_md5_=1d3e29b59857ac9caec67754fa5b048f
