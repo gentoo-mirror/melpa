@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Edit Filename At Point in a dired buffer
+DEPEND=app-emacs/dash app-emacs/transient app-emacs/s
+DESCRIPTION=Helpers to run pytest
 EAPI=8
-HOMEPAGE=https://github.com/juan-leon/dired-efap
+HOMEPAGE=https://github.com/wbolster/emacs-python-pytest
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/dash app-emacs/transient app-emacs/s >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/dired-efap-20220421.1535.tar
+SRC_URI=https://melpa.org/packages/python-pytest-20250726.1726.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=9883deb06e691c5c2cdd31e28424ed05
+_md5_=3d51e16b1089e7b27315583abcd829ec

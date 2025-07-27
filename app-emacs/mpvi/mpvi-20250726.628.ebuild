@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Media tool based on EMMS and MPV"
+DESCRIPTION="Watch video and take interactive video notes"
 
 HOMEPAGE="https://github.com/lorniu/mpvi"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
