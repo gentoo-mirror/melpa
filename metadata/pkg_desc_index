@@ -86,7 +86,7 @@ app-emacs/ahg 20241113.748: Alberto's Emacs interface for Mercurial (Hg)
 app-emacs/ahk-mode 20200412.1832: Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
 app-emacs/ahungry-theme 20180131.328: Ahungry color theme for Emacs. Make sure to (load-theme 'ahungry)
 app-emacs/aider 20250726.1454: AI assisted programming with Aider and LLM
-app-emacs/aidermacs 20250720.1607: AI pair programming with Aider
+app-emacs/aidermacs 20250727.630: AI pair programming with Aider
 app-emacs/aidev-mode 20250318.2144: Minor mode for AI-assisted development
 app-emacs/aiken-mode 20230920.1210: Major mode for Aiken
 app-emacs/airline-themes 20250502.1915: Vim-airline themes for emacs powerline
@@ -501,7 +501,7 @@ app-emacs/caser 20241003.131: Change text casing from camelCase to UpperCamelCas
 app-emacs/cask-mode 20160410.1449: Major mode for editing Cask files
 app-emacs/cask-package-toolset 20170921.2256: Toolsettize your package
 app-emacs/caskxy 20140513.1539: Control Cask in Emacs
-app-emacs/casual 20250727.444: Transient user interfaces for various modes
+app-emacs/casual 20250727.720: Transient user interfaces for various modes
 app-emacs/casual-avy 20241217.1931: Transient UI for Avy
 app-emacs/casual-suite 20241022.3: A suite of opinionated Transient UIs
 app-emacs/casual-symbol-overlay 20241021.2358: Transient UI for Symbol Overlay
@@ -589,7 +589,7 @@ app-emacs/circom-mode 20250604.1022: Major mode for editing Circom circuit
 app-emacs/citar 20250113.1556: Citation-related commands for org, latex, markdown
 app-emacs/citar-denote 20250614.2046: Minor mode integrating Citar and Denote
 app-emacs/citar-embark 20231122.1548: Citar/Embark integration
-app-emacs/citar-org-node 20250527.2252: Citar integration with org-node
+app-emacs/citar-org-node 20250727.650: Citar integration with org-node
 app-emacs/citar-org-roam 20250424.1511: Citar/org-roam integration
 app-emacs/citeproc-el 20250525.1011: A CSL 1.0.2 Citation Processor
 app-emacs/citeproc-org 20200915.2009: Render org-mode references in CSL styles
@@ -2493,7 +2493,7 @@ app-emacs/helm-phpunit 20160513.853: Helm integration for phpunit.el
 app-emacs/helm-proc 20241230.1732: Helm interface for managing system processes
 app-emacs/helm-project 20230608.1212: Helm source for project management
 app-emacs/helm-project-persist 20151210.1543: Helm integration for project-persist package
-app-emacs/helm-projectile 20250725.1146: Helm integration for Projectile
+app-emacs/helm-projectile 20250727.1043: Helm integration for Projectile
 app-emacs/helm-prosjekt 20140129.717: Helm integration for prosjekt
 app-emacs/helm-purpose 20170114.1636: Helm Interface for Purpose
 app-emacs/helm-pydoc 20220721.433: Pydoc with helm interface
@@ -3366,7 +3366,7 @@ app-emacs/mbo70s-theme 20170808.1315: 70s style palette, with similarities to mb
 app-emacs/mbsync 20200128.1053: Run mbsync to fetch mails
 app-emacs/mc-calc 20200420.1836: Combine multiple-cursors and calc
 app-emacs/mc-extras 20231206.1655: Extra functions for multiple-cursors mode
-app-emacs/mcp 20250708.1119: Model Context Protocol
+app-emacs/mcp 20250727.749: Model Context Protocol
 app-emacs/mcp-server-lib 20250725.607: Model Context Protocol server library
 app-emacs/md-readme 20191112.1943: Markdown-formatted READMEs for your ELisp
 app-emacs/md4rd 20230725.2316: Mode for reddit (browse it)
@@ -3523,7 +3523,7 @@ app-emacs/mpdel-embark 20230103.2021: Integrate MPDel with Embark
 app-emacs/mpdmacs 20240917.310: A lightweight MPD client
 app-emacs/mpmc-queue 20180303.2029: A multiple-producer-multiple-consumer queue
 app-emacs/mpv 20241121.2308: Control mpv for easy note-taking
-app-emacs/mpvi 20250726.628: Watch video and take interactive video notes
+app-emacs/mpvi 20250727.1149: Watch video and take interactive video notes
 app-emacs/mqr 20180527.1204: Multi-dimensional query and replace
 app-emacs/mqtt-mode 20180611.1735: Client for interaction with MQTT servers
 app-emacs/msgpack 20200323.515: Read and write MessagePack object
@@ -3898,7 +3898,7 @@ app-emacs/org-clock-reminder 20230222.1956: Notifications that remind you about 
 app-emacs/org-clock-split 20200331.526: Split clock entries
 app-emacs/org-clock-today 20220918.514: Show total clocked time of the current day in the mode line
 app-emacs/org-commentary 20160802.637: Generate or update conventional library headers using Org mode files
-app-emacs/org-contacts 20250727.412: Contacts management system for Org mode
+app-emacs/org-contacts 20250727.1051: Contacts management system for Org mode
 app-emacs/org-context 20220606.1339: Contextual capture and agenda commands for Org-mode
 app-emacs/org-cua-dwim 20120203.534: Org-mode and Cua mode compatibility layer
 app-emacs/org-custom-cookies 20240414.44: Custom cookies for org-mode
@@ -4165,7 +4165,7 @@ app-emacs/ox-rfc 20240901.1714: RFC Back-End for Org Export Engine
 app-emacs/ox-rss 20230408.231: RSS 2.0 Back-End for Org Export Engine
 app-emacs/ox-rst 20250428.534: Export reStructuredText using org-mode
 app-emacs/ox-slack 20200108.1546: Slack Exporter for org-mode
-app-emacs/ox-spectacle 20250217.832: Spectacle.js Presentation Back-End for Org Export Engine
+app-emacs/ox-spectacle 20250218.1032: Spectacle.js Presentation Back-End for Org Export Engine
 app-emacs/ox-ssh 20210917.1517: SSH Config Backend for Org Export Engine
 app-emacs/ox-textile 20210919.1738: Textile Back-End for Org Export Engine
 app-emacs/ox-tiddly 20200927.857: Org TiddlyWiki exporter
@@ -5472,10 +5472,10 @@ app-emacs/tree-sitter 20220212.1632: Incremental parsing system
 app-emacs/tree-sitter-ess-r 20241120.1547: R with tree-sitter
 app-emacs/tree-sitter-indent 20220411.1439: Provide indentation with a Tree-sitter backend
 app-emacs/tree-sitter-ispell 20240610.2252: Run ispell on tree-sitter text nodes
-app-emacs/tree-sitter-langs 20250720.1655: Grammar bundle for tree-sitter
+app-emacs/tree-sitter-langs 20250727.1154: Grammar bundle for tree-sitter
 app-emacs/treebundel 20250515.2241: Bundle related git-worktrees together
 app-emacs/treefactor 20200516.1631: Restructure your messy Org documents
-app-emacs/treemacs 20250715.626: A tree style file explorer package
+app-emacs/treemacs 20250727.1032: A tree style file explorer package
 app-emacs/treemacs-all-the-icons 20250320.2145: All-the-icons integration for treemacs
 app-emacs/treemacs-evil 20250320.2145: Evil mode integration for treemacs
 app-emacs/treemacs-icons-dired 20250320.2145: Treemacs icons for dired
