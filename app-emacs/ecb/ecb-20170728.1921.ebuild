@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A code browser for Emacs"
 
-HOMEPAGE="https://github.com/ecb-home/ecb"
+HOMEPAGE="https://github.com/Atomlogik/ecb"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
