@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Pasting to a plaster host with buffers"
 
-HOMEPAGE="http://github.com/shirakumo/plaster/"
+HOMEPAGE="https://shirakumo.org/docs/plaster/"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

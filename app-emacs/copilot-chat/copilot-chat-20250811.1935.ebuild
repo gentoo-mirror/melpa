@@ -24,11 +24,13 @@ DEPEND="app-emacs/emacs-aio
 	app-emacs/polymode
 	app-emacs/org-mode
 	app-emacs/markdown-mode
-	app-emacs/shell-maker"
+	app-emacs/shell-maker
+	app-emacs/mcp"
 RDEPEND="app-emacs/emacs-aio
 	app-emacs/request
 	app-emacs/transient
 	app-emacs/polymode
 	app-emacs/org-mode
 	app-emacs/markdown-mode
-	app-emacs/shell-maker"
+	app-emacs/shell-maker
+	app-emacs/mcp"
