@@ -5,20 +5,20 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="company-forge"
+REALNAME="helm-searcher"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Company backend for assignees and topics from forge"
+DESCRIPTION="Helm interface to use searcher"
 
-HOMEPAGE="https://github.com/pkryger/company-forge.el"
+HOMEPAGE="https://github.com/emacs-helm/helm-searcher"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/company
-	app-emacs/forge"
-RDEPEND="app-emacs/company
-	app-emacs/forge"
+DEPEND="app-emacs/helm
+	app-emacs/searcher"
+RDEPEND="app-emacs/helm
+	app-emacs/searcher"
