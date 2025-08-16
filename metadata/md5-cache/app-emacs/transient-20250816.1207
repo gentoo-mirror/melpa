@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/macrostep
-DESCRIPTION=Superior Lisp Interaction Mode for Emacs
+DEPEND=app-emacs/compat app-emacs/seq
+DESCRIPTION=Transient commands
 EAPI=8
-HOMEPAGE=https://github.com/slime/slime
+HOMEPAGE=https://github.com/magit/transient
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/macrostep >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/compat app-emacs/seq >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/slime-20250814.1950.tar
+SRC_URI=https://melpa.org/packages/transient-20250816.1207.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=24957782208e22c5e68d81a09d045a8c
+_md5_=0b034cbe3261a7bf321707254b55ce2c
