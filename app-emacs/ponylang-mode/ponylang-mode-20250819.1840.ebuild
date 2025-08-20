@@ -18,19 +18,5 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/dash
-	app-emacs/hydra
-	app-emacs/hl-todo
-	app-emacs/yafolding
-	app-emacs/yasnippet
-	app-emacs/company-ctags
-	app-emacs/rainbow-delimiters
-	app-emacs/fill-column-indicator"
-RDEPEND="app-emacs/dash
-	app-emacs/hydra
-	app-emacs/hl-todo
-	app-emacs/yafolding
-	app-emacs/yasnippet
-	app-emacs/company-ctags
-	app-emacs/rainbow-delimiters
-	app-emacs/fill-column-indicator"
+DEPEND=""
+RDEPEND=""
