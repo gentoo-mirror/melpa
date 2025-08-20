@@ -591,7 +591,7 @@ app-emacs/citar-denote 20250614.2046: Minor mode integrating Citar and Denote
 app-emacs/citar-embark 20231122.1548: Citar/Embark integration
 app-emacs/citar-org-node 20250727.650: Citar integration with org-node
 app-emacs/citar-org-roam 20250424.1511: Citar/org-roam integration
-app-emacs/citeproc-el 20250525.1011: A CSL 1.0.2 Citation Processor
+app-emacs/citeproc-el 20250819.1700: A CSL 1.0.2 Citation Processor
 app-emacs/citeproc-org 20200915.2009: Render org-mode references in CSL styles
 app-emacs/citre 20250411.1406: Superior code reading & auto-completion tool with pluggable backends
 app-emacs/cl-format 20230818.1726: CL format routine
@@ -771,7 +771,7 @@ app-emacs/company-ycm 20140904.1817: Company-ycm
 app-emacs/company-ycmd 20180520.1053: Company-mode backend for ycmd
 app-emacs/compdef 20200304.611: A local completion definer
 app-emacs/competitive-programming-snippets 20201115.1702: Competitive Programming snippets for yasnippet
-app-emacs/compile-angel 20250817.216: Automatically Compile Elisp files (auto-compile alternative)
+app-emacs/compile-angel 20250820.14: Automatically Compile Elisp files (auto-compile alternative)
 app-emacs/compile-multi 20250101.2156: A multi target interface to compile
 app-emacs/compile-multi-all-the-icons 20250101.2156: Affixate `compile-multi' with icons
 app-emacs/compile-multi-embark 20250101.2156: Integration for `compile-multi' and `embark'
@@ -2064,7 +2064,7 @@ app-emacs/fullframe 20210226.1057: Generalized automatic execution in a single f
 app-emacs/function-args 20220516.1226: C++ completion for GNU Emacs
 app-emacs/fuo 20190812.927: Feeluown client
 app-emacs/furl 20150509.316: Friendly URL retrieval
-app-emacs/fussy 20241208.2139: Fuzzy completion style using `flx'
+app-emacs/fussy 20250820.104: Fuzzy completion style using `flx'
 app-emacs/futhark-mode 20250311.1518: Major mode for editing Futhark source files
 app-emacs/fuz 20200104.524: Fast and precise fuzzy scoring/matching utils
 app-emacs/fuzzy 20250101.843: Fuzzy Matching
@@ -2238,7 +2238,7 @@ app-emacs/go-snippets 20180113.611: Yasnippets for go
 app-emacs/go-stacktracer 20150430.2142: Parse Go stack traces
 app-emacs/go-tag 20230111.651: Edit Golang struct field tag
 app-emacs/gobgen 20161020.1523: Generate GObject descendants using a detailed form
-app-emacs/god-mode 20250817.1036: Minor mode for God-like command entering
+app-emacs/god-mode 20250820.259: Minor mode for God-like command entering
 app-emacs/godoctor 20180710.2152: Frontend for godoctor
 app-emacs/gofmt-tag 20240111.2031: Format and align go struct tags
 app-emacs/goggles 20250101.919: Pulse modified regions
@@ -3275,8 +3275,8 @@ app-emacs/madhat2r-theme 20170203.30: Dark color theme that is easy on the eyes
 app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
-app-emacs/magik-company 20250818.934: Magik backend for company-mode
-app-emacs/magik-mode 20250813.1117: Emacs major mode for Smallworld Magik files
+app-emacs/magik-company 20250820.710: Magik backend for company-mode
+app-emacs/magik-mode 20250819.1058: Emacs major mode for Smallworld Magik files
 app-emacs/magit 20250817.1706: A Git porcelain inside Emacs
 app-emacs/magit-annex 20240811.1850: Control git-annex from Magit
 app-emacs/magit-commit-mark 20250611.2320: Support marking commits as read
@@ -3446,7 +3446,7 @@ app-emacs/minizinc-ts-mode 20241227.1909: Major mode for the MiniZinc constraint
 app-emacs/minor-mode-hack 20170926.34: Change priority of minor-mode keymaps
 app-emacs/minsk-theme 20250706.1827: Minsk, a theme in deep muted greens
 app-emacs/mint-mode 20221031.411: Major mode for the Mint programming language
-app-emacs/minuet 20250816.844: Code completion using LLM
+app-emacs/minuet 20250819.2310: Code completion using LLM
 app-emacs/mip-mode 20151127.617: Virtual projects for emacs
 app-emacs/mips-mode 20220608.1204: Major-mode for MIPS assembly
 app-emacs/mise 20250804.517: Support for `mise' cli
@@ -3644,7 +3644,7 @@ app-emacs/nikki 20210228.428: A simple diary mode
 app-emacs/nikola 20170703.2021: Simple wrapper for nikola
 app-emacs/nim-mode 20240220.1033: A major mode for the Nim programming language
 app-emacs/nimbus-theme 20250327.1319: Nimbus dark theme
-app-emacs/ninetyfive 20250728.1427: NinetyFive
+app-emacs/ninetyfive 20250819.2039: NinetyFive
 app-emacs/ninja-mode 20241103.1737: Major mode for editing .ninja files
 app-emacs/nix-buffer 20180212.1518: Set up buffer environments with nix
 app-emacs/nix-env-install 20200812.1305: Install packages using nix-env
@@ -3652,7 +3652,7 @@ app-emacs/nix-haskell-mode 20190615.135: Haskell-mode integrations for Nix
 app-emacs/nix-mode 20230421.2036: Major mode for editing .nix files
 app-emacs/nix-modeline 20210405.742: Info about in-progress Nix evaluations on your modeline
 app-emacs/nix-sandbox 20210325.1622: Utility functions to work with nix-shell sandboxes
-app-emacs/nix-ts-mode 20240930.651: Major mode for Nix expressions, powered by tree-sitter
+app-emacs/nix-ts-mode 20250819.1504: Major mode for Nix expressions, powered by tree-sitter
 app-emacs/nix-update 20250817.1556: Update "fetch" blocks in .nix expressions
 app-emacs/nixfmt 20240724.1531: Reformat Nix using nixfmt
 app-emacs/nixos-options 20160209.1841: Interface for browsing and completing NixOS options
@@ -4193,7 +4193,7 @@ app-emacs/pack 20191017.456: Pack and unpack archive files
 app-emacs/package+ 20240823.2307: Extensions for the package library
 app-emacs/package-build 20250807.1034: Tools for assembling a package archive
 app-emacs/package-filter 20161122.719: Package archive whitelist and blacklist
-app-emacs/package-lint 20250527.1845: A linting library for elisp package authors
+app-emacs/package-lint 20250819.1304: A linting library for elisp package authors
 app-emacs/package-lint-flymake 20250418.1424: A package-lint Flymake backend
 app-emacs/package-loading-notifier 20230809.446: Notify a package is being loaded
 app-emacs/package-utils 20250106.1354: Extensions for package.el
@@ -4403,11 +4403,11 @@ app-emacs/polybar-sesman 20210901.1336: Display active sesman connections in pol
 app-emacs/polymode 20250617.1033: Extensible framework for multiple major modes
 app-emacs/pomidor 20240601.1617: Simple and cool pomodoro timer
 app-emacs/pomm 20250202.1202: Pomodoro and Third Time timers
-app-emacs/pomo-cat 20250810.1931: Pomodoro timer with cat-themed breaks
+app-emacs/pomo-cat 20250819.1022: Pomodoro timer with cat-themed breaks
 app-emacs/pomodoro 20210225.2018: A timer for the Pomodoro Technique
 app-emacs/pony-mode 20170807.1522: Minor mode for working with Django Projects
 app-emacs/pony-snippets 20200418.354: Yasnippets for Pony
-app-emacs/ponylang-mode 20211015.331: A major mode for the Pony programming language
+app-emacs/ponylang-mode 20250819.1840: A major mode for the Pony programming language
 app-emacs/pophint 20250202.713: Provide navigation using pop-up tips, like Firefox's Vimperator Hint Mode
 app-emacs/poporg 20170403.751: Pop a comment or string to an empty buffer for text editing
 app-emacs/popper 20250323.2147: Summon and dismiss buffers as popups
@@ -5010,7 +5010,7 @@ app-emacs/skewer-mode 20200304.1142: Live browser JavaScript, CSS, and HTML inte
 app-emacs/skewer-reload-stylesheets 20160725.1220: Live-edit CSS, SCSS, Less, and friends
 app-emacs/skype 20160711.824: Skype UI for emacs users.
 app-emacs/sl 20161217.1404: An Emacs clone of sl(1)
-app-emacs/slack 20250815.1824: Slack client
+app-emacs/slack 20250819.1012: Slack client
 app-emacs/slideview 20250121.324: File slideshow
 app-emacs/slim-mode 20240513.2118: Major mode for editing Slim files
 app-emacs/slime 20250817.2347: Superior Lisp Interaction Mode for Emacs
