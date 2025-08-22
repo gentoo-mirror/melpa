@@ -1,12 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DESCRIPTION=GNU Hyperbole: The Everyday Hypertextual Information Manager
+DESCRIPTION=Helps you control your GNU/Linux computer
 EAPI=8
-HOMEPAGE=http://www.gnu.org/software/hyperbole
+HOMEPAGE=https://gitlab.petton.fr/DamienCassou/desktop-environment
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/hyperbole-20250817.1930.tar
+SRC_URI=https://melpa.org/packages/desktop-environment-20250821.1428.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=2541f89c50b7cb6f01c7a747083359bd
+_md5_=bfe9fcad75e487e0f7891b895fc5c345
