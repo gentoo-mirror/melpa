@@ -5,22 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="magit-section"
+REALNAME="timeout"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Sections for read-only buffers"
+DESCRIPTION="Throttle or debounce Elisp functions"
 
-HOMEPAGE="https://github.com/magit/magit"
+HOMEPAGE="https://github.com/karthink/timeout"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/compat
-	app-emacs/llama
-	app-emacs/seq"
-RDEPEND="app-emacs/compat
-	app-emacs/llama
-	app-emacs/seq"
+DEPEND=""
+RDEPEND=""

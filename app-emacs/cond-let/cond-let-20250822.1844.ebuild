@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="timeout"
+REALNAME="cond-let"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Throttle or debounce elisp functions"
+DESCRIPTION="Additional and improved binding conditionals"
 
-HOMEPAGE="https://github.com/karthink/timeout"
+HOMEPAGE="https://github.com/tarsius/cond-let"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
