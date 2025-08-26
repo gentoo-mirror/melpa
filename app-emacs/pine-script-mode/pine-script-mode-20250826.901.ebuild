@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="hotdesk"
+REALNAME="pine-script-mode"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Flexible frame Buffer Lists for projects & workspaces"
+DESCRIPTION="Major mode for TradingView Pine Script v6 and older"
 
-HOMEPAGE="https://github.com/j-hotlink/hotdesk"
+HOMEPAGE="https://github.com/darrylhebbes/pine-script-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
