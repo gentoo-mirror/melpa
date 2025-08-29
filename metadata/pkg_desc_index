@@ -1189,7 +1189,7 @@ app-emacs/downplay-mode 20151125.2009: Focus attention on a region of the buffer
 app-emacs/doxy-graph-mode 20210604.723: Links source code editing with doxygen call graphs
 app-emacs/dpaste 20160303.2112: Emacs integration for dpaste.com
 app-emacs/dpaste_de 20131015.1225: Emacs mode to paste to dpaste.de
-app-emacs/dpkg-dev-el 20250829.15: Startup file for the elpa-dpkg-dev-el package
+app-emacs/dpkg-dev-el 20250829.1007: Startup file for the elpa-dpkg-dev-el package
 app-emacs/dr-racket-like-unicode 20220810.2000: DrRacket-style unicode input
 app-emacs/dracula-theme 20250625.2011: Dracula Theme
 app-emacs/draft-mode 20160106.859: Rough drafting for Emacs
@@ -1249,7 +1249,7 @@ app-emacs/easky 20250630.1831: Control the Eask command-line interface
 app-emacs/easy-after-load 20170817.1231: Eval-after-load for all files in a directory
 app-emacs/easy-escape 20210917.1254: Improve readability of escape characters in regular expressions
 app-emacs/easy-find 20250629.2002: Simple file searching like Nemo
-app-emacs/easy-hugo 20250701.2138: Write blogs made with hugo by markdown or org-mode
+app-emacs/easy-hugo 20250829.628: Write blogs made with hugo by markdown or org-mode
 app-emacs/easy-jekyll 20211217.2311: Major mode managing jekyll blogs
 app-emacs/easy-kill 20220511.557: Kill & mark things easily
 app-emacs/easy-kill-extras 20240122.1649: Extra functions for easy-kill
@@ -3281,8 +3281,8 @@ app-emacs/mag-menu 20150505.1850: Intuitive keyboard-centric menu system
 app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-company 20250822.1442: Magik backend for company-mode
-app-emacs/magik-mode 20250827.1102: Emacs major mode for Smallworld Magik files
-app-emacs/magit 20250828.1134: A Git porcelain inside Emacs
+app-emacs/magik-mode 20250829.1413: Emacs major mode for Smallworld Magik files
+app-emacs/magit 20250828.2031: A Git porcelain inside Emacs
 app-emacs/magit-annex 20240811.1850: Control git-annex from Magit
 app-emacs/magit-commit-mark 20250611.2320: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3375,7 +3375,7 @@ app-emacs/mbo70s-theme 20170808.1315: 70s style palette, with similarities to mb
 app-emacs/mbsync 20200128.1053: Run mbsync to fetch mails
 app-emacs/mc-calc 20200420.1836: Combine multiple-cursors and calc
 app-emacs/mc-extras 20231206.1655: Extra functions for multiple-cursors mode
-app-emacs/mcp 20250727.749: Model Context Protocol
+app-emacs/mcp 20250829.1241: Model Context Protocol
 app-emacs/mcp-server-lib 20250828.1124: Model Context Protocol server library
 app-emacs/md-readme 20191112.1943: Markdown-formatted READMEs for your ELisp
 app-emacs/md4rd 20230725.2316: Mode for reddit (browse it)
@@ -3532,7 +3532,7 @@ app-emacs/mpdel-embark 20230103.2021: Integrate MPDel with Embark
 app-emacs/mpdmacs 20240917.310: A lightweight MPD client
 app-emacs/mpmc-queue 20180303.2029: A multiple-producer-multiple-consumer queue
 app-emacs/mpv 20241121.2308: Control mpv for easy note-taking
-app-emacs/mpvi 20250829.336: Watch video and take interactive video notes
+app-emacs/mpvi 20250829.727: Watch video and take interactive video notes
 app-emacs/mqr 20180527.1204: Multi-dimensional query and replace
 app-emacs/mqtt-mode 20180611.1735: Client for interaction with MQTT servers
 app-emacs/msgpack 20200323.515: Read and write MessagePack object
@@ -3618,7 +3618,7 @@ app-emacs/neil 20241209.1218: Companion for Babashka Neil
 app-emacs/nemerle 20161029.2023: Major mode for editing nemerle programs
 app-emacs/neon-mode 20241220.1304: Simple major mode for editing neon files
 app-emacs/neotree 20250703.2202: A tree plugin like NerdTree for Vim
-app-emacs/nerd-icons 20250828.1311: Emacs Nerd Font Icons Library
+app-emacs/nerd-icons 20250829.1411: Emacs Nerd Font Icons Library
 app-emacs/nerd-icons-completion 20250811.751: Add icons to completion candidates
 app-emacs/nerd-icons-corfu 20250729.1544: Icons for Corfu via nerd-icons
 app-emacs/nerd-icons-dired 20250827.1819: Shows icons for each file in dired mode
@@ -3649,7 +3649,7 @@ app-emacs/nikki 20210228.428: A simple diary mode
 app-emacs/nikola 20170703.2021: Simple wrapper for nikola
 app-emacs/nim-mode 20240220.1033: A major mode for the Nim programming language
 app-emacs/nimbus-theme 20250327.1319: Nimbus dark theme
-app-emacs/ninetyfive 20250819.2039: NinetyFive
+app-emacs/ninetyfive 20250829.1430: NinetyFive
 app-emacs/ninja-mode 20241103.1737: Major mode for editing .ninja files
 app-emacs/nix-buffer 20180212.1518: Set up buffer environments with nix
 app-emacs/nix-env-install 20200812.1305: Install packages using nix-env
@@ -4658,7 +4658,7 @@ app-emacs/read-aloud 20160923.500: A simple interface to TTS engines
 app-emacs/read-only-cfg 20210717.205: Make files read-only based on user config
 app-emacs/readable-numbers 20220711.911: Visually separate long integers
 app-emacs/readline-complete 20150708.1437: Offers completions in shell mode
-app-emacs/ready-player 20250826.451: Open media files in ready-player major mode
+app-emacs/ready-player 20250829.1430: Open media files in ready-player major mode
 app-emacs/real-auto-save 20200505.1537: Automatically save your buffers/files at regular intervals
 app-emacs/realgud 20250605.1143: A modular front-end for interacting with external debuggers
 app-emacs/realgud-byebug 20190520.1140: Realgud front-end to the Ruby byebug debugger
