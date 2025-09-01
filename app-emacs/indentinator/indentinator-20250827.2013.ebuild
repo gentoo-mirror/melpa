@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="ecb"
+REALNAME="indentinator"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A code browser for Emacs"
+DESCRIPTION="Automatically indent code"
 
-HOMEPAGE="https://github.com/Atomlogik/ecb"
+HOMEPAGE="https://github.com/xendk/indentinator.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
