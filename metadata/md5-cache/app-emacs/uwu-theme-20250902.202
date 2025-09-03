@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/posframe app-emacs/async
-DESCRIPTION=Show git blame info about current line
+DESCRIPTION=An awesome dark color scheme
 EAPI=8
-HOMEPAGE=https://github.com/artawower/blamer.el
+HOMEPAGE=https://github.com/kborling/uwu-theme
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/posframe app-emacs/async >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/blamer-20240918.2113.tar
+SRC_URI=https://melpa.org/packages/uwu-theme-20250902.202.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=3fb436441b092038209a66f1e5542f73
+_md5_=3ed0e687ad7c73fd8018f9baa702b667
