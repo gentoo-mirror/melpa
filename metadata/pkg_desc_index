@@ -804,7 +804,7 @@ app-emacs/consult-eglot 20250831.924: A consulting-read interface for eglot
 app-emacs/consult-eglot-embark 20250831.925: Embark integration for `consult-eglot'
 app-emacs/consult-flycheck 20250724.1511: Provides the command `consult-flycheck'
 app-emacs/consult-flyspell 20230322.204: Consult integration for flyspell
-app-emacs/consult-gh 20250902.609: Consulting GitHub Client
+app-emacs/consult-gh 20250905.1006: Consulting GitHub Client
 app-emacs/consult-gh-embark 20250902.609: Embark Actions for consult-gh
 app-emacs/consult-gh-forge 20250902.452: Magit/Forge Integration for consult-gh
 app-emacs/consult-gh-with-pr-review 20250902.452: "pr-review" Integration for consult-gh
@@ -968,7 +968,7 @@ app-emacs/darkokai-theme 20250317.1704: A darker variant on Monokai
 app-emacs/darktooth-theme 20231011.427: From the darkness... it watches
 app-emacs/dart-mode 20231002.1138: Major mode for editing Dart files
 app-emacs/dart-server 20210501.1445: Minor mode for editing Dart files
-app-emacs/daselt 20250829.2331: Module for the Daselt configuration scheme
+app-emacs/daselt 20250905.1047: Module for the Daselt configuration scheme
 app-emacs/dash 20250312.1307: A modern list library for Emacs
 app-emacs/dash-alfred 20191024.450: Search Dash documentation via Dash-Alfred-Workflow
 app-emacs/dash-at-point 20211023.104: Search the word at point with Dash
@@ -1283,7 +1283,7 @@ app-emacs/edit-indirect-region-latex 20161129.645: Edit LaTeX regions in separat
 app-emacs/edit-list 20100930.1443: Edit a single list
 app-emacs/edit-server 20250417.1401: Server that responds to edit requests from Chrome
 app-emacs/edit-server-htmlize 20130329.2248: (de)HTMLization hooks for edit-server.el
-app-emacs/editorconfig 20250809.139: EditorConfig Emacs Plugin
+app-emacs/editorconfig 20250905.724: EditorConfig Emacs Plugin
 app-emacs/editorconfig-charset-extras 20180223.457: Extra EditorConfig Charset Support
 app-emacs/editorconfig-custom-majormode 20180816.244: Decide major-mode and mmm-mode from EditorConfig
 app-emacs/editorconfig-domain-specific 20180505.924: Apply brace style and other "domain-specific" EditorConfig properties
@@ -3243,7 +3243,7 @@ app-emacs/lsp-julia 20230915.654: Julia support for lsp-mode
 app-emacs/lsp-latex 20250126.1416: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20250228.2215: LSP Clients for LTEX
 app-emacs/lsp-metals 20250228.2145: Scala Client settings
-app-emacs/lsp-mode 20250830.815: LSP mode
+app-emacs/lsp-mode 20250905.1105: LSP mode
 app-emacs/lsp-mssql 20250825.542: MSSQL LSP bindings
 app-emacs/lsp-origami 20250825.521: Origami.el support for lsp-mode
 app-emacs/lsp-pascal 20200422.1610: LSP client for Pascal
@@ -3334,7 +3334,7 @@ app-emacs/manage-minor-mode-table 20250101.1012: Manage minor-modes in table
 app-emacs/mandm-theme 20250726.1920: An M&M color theme
 app-emacs/mandoku 20180403.1106: A tool to access repositories of premodern Chinese texts
 app-emacs/mandoku-tls 20171118.240: A tool to access the TLS database
-app-emacs/mantra 20250902.1821: A system for scripting and parsing activity beyond macros
+app-emacs/mantra 20250905.722: A system for scripting and parsing activity beyond macros
 app-emacs/map-progress 20190128.16: Mapping macros that report progress
 app-emacs/map-regexp 20190128.18: Map over matches of a regular expression
 app-emacs/marcopolo 20160421.1004: Emacs client to the Docker HUB/Registry API
@@ -4530,7 +4530,7 @@ app-emacs/ptemplate 20210324.1446: Project templates
 app-emacs/ptemplate-templates 20210324.1443: Official templates
 app-emacs/ptree 20221106.1649: Property tree data structure
 app-emacs/pubmed 20221023.930: Interface to PubMed
-app-emacs/pubsub 20250616.2221: A basic publish/subscribe system
+app-emacs/pubsub 20250905.719: A basic publish/subscribe system
 app-emacs/pueue 20230219.1558: Interface for pueue
 app-emacs/pug-mode 20211114.1645: Major mode for jade/pug template files
 app-emacs/pulseaudio-control 20230316.1819: Use `pactl' to manage PulseAudio volumes
@@ -4718,7 +4718,7 @@ app-emacs/remind-bindings 20200820.1723: Reminders for your init bindings
 app-emacs/renpy 20250712.1708: Major mode for editing Ren'Py files
 app-emacs/repeat-fu 20250824.918: Minor mode to repeat typing or commands
 app-emacs/repeat-help 20230118.24: Display keybindings for repeat-mode
-app-emacs/repeat-ring 20250712.625: Structured and configurable repetition
+app-emacs/repeat-ring 20250905.723: Structured and configurable repetition
 app-emacs/repeatable-motion 20170620.1848: Make repeatable versions of motions
 app-emacs/repeater 20180418.1212: Repeat recent repeated commands
 app-emacs/repl-driven-development 20241110.1611: Send arbitrary code to a REPL in the background
@@ -5237,7 +5237,7 @@ app-emacs/sudo-utils 20210119.1930: Sudo utilities
 app-emacs/sudoku 20191015.1315: Simple sudoku game, can download puzzles
 app-emacs/suggest 20231003.404: Suggest elisp functions that give the output requested
 app-emacs/suggestion-box 20170830.807: Show tooltip on the cursor
-app-emacs/sumibi 20250809.1425: Japanese input method powered by ChatGPT API
+app-emacs/sumibi 20250905.1018: Japanese input method powered by ChatGPT API
 app-emacs/sunburn-theme 20201216.1539: A low contrast color theme
 app-emacs/sunny-day-theme 20140413.2125: Emacs24 theme with a light background
 app-emacs/sunshine 20200306.1711: Provide weather and forecast information
@@ -5331,7 +5331,7 @@ app-emacs/tco 20191129.2040: Tail-call optimisation for Emacs lisp
 app-emacs/tea-time 20120331.820: Simple timer package, useful to make perfect tea
 app-emacs/teacode-expand 20181231.640: Expansion of text by TeaCode program
 app-emacs/teco 20200707.2309: Teco interpreter
-app-emacs/telega 20250904.2135: Telegram client (unofficial)
+app-emacs/telega 20250905.1009: Telegram client (unofficial)
 app-emacs/telepathy 20131209.1258: Access Telepathy from Emacs
 app-emacs/telephone-line 20240109.2021: Rewrite of Powerline
 app-emacs/teleport 20250110.1250: Integration for tsh (goteleport.com)
@@ -5674,7 +5674,7 @@ app-emacs/vimrc-mode 20250128.635: Major mode for vimrc files
 app-emacs/vimscript-ts-mode 20241020.7: Vim-script major mode using tree-sitter
 app-emacs/virtual-auto-fill 20200906.2038: Readably display text without adding line breaks
 app-emacs/virtual-comment 20220921.221: Virtual Comments
-app-emacs/virtual-ring 20250522.1957: Fixed size rings with virtual rotation
+app-emacs/virtual-ring 20250905.721: Fixed size rings with virtual rotation
 app-emacs/virtualenv 20140220.2301: Virtualenv for Python
 app-emacs/virtualenvwrapper 20190223.1919: A featureful virtualenv tool for Emacs
 app-emacs/visible-mark 20150624.450: Make marks visible
