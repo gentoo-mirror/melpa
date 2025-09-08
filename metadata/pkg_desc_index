@@ -666,6 +666,7 @@ app-emacs/code-stats 20201209.2135: Code::Stats plugin
 app-emacs/codebug 20140929.2137: Interact with codebug
 app-emacs/codesearch 20240828.618: Core support for managing codesearch tools
 app-emacs/codespaces 20221018.1831: Connect to GitHub Codespaces via TRAMP
+app-emacs/codex-cli 20250905.856: Codex CLI integration
 app-emacs/codex-theme 20240914.204: Codex theme, a simple high contrast theme
 app-emacs/codic 20150926.1127: Search Codic (codic.jp) naming dictionaries
 app-emacs/coercion 20250123.1931: Naming convention style switch
@@ -931,6 +932,7 @@ app-emacs/current-word-highlight 20210323.1401: Highlight the current word minor
 app-emacs/curry-on-theme 20210322.1717: A low contrast color theme
 app-emacs/cursor-flash 20210722.445: Highlight the cursor on buffer/window-switch
 app-emacs/cursor-test 20131207.1732: Testing library for cursor position in emacs
+app-emacs/custom-keymap 20250906.1450: Configure user key sequence bindings from a custom variable
 app-emacs/cwl-mode 20210510.1150: A major mode for editing CWL
 app-emacs/cyanometric-theme 20220822.301: A Theme with overwhelming bias towards cyan
 app-emacs/cybercafe-theme 20231122.1444: Cybercafe color theme
@@ -1262,7 +1264,7 @@ app-emacs/ebib 20250805.1747: A BibTeX database manager
 app-emacs/ebib-sidecar 20250704.342: Sidecar to show formatted reference of current Ebib Entry
 app-emacs/ebnf-mode 20231022.1759: Major mode for EBNF files
 app-emacs/ebuku 20240921.839: Interface to the buku Web bookmark manager
-app-emacs/eca 20250905.2016: AI pair programming via ECA (Editor Code Assistant)
+app-emacs/eca 20250907.2250: AI pair programming via ECA (Editor Code Assistant)
 app-emacs/ecb 20250831.1917: A code browser for Emacs
 app-emacs/echo-bar 20240601.1744: Turn the echo area into a custom status bar
 app-emacs/eclipse-theme 20191113.1518: Theme based on Eclipse circa 2010
@@ -1463,7 +1465,7 @@ app-emacs/emoji-recall 20160723.2208: How many emoji can you recall from memory?
 app-emacs/emojify 20210108.1111: Display emojis in Emacs
 app-emacs/emojify-logos 20180814.917: Add logos to emojify
 app-emacs/empos 20151011.1916: Locate bibtex citations from within emacs
-app-emacs/empv 20250830.1705: A multimedia player/manager, YouTube interface
+app-emacs/empv 20250907.1847: A multimedia player/manager, YouTube interface
 app-emacs/emr 20220108.548: Emacs refactoring system
 app-emacs/enclose 20121008.1614: Enclose cursor within punctuation pairs
 app-emacs/encourage-mode 20151128.905: Encourages you in your work. :D
@@ -1485,6 +1487,7 @@ app-emacs/eping 20201027.2149: Ping websites to check internet connectivity
 app-emacs/epkg 20250901.1551: Browse the Emacsmirror package database
 app-emacs/epkg-marginalia 20250901.1606: Show Epkg information in completion annotations
 app-emacs/epl 20180205.2049: Emacs Package Library
+app-emacs/eplotly 20250829.701: Create Plotly charts
 app-emacs/epm 20190509.443: Emacs Package Manager
 app-emacs/epresent 20160411.201: Simple presentation mode for Emacs Org-mode
 app-emacs/eproject 20180312.1642: Assign files to projects, programatically
@@ -1664,7 +1667,7 @@ app-emacs/evil-textobj-column 20170905.1905: Provides column text objects
 app-emacs/evil-textobj-entire 20150422.1254: Text object for entire lines of buffer for evil
 app-emacs/evil-textobj-line 20211101.1429: Line text object for Evil
 app-emacs/evil-textobj-syntax 20231119.1633: Provides syntax text objects
-app-emacs/evil-textobj-tree-sitter 20250724.607: Provides evil textobjects using tree-sitter
+app-emacs/evil-textobj-tree-sitter 20250908.352: Provides evil textobjects using tree-sitter
 app-emacs/evil-traces 20230820.2255: Visual hints for `evil-ex'
 app-emacs/evil-tree-edit 20231206.1836: Evil structural editing for any language!
 app-emacs/evil-tutor 20150103.653: Vimtutor adapted to Evil and wrapped in a major-mode
@@ -1768,7 +1771,7 @@ app-emacs/find-temp-file 20240512.1635: Open quickly a temporary file
 app-emacs/find-things-fast 20150519.2226: Find things fast, leveraging the power of git
 app-emacs/findr 20130127.2032: Breadth-first file-finding facility for (X)Emacs
 app-emacs/fingers 20160817.829: Modal editing with universal text manipulation helpers
-app-emacs/finito 20250209.1956: View and collect books
+app-emacs/finito 20250907.1936: View and collect books
 app-emacs/fiplr 20140724.645: Fuzzy Search for Files in Projects
 app-emacs/fira-code-mode 20240228.1728: Minor mode for Fira Code ligatures using prettify-symbols
 app-emacs/firebase-rules-mode 20240520.1326: Editing support for firebase.rules
@@ -2280,7 +2283,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20250807.2036: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20250220.1735: Integrate with the OpenAI API
-app-emacs/gptel 20250903.525: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20250908.530: Interact with ChatGPT or other LLMs
 app-emacs/gptel-aibo 20250709.851: An AI Writing Assistant
 app-emacs/gptel-commit 20250726.1448: Generate commit message with gptel
 app-emacs/gptel-fn-complete 20250317.1805: Complete the function at point using gptel
@@ -2386,7 +2389,7 @@ app-emacs/heaven-and-hell 20190713.1830: Easy toggle light/dark themes
 app-emacs/heex-ts-mode 20250511.643: Major mode for Heex with tree-sitter support
 app-emacs/helix 20250731.1425: A minor mode emulating Helix keybindings
 app-emacs/helix-theme 20240814.1212: Color theme inspired by Helix editor's default colors
-app-emacs/helm 20250905.2027: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20250907.1835: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: Helm-sources and some utilities for GNU R
 app-emacs/helm-ad 20151209.1015: Helm source for Active Directory
 app-emacs/helm-apt 20231005.423: Helm interface for Debian/Ubuntu packages (apt-*)
@@ -2417,7 +2420,7 @@ app-emacs/helm-codesearch 20221219.1219: Helm interface for codesearch
 app-emacs/helm-comint 20231102.2029: Comint prompt navigation for helm
 app-emacs/helm-commandlinefu 20150611.545: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 20231113.701: Helm interface for company-mode
-app-emacs/helm-core 20250907.712: Development files for Helm
+app-emacs/helm-core 20250907.1221: Development files for Helm
 app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
@@ -2664,7 +2667,7 @@ app-emacs/hyperstitional-themes 20250611.1813: Weird themes with incremental pal
 app-emacs/hyprlang-ts-mode 20241225.914: Major mode for editing hyprland configuration files
 app-emacs/i-ching 20241113.1642: The Book of Changes
 app-emacs/i2b2-mode 20140710.104: Highlights corresponding PHI data in the text portion of an i2b2 XML Document
-app-emacs/i3bar 20250902.202: Display status from an i3status command in the tab bar
+app-emacs/i3bar 20250907.1716: Display status from an i3status command in the tab bar
 app-emacs/i3wm 20170822.1438: I3wm integration library
 app-emacs/i3wm-config-mode 20220913.1121: Better syntax highlighting for i3wm's config file
 app-emacs/ialign 20240925.654: Visual align-regexp
@@ -3153,6 +3156,7 @@ app-emacs/linguistic 20181129.2116: A package for basic linguistic analysis
 app-emacs/lingva 20250208.753: Access Google Translate without tracking via lingva.ml
 app-emacs/link 20191111.446: Hypertext links in text buffers
 app-emacs/link-hint 20241219.2051: Use avy to open, copy, etc. visible links
+app-emacs/linkin-org 20250907.1009: A workflow with fast, reliable links
 app-emacs/linkode 20240604.53: Generate a linkode snippet with region/buffer content
 app-emacs/linphone 20130524.1109: Emacs interface to Linphone
 app-emacs/linum-off 20160217.2137: Provides an interface for turning line-numbering off
@@ -3717,6 +3721,7 @@ app-emacs/number 20170901.1312: Working with numbers at point
 app-emacs/number-lock 20160830.200: Enter symbols on your number keys without pressing shift
 app-emacs/numbers 20170802.1134: Display information and trivia about numbers
 app-emacs/numbex 20230601.1618: Manage numbered examples
+app-emacs/numeri 20250907.2357: Roman Numeral Conversion Library
 app-emacs/numpydoc 20230811.1708: NumPy style docstring insertion
 app-emacs/nushell-mode 20231204.1233: Major mode for Nushell scripts
 app-emacs/nushell-ts-mode 20230911.152: Tree-sitter support for Nushell
@@ -5219,7 +5224,7 @@ app-emacs/string-inflection 20250831.53: Foo_bar => FOO_BAR => FooBar => fooBar 
 app-emacs/string-utils 20140508.2041: String-manipulation utilities
 app-emacs/stripe-buffer 20141208.1508: Use a different background for even and odd lines
 app-emacs/stripes 20230402.1228: Highlight alternating lines differently
-app-emacs/stripspace 20250822.1937: Auto remove trailing whitespace and restore column
+app-emacs/stripspace 20250907.1606: Auto remove trailing whitespace and restore column
 app-emacs/stumpwm-mode 20171027.214: Special lisp mode for evaluating code into running stumpwm
 app-emacs/stupid-indent-mode 20170525.1117: Plain stupid indentation minor mode
 app-emacs/stylefmt 20161025.824: Stylefmt interface
@@ -5310,7 +5315,7 @@ app-emacs/tabby-mode 20240107.2124: Minor mode for the Tabby AI coding assistant
 app-emacs/tabgo 20250103.1740: Jump to tabs, avy style
 app-emacs/tablist 20231019.1126: Extended tabulated-list-mode
 app-emacs/tabnine 20250102.1608: An unofficial TabNine package with TabNine Chat supported
-app-emacs/tabspaces 20250116.229: Leverage tab-bar and project for buffer-isolated workspaces
+app-emacs/tabspaces 20250907.1919: Leverage tab-bar and project for buffer-isolated workspaces
 app-emacs/tabula-rasa 20141216.547: Distraction free writing mode
 app-emacs/tagedit 20161121.855: Some paredit-like features for html-mode
 app-emacs/take-off 20140531.917: Emacs remote web access
@@ -5404,7 +5409,7 @@ app-emacs/time-block 20230511.1434: Block running commands using time
 app-emacs/time-ext 20170126.1215: More function for time/date
 app-emacs/time-uuid-mode 20240112.1005: Minor mode for previewing time uuids as an overlay
 app-emacs/timecop 20240105.2100: Freeze Time for testing
-app-emacs/timeout 20250901.1906: Throttle or debounce Elisp functions
+app-emacs/timeout 20250908.334: Throttle or debounce Elisp functions
 app-emacs/timer-revert 20150122.2032: Minor mode to revert buffer for a given time interval
 app-emacs/timesheet 20221004.1702: Timesheet management add-on for org-mode
 app-emacs/timonier 20170411.800: Manage Kubernetes Applications
@@ -5722,7 +5727,7 @@ app-emacs/wallpaper 20201019.2123: Setting the wallpaper
 app-emacs/wallpreview 20220703.1108: Set wallpapers with image-dired
 app-emacs/wand 20220519.1214: Magic wand for Emacs - Select and execute
 app-emacs/wandbox 20170603.1231: Wandbox client
-app-emacs/wanderlust 20250629.2048: Yet Another Message Interface on Emacsen
+app-emacs/wanderlust 20250907.2201: Yet Another Message Interface on Emacsen
 app-emacs/warm-night-theme 20161101.1428: Emacs 24 theme with a dark background
 app-emacs/wasp-mode 20230424.1307: A major mode for the Wasp programming language
 app-emacs/wat-ts-mode 20231006.223: Major modes for webassembly text formats using tree sitter
