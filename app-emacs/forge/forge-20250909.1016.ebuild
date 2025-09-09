@@ -19,8 +19,8 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/compat
-	app-emacs/cond-let
 	app-emacs/closql
+	app-emacs/cond-let
 	app-emacs/emacsql
 	app-emacs/ghub
 	app-emacs/llama
@@ -30,8 +30,8 @@ DEPEND="app-emacs/compat
 	app-emacs/transient
 	app-emacs/yaml"
 RDEPEND="app-emacs/compat
-	app-emacs/cond-let
 	app-emacs/closql
+	app-emacs/cond-let
 	app-emacs/emacsql
 	app-emacs/ghub
 	app-emacs/llama
