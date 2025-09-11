@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/compat app-emacs/seq
-DESCRIPTION=Transient commands
+DESCRIPTION=Catppuccin for Emacs - 🍄 Soothing pastel theme for Emacs
 EAPI=8
-HOMEPAGE=https://github.com/magit/transient
+HOMEPAGE=https://github.com/catppuccin/emacs
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/compat app-emacs/seq >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/transient-20250903.1516.tar
+SRC_URI=https://melpa.org/packages/catppuccin-theme-20250910.2247.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=0b034cbe3261a7bf321707254b55ce2c
+_md5_=933e747e2381ac1e8f545f4264107e86
