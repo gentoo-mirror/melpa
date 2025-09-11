@@ -320,7 +320,7 @@ app-emacs/beef-mode 20221227.203: A major mode for the Beef programming language
 app-emacs/beeminder 20201227.2024: Emacs interface for Beeminder
 app-emacs/beginend 20230902.1458: Redefine M-< and M-> for some modes
 app-emacs/belarus-holidays 20190102.1343: Belarus holidays whith transfers
-app-emacs/beluga-mode 20250909.501: Major mode for Beluga source code
+app-emacs/beluga-mode 20250910.2330: Major mode for Beluga source code
 app-emacs/benchmark-init 20250313.1200: Benchmarks for require and load calls
 app-emacs/benchstat 20171014.312: Proper benchmarking made simple
 app-emacs/bencode 20190317.2010: Bencode encoding / decoding
@@ -435,7 +435,7 @@ app-emacs/buffer-move 20220512.755: Easily swap buffers
 app-emacs/buffer-name-relative 20250910.325: Relative buffer names
 app-emacs/buffer-ring 20250829.120: Rings and tori for buffer navigation
 app-emacs/buffer-sets 20250226.2053: Sets of Buffers for Buffer Management
-app-emacs/buffer-terminator 20250822.1932: Safely Terminate/Kill Buffers Automatically
+app-emacs/buffer-terminator 20250910.1806: Safely Terminate/Kill Buffers Automatically
 app-emacs/buffer-utils 20140512.1400: Buffer-manipulation utility functions
 app-emacs/buffer-watcher 20170913.839: Easily run shell scripts per filetype/directory when a buffer is saved
 app-emacs/buffer-wrap 20250101.1003: Wrap the beginning and the end of buffer
@@ -702,7 +702,7 @@ app-emacs/commenter 20160219.1627: Multiline-comment support package
 app-emacs/commify 20230616.1042: Toggle grouping commas in numbers
 app-emacs/common-lisp-snippets 20180226.1523: Yasnippets for Common Lisp
 app-emacs/communinfo 20250726.2115: Community maintained Info-url-alist
-app-emacs/company 20250910.230: Modular text completion framework
+app-emacs/company 20250911.129: Modular text completion framework
 app-emacs/company-anaconda 20230821.2126: Anaconda backend for company-mode
 app-emacs/company-ansible 20240221.2255: A company back-end for ansible
 app-emacs/company-arduino 20160306.1739: Company-mode for Arduino
@@ -1257,14 +1257,14 @@ app-emacs/easy-jekyll 20250830.1006: Major mode managing jekyll blogs
 app-emacs/easy-kill 20220511.557: Kill & mark things easily
 app-emacs/easy-kill-extras 20240122.1649: Extra functions for easy-kill
 app-emacs/easy-repeat 20150516.848: Repeat easily
-app-emacs/easysession 20250905.2002: Persist and restore your sessions (desktop.el alternative)
+app-emacs/easysession 20250911.225: Persist and restore your sessions (desktop.el alternative)
 app-emacs/ebdb-mua-sidecar 20250704.342: EBDB Integration for Universal Sidecar
 app-emacs/ebf 20210225.1211: Brainfuck language transpiler to Emacs Lisp
 app-emacs/ebib 20250909.1036: A BibTeX database manager
 app-emacs/ebib-sidecar 20250704.342: Sidecar to show formatted reference of current Ebib Entry
 app-emacs/ebnf-mode 20231022.1759: Major mode for EBNF files
 app-emacs/ebuku 20240921.839: Interface to the buku Web bookmark manager
-app-emacs/eca 20250910.1622: AI pair programming via ECA (Editor Code Assistant)
+app-emacs/eca 20250911.57: AI pair programming via ECA (Editor Code Assistant)
 app-emacs/ecb 20250831.1917: A code browser for Emacs
 app-emacs/echo-bar 20240601.1744: Turn the echo area into a custom status bar
 app-emacs/eclipse-theme 20191113.1518: Theme based on Eclipse circa 2010
@@ -1374,7 +1374,7 @@ app-emacs/elforth 20210522.928: Do you have what it takes to hack Emacs Lisp in 
 app-emacs/elgrep 20230814.1215: Searching files for regular expressions
 app-emacs/elhome 20161025.2042: A framework for a "home" Emacs configuration
 app-emacs/elisa 20250202.2040: Emacs Lisp Information System Assistant
-app-emacs/elisp-autofmt 20250910.325: Emacs lisp auto-format
+app-emacs/elisp-autofmt 20250911.556: Emacs lisp auto-format
 app-emacs/elisp-def 20250818.2223: Macro-aware go-to-definition for elisp
 app-emacs/elisp-demos 20240128.810: Elisp API Demos
 app-emacs/elisp-depend 20190325.1114: Parse depend libraries of elisp file
@@ -1396,7 +1396,7 @@ app-emacs/elm-test-runner 20230905.331: Enhanced support for running elm-test
 app-emacs/elm-yasnippets 20160401.524: Yasnippets for Elm
 app-emacs/elmacro 20210716.639: Convert keyboard macros to emacs lisp
 app-emacs/elmine 20200520.1237: Redmine API access via elisp
-app-emacs/elmpd 20240902.1520: A tight, ergonomic, async client library for mpd
+app-emacs/elmpd 20250910.327: A tight, ergonomic, async client library for mpd
 app-emacs/elnode 20190702.1509: The Emacs webserver
 app-emacs/elog 20250413.100: Logging library extended from logito
 app-emacs/elogcat 20230121.459: Logcat interface
@@ -3155,7 +3155,7 @@ app-emacs/lingr 20100807.1731: Lingr Client for GNU Emacs
 app-emacs/linguistic 20181129.2116: A package for basic linguistic analysis
 app-emacs/lingva 20250208.753: Access Google Translate without tracking via lingva.ml
 app-emacs/link 20191111.446: Hypertext links in text buffers
-app-emacs/link-hint 20241219.2051: Use avy to open, copy, etc. visible links
+app-emacs/link-hint 20250911.57: Use avy to open, copy, etc. visible links
 app-emacs/linkin-org 20250907.1009: A workflow with fast, reliable links
 app-emacs/linkode 20240604.53: Generate a linkode snippet with region/buffer content
 app-emacs/linphone 20130524.1109: Emacs interface to Linphone
@@ -3456,7 +3456,7 @@ app-emacs/minizinc-ts-mode 20250831.753: Major mode for the MiniZinc constraint 
 app-emacs/minor-mode-hack 20170926.34: Change priority of minor-mode keymaps
 app-emacs/minsk-theme 20250706.1827: Minsk, a theme in deep muted greens
 app-emacs/mint-mode 20221031.411: Major mode for the Mint programming language
-app-emacs/minuet 20250819.2310: Code completion using LLM
+app-emacs/minuet 20250911.153: Code completion using LLM
 app-emacs/mip-mode 20151127.617: Virtual projects for emacs
 app-emacs/mips-mode 20220608.1204: Major-mode for MIPS assembly
 app-emacs/mise 20250910.1021: Support for `mise' cli
@@ -5153,7 +5153,7 @@ app-emacs/speechd-el 20250118.1141: Client to speech synthesizers and Braille di
 app-emacs/speed-type 20250806.2155: Practice touch and speed typing
 app-emacs/speedbar-git-respect 20200901.246: Particular respect git repo in speedbar
 app-emacs/speeddating 20180319.723: Increase date and time at point
-app-emacs/spell-fu 20250910.325: Fast & light spelling highlighter
+app-emacs/spell-fu 20250911.554: Fast & light spelling highlighter
 app-emacs/sphinx-doc 20210213.1250: Sphinx friendly docstrings for Python functions
 app-emacs/sphinx-frontend 20161025.758: Launch build process for rst documents via sphinx
 app-emacs/sphinx-mode 20250511.2023: Minor mode providing sphinx support
