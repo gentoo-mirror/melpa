@@ -583,7 +583,7 @@ app-emacs/cil-mode 20160622.1431: Common Intermediate Language mode
 app-emacs/cilk-mode 20220807.1629: Minor mode for Cilk code editing
 app-emacs/cinspect 20150716.233: Use cinspect to look at the CPython source of builtins and other C objects!
 app-emacs/circadian 20250222.1158: Theme-switching based on daytime
-app-emacs/circe 20250912.2015: Client for IRC in Emacs
+app-emacs/circe 20250914.1056: Client for IRC in Emacs
 app-emacs/circe-notifications 20180102.2318: Add desktop notifications to Circe
 app-emacs/circleci-api 20210227.1607: Bindings for the CircleCI API
 app-emacs/circom-mode 20250604.1022: Major mode for editing Circom circuit
@@ -1428,7 +1428,7 @@ app-emacs/emacs-ansilove 20230210.1338: Display buffers as PNG images using ansi
 app-emacs/emacs-bazel-mode 20230919.1445: Bazel support for Emacs
 app-emacs/emacs-crystal-mode 20250203.1157: Major mode for editing Crystal files
 app-emacs/emacs-el-fetch 20230624.2: Show system information in Neofetch-like style (eg CPU, RAM)
-app-emacs/emacs-everywhere 20250609.1444: System-wide popup windows for quick edits
+app-emacs/emacs-everywhere 20250914.932: System-wide popup windows for quick edits
 app-emacs/emacs-websearch 20230705.1639: Query search engines
 app-emacs/emacsc 20250710.1637: Helper for emacsc(1)
 app-emacs/emacsist-view 20160426.1223: Mode for viewing emacsist.com
@@ -3953,7 +3953,7 @@ app-emacs/org-hyperscheduler 20250716.1801: UI (web) representation of org-agend
 app-emacs/org-id-cleanup 20230922.1258: Interactively find, present and maybe delete unused IDs of org-id
 app-emacs/org-if 20150920.1513: Interactive Fiction Authoring System for Org-Mode
 app-emacs/org-incoming 20250522.752: Sort incoming PDFs into your org files
-app-emacs/org-index 20250324.1409: Ranked and incremental search among selected org-headlines
+app-emacs/org-index 20250914.850: Ranked and incremental search among selected org-headlines
 app-emacs/org-inline-anim 20230610.1504: Inline playback of animated GIF/PNG for Org
 app-emacs/org-inline-pdf 20230826.1220: Inline PDF previewing for Org
 app-emacs/org-inline-pdfcomment 20241014.237: Export Support for Inline Tasks as PDF Comments
@@ -4417,7 +4417,7 @@ app-emacs/polybar-sesman 20210901.1336: Display active sesman connections in pol
 app-emacs/polymode 20250617.1033: Extensible framework for multiple major modes
 app-emacs/pomidor 20240601.1617: Simple and cool pomodoro timer
 app-emacs/pomm 20250202.1202: Pomodoro and Third Time timers
-app-emacs/pomo-cat 20250913.1104: Pomodoro timer with cat-themed breaks
+app-emacs/pomo-cat 20250914.1145: Pomodoro timer with cat-themed breaks
 app-emacs/pomodoro 20210225.2018: A timer for the Pomodoro Technique
 app-emacs/pony-mode 20170807.1522: Minor mode for working with Django Projects
 app-emacs/pony-snippets 20200418.354: Yasnippets for Pony
@@ -4759,7 +4759,7 @@ app-emacs/review-mode 20241210.1258: Major mode for ReVIEW
 app-emacs/rewriting-pcase 20230419.23: Support for rewriting sexps in source code
 app-emacs/reykjavik-theme 20201219.947: Theme with a dark background
 app-emacs/rfc-mode 20231013.1353: RFC document browser and viewer
-app-emacs/rg 20250625.2009: A search tool based on ripgrep
+app-emacs/rg 20250914.716: A search tool based on ripgrep
 app-emacs/rg-themes 20250718.1826: The rg theme collection
 app-emacs/rgb 20220717.1940: RGB control via OpenRGB
 app-emacs/rhq 20230731.1544: Client for rhq
@@ -5266,7 +5266,7 @@ app-emacs/sweet-theme 20200708.1202: Sweet-looking theme
 app-emacs/sweetgreen 20180605.335: Order Salads from sweetgreen.com
 app-emacs/swift-helpful 20220707.846: Show documentation for Swift programs
 app-emacs/swift-mode 20250913.1247: Major-mode for Apple's Swift programming language
-app-emacs/swift-ts-mode 20250115.1906: Major mode for Swift based on tree-sitter
+app-emacs/swift-ts-mode 20250914.1030: Major mode for Swift based on tree-sitter
 app-emacs/swift3-mode 20160918.1250: Major-mode for Apple's Swift programming language
 app-emacs/swiper 20250329.1401: Isearch with an overview. Oh, man!
 app-emacs/swiper-helm 20180131.1744: Helm version of Swiper
@@ -5474,7 +5474,7 @@ app-emacs/tramp-term 20250628.823: Automatic setup of directory tracking in ssh 
 app-emacs/transducers 20250215.1046: Ergonomic, efficient data processing
 app-emacs/transfer-sh 20200601.1708: Simple interface for sending buffer contents to transfer.sh
 app-emacs/transform-symbol-at-point 20241202.1802: Transforming your symbols at point
-app-emacs/transient 20250913.1923: Transient commands
+app-emacs/transient 20250914.1143: Transient commands
 app-emacs/transient-dwim 20221225.1630: Useful preset transient commands
 app-emacs/transient-extras 20230721.839: Extra features for transient
 app-emacs/transient-extras-a2ps 20230303.1511: A transient interface to a2ps
@@ -5691,7 +5691,7 @@ app-emacs/vlc 20200328.1143: VideoLAN VLC Media Player Control
 app-emacs/vline 20210805.1528: Column highlighting (vertical line displaying) mode
 app-emacs/vmd-mode 20210524.27: Fast Github-flavored Markdown preview using a vmd subprocess
 app-emacs/voca-builder 20161101.1645: Helps you build up your vocabulary
-app-emacs/volatile-highlights 20250913.33: Minor mode for visual feedback on some operations
+app-emacs/volatile-highlights 20250914.1208: Transient visual feedback for edits
 app-emacs/volume 20220904.1727: Tweak your sound card volume from Emacs
 app-emacs/vs-dark-theme 20250725.1905: Visual Studio IDE dark theme
 app-emacs/vs-light-theme 20250725.1905: Visual Studio IDE light theme
