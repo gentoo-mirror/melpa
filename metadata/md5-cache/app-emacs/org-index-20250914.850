@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/compat app-emacs/seq
-DESCRIPTION=Transient commands
+DEPEND=app-emacs/org-mode app-emacs/dash app-emacs/s
+DESCRIPTION=Ranked and incremental search among selected org-headlines
 EAPI=8
-HOMEPAGE=https://github.com/magit/transient
+HOMEPAGE=https://github.com/marcIhm/org-index
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/compat app-emacs/seq >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/org-mode app-emacs/dash app-emacs/s >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/transient-20250913.1923.tar
+SRC_URI=https://melpa.org/packages/org-index-20250914.850.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=0b034cbe3261a7bf321707254b55ce2c
+_md5_=9cbca872b0a2fc59120261732a3fa1b2
