@@ -5,22 +5,20 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="buffer-ring"
+REALNAME="consult-gh-nerd-icons"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Rings and tori for buffer navigation"
+DESCRIPTION="Nerd icons integration for consult-gh"
 
-HOMEPAGE="https://github.com/countvajhula/buffer-ring"
+HOMEPAGE="https://github.com/armindarvish/consult-gh"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/dynaring
-	app-emacs/s
-	app-emacs/ht"
-RDEPEND="app-emacs/dynaring
-	app-emacs/s
-	app-emacs/ht"
+DEPEND="app-emacs/nerd-icons
+	app-emacs/consult-gh"
+RDEPEND="app-emacs/nerd-icons
+	app-emacs/consult-gh"
