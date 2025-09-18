@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Add▶ ╭╴UNICODE based diagrams╶╮ to→ ╭╴text files╶╮"
+DESCRIPTION="Add▶ ■─UNICODE based diagrams─■ to▶ ■─text files─■"
 
 HOMEPAGE="https://github.com/tbanel/uniline"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
