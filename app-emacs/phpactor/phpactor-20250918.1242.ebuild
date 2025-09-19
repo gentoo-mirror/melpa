@@ -18,11 +18,9 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/f
-	app-emacs/php-runtime
+DEPEND="app-emacs/php-runtime
 	app-emacs/composer
 	app-emacs/async"
-RDEPEND="app-emacs/f
-	app-emacs/php-runtime
+RDEPEND="app-emacs/php-runtime
 	app-emacs/composer
 	app-emacs/async"
