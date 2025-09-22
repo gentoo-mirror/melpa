@@ -1,0 +1,12 @@
+BDEPEND=>=app-editors/emacs-25.3:*
+DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
+DESCRIPTION=Major-mode for Apple's Swift programming language
+EAPI=8
+HOMEPAGE=https://github.com/swift-emacs/swift-mode
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=>=app-editors/emacs-25.3:*
+SLOT=0
+SRC_URI=https://melpa.org/packages/swift-mode-20250922.712.tar
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
+_md5_=7a0572c2605450c91b6a50e296cd2fc2
