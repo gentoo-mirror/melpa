@@ -1,12 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DESCRIPTION=Major mode for fbthrift and Apache Thrift files
+DESCRIPTION=Remember the last used theme between sessions
 EAPI=8
-HOMEPAGE=https://github.com/facebook/fbthrift
+HOMEPAGE=https://github.com/nullvec/remember-last-theme
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/thrift-20250914.1632.tar
+SRC_URI=https://melpa.org/packages/remember-last-theme-20250921.2104.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=34933a5ca118c36a554d7dfb7dbb7127
+_md5_=d50a49f0771a2a73bd1111c9b47ddef6

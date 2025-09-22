@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/magik-mode app-emacs/company app-emacs/yasnippet
-DESCRIPTION=Magik backend for company-mode
+DESCRIPTION=A light/dark minimalistic Emacs 24 theme
 EAPI=8
-HOMEPAGE=https://github.com/reinierkof/magik-company
+HOMEPAGE=http://github.com/nullvec/minimal-theme
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/magik-mode app-emacs/company app-emacs/yasnippet >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/magik-company-20250912.744.tar
+SRC_URI=https://melpa.org/packages/minimal-theme-20250921.2102.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=e86eb807f7a3749bff083956ed6b0873
+_md5_=4b20634f16a7925425fcb45648e584dd
