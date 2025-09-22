@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="minimal-theme"
+REALNAME="white-theme"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A light/dark minimalistic Emacs 24 theme"
+DESCRIPTION="Minimalistic light color theme inspired by basic-theme"
 
-HOMEPAGE="http://github.com/ikame/minimal-theme"
+HOMEPAGE="http://github.com/nullvec/white-theme.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

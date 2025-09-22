@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="centered-window"
+REALNAME="remember-last-theme"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Center the text when there's only one window"
+DESCRIPTION="Remember the last used theme between sessions"
 
-HOMEPAGE="https://github.com/anler/centered-window-mode"
+HOMEPAGE="https://github.com/nullvec/remember-last-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
