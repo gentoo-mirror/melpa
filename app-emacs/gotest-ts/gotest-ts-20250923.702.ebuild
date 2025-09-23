@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Gotest with treesitter"
+DESCRIPTION="Go test runner with tree-sitter support"
 
 HOMEPAGE="https://github.com/chmouel/gotest-ts.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
