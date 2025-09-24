@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="russian-calendar"
+REALNAME="pyim-cangjiedict"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Russian holidays and conferences. Updated 2025-01-03"
+DESCRIPTION="Some cangjie dicts for pyim"
 
-HOMEPAGE="https://github.com/Anoncheg1/emacs-russian-calendar"
+HOMEPAGE="https://github.com/cor5corpii/pyim-cangjiedict"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/pyim"
+RDEPEND="app-emacs/pyim"
