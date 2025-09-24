@@ -3,11 +3,11 @@ DEFINED_PHASES=compile configure info install postinst postrm prepare setup test
 DEPEND=app-emacs/pyim
 DESCRIPTION=Some cangjie dicts for pyim
 EAPI=8
-HOMEPAGE=https://github.com/p1uxtar/pyim-cangjiedict
+HOMEPAGE=https://github.com/cor5corpii/pyim-cangjiedict
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=app-emacs/pyim >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/pyim-cangjiedict-20210617.934.tar
+SRC_URI=https://melpa.org/packages/pyim-cangjiedict-20250924.1320.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=0b14a966376d0da5c7491389ff276d3a
+_md5_=3518b1292ece3ff3ae833aa22a080631
