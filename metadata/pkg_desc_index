@@ -796,7 +796,7 @@ app-emacs/conllu-mode 20200501.2328: Editing mode for CoNLL-U files
 app-emacs/connection 20191111.446: TCP-based client connection
 app-emacs/conner 20250726.1900: Define and run project specific commands
 app-emacs/constant-theme 20180921.1012: A calm, dark, almost monochrome color theme
-app-emacs/consult 20250920.1256: Consulting completing-read
+app-emacs/consult 20250925.1749: Consulting completing-read
 app-emacs/consult-ag 20230227.406: The silver searcher integration using Consult
 app-emacs/consult-codesearch 20230315.1424: Consult interface for codesearch
 app-emacs/consult-company 20230606.1824: Consult frontend for company
@@ -821,7 +821,7 @@ app-emacs/consult-lsp 20250121.707: LSP-mode Consult integration
 app-emacs/consult-notes 20241213.1718: Manage notes with consult
 app-emacs/consult-notmuch 20250815.1739: Notmuch search using consult
 app-emacs/consult-org-roam 20240217.1442: Consult integration for org-roam
-app-emacs/consult-project-extra 20250921.1440: Consult integration for project.el
+app-emacs/consult-project-extra 20250926.603: Consult integration for project.el
 app-emacs/consult-projectile 20230821.406: Consult integration for projectile
 app-emacs/consult-recoll 20250205.1712: Recoll queries using consult
 app-emacs/consult-spotify 20211114.2258: Spotify queries using consult
@@ -1270,7 +1270,7 @@ app-emacs/ebib 20250909.1036: A BibTeX database manager
 app-emacs/ebib-sidecar 20250704.342: Sidecar to show formatted reference of current Ebib Entry
 app-emacs/ebnf-mode 20231022.1759: Major mode for EBNF files
 app-emacs/ebuku 20240921.839: Interface to the buku Web bookmark manager
-app-emacs/eca 20250924.1821: AI pair programming via ECA (Editor Code Assistant)
+app-emacs/eca 20250925.1833: AI pair programming via ECA (Editor Code Assistant)
 app-emacs/ecb 20250831.1917: A code browser for Emacs
 app-emacs/echo-bar 20240601.1744: Turn the echo area into a custom status bar
 app-emacs/eclipse-theme 20191113.1518: Theme based on Eclipse circa 2010
@@ -1434,7 +1434,7 @@ app-emacs/emacs-ansilove 20230210.1338: Display buffers as PNG images using ansi
 app-emacs/emacs-bazel-mode 20230919.1445: Bazel support for Emacs
 app-emacs/emacs-crystal-mode 20250203.1157: Major mode for editing Crystal files
 app-emacs/emacs-el-fetch 20230624.2: Show system information in Neofetch-like style (eg CPU, RAM)
-app-emacs/emacs-everywhere 20250923.1641: System-wide popup windows for quick edits
+app-emacs/emacs-everywhere 20250925.1637: System-wide popup windows for quick edits
 app-emacs/emacs-websearch 20230705.1639: Query search engines
 app-emacs/emacsc 20250710.1637: Helper for emacsc(1)
 app-emacs/emacsist-view 20160426.1223: Mode for viewing emacsist.com
@@ -1622,7 +1622,7 @@ app-emacs/evil-extra-operator 20210225.1239: Evil operator for evaluating codes,
 app-emacs/evil-find-char-pinyin 20160514.2041: Evil's f/F/t/T/evil-snipe commands with Pinyin support
 app-emacs/evil-fringe-mark 20190320.453: Display evil-mode marks in the fringe
 app-emacs/evil-god-state 20141117.255: Use god-mode keybindings in evil-mode
-app-emacs/evil-god-toggle 20250924.109: Toggle Evil and God Mode
+app-emacs/evil-god-toggle 20250926.840: Toggle Evil and God Mode
 app-emacs/evil-goggles 20231021.738: Add a visual hint to evil operations
 app-emacs/evil-iedit-state 20220219.1432: Evil states to interface iedit mode
 app-emacs/evil-indent-plus 20230927.1513: Evil textobjects based on indentation
@@ -2289,7 +2289,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20250920.2043: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20250220.1735: Integrate with the OpenAI API
-app-emacs/gptel 20250918.2247: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20250926.742: Interact with ChatGPT or other LLMs
 app-emacs/gptel-aibo 20250709.851: An AI Writing Assistant
 app-emacs/gptel-commit 20250726.1448: Generate commit message with gptel
 app-emacs/gptel-fn-complete 20250317.1805: Complete the function at point using gptel
@@ -2308,7 +2308,7 @@ app-emacs/graphql 20221128.1106: GraphQL utilities
 app-emacs/graphql-doc 20240716.38: GraphQL Documentation Explorer
 app-emacs/graphql-mode 20240218.1603: Major mode for editing GraphQL schemas
 app-emacs/graphql-ts-mode 20240105.1236: Tree-sitter support for GraphQL
-app-emacs/graphviz-dot-mode 20250715.1358: Mode for the dot-language used by graphviz (att)
+app-emacs/graphviz-dot-mode 20250925.1226: Mode for the dot-language used by graphviz (att)
 app-emacs/grapnel 20131001.1534: HTTP request lib with flexible callback dispatch
 app-emacs/grass-mode 20170503.1500: Provides Emacs modes for interacting with the GRASS GIS program
 app-emacs/grayscale-theme 20171005.802: A simple grayscale theme
@@ -2395,7 +2395,7 @@ app-emacs/heaven-and-hell 20190713.1830: Easy toggle light/dark themes
 app-emacs/heex-ts-mode 20250511.643: Major mode for Heex with tree-sitter support
 app-emacs/helix 20250921.1802: A minor mode emulating Helix keybindings
 app-emacs/helix-theme 20240814.1212: Color theme inspired by Helix editor's default colors
-app-emacs/helm 20250923.601: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20250926.815: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: Helm-sources and some utilities for GNU R
 app-emacs/helm-ad 20151209.1015: Helm source for Active Directory
 app-emacs/helm-apt 20231005.423: Helm interface for Debian/Ubuntu packages (apt-*)
@@ -3057,7 +3057,7 @@ app-emacs/kosmos-theme 20170502.1850: Black and lightgray theme with not so much
 app-emacs/kotlin-mode 20230123.1859: Major mode for kotlin
 app-emacs/kotlin-ts-mode 20250617.843: A mode for editing Kotlin files based on tree-sitter
 app-emacs/kpm-list 20170924.1352: An emacs buffer list that tries to intelligently group together buffers
-app-emacs/kql-mode 20250126.2159: Major mode for highlighting KQL
+app-emacs/kql-mode 20250925.1437: Major mode for highlighting KQL
 app-emacs/kroman 20150827.2340: Korean hangul romanization
 app-emacs/ksp-cfg-mode 20190414.2348: Major mode for editing KSP CFG files
 app-emacs/ksp-mode 20221220.1136: Major mode for editing ksp files
@@ -3295,7 +3295,7 @@ app-emacs/magic-filetype 20240130.1805: Enhance filetype major mode
 app-emacs/magic-latex-buffer 20210306.422: Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing
 app-emacs/magik-company 20250922.1311: Magik backend for company-mode
 app-emacs/magik-mode 20250829.1659: Emacs major mode for Smallworld Magik files
-app-emacs/magit 20250923.2136: A Git porcelain inside Emacs
+app-emacs/magit 20250925.2129: A Git porcelain inside Emacs
 app-emacs/magit-annex 20240811.1850: Control git-annex from Magit
 app-emacs/magit-commit-mark 20250611.2320: Support marking commits as read
 app-emacs/magit-delta 20220125.50: Use Delta when displaying diffs in Magit
@@ -3397,7 +3397,7 @@ app-emacs/media-progress-dired 20230527.2209: Display position where media playe
 app-emacs/media-progress-dirvish 20250511.1045: Display position where media player stopped in dirvish
 app-emacs/media-thumbnail 20240816.458: Utility package to provide media icons
 app-emacs/mediawiki 20250914.2305: Mediawiki frontend
-app-emacs/meep 20250924.1410: Lightweight modal editing
+app-emacs/meep 20250926.302: Lightweight modal editing
 app-emacs/meghanada 20220101.505: A better java development mode
 app-emacs/melancholy-theme 20240417.136: A dark theme that's pretty sad -*- lexical-binding: t; -
 app-emacs/mellow-theme 20170808.1317: An Emacs 24 theme based on Mellow (tmTheme)
@@ -3633,7 +3633,7 @@ app-emacs/nemerle 20161029.2023: Major mode for editing nemerle programs
 app-emacs/neon-mode 20241220.1304: Simple major mode for editing neon files
 app-emacs/neotree 20250703.2202: A tree plugin like NerdTree for Vim
 app-emacs/nerd-icons 20250921.655: Emacs Nerd Font Icons Library
-app-emacs/nerd-icons-completion 20250920.442: Add icons to completion candidates
+app-emacs/nerd-icons-completion 20250925.1420: Add icons to completion candidates
 app-emacs/nerd-icons-corfu 20250729.1544: Icons for Corfu via nerd-icons
 app-emacs/nerd-icons-dired 20250827.1819: Shows icons for each file in dired mode
 app-emacs/nerd-icons-grep 20250625.1435: Add nerd-icons to grep-mode
@@ -3984,7 +3984,7 @@ app-emacs/org-linkotron 20200112.2235: Org-mode link selector
 app-emacs/org-listcruncher 20210706.1741: Planning tool - Parse Org mode lists into table
 app-emacs/org-mac-link 20231016.2047: Insert org-mode links to items selected in various Mac apps
 app-emacs/org-make-toc 20240830.2046: Automatic tables of contents for Org files
-app-emacs/org-mem 20250921.2256: Fast info from a large number of Org file contents
+app-emacs/org-mem 20250925.1621: Fast info from a large number of Org file contents
 app-emacs/org-mime 20250318.2155: Org html export for text/html MIME emails
 app-emacs/org-mind-map 20180826.2340: Creates a directed graph from org-mode files
 app-emacs/org-ml 20250514.2314: Functional Org Mode API
@@ -5851,7 +5851,7 @@ app-emacs/writegood-mode 20220511.2109: Polish up poor writing on the fly
 app-emacs/writeroom-mode 20250204.2335: Minor mode for distraction-free writing
 app-emacs/ws-butler 20250310.205: Unobtrusively remove trailing whitespace
 app-emacs/wsd-mode 20191031.1211: Emacs major-mode for www.websequencediagrams.com
-app-emacs/wttrin 20250924.1312: Emacs Frontend for Service wttr.in
+app-emacs/wttrin 20250925.1236: Emacs Frontend for Service wttr.in
 app-emacs/wucuo 20240929.610: Fastest solution to spell check camel case code or plain text
 app-emacs/wwg 20210614.1527: Writer word goals
 app-emacs/wwtime 20151122.1610: Insert a time of day with appropriate world-wide localization
