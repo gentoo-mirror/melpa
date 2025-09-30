@@ -5,22 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="phpstan"
+REALNAME="russian-calendar"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Interface to PHPStan"
+DESCRIPTION="Russian holidays and conferences. Updated 2025-09-30"
 
-HOMEPAGE="https://github.com/emacs-php/phpstan.el"
+HOMEPAGE="https://github.com/Anoncheg1/emacs-russian-calendar"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/compat
-	app-emacs/php-mode
-	app-emacs/php-runtime"
-RDEPEND="app-emacs/compat
-	app-emacs/php-mode
-	app-emacs/php-runtime"
+DEPEND=""
+RDEPEND=""
