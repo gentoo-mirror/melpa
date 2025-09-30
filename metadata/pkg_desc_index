@@ -132,7 +132,7 @@ app-emacs/angry-police-captain 20120829.1252: Show quote from http://theangrypol
 app-emacs/angular-mode 20151201.2127: Major mode for Angular.js
 app-emacs/angular-snippets 20140514.523: Yasnippets for AngularJS
 app-emacs/anki-connect 20250414.1301: AnkiConnect API
-app-emacs/anki-editor 20250912.1916: Minor mode for making Anki cards with Org
+app-emacs/anki-editor 20250930.1609: Minor mode for making Anki cards with Org
 app-emacs/anki-editor-view 20230807.806: Open anki-editor notes from Anki
 app-emacs/anki-mode 20201223.719: A major mode for creating anki cards
 app-emacs/anki-vocabulary 20200103.325: Help you to create vocabulary cards in Anki
@@ -650,7 +650,7 @@ app-emacs/clues-theme 20161213.1127: An Emacs 24 theme which may well be fully a
 app-emacs/cm-mode 20240422.725: Minor mode for CriticMarkup
 app-emacs/cmake-font-lock 20230304.2223: Advanced, type aware, highlight support for CMake
 app-emacs/cmake-ide 20210610.1525: Calls CMake to find out include paths and other compiler flags
-app-emacs/cmake-mode 20250827.1633: Major-mode for editing CMake sources
+app-emacs/cmake-mode 20250930.1448: Major-mode for editing CMake sources
 app-emacs/cmake-project 20171121.1115: Integrates CMake build process with Emacs
 app-emacs/cmd-to-echo 20161203.2133: Show the output of long-running commands in the echo area
 app-emacs/cmm-mode 20150225.746: Major mode for C-- source code
@@ -1061,7 +1061,7 @@ app-emacs/diffed 20240618.2037: Diffed is for recursive diff like Dired is for l
 app-emacs/difflib 20210224.2242: Helpers for computing deltas between sequences
 app-emacs/diffpdf 20210626.1447: Transient diffpdf
 app-emacs/diffscuss-mode 20141014.2357: Major mode for diffscuss files
-app-emacs/difftastic 20250801.1425: Wrapper for difftastic
+app-emacs/difftastic 20250930.718: Wrapper for difftastic
 app-emacs/diffview 20230224.1916: View diffs in side-by-side format
 app-emacs/digistar-mode 20250710.1554: Major mode for Digistar scripts
 app-emacs/digit-groups 20200506.37: Highlight place-value positions in numbers
@@ -1270,7 +1270,7 @@ app-emacs/ebib 20250909.1036: A BibTeX database manager
 app-emacs/ebib-sidecar 20250704.342: Sidecar to show formatted reference of current Ebib Entry
 app-emacs/ebnf-mode 20231022.1759: Major mode for EBNF files
 app-emacs/ebuku 20240921.839: Interface to the buku Web bookmark manager
-app-emacs/eca 20250930.213: AI pair programming via ECA (Editor Code Assistant)
+app-emacs/eca 20250930.1654: AI pair programming via ECA (Editor Code Assistant)
 app-emacs/ecb 20250831.1917: A code browser for Emacs
 app-emacs/echo-bar 20240601.1744: Turn the echo area into a custom status bar
 app-emacs/eclipse-theme 20191113.1518: Theme based on Eclipse circa 2010
@@ -1760,7 +1760,7 @@ app-emacs/ffmpeg-utils 20230305.709: FFmpeg command utilities wrappers
 app-emacs/fic-mode 20180603.2035: Show FIXME/TODO/BUG(...) in special face only in comments and strings
 app-emacs/fifo-class 20160425.558: First in first out abstract class
 app-emacs/figlet 20160218.2237: Annoy people with big, ascii art text
-app-emacs/file-info 20250929.939: Show pretty information about current file
+app-emacs/file-info 20250930.920: Show pretty information about current file
 app-emacs/filelock 20180524.2215: Functions for manipulating file locks
 app-emacs/filetags 20190706.804: Package to manage filetags in filename
 app-emacs/filetree 20241229.1923: File tree view/manipulatation package
@@ -1904,7 +1904,7 @@ app-emacs/flycheck-package 20210509.2325: A Flycheck checker for elisp package a
 app-emacs/flycheck-pact 20180920.2052: Flycheck support for pact-mode
 app-emacs/flycheck-pest 20200710.2327: Flycheck integration for Pest -
 app-emacs/flycheck-php-noverify 20211005.401: Flycheck checker for PHP Noverify linter
-app-emacs/flycheck-phpstan 20250522.350: Flycheck integration for PHPStan
+app-emacs/flycheck-phpstan 20250930.1139: Flycheck integration for PHPStan
 app-emacs/flycheck-pkg-config 20230119.1721: Configure flycheck using pkg-config
 app-emacs/flycheck-plantuml 20171018.111: Integrate plantuml with flycheck
 app-emacs/flycheck-pony 20210118.1327: Pony support in Flycheck
@@ -1983,7 +1983,7 @@ app-emacs/flymake-perlcritic 20250615.802: Flymake handler for Perl to invoke Pe
 app-emacs/flymake-pest 20200710.2327: A flymake handler for Pest files
 app-emacs/flymake-php 20170723.146: A flymake handler for php-mode files
 app-emacs/flymake-phpcs 20210213.732: Making flymake work with PHP CodeSniffer
-app-emacs/flymake-phpstan 20250522.350: Flymake backend for PHP using PHPStan
+app-emacs/flymake-phpstan 20250930.1139: Flymake backend for PHP using PHPStan
 app-emacs/flymake-puppet 20170801.554: Flymake handler using puppet-lint
 app-emacs/flymake-python-pyflakes 20170723.146: A flymake handler for python-mode files using pyflakes (or flake8)
 app-emacs/flymake-quickdef 20200308.2342: Quickly define a new Flymake backend
@@ -2379,7 +2379,7 @@ app-emacs/harvest 20170822.1746: Harvest integration
 app-emacs/haskell-emacs 20240205.2225: Write emacs extensions in haskell
 app-emacs/haskell-emacs-base 20160904.2026: Haskell functions from Prelude
 app-emacs/haskell-emacs-text 20160904.2026: Haskell functions from Data.Text
-app-emacs/haskell-mode 20250519.1154: A Haskell editing mode
+app-emacs/haskell-mode 20250930.1728: A Haskell editing mode
 app-emacs/haskell-snippets 20210228.344: Yasnippets for Haskell
 app-emacs/haskell-tab-indent 20200514.1424: Tab-based indentation for haskell-mode
 app-emacs/hass 20230529.1312: Interact with Home Assistant
@@ -2871,7 +2871,7 @@ app-emacs/ivy-yasnippet 20200704.700: Preview yasnippets with ivy
 app-emacs/ivy-ycmd 20180909.1225: Ivy interface to ycmd
 app-emacs/ivy-youtube 20230503.1509: Query YouTube and play videos in your browser
 app-emacs/ix 20131027.1657: Emacs client for http://ix.io pastebin
-app-emacs/j-mode 20240920.1706: Major mode for editing J programs
+app-emacs/j-mode 20250930.1335: Major mode for editing J programs
 app-emacs/jabber 20250310.305: A minimal Jabber client
 app-emacs/jack 20221122.632: HTML generator library
 app-emacs/jack-connect 20220201.1417: Manage jack connections within Emacs
@@ -2911,7 +2911,7 @@ app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default 
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
 app-emacs/jinx 20250920.956: Enchanted Spell Checker
-app-emacs/jira 20250922.1806: Emacs Interface to Jira
+app-emacs/jira 20250930.1720: Emacs Interface to Jira
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jirascope 20240122.2130: A Jira client
@@ -3393,7 +3393,7 @@ app-emacs/mbsync 20200128.1053: Run mbsync to fetch mails
 app-emacs/mc-calc 20200420.1836: Combine multiple-cursors and calc
 app-emacs/mc-extras 20231206.1655: Extra functions for multiple-cursors mode
 app-emacs/mcp 20250928.1200: Model Context Protocol
-app-emacs/mcp-server-lib 20250929.728: Model Context Protocol server library
+app-emacs/mcp-server-lib 20250930.1506: Model Context Protocol server library
 app-emacs/md-readme 20191112.1943: Markdown-formatted READMEs for your ELisp
 app-emacs/md4rd 20230725.2316: Mode for reddit (browse it)
 app-emacs/media-progress 20250511.1045: Display position where media player stopped
@@ -4347,8 +4347,8 @@ app-emacs/php-quickhelp 20210819.2025: Quickhelp at point for php
 app-emacs/php-refactor-mode 20171124.635: Minor mode to quickly and safely perform common refactorings
 app-emacs/php-runtime 20241024.1622: Language binding bridge to PHP
 app-emacs/php-scratch 20210706.459: A scratch buffer to interactively evaluate php code
-app-emacs/phpactor 20250918.1242: Interface to Phpactor
-app-emacs/phpstan 20250522.1315: Interface to PHPStan
+app-emacs/phpactor 20250930.1244: Interface to Phpactor
+app-emacs/phpstan 20250930.1139: Interface to PHPStan (PHP static analyzer)
 app-emacs/phpt-mode 20190512.1809: Major mode for editing PHPT test code
 app-emacs/phpunit 20230801.1523: Launch PHP unit tests using phpunit
 app-emacs/pianobar 20201002.1756: Thin wrapper for Pianobar, a Pandora Radio client
@@ -4655,7 +4655,7 @@ app-emacs/rainbow-delimiters 20210515.1254: Highlight brackets according to thei
 app-emacs/rainbow-fart 20230619.515: Checks the keywords of code to play suitable sounds
 app-emacs/rainbow-identifiers 20141102.1526: Highlight identifiers according to their names
 app-emacs/rake 20220211.827: Run rake commands
-app-emacs/raku-mode 20240429.1007: Major mode for editing Raku code
+app-emacs/raku-mode 20250930.1151: Major mode for editing Raku code
 app-emacs/rally-mode 20161114.354: A mode to interact with the Rally Software web site
 app-emacs/rand-theme 20151219.2335: Random Emacs theme at start-up!
 app-emacs/random-splash-image 20240501.1550: Randomly sets splash image to *GNU Emacs* buffer on startup
@@ -4842,7 +4842,7 @@ app-emacs/run-command-recipes 20240708.1555: Start pack of recipes to `run-comma
 app-emacs/run-stuff 20250923.2315: Context based command execution
 app-emacs/runner 20160524.1048: Improved "open with" suggestions for dired
 app-emacs/runtests 20150807.831: Run unit tests from Emacs
-app-emacs/russian-calendar 20250929.1752: Russian holidays and conferences. Updated 2025-09-24
+app-emacs/russian-calendar 20250930.1310: Russian holidays and conferences. Updated 2025-09-30
 app-emacs/russian-holidays 20170109.2140: Russian holidays for the calendar
 app-emacs/russian-techwriter 20241222.1903: Input methods for Russian technical writers
 app-emacs/rust-auto-use 20200608.1359: Utility to automatically insert Rust use statements
