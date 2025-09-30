@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/compat
-DESCRIPTION=Unroll chain of async callbacks, parallel and sequencial
+DESCRIPTION=Russian holidays and conferences. Updated 2025-09-24
 EAPI=8
-HOMEPAGE=https://github.com/Anoncheg1/emacs-async1
+HOMEPAGE=https://github.com/Anoncheg1/emacs-russian-calendar
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/compat >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/async1-20250912.931.tar
+SRC_URI=https://melpa.org/packages/russian-calendar-20250929.1752.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=b78632e6d26148fbfe419e19ba02ec20
+_md5_=83649a82dd75d611d3d63315212441e1
