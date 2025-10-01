@@ -1,12 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DESCRIPTION=Shell commands with DWIM behaviour
+DESCRIPTION=Automatic indentation with ocp-indent
 EAPI=8
-HOMEPAGE=https://github.com/xenodium/dwim-shell-command
+HOMEPAGE=http://www.typerex.org/ocp-indent.html
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/dwim-shell-command-20250903.1147.tar
+SRC_URI=https://melpa.org/packages/ocp-indent-20251001.1320.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=8e61569ae6c9d3ff8ebcef1c538f73e3
+_md5_=826fdf19b5f41269176ab6ab6847f902
