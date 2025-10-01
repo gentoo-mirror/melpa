@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Conviences for git-bug local-first issues"
+DESCRIPTION="Conveniences for local-first issues with git-bug"
 
 HOMEPAGE="http://www.github.com/WillForan/emacs-git-bug"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
