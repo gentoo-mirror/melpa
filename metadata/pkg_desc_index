@@ -1270,8 +1270,8 @@ app-emacs/ebib 20250909.1036: A BibTeX database manager
 app-emacs/ebib-sidecar 20250704.342: Sidecar to show formatted reference of current Ebib Entry
 app-emacs/ebnf-mode 20231022.1759: Major mode for EBNF files
 app-emacs/ebuku 20240921.839: Interface to the buku Web bookmark manager
-app-emacs/eca 20250930.1654: AI pair programming via ECA (Editor Code Assistant)
-app-emacs/ecb 20250831.1917: A code browser for Emacs
+app-emacs/eca 20251001.40: AI pair programming via ECA (Editor Code Assistant)
+app-emacs/ecb 20250930.1739: A code browser for Emacs
 app-emacs/echo-bar 20240601.1744: Turn the echo area into a custom status bar
 app-emacs/eclipse-theme 20191113.1518: Theme based on Eclipse circa 2010
 app-emacs/ecukes 20241226.1759: Cucumber for Emacs
@@ -2151,7 +2151,7 @@ app-emacs/git-auto-commit-mode 20200828.653: Emacs Minor mode to automatically c
 app-emacs/git-backup 20191209.2144: Backup each file change using git
 app-emacs/git-backup-ivy 20231030.2155: An ivy interface to git-backup
 app-emacs/git-blamed 20161028.1926: Minor mode for incremental blame for Git
-app-emacs/git-bug 20250927.2045: Conviences for git-bug local-first issues
+app-emacs/git-bug 20251001.25: Conveniences for local-first issues with git-bug
 app-emacs/git-cliff 20250216.2216: Generate and update changelog using git-cliff
 app-emacs/git-command 20191028.333: A Git Command-Line interface
 app-emacs/git-commit-insert-issue 20230512.1416: Get issues list when typing "Fixes #"
@@ -2911,7 +2911,7 @@ app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default 
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
 app-emacs/jinx 20250920.956: Enchanted Spell Checker
-app-emacs/jira 20250930.1720: Emacs Interface to Jira
+app-emacs/jira 20250930.1810: Emacs Interface to Jira
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jirascope 20240122.2130: A Jira client
@@ -3907,7 +3907,7 @@ app-emacs/org-babel-eval-in-repl 20201206.1540: Eval org-mode babel code blocks 
 app-emacs/org-beautify-theme 20250730.2044: A sub-theme to make org-mode more beautiful
 app-emacs/org-board 20230408.1041: Bookmarking and web archival system for Org mode
 app-emacs/org-bookmark-heading 20240906.521: Emacs bookmark support for Org mode
-app-emacs/org-bookmarks 20250813.918: Manage bookmarks in Org mode
+app-emacs/org-bookmarks 20250918.2242: Manage bookmarks in Org mode
 app-emacs/org-bookmarks-extractor 20220829.146: Extract bookmarks from Org mode
 app-emacs/org-books 20250630.1215: Reading list management with Org mode and helm
 app-emacs/org-brain 20230217.1908: Org-mode concept mapping
@@ -3929,7 +3929,7 @@ app-emacs/org-clock-reminder 20230222.1956: Notifications that remind you about 
 app-emacs/org-clock-split 20200331.526: Split clock entries
 app-emacs/org-clock-today 20220918.514: Show total clocked time of the current day in the mode line
 app-emacs/org-commentary 20160802.637: Generate or update conventional library headers using Org mode files
-app-emacs/org-contacts 20250820.1803: Contacts management system for Org mode
+app-emacs/org-contacts 20250905.335: Contacts management system for Org mode
 app-emacs/org-context 20220606.1339: Contextual capture and agenda commands for Org-mode
 app-emacs/org-cua-dwim 20120203.534: Org-mode and Cua mode compatibility layer
 app-emacs/org-custom-cookies 20240414.44: Custom cookies for org-mode
@@ -3983,7 +3983,7 @@ app-emacs/org-kanban 20250329.2201: Kanban dynamic block for org-mode
 app-emacs/org-kindle 20220210.1408: Send org link file to ebook reader
 app-emacs/org-latex-impatient 20221111.623: Preview org-latex Fragments Instantly via MathJax
 app-emacs/org-linenote 20241231.616: A package inspired by VSCode Linenote
-app-emacs/org-link-beautify 20250821.537: Beautify Org Links
+app-emacs/org-link-beautify 20250919.1411: Beautify Org Links
 app-emacs/org-link-travis 20140405.2327: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 20200112.2235: Org-mode link selector
 app-emacs/org-listcruncher 20210706.1741: Planning tool - Parse Org mode lists into table
@@ -4076,7 +4076,7 @@ app-emacs/org-table-color 20220311.1927: Add color to your org-mode table cells
 app-emacs/org-table-comment 20120209.1851: Org table comment modes
 app-emacs/org-table-highlight 20250727.544: Highlight Org table columns and rows
 app-emacs/org-table-sticky-header 20190924.506: Sticky header for org-mode tables
-app-emacs/org-tag-beautify 20250410.1242: Beautify Org mode tags
+app-emacs/org-tag-beautify 20250921.154: Beautify Org mode tags
 app-emacs/org-tagged 20220926.2048: Dynamic block for tagged org-mode todos
 app-emacs/org-tanglesync 20200127.1616: Syncing org src blocks with tangled external files
 app-emacs/org-tfl 20170923.1218: Transport for London meets Orgmode
@@ -4884,7 +4884,7 @@ app-emacs/scf-mode 20151122.248: Shorten file-names in compilation type buffers
 app-emacs/scheme-complete 20241205.111: Smart auto completion for Scheme in Emacs
 app-emacs/scholar-import 20230412.1413: Import Bibtex & PDF from Google Scholar
 app-emacs/schrute 20170521.1840: Help you remember there is a better way to do something
-app-emacs/scihub 20220913.618: Sci-Hub integration
+app-emacs/scihub 20250104.420: Sci-Hub integration
 app-emacs/sclang-extensions 20160509.338: Extensions for the SuperCollider Emacs mode
 app-emacs/sclang-snippets 20130513.751: Snippets for the SuperCollider Emacs mode
 app-emacs/scopeline 20250120.331: Show scope info of blocks in buffer at end of scope
@@ -5353,7 +5353,7 @@ app-emacs/tco 20191129.2040: Tail-call optimisation for Emacs lisp
 app-emacs/tea-time 20120331.820: Simple timer package, useful to make perfect tea
 app-emacs/teacode-expand 20181231.640: Expansion of text by TeaCode program
 app-emacs/teco 20200707.2309: Teco interpreter
-app-emacs/telega 20250927.913: Telegram client (unofficial)
+app-emacs/telega 20250930.2106: Telegram client (unofficial)
 app-emacs/telepathy 20131209.1258: Access Telepathy from Emacs
 app-emacs/telephone-line 20240109.2021: Rewrite of Powerline
 app-emacs/teleport 20250110.1250: Integration for tsh (goteleport.com)
