@@ -443,7 +443,7 @@ app-emacs/buffer-utils 20140512.1400: Buffer-manipulation utility functions
 app-emacs/buffer-watcher 20170913.839: Easily run shell scripts per filetype/directory when a buffer is saved
 app-emacs/buffer-wrap 20250101.1003: Wrap the beginning and the end of buffer
 app-emacs/bufferbin 20230706.110: Quick mouse access to buffers
-app-emacs/bufferfile 20250822.1931: Rename/Delete/Copy Files and Associated Buffers
+app-emacs/bufferfile 20251011.1158: Rename/Delete/Copy Files and Associated Buffers
 app-emacs/bufler 20250327.2246: Group buffers into workspaces with programmable rules
 app-emacs/bufshow 20130726.1838: A simple presentation tool for Emacs
 app-emacs/bug-reference-github 20200206.2158: Set `bug-reference-url-format' in Github repos
@@ -1185,7 +1185,7 @@ app-emacs/dokuwiki 20180102.59: Edit Remote DokuWiki Pages Using XML-RPC
 app-emacs/dokuwiki-mode 20170223.1301: Major mode for DokuWiki document
 app-emacs/dollaro 20151123.1302: Simple text templates
 app-emacs/doom 20180301.2308: DOM implementation and manipulation library
-app-emacs/doom-modeline 20250925.241: A minimal and modern mode-line
+app-emacs/doom-modeline 20251011.1051: A minimal and modern mode-line
 app-emacs/doom-modeline-now-playing 20250906.630: Segment for Doom Modeline to show media player information
 app-emacs/doom-themes 20250924.2042: An opinionated pack of modern color-themes
 app-emacs/dot-env 20230820.2014: Dotenv functionality
@@ -1475,7 +1475,7 @@ app-emacs/emoji-recall 20160723.2208: How many emoji can you recall from memory?
 app-emacs/emojify 20210108.1111: Display emojis in Emacs
 app-emacs/emojify-logos 20180814.917: Add logos to emojify
 app-emacs/empos 20151011.1916: Locate bibtex citations from within emacs
-app-emacs/empv 20250907.1847: A multimedia player/manager, YouTube interface
+app-emacs/empv 20251011.1314: A multimedia player/manager, YouTube interface
 app-emacs/emr 20220108.548: Emacs refactoring system
 app-emacs/enclose 20121008.1614: Enclose cursor within punctuation pairs
 app-emacs/encourage-mode 20151128.905: Encourages you in your work. :D
@@ -2915,7 +2915,7 @@ app-emacs/jetbrains-darcula-theme 20230223.1901: A complete port of the default 
 app-emacs/jg-quicknav 20170809.130: Quickly navigate the file system to find a file
 app-emacs/jinja2-mode 20220117.807: A major mode for jinja2
 app-emacs/jinx 20251007.1659: Enchanted Spell Checker
-app-emacs/jira 20251006.1744: Emacs Interface to Jira
+app-emacs/jira 20251011.925: Emacs Interface to Jira
 app-emacs/jira-markup-mode 20150601.2109: Emacs Major mode for JIRA-markup-formatted text files
 app-emacs/jiralib2 20200520.2031: JIRA REST API bindings to Elisp
 app-emacs/jirascope 20240122.2130: A Jira client
@@ -3050,7 +3050,7 @@ app-emacs/kite 20130201.1938: WebKit inspector front-end
 app-emacs/kite-mini 20160508.1106: Remotely evaluate JavaScript in the WebKit debugger
 app-emacs/kivy-mode 20250528.2123: Emacs major mode for editing Kivy files
 app-emacs/kiwix 20220316.847: Searching offline Wikipedia through Kiwix
-app-emacs/kixtart-mode 20250916.1957: Major mode for editing KiXtart scripts
+app-emacs/kixtart-mode 20251011.1421: Major mode for editing KiXtart scripts
 app-emacs/kkp 20250608.1431: Enable support for the Kitty Keyboard Protocol
 app-emacs/klere-theme 20250517.452: A dark theme with lambent color highlights and incremental grays
 app-emacs/klondike 20250301.2336: Klondike
@@ -3171,7 +3171,7 @@ app-emacs/linguistic 20181129.2116: A package for basic linguistic analysis
 app-emacs/lingva 20250208.753: Access Google Translate without tracking via lingva.ml
 app-emacs/link 20191111.446: Hypertext links in text buffers
 app-emacs/link-hint 20250911.57: Use avy to open, copy, etc. visible links
-app-emacs/linkin-org 20251004.1303: A workflow with fast, reliable links
+app-emacs/linkin-org 20251011.1259: A workflow with fast, reliable links
 app-emacs/linkode 20240604.53: Generate a linkode snippet with region/buffer content
 app-emacs/linphone 20130524.1109: Emacs interface to Linphone
 app-emacs/linum-off 20160217.2137: Provides an interface for turning line-numbering off
@@ -3405,7 +3405,7 @@ app-emacs/media-progress-dired 20230527.2209: Display position where media playe
 app-emacs/media-progress-dirvish 20250511.1045: Display position where media player stopped in dirvish
 app-emacs/media-thumbnail 20240816.458: Utility package to provide media icons
 app-emacs/mediawiki 20250914.2305: Mediawiki frontend
-app-emacs/meep 20251011.344: Lightweight modal editing
+app-emacs/meep 20251011.1031: Lightweight modal editing
 app-emacs/meghanada 20220101.505: A better java development mode
 app-emacs/melancholy-theme 20240417.136: A dark theme that's pretty sad -*- lexical-binding: t; -
 app-emacs/mellow-theme 20170808.1317: An Emacs 24 theme based on Mellow (tmTheme)
@@ -4124,7 +4124,7 @@ app-emacs/orgit 20250901.1810: Support for Org links to Magit buffers
 app-emacs/orgit-forge 20250901.1806: Org links to Forge issue buffers
 app-emacs/orglink 20250801.948: Use Org Mode links in other modes
 app-emacs/orglue 20200411.311: More functionality to org-mode
-app-emacs/orgmdb 20251009.711: An OMDb API client with some convenience functions
+app-emacs/orgmdb 20251011.1449: An OMDb API client with some convenience functions
 app-emacs/orgnav 20170608.1713: Org tree navigation using helm
 app-emacs/orgnote 20240814.2021: Sync org-roam notes with OrgNote app
 app-emacs/orgstrap 20250316.1815: Bootstrap an Org file using file local variables
@@ -5364,7 +5364,7 @@ app-emacs/telephone-line 20240109.2021: Rewrite of Powerline
 app-emacs/teleport 20251009.739: Integration for tsh (goteleport.com)
 app-emacs/teletext 20231215.1524: Teletext broadcast viewer
 app-emacs/teletext-yle 20231215.1609: Teletext provider for Finnish national network YLE
-app-emacs/tempel 20250920.848: Tempo templates/snippets with in-buffer field editing
+app-emacs/tempel 20251011.741: Tempo templates/snippets with in-buffer field editing
 app-emacs/tempel-collection 20250410.1607: Collection of templates for Tempel
 app-emacs/templ-ts-mode 20250223.2347: Major mode for editing Templ files
 app-emacs/template-dumper 20240630.2236: Create files from yasnippet templates
