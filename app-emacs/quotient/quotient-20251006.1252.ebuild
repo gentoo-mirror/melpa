@@ -5,20 +5,18 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="devdocs"
+REALNAME="quotient"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Emacs viewer for DevDocs"
+DESCRIPTION="A library for generating random quotes using a text corpus"
 
-HOMEPAGE="https://github.com/astoff/devdocs.el"
+HOMEPAGE="https://github.com/tvirolai/quotient"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/compat
-	app-emacs/mathjax"
-RDEPEND="app-emacs/compat
-	app-emacs/mathjax"
+DEPEND="app-emacs/compat"
+RDEPEND="app-emacs/compat"
