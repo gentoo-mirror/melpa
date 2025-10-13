@@ -587,7 +587,7 @@ app-emacs/cil-mode 20160622.1431: Common Intermediate Language mode
 app-emacs/cilk-mode 20220807.1629: Minor mode for Cilk code editing
 app-emacs/cinspect 20150716.233: Use cinspect to look at the CPython source of builtins and other C objects!
 app-emacs/circadian 20250222.1158: Theme-switching based on daytime
-app-emacs/circe 20250929.1724: Client for IRC in Emacs
+app-emacs/circe 20251013.1911: Client for IRC in Emacs
 app-emacs/circe-notifications 20180102.2318: Add desktop notifications to Circe
 app-emacs/circleci-api 20210227.1607: Bindings for the CircleCI API
 app-emacs/circom-mode 20250604.1022: Major mode for editing Circom circuit
@@ -1233,7 +1233,7 @@ app-emacs/duplicate-thing 20181031.1500: Duplicate current line & selection
 app-emacs/dut-mode 20170729.2111: Major mode for the Dut programming language
 app-emacs/dw 20210331.2311: Diceware passphrase generation commands
 app-emacs/dwim-coder-mode 20250622.409: DWIM keybindings for C, Python, Rust, and more
-app-emacs/dwim-shell-command 20251010.1711: Shell commands with DWIM behaviour
+app-emacs/dwim-shell-command 20251013.1518: Shell commands with DWIM behaviour
 app-emacs/dyalog-mode 20230214.1027: Major mode for editing Dyalog APL source code
 app-emacs/dylan 20250319.1925: Dylan editing modes
 app-emacs/dynamic-fonts 20140731.1226: Set faces based on available fonts
@@ -1272,8 +1272,8 @@ app-emacs/ebib 20250909.1036: A BibTeX database manager
 app-emacs/ebib-sidecar 20250704.342: Sidecar to show formatted reference of current Ebib Entry
 app-emacs/ebnf-mode 20231022.1759: Major mode for EBNF files
 app-emacs/ebuku 20240921.839: Interface to the buku Web bookmark manager
-app-emacs/eca 20251012.1620: AI pair programming via ECA (Editor Code Assistant)
-app-emacs/ecb 20250930.1739: A code browser for Emacs
+app-emacs/eca 20251013.1804: AI pair programming via ECA (Editor Code Assistant)
+app-emacs/ecb 20251013.1840: A code browser for Emacs
 app-emacs/echo-bar 20240601.1744: Turn the echo area into a custom status bar
 app-emacs/eclipse-theme 20191113.1518: Theme based on Eclipse circa 2010
 app-emacs/ecukes 20241226.1759: Cucumber for Emacs
@@ -3651,7 +3651,7 @@ app-emacs/nerd-icons-ivy-rich 20250307.1005: Excellent experience with nerd icon
 app-emacs/nerd-icons-xref 20250625.1113: Add nerd-icons to xref buffers
 app-emacs/nerdtab 20180811.339: Keyboard-oriented tabs
 app-emacs/netease-music 20210411.603: Listen netease music
-app-emacs/nethack 20251013.230: Run Nethack as a subprocess
+app-emacs/nethack 20251013.1314: Run Nethack as a subprocess
 app-emacs/netherlands-holidays 20150202.1617: Netherlands holidays for Emacs calendar
 app-emacs/netrunner 20160910.2332: Create Android: Netrunner decklists using Company, Helm and org-mode
 app-emacs/network-watch 20171123.1146: Support for intermittent network connectivity
@@ -3990,7 +3990,7 @@ app-emacs/org-kanban 20250329.2201: Kanban dynamic block for org-mode
 app-emacs/org-kindle 20220210.1408: Send org link file to ebook reader
 app-emacs/org-latex-impatient 20221111.623: Preview org-latex Fragments Instantly via MathJax
 app-emacs/org-linenote 20241231.616: A package inspired by VSCode Linenote
-app-emacs/org-link-beautify 20251010.936: Beautify Org Links
+app-emacs/org-link-beautify 20251013.1116: Beautify Org Links
 app-emacs/org-link-travis 20140405.2327: Insert/Export the link of Travis CI on org-mode
 app-emacs/org-linkotron 20200112.2235: Org-mode link selector
 app-emacs/org-links 20251007.1800: Better manage line numbers in your org-mode links
@@ -4045,7 +4045,7 @@ app-emacs/org-re-reveal-ref 20211029.551: Citations and bibliography for org-re-
 app-emacs/org-recent-headings 20211011.1519: Jump to recently used Org headings
 app-emacs/org-recur 20230124.1532: Recurring org-mode tasks
 app-emacs/org-redmine 20160711.1114: Redmine tools using Emacs OrgMode
-app-emacs/org-ref 20251012.1854: Citations, cross-references and bibliographies in org-mode
+app-emacs/org-ref 20251013.1526: Citations, cross-references and bibliographies in org-mode
 app-emacs/org-ref-prettify 20220507.649: Prettify org-ref citation links
 app-emacs/org-repeat-by-cron 20250922.610: An Org mode task repeater based on Cron expressions
 app-emacs/org-repo-todo 20171228.119: Simple repository todo management with org-mode
@@ -4653,7 +4653,7 @@ app-emacs/quotient 20251006.1252: A library for generating random quotes using a
 app-emacs/qwen-chat-shell 20240612.343: Qwen-chat shell + buffer insert commands
 app-emacs/r-autoyas 20140101.1510: Provides automatically created yasnippets for R function argument lists
 app-emacs/racer 20210307.243: Code completion, goto-definition and docs browsing for Rust via racer
-app-emacs/racket-mode 20250830.1625: Racket editing, REPL, and more
+app-emacs/racket-mode 20251013.1316: Racket editing, REPL, and more
 app-emacs/rails-i18n 20220126.1643: Seach and insert i18n on ruby code
 app-emacs/rails-log-mode 20140408.425: Major mode for viewing Rails log files
 app-emacs/rails-routes 20220126.1631: Search for and insert rails routes
@@ -5423,7 +5423,7 @@ app-emacs/thinks 20170802.1128: Insert text in a think bubble
 app-emacs/third-time 20240207.1621: Third Time: A Better Way to Work
 app-emacs/thread-dump 20170816.1850: Java thread dump viewer
 app-emacs/threes 20160820.1242: A clone of Threes (a tiny puzzle game)
-app-emacs/thrift 20251006.1136: Major mode for fbthrift and Apache Thrift files
+app-emacs/thrift 20251013.621: Major mode for fbthrift and Apache Thrift files
 app-emacs/thumb-through 20120119.534: Plain text reader of HTML documents
 app-emacs/tickscript-mode 20171219.203: A major mode for Tickscript files
 app-emacs/ticktick 20250827.2049: Sync Org Mode tasks with TickTick
