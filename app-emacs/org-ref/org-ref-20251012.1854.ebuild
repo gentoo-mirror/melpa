@@ -19,11 +19,8 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/org-mode
-	app-emacs/dash
-	app-emacs/s
-	app-emacs/f
 	app-emacs/htmlize
-	app-emacs/hydra
+	app-emacs/transient
 	app-emacs/avy
 	app-emacs/parsebib
 	app-emacs/bibtex-completion
@@ -31,11 +28,8 @@ DEPEND="app-emacs/org-mode
 	app-emacs/ox-pandoc
 	app-emacs/request"
 RDEPEND="app-emacs/org-mode
-	app-emacs/dash
-	app-emacs/s
-	app-emacs/f
 	app-emacs/htmlize
-	app-emacs/hydra
+	app-emacs/transient
 	app-emacs/avy
 	app-emacs/parsebib
 	app-emacs/bibtex-completion

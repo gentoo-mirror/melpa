@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="plain-theme"
+REALNAME="better-defaults"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Plain theme without syntax highlighting"
+DESCRIPTION="Fixing weird quirks and poor defaults"
 
-HOMEPAGE="https://github.com/lukateras/plain-theme"
+HOMEPAGE="https://git.sr.ht/~technomancy/better-defaults"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
