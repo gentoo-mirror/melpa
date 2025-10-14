@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://melpa.org/packages/"
 SOURCE_TYPE="tar"
-REALNAME="killer"
+REALNAME="cacao-theme"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Kill and delete text"
+DESCRIPTION="Theme basd on a color-inverted image"
 
-HOMEPAGE="http://github.com/tarsius/killer"
+HOMEPAGE="https://github.com/Michael-Garibaldi/cacao-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
