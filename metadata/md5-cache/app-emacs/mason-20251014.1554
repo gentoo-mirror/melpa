@@ -1,12 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DESCRIPTION=A code browser for Emacs
+DEPEND=app-emacs/s
+DESCRIPTION=Package managers for LSP, DAP, linters, and more
 EAPI=8
-HOMEPAGE=https://github.com/ecb-org/ecb
+HOMEPAGE=https://github.com/deirn/mason.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=>=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/s >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/ecb-20251013.1840.tar
+SRC_URI=https://melpa.org/packages/mason-20251014.1554.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=5149213b752c1f63b1de68fe3a46f040
+_md5_=8f8d71fef285d79c3e2900502e56a5fd
