@@ -1,12 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DESCRIPTION=Based on a image reversal
+DESCRIPTION=GNU Hyperbole: The Everyday Hypertextual Information Manager
 EAPI=8
-HOMEPAGE=https://github.com/Michael-Garibaldi/cacao-theme
+HOMEPAGE=http://www.gnu.org/software/hyperbole
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/cacao-theme-20250928.1909.tar
+SRC_URI=https://melpa.org/packages/hyperbole-20251014.804.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=21339c7d7f72c3d3c6bb9ea9f307fe85
+_md5_=2541f89c50b7cb6f01c7a747083359bd
