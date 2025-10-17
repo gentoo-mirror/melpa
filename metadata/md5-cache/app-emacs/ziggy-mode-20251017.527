@@ -3,11 +3,11 @@ DEFINED_PHASES=compile configure info install postinst postrm prepare setup test
 DEPEND=app-emacs/reformatter
 DESCRIPTION=Major mode for Ziggy, a data serialization language
 EAPI=8
-HOMEPAGE=https://github.com/robbielyman/ziggy-mode
+HOMEPAGE=https://github.com/dcolazin/ziggy-mode
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=app-emacs/reformatter >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/ziggy-mode-20250930.4.tar
+SRC_URI=https://melpa.org/packages/ziggy-mode-20251017.527.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=3e129a20c0a6d2b8fc7e1ec836c06b30
+_md5_=5a925dc4c34c1ae936d2d881391fd5e4
