@@ -396,7 +396,7 @@ app-emacs/bongo 20201002.1020: Play music with Emacs
 app-emacs/bonjourmadame 20170919.1134: Say "Hello ma'am!"
 app-emacs/boogie-friends 20250310.1610: A collection of programming modes for Boogie, Dafny, and Z3 (SMTLIB v2)
 app-emacs/bookmark-frecency 20250220.1407: Sort bookmarks by frecency
-app-emacs/bookmark-in-project 20250921.813: Bookmark access within a project
+app-emacs/bookmark-in-project 20251016.2129: Bookmark access within a project
 app-emacs/bookmarks-menu 20250508.2114: Add a Bookmarks menu to the menu bar
 app-emacs/bool-flip 20161215.1539: Flip the boolean under the point
 app-emacs/boon 20250527.1749: Ergonomic Command Mode for Emacs
@@ -435,7 +435,7 @@ app-emacs/buffer-env 20250516.1223: Buffer-local process environments
 app-emacs/buffer-flip 20220718.10: Cycle through buffers like Alt-Tab in Windows
 app-emacs/buffer-manage 20241019.1748: Manage buffers
 app-emacs/buffer-move 20220512.755: Easily swap buffers
-app-emacs/buffer-name-relative 20250913.2251: Relative buffer names
+app-emacs/buffer-name-relative 20251016.2312: Relative buffer names
 app-emacs/buffer-ring 20251004.347: Rings and tori for buffer navigation
 app-emacs/buffer-sets 20250226.2053: Sets of Buffers for Buffer Management
 app-emacs/buffer-terminator 20250911.2238: Safely Terminate/Kill Buffers Automatically
@@ -578,7 +578,7 @@ app-emacs/chronos 20240525.1339: Multiple simultaneous countdown / countup timer
 app-emacs/chruby 20180114.1652: Emacs integration for chruby
 app-emacs/chyla-dark-theme 20240824.1615: Chyla.org - dark green color theme
 app-emacs/chyla-theme 20240708.2017: Chyla.org - green color theme
-app-emacs/cider 20250902.1530: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 20251016.1722: Clojure Interactive Development Environment that Rocks
 app-emacs/cider-decompile 20151122.537: Decompilation extension for cider
 app-emacs/cider-eval-sexp-fu 20190311.2152: Briefly highlights an evaluated sexp
 app-emacs/cider-hydra 20190816.1121: Hydras for CIDER
@@ -1323,7 +1323,7 @@ app-emacs/ein 20250307.1731: Jupyter notebook client
 app-emacs/eink-theme 20190219.858: E Ink color theme
 app-emacs/ejc-sql 20241111.117: Emacs SQL client uses Clojure JDBC
 app-emacs/ejson-mode 20190720.2138: Major mode for editing ejson files
-app-emacs/ekg 20251013.39: A system for recording and linking information
+app-emacs/ekg 20251017.248: A system for recording and linking information
 app-emacs/el-autoyas 20120918.1317: Automatically create Emacs-Lisp Yasnippets
 app-emacs/el-fly-indent-mode 20180422.243: Indent Emacs Lisp on the fly
 app-emacs/el-get 20240408.837: Manage the external elisp bits and pieces you depend upon
@@ -2294,7 +2294,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20250929.1735: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20250220.1735: Integrate with the OpenAI API
-app-emacs/gptel 20251016.629: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20251017.23: Interact with ChatGPT or other LLMs
 app-emacs/gptel-aibo 20250709.851: An AI Writing Assistant
 app-emacs/gptel-commit 20250726.1448: Generate commit message with gptel
 app-emacs/gptel-fn-complete 20250317.1805: Complete the function at point using gptel
@@ -2401,7 +2401,7 @@ app-emacs/heaven-and-hell 20190713.1830: Easy toggle light/dark themes
 app-emacs/heex-ts-mode 20250511.643: Major mode for Heex with tree-sitter support
 app-emacs/helix 20251011.1609: A minor mode emulating Helix keybindings
 app-emacs/helix-theme 20240814.1212: Color theme inspired by Helix editor's default colors
-app-emacs/helm 20251015.504: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 20251016.1504: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-R 20120820.14: Helm-sources and some utilities for GNU R
 app-emacs/helm-ad 20151209.1015: Helm source for Active Directory
 app-emacs/helm-apt 20231005.423: Helm interface for Debian/Ubuntu packages (apt-*)
@@ -2432,7 +2432,7 @@ app-emacs/helm-codesearch 20221219.1219: Helm interface for codesearch
 app-emacs/helm-comint 20231102.2029: Comint prompt navigation for helm
 app-emacs/helm-commandlinefu 20150611.545: Search and browse commandlinefu.com from helm
 app-emacs/helm-company 20231113.701: Helm interface for company-mode
-app-emacs/helm-core 20251015.1927: Development files for Helm
+app-emacs/helm-core 20251017.347: Development files for Helm
 app-emacs/helm-cscope 20190615.41: Helm interface for xcscope.el
 app-emacs/helm-css-scss 20230522.1113: CSS/SCSS/LESS Selectors with helm interface
 app-emacs/helm-ctest 20220721.400: Run ctest from within emacs
@@ -2724,7 +2724,7 @@ app-emacs/ido-yes-or-no 20161108.2351: Use Ido to answer yes-or-no questions
 app-emacs/idomenu 20141123.2120: Imenu tag selection a la ido
 app-emacs/idris-mode 20251006.819: Major mode for editing Idris code
 app-emacs/ids-edit 20170818.1502: IDS (Ideographic Description Sequence) editing tool
-app-emacs/iedit 20251013.1148: Edit multiple regions in the same way simultaneously
+app-emacs/iedit 20251017.410: Edit multiple regions in the same way simultaneously
 app-emacs/ietf-docs 20190420.851: Fetch, Cache and Load IETF documents
 app-emacs/iflipb 20220612.858: Interactively flip between recently visited buffers
 app-emacs/igist 20250313.1020: List, create, update and delete GitHub gists
@@ -3260,7 +3260,7 @@ app-emacs/lsp-julia 20230915.654: Julia support for lsp-mode
 app-emacs/lsp-latex 20250126.1416: LSP-mode client for LaTeX, on texlab
 app-emacs/lsp-ltex 20250228.2215: LSP Clients for LTEX
 app-emacs/lsp-metals 20250228.2145: Scala Client settings
-app-emacs/lsp-mode 20251002.2344: LSP mode
+app-emacs/lsp-mode 20251017.611: LSP mode
 app-emacs/lsp-mssql 20250825.542: MSSQL LSP bindings
 app-emacs/lsp-origami 20250825.521: Origami.el support for lsp-mode
 app-emacs/lsp-pascal 20200422.1610: LSP client for Pascal
@@ -3382,7 +3382,7 @@ app-emacs/math-preview 20240801.513: Preview TeX math equations inline
 app-emacs/math-symbol-lists 20220828.2047: Lists of Unicode math symbols and latex commands
 app-emacs/math-symbols 20201005.2313: Math Symbol Input methods and conversion tools
 app-emacs/math-tex-convert 20221210.1937: Convert LaTeX macros to unicode and back
-app-emacs/matlab-mode 20251001.1413: Major mode for MATLAB(R) dot-m files
+app-emacs/matlab-mode 20251016.2044: Major mode for MATLAB(R) dot-m files
 app-emacs/maude-mode 20230504.937: Emacs mode for the programming language Maude
 app-emacs/maven-test-mode 20141220.557: Utilities for navigating test files and running maven test tasks
 app-emacs/maxframe 20170120.1705: Maximize the emacs frame based on display size
@@ -3510,7 +3510,7 @@ app-emacs/mongo 20150315.1219: MongoDB driver for Emacs Lisp
 app-emacs/monitor 20161018.1144: Utilities for monitoring expressions
 app-emacs/monkeytype 20210110.513: Mode for speed typing
 app-emacs/monky 20230222.2153: Control Hg from Emacs
-app-emacs/mono-complete 20250913.2251: Completion suggestions with multiple back-ends
+app-emacs/mono-complete 20251016.2317: Completion suggestions with multiple back-ends
 app-emacs/monochrome-theme 20140326.1050: A dark Emacs 24 theme for your focused hacking sessions
 app-emacs/monokai-alt-theme 20170630.2048: Theme with a dark background. Based on sublime monokai theme
 app-emacs/monokai-pro-theme 20250116.1621: A simple theme based on the Monokai Pro Sublime color schemes
@@ -4067,7 +4067,7 @@ app-emacs/org-sliced-images 20250408.2114: Sliced inline images in org-mode
 app-emacs/org-snooze 20181229.1424: Snooze your code, doc and feed
 app-emacs/org-special-block-extras 20250715.1754: 30 new custom blocks & 34 link types for Org-mode
 app-emacs/org-sql 20240819.2145: Org-Mode SQL converter
-app-emacs/org-srs 20250921.1133: A flexible spaced repetition system for Org-mode
+app-emacs/org-srs 20251016.1641: A flexible spaced repetition system for Org-mode
 app-emacs/org-starter 20220326.1106: A basic configuration framework for org mode
 app-emacs/org-starter-swiper 20220326.1106: Swiper for org-starter
 app-emacs/org-static-blog 20250320.1842: A simple org-mode based static blog generator
@@ -4467,7 +4467,7 @@ app-emacs/powerthesaurus 20230426.1719: Powerthesaurus integration
 app-emacs/ppcompile 20220619.1535: Ping-pong compile projects on remote machines
 app-emacs/ppd-sr-speedbar 20151108.1224: Sr Speedbar adaptor for project-persist-drawer
 app-emacs/ppp 20220211.1529: Extended pretty printer for Emacs Lisp
-app-emacs/pr-review 20250518.311: Review github PR
+app-emacs/pr-review 20251016.1540: Review github PR
 app-emacs/prassee-theme 20180709.1004: A high contrast color theme for Emacs
 app-emacs/prefab 20240720.1858: Integration for project generation tools like cookiecutter
 app-emacs/preproc-font-lock 20250103.1541: Highlight C preprocessor directives
