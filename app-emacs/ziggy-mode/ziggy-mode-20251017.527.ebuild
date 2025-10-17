@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for Ziggy, a data serialization language"
 
-HOMEPAGE="https://github.com/robbielyman/ziggy-mode"
+HOMEPAGE="https://github.com/dcolazin/ziggy-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
