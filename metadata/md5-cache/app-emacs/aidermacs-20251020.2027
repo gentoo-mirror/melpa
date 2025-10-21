@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/compat
-DESCRIPTION=An interactive HTTP client for Emacs
+DEPEND=app-emacs/transient app-emacs/compat app-emacs/markdown-mode
+DESCRIPTION=AI pair programming with Aider
 EAPI=8
-HOMEPAGE=https://github.com/emacsorphanage/restclient
+HOMEPAGE=https://github.com/MatthewZMD/aidermacs
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/compat >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/transient app-emacs/compat app-emacs/markdown-mode >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/restclient-20250922.700.tar
+SRC_URI=https://melpa.org/packages/aidermacs-20251020.2027.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=72b578c530ad20dc25ef13e8c3a674d6
+_md5_=49a027e8955248ace31afaa67661c098
