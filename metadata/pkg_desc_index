@@ -481,7 +481,7 @@ app-emacs/calc-at-point 20210219.1252: Perform calculations at point or over sel
 app-emacs/calc-prog-utils 20220820.1855: Calc programmers utilities
 app-emacs/calctape 20251016.857: Adding-machine, tape calculator, column sum-mer
 app-emacs/calendar-norway 20220211.1129: Norwegian calendar
-app-emacs/calfw 20251021.1101: Calendar view framework
+app-emacs/calfw 20251022.906: Calendar view framework
 app-emacs/calfw-cal 20251020.707: Calendar view for diary
 app-emacs/calfw-gcal 20120111.1000: Edit Google calendar for calfw.el
 app-emacs/calfw-howm 20251020.707: Calendar view for howm
@@ -708,7 +708,7 @@ app-emacs/commenter 20160219.1627: Multiline-comment support package
 app-emacs/commify 20240131.1455: Toggle grouping commas in numbers
 app-emacs/common-lisp-snippets 20180226.1523: Yasnippets for Common Lisp
 app-emacs/communinfo 20250927.28: Community maintained Info-url-alist
-app-emacs/company 20250911.129: Modular text completion framework
+app-emacs/company 20251021.2211: Modular text completion framework
 app-emacs/company-anaconda 20230821.2126: Anaconda backend for company-mode
 app-emacs/company-ansible 20240221.2255: A company back-end for ansible
 app-emacs/company-arduino 20160306.1739: Company-mode for Arduino
@@ -1060,7 +1060,7 @@ app-emacs/dictionary 20201001.1727: Client for rfc2229 dictionary servers
 app-emacs/didyoumean 20240229.1807: Did you mean to open another file?
 app-emacs/diff-ansi 20250913.2251: Display diff's using alternative diffing tools
 app-emacs/diff-at-point 20250922.2326: Diff navigation
-app-emacs/diff-hl 20251008.2241: Highlight uncommitted changes using VC
+app-emacs/diff-hl 20251022.24: Highlight uncommitted changes using VC
 app-emacs/diffed 20240618.2037: Diffed is for recursive diff like Dired is for ls
 app-emacs/difflib 20210224.2242: Helpers for computing deltas between sequences
 app-emacs/diffpdf 20210626.1447: Transient diffpdf
@@ -2298,7 +2298,7 @@ app-emacs/gpr-yasnippets 20230516.627: Yasnippets for GNAT project files
 app-emacs/gpt 20250929.1735: Run instruction-following language models
 app-emacs/gpt-commit 20230716.331: Commit messages with GPT in Emacs
 app-emacs/gptai 20250220.1735: Integrate with the OpenAI API
-app-emacs/gptel 20251021.923: Interact with ChatGPT or other LLMs
+app-emacs/gptel 20251022.443: Interact with ChatGPT or other LLMs
 app-emacs/gptel-aibo 20250709.851: An AI Writing Assistant
 app-emacs/gptel-commit 20250726.1448: Generate commit message with gptel
 app-emacs/gptel-fn-complete 20250317.1805: Complete the function at point using gptel
@@ -3381,7 +3381,7 @@ app-emacs/marron-gold-theme 20250224.923: A rich marron-gold theme
 app-emacs/marshal 20201223.1853: Eieio extension for automatic (un)marshalling
 app-emacs/maruo-macro-mode 20160616.1349: Major mode for editing Hidemaru/Maruo macro script
 app-emacs/masm-mode 20200308.1450: MASM x86 and x64 assembly major mode
-app-emacs/mason 20251019.852: Package managers for LSP, DAP, linters, and more
+app-emacs/mason 20251022.852: Package managers for LSP, DAP, linters, and more
 app-emacs/mastodon 20251006.1740: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 20210904.1226: A Theme based on the colors of the Google Material Design
 app-emacs/math-preview 20240801.513: Preview TeX math equations inline
@@ -3507,7 +3507,7 @@ app-emacs/modern-fringes 20220401.202: Replaces default fringe bitmaps with bett
 app-emacs/modern-sh 20250320.858: Minor mode for editing shell script
 app-emacs/modtime-skip-mode 20140128.2201: Minor mode for disabling modtime and supersession checks on files
 app-emacs/modular-config 20210726.1614: Organize your config into small and loadable modules
-app-emacs/modus-themes 20251021.525: Elegant, highly legible and customizable themes
+app-emacs/modus-themes 20251022.534: Elegant, highly legible and customizable themes
 app-emacs/moe-theme 20250527.611: A colorful eye-candy theme. Moe, moe, kyun!
 app-emacs/molar-mass 20220922.1752: Calculates molar mass of a molecule
 app-emacs/molecule 20180527.743: Simple wrapper for molecule
@@ -3648,12 +3648,12 @@ app-emacs/nerd-icons-completion 20250925.1420: Add icons to completion candidate
 app-emacs/nerd-icons-corfu 20250729.1544: Icons for Corfu via nerd-icons
 app-emacs/nerd-icons-dired 20250827.1819: Shows icons for each file in dired mode
 app-emacs/nerd-icons-grep 20250625.1435: Add nerd-icons to grep-mode
-app-emacs/nerd-icons-ibuffer 20250307.958: Display nerd icons in ibuffer
+app-emacs/nerd-icons-ibuffer 20251022.42: Display nerd icons in ibuffer
 app-emacs/nerd-icons-ivy-rich 20250307.1005: Excellent experience with nerd icons for ivy/counsel
 app-emacs/nerd-icons-xref 20250625.1113: Add nerd-icons to xref buffers
 app-emacs/nerdtab 20180811.339: Keyboard-oriented tabs
 app-emacs/netease-music 20210411.603: Listen netease music
-app-emacs/nethack 20251021.1258: Run Nethack as a subprocess
+app-emacs/nethack 20251022.4: Run Nethack as a subprocess
 app-emacs/netherlands-holidays 20150202.1617: Netherlands holidays for Emacs calendar
 app-emacs/netrunner 20160910.2332: Create Android: Netrunner decklists using Company, Helm and org-mode
 app-emacs/network-watch 20171123.1146: Support for intermittent network connectivity
@@ -3838,7 +3838,7 @@ app-emacs/objed 20200911.1435: Navigate and edit text objects
 app-emacs/oblivion-theme 20240320.1152: A port of GEdit oblivion theme
 app-emacs/obsidian 20250220.2245: Obsidian Notes interface
 app-emacs/obsidian-theme 20170719.948: Port of the eclipse obsidian theme
-app-emacs/ocaml-eglot 20250716.1427: An OCaml companion for Eglot
+app-emacs/ocaml-eglot 20251022.937: An OCaml companion for Eglot
 app-emacs/ocaml-ts-mode 20230820.1946: Major mode for OCaml using tree-sitter
 app-emacs/ocamlformat 20251021.1319: Utility functions to format ocaml code
 app-emacs/occidental-theme 20130312.1958: Custom theme for faces based on Adwaita
@@ -4047,7 +4047,7 @@ app-emacs/org-re-reveal-ref 20211029.551: Citations and bibliography for org-re-
 app-emacs/org-recent-headings 20211011.1519: Jump to recently used Org headings
 app-emacs/org-recur 20230124.1532: Recurring org-mode tasks
 app-emacs/org-redmine 20160711.1114: Redmine tools using Emacs OrgMode
-app-emacs/org-ref 20251020.1238: Citations, cross-references and bibliographies in org-mode
+app-emacs/org-ref 20251022.108: Citations, cross-references and bibliographies in org-mode
 app-emacs/org-ref-prettify 20220507.649: Prettify org-ref citation links
 app-emacs/org-repeat-by-cron 20250922.610: An Org mode task repeater based on Cron expressions
 app-emacs/org-repo-todo 20171228.119: Simple repository todo management with org-mode
@@ -4786,7 +4786,7 @@ app-emacs/review-mode 20241210.1258: Major mode for ReVIEW
 app-emacs/rewriting-pcase 20230419.23: Support for rewriting sexps in source code
 app-emacs/reykjavik-theme 20201219.947: Theme with a dark background
 app-emacs/rfc-mode 20231013.1353: RFC document browser and viewer
-app-emacs/rg 20251004.2013: A search tool based on ripgrep
+app-emacs/rg 20251022.457: A search tool based on ripgrep
 app-emacs/rg-themes 20250718.1826: The rg theme collection
 app-emacs/rgb 20220717.1940: RGB control via OpenRGB
 app-emacs/rhq 20230731.1544: Client for rhq
