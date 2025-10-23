@@ -1,12 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DESCRIPTION=Major mode for the HOA format
+DESCRIPTION=Calendar view framework
 EAPI=8
-HOMEPAGE=https://gitlab.lrde.epita.fr/spot/emacs-modes
+HOMEPAGE=https://github.com/haji-ali/emacs-calfw
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/hoa-mode-20200610.1339.tar
+SRC_URI=https://melpa.org/packages/calfw-20251023.946.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=e40b4549d8cfbff6bdf1a638bdad60ce
+_md5_=eb7d5f1add31488f4f965872c0e9d65c
