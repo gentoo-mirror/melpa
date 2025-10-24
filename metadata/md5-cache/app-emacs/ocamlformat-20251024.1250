@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/popup app-emacs/async app-emacs/htmlize
-DESCRIPTION=A mode for writing journal entries for hledger
+DESCRIPTION=Utility functions to format ocaml code
 EAPI=8
-HOMEPAGE=https://github.com/narendraj9/hledger-mode.git
+HOMEPAGE=https://github.com/ocaml-ppx/ocamlformat
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/popup app-emacs/async app-emacs/htmlize >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/hledger-mode-20240415.1812.tar
+SRC_URI=https://melpa.org/packages/ocamlformat-20251024.1250.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=fcebe5af5f9554eeacfa3ea92e31ef5e
+_md5_=008ef257f47dc66a4427633594b37cb3
