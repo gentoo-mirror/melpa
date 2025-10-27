@@ -20,7 +20,9 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/parsebib
 	app-emacs/org-mode
-	app-emacs/citeproc-el"
+	app-emacs/citeproc-el
+	app-emacs/compat"
 RDEPEND="app-emacs/parsebib
 	app-emacs/org-mode
-	app-emacs/citeproc-el"
+	app-emacs/citeproc-el
+	app-emacs/compat"

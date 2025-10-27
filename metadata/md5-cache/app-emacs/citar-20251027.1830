@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/parsebib app-emacs/org-mode app-emacs/citeproc-el
+DEPEND=app-emacs/parsebib app-emacs/org-mode app-emacs/citeproc-el app-emacs/compat
 DESCRIPTION=Citation-related commands for org, latex, markdown
 EAPI=8
 HOMEPAGE=https://github.com/emacs-citar/citar
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/parsebib app-emacs/org-mode app-emacs/citeproc-el >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/parsebib app-emacs/org-mode app-emacs/citeproc-el app-emacs/compat >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/citar-20250113.1556.tar
+SRC_URI=https://melpa.org/packages/citar-20251027.1830.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=69dff9d607c1803d3eaf6e950be8d9d3
+_md5_=21fa4f1a59351afcdc7a9f8dc02fe4a9
