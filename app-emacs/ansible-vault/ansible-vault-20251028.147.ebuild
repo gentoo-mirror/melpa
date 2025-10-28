@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Minor mode for editing ansible vault files"
 
-HOMEPAGE="http://github.com/freehck/ansible-vault-mode;; Created: 2016-09-25"
+HOMEPAGE="http://github.com/freehck/ansible-vault-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
