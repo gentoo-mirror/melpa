@@ -146,7 +146,7 @@ app-emacs/annoying-arrows-mode 20161024.646: Ring the bell if using arrows too m
 app-emacs/ansi 20230306.1823: Turn string into ansi strings
 app-emacs/ansible 20250613.2354: Ansible minor mode
 app-emacs/ansible-doc 20160924.824: Ansible documentation Minor Mode
-app-emacs/ansible-vault 20250331.2155: Minor mode for editing ansible vault files
+app-emacs/ansible-vault 20251028.147: Minor mode for editing ansible vault files
 app-emacs/ant 20160211.1543: Helpers for compiling with ant
 app-emacs/anti-zenburn-theme 20180712.1838: Low-contrast Zenburn-inverted theme
 app-emacs/anx-api 20140208.1514: Interact with the AppNexus API from Emacs
@@ -384,7 +384,7 @@ app-emacs/blockdiag-mode 20160427.524: Major mode for editing blockdiag files
 app-emacs/blog-admin 20170923.1409: Blog admin for emacs with hexo/org-page supported
 app-emacs/blog-minimal 20181021.849: A simple static site generator based on org mode
 app-emacs/blox 20220521.807: Interaction with Roblox tooling
-app-emacs/blue 20251026.1623: BLUE build system interface
+app-emacs/blue 20251027.2101: BLUE build system interface
 app-emacs/bluesound 20251022.1406: Play, pause, resume music on a Bluesound player
 app-emacs/bm 20250603.2137: Visible bookmarks in buffer
 app-emacs/bmp 20251005.2032: Version bumper for git projects
@@ -2323,7 +2323,7 @@ app-emacs/graphviz-dot-mode 20250925.1226: Mode for the dot-language used by gra
 app-emacs/grapnel 20131001.1534: HTTP request lib with flexible callback dispatch
 app-emacs/grass-mode 20170503.1500: Provides Emacs modes for interacting with the GRASS GIS program
 app-emacs/grayscale-theme 20171005.802: A simple grayscale theme
-app-emacs/greader 20251019.1127: Gnamù reader, send buffer contents to a speech engine
+app-emacs/greader 20251028.5: Gnamù reader, send buffer contents to a speech engine
 app-emacs/greek-polytonic 20190303.1358: Quail package for inputting polytonic Greek
 app-emacs/green-is-the-new-black-theme 20230828.2225: A cool and minimalist green blackened theme engine
 app-emacs/green-phosphor-theme 20150515.1447: A light color theme with muted, autumnal colors
@@ -2346,7 +2346,7 @@ app-emacs/gscholar-bibtex 20190130.555: Retrieve BibTeX from Google Scholar and 
 app-emacs/gsettings 20210407.2045: GSettings (Gnome) helpers
 app-emacs/gsnip 20220206.1526: A gitlab snippet client
 app-emacs/gt 20250727.230: Translation framework, configurable and scalable
-app-emacs/gtasks 20251022.1521: Google Tasks API (sync)
+app-emacs/gtasks 20251028.336: Google Tasks API (sync)
 app-emacs/gtea 20250620.1334: Client library for the Gitea API
 app-emacs/gtk-pomodoro-indicator 20191007.1500: A pomodoro indicator for the GTK tray
 app-emacs/gtk-variant 20200416.2136: Set the GTK theme variant (titlebar color)
@@ -3367,7 +3367,7 @@ app-emacs/mark-thing-at 20250126.2020: Mark a pattern at the current point
 app-emacs/mark-tools 20130614.1025: Some simple tools to access the mark-ring in Emacs
 app-emacs/mark-yank 20231105.2027: Set region to the last yank
 app-emacs/markdown-changelog 20230805.1720: Maintain changelog entries
-app-emacs/markdown-mode 20250812.423: Major mode for Markdown-formatted text
+app-emacs/markdown-mode 20251028.412: Major mode for Markdown-formatted text
 app-emacs/markdown-preview-eww 20160111.1502: Realtime preview by eww
 app-emacs/markdown-preview-mode 20230707.803: Markdown realtime preview minor mode
 app-emacs/markdown-soma 20240215.228: Live preview for Markdown
@@ -3443,7 +3443,7 @@ app-emacs/metascript-mode 20150709.57: Major mode for the Metascript programming
 app-emacs/metaweblog 20250721.2333: An XML-RPC MetaWeblog and WordPress API client
 app-emacs/metrics-tracker 20250120.1606: Generate reports of personal metrics from diary entries
 app-emacs/metronome 20230515.1850: The missing metronome for GNU Emacs
-app-emacs/mew 20251024.322: Messaging in the Emacs World
+app-emacs/mew 20251028.18: Messaging in the Emacs World
 app-emacs/mexican-holidays 20210604.1421: Mexico holidays for Emacs calendar
 app-emacs/meyvn 20250815.2140: Meyvn client
 app-emacs/mgmtconfig-mode 20250925.516: Mgmt configuration management language
@@ -4195,7 +4195,7 @@ app-emacs/ox-jekyll-md 20211222.1718: Export Jekyll on Markdown articles using o
 app-emacs/ox-jira 20241014.953: JIRA Backend for Org Export Engine
 app-emacs/ox-json 20250825.125: JSON export backend for Org mode
 app-emacs/ox-latex-subfigure 20200326.919: Subfigure for latex export
-app-emacs/ox-leanpub 20230415.2139: Export Org documents to Leanpub book format
+app-emacs/ox-leanpub 20251027.2219: Export Org documents to Leanpub book format
 app-emacs/ox-linuxmag-fr 20250907.1103: Org-mode exporter for the French GNU/Linux Magazine
 app-emacs/ox-mdx-deck 20181115.1847: Org-mode to mdx-deck exporter
 app-emacs/ox-mediawiki 20230425.115: Mediawiki Back-End for Org Export Engine
@@ -5216,7 +5216,7 @@ app-emacs/squirrel-mode 20221227.232: A major mode for the Squirrel programming 
 app-emacs/sr-speedbar 20220705.1231: Same frame speedbar
 app-emacs/srcery-theme 20250901.1751: Dark color theme
 app-emacs/srefactor 20230504.617: A refactoring tool based on Semantic parser framework
-app-emacs/srfi 20251012.351: Scheme Requests for Implementation browser
+app-emacs/srfi 20251027.2207: Scheme Requests for Implementation browser
 app-emacs/srv 20180715.1959: Perform SRV DNS requests
 app-emacs/ssass-mode 20200211.132: Edit Sass without a Turing Machine
 app-emacs/ssh 20120904.2042: Support for remote logins using ssh
@@ -5451,7 +5451,7 @@ app-emacs/timonier 20170411.800: Manage Kubernetes Applications
 app-emacs/timp 20160618.803: Multithreading library
 app-emacs/timu-caribbean-theme 20250411.23: Color theme with cyan/coral as a dominant color
 app-emacs/timu-line 20250228.2053: Custom and simple mode line
-app-emacs/timu-macos-theme 20250409.41: Color theme inspired by the macOS UI
+app-emacs/timu-macos-theme 20251027.2124: Color theme inspired by the macOS UI
 app-emacs/timu-rouge-theme 20250411.36: Color theme inspired by the Rouge Theme for VSCode
 app-emacs/timu-spacegrey-theme 20250410.2248: Color theme inspired by the Spacegray theme in Sublime Text
 app-emacs/tinkerer 20200914.1756: Elisp wrapper for Tinkerer Blogging Engine
