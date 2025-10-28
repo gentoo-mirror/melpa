@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/key-assist
-DESCRIPTION=Midnight Commander features (plus) for dired
+DEPEND=app-emacs/magit-section
+DESCRIPTION=BLUE build system interface
 EAPI=8
-HOMEPAGE=https://github.com/Boruch-Baum/emacs-diredc
+HOMEPAGE=https://codeberg.org/lapislazuli/blue.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/key-assist >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/magit-section >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/diredc-20251016.946.tar
+SRC_URI=https://melpa.org/packages/blue-20251027.2136.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=bc51c4b472c984d24f5ba064774008e7
+_md5_=5c8a9d3164fb8c6e244911bf4575e2a0

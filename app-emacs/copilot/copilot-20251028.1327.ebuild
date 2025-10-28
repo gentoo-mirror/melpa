@@ -20,7 +20,9 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/editorconfig
 	app-emacs/jsonrpc
-	app-emacs/f"
+	app-emacs/f
+	app-emacs/track-changes"
 RDEPEND="app-emacs/editorconfig
 	app-emacs/jsonrpc
-	app-emacs/f"
+	app-emacs/f
+	app-emacs/track-changes"
