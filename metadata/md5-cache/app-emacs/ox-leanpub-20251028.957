@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/editorconfig app-emacs/jsonrpc app-emacs/f
-DESCRIPTION=An unofficial Copilot plugin
+DEPEND=app-emacs/org-mode app-emacs/ox-gfm app-emacs/s
+DESCRIPTION=Export Org documents to Leanpub book format
 EAPI=8
-HOMEPAGE=https://github.com/copilot-emacs/copilot.el
+HOMEPAGE=https://gitlab.com/zzamboni/ox-leanpub
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/editorconfig app-emacs/jsonrpc app-emacs/f >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/org-mode app-emacs/ox-gfm app-emacs/s >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://melpa.org/packages/copilot-20250916.500.tar
+SRC_URI=https://melpa.org/packages/ox-leanpub-20251028.957.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=47e085f5b5be327d432710bdcbdb9668
+_md5_=1c23bdf95bc34bf5a15255e735a6037d
